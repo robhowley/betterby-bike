@@ -1,15 +1,15 @@
 ---
-layout: default
+layout: page
+title: The "bikes are good" research cheatsheet
 ---
 
-Core belief behind this site
+_Maintained by_ <a class="social-icon" href="https://instagram.com/bikesoma_nj" style="text-decoration:none"><i class="fab fa-instagram" title="Instagram"></i>BikeSOMa_NJ</a>
 
-> It should be safe to get around by bike. 
+Bike and safe streets advocates have our work cut out for us. To help, here is a cheat sheet of useful resources showing
+some of the many ways in which more biking improves our neighborhoods and cities.
 
-Here is a bunch of research backing it up ...
+## Improved safety for all
 
-# Improved safety for all
+## Good for the environment
 
-# Good for business
-
-# Good for the environment
+## Good for business

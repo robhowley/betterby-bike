@@ -1,11 +1,25 @@
-remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: mmistakes/so-simple-theme
 plugins:
 - jekyll-remote-theme
 
 title: Life is better by bike
 description: ... and here are the receipts
-show_downloads:
+
 google_analytics:
 exclude:
   - docker-compose.yml
   - Gemfile
+
+author:
+  name: BikeSOMa_NJ
+  picture:
+  email:
+  links:
+    - title: Instagram
+      url: https://instagram.com/bikesoma_nj
+      icon: fab fa-instagram
+
+footer_links:
+  - title: Instagram
+    url: https://instagram.com/bikesoma_nj
+    icon: fab fa-instagram
