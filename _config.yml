@@ -4,6 +4,7 @@ plugins:
 
 title: Life is better by bike
 description: ... and here are the receipts
+logo: "assets/img/bike-logo-01.png"
 
 google_analytics:
 exclude:
