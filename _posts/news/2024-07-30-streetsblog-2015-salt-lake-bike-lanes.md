@@ -13,7 +13,7 @@ lanes.
 
 When all was said and done, the business owners loved it and attribute their business growth to the street redesign.
 
-![img.png](../../assets/img/streetsblog-2015-slc.png)
+![img.png](/images/img/streetsblog-2015-slc.png)
 
 Key quote ...
 
@@ -22,6 +22,6 @@ Key quote ...
 
 #### Source
 
-* [pdf](../../assets/news/2015-streetsblog-slc.pdf)
+* [pdf](/images/news/2015-streetsblog-slc.pdf)
 
 * [orignal link](https://usa.streetsblog.org/2015/10/06/salt-lake-city-cuts-car-parking-adds-bike-lanes-sees-retail-boost)

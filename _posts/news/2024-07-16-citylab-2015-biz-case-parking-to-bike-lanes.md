@@ -15,6 +15,6 @@ Key quote ...
 
 #### Source
 
-* [pdf](../../assets/news/2015-city-lab-good-for-business.pdf)
+* [pdf](/images/news/2015-city-lab-good-for-business.pdf)
 
 * [original link](https://www.bloomberg.com/news/articles/2015-03-13/every-study-ever-conducted-on-the-impact-converting-street-parking-into-bike-lanes-has-on-businesses)

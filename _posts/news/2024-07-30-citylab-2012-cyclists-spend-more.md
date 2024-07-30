@@ -17,6 +17,6 @@ Key quote ...
 
 #### Source
 
-* [pdf](../../assets/news/2012-citylab-pedestrians-bikes-spending.pdf)
+* [pdf](/images/news/2012-citylab-pedestrians-bikes-spending.pdf)
 
 * [orignal link](https://www.bloomberg.com/news/articles/2012-12-05/cyclists-and-pedestrians-can-end-up-spending-more-each-month-than-drivers)
