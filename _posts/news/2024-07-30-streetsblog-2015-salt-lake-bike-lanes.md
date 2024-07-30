@@ -1,10 +1,10 @@
 ---
-title: Cyclists and Pedestrians Can End Up Spending More Each Month Than Drivers, CityLab, 2012
+title: Salt Lake City Cuts Car Parking, Adds Bike Lanes, Sees Retail Boost, Streetsblog, 2015
 categories:
   - In the news
 tags:
-  - CityLab
-  - Portland
+  - Streetsblog
+  - Salt Lake City
 ---
 
 Salt Lake City removed 30% of parking on Broadway and that stretch saw retail sales outperform the rest of the city by
