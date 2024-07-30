@@ -21,4 +21,4 @@ Over a 6 month stretch ...
   | Broadway (47th - 59th St) | 108%                      |
   | Columbus Ave              | 51%                       |
 
-_Source_: [NYC Protected Bike Lane Analysis](../../assets/research/2014-09-nyc-pbl-analysis.pdf), NYC DOT, 2014
+_Source_: [NYC Protected Bike Lane Analysis](/images/research/2014-09-nyc-pbl-analysis.pdf), NYC DOT, 2014

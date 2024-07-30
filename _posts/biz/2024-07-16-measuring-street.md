@@ -19,4 +19,4 @@ tags:
 
    * rest of Manhattan vacancies down only 5%
 
-_Source_: [Measuring the street](../../assets/research/2012-10-measuring-the-street.pdf), NYC DOT, 2012
+_Source_: [Measuring the street](/images/research/2012-10-measuring-the-street.pdf), NYC DOT, 2012

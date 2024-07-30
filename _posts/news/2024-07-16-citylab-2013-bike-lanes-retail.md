@@ -16,6 +16,6 @@ Key quote ...
 
 #### Source
 
-* [pdf](../../assets/news/2013-citylab-bikes-biz.pdf)
+* [pdf](/images/news/2013-citylab-bikes-biz.pdf)
 
 * [orignal link](https://www.bloomberg.com/news/articles/2013-09-10/no-bike-lanes-don-t-hurt-retail-business)
