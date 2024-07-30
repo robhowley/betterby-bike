@@ -8,7 +8,7 @@ tags:
 ---
 
 Covers research out of Portland demonstrating that pedestrians and cyclists, by virtue of being more loyal/frequent
-customers spend more per month thank drivers
+customers, spend more per month than drivers
 
 Key quote ...
 
