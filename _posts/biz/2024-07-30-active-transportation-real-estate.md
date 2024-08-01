@@ -1,7 +1,7 @@
 ---
 title: "Active Transportation and Real Estate, Urban Land Institute, 2016"
 categories:
-  - Good for business
+  - Business
 tags:
   - Indianapolis
   - Minneapolis

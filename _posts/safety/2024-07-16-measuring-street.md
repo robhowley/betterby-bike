@@ -1,7 +1,7 @@
 ---
 title: "NYC DOT: Measuring the street, NYC DOT, 2012"
 categories:
-  - Improved safety for all
+  - Safety
 tags:
   - NYC
 ---
