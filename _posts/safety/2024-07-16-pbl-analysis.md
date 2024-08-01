@@ -1,7 +1,7 @@
 ---
 title: "NYC Protected Bike Lane Analysis, NYC DOT, 2014"
 categories:
-  - Improved safety for all
+  - Safety
 tags:
   - NYC
 ---

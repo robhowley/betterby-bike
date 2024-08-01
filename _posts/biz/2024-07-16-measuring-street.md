@@ -1,7 +1,7 @@
 ---
 title: "Measuring the street, NYC DOT, 2012"
 categories:
-  - Good for business
+  - Business
 tags:
   - NYC
 ---
