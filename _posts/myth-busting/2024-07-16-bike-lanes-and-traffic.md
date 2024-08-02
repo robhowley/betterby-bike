@@ -6,7 +6,7 @@ tags:
   - NYC
 ---
 
-#### Fact: Protected bike lanes _reduce_ car travel times
+Fact: Protected bike lanes _reduce_ car travel times
 
 ![cars go faster with PBLs](/images/img/2014-09-nyc-pbl/travel-time-columbus.png)
 

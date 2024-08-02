@@ -20,7 +20,9 @@ tags:
 ---
 
 Makes the safety, economic, and equity case for why so many cities are investing in bike infrastructure. Covers changes
-across 13 cities across the US. Discusses that _protected_ bike networks
+across 13 cities across the US. Discusses the impacts of _protected_ bike networks specifically.
+
+The key takeaways ...
 
 * increase ridership overall, e.g. NYC, DC, SF
 * increases ridership among women and low income ridership the most

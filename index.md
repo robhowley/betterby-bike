@@ -1,6 +1,7 @@
 ---
 title: The bike infra research cheatsheet
 layout: home
+excerpt: Life is better by bike, here are the receipts.
 permalink: /
 entries_layout: list
 ---

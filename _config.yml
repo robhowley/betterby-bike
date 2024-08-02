@@ -3,7 +3,7 @@ plugins:
 - jekyll-remote-theme
 
 title: Life is better by bike
-description: ... and here are the receipts
+description: ... here are the receipts
 logo: "images/img/bike-logo-01.png"
 
 defaults:

@@ -6,7 +6,8 @@ tags:
   - NYC
 ---
 
-#### Protected bike lanes decreased injuries for _all_ road users
+Protected bike lanes decreased injuries for _all_ road users.
+
   * 8th Ave: 35% reduction
   * 9th Ave: 58% reduction
 

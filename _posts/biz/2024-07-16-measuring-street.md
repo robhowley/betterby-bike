@@ -6,7 +6,9 @@ tags:
   - NYC
 ---
 
-#### Protected bike lanes are good for business
+NYC DOT studied the impact of different redesigns on local businesses. The conclusion: protected bike lanes are good for
+business, maybe even great.
+
 * 9th Ave protected bike lane
 
   * retail sales up 49% after 

@@ -6,7 +6,7 @@ tags:
   - Asbury, NJ
 ---
 
-#### Protected bike lanes provide significant traffic calming
+Protected bike lanes provide significant traffic calming in the form of max car speed reductions.
 
 * study compared the speed reduction impacts of bike lane designs in Asbury Park, NJ
 * _painted bike lanes_ 

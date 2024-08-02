@@ -6,9 +6,8 @@ tags:
   - NYC
 ---
 
-#### Protected bike lanes increase ridership
-
-Over a 6 month stretch ...
+NYC DOT studied different protected bike lane segments around Manhattan. They found that protected bike lanes often
+dramatically increase ridership. Over a 6 month stretch ...
 
   | Route                     | Bike volume change %      |
   |:--------------------------|:-------------------------:|

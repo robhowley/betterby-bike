@@ -6,12 +6,12 @@ tags:
   - VMT
 ---
 
-#### Fact: ~60% of car trips are less than 6 miles
+Fact: ~27% of car trips are under 3 miles, ~60% of are less than 6 miles
 
 ![histogram of trip length](/images/img/myth-busting/trip-length-histogram.png)
 
-From the data in the FHWA funded [National Household Travel Survey](https://nhts.ornl.gov/) we see that _~27% of trips
-are under 3 miles_.
+From the data in the FHWA funded [National Household Travel Survey](https://nhts.ornl.gov/) we see how infrequent long
+car trips really are.
 
 | Trip distance       | % of trips |
 |:--------------------|:----------:|
