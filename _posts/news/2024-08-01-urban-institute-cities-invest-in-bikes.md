@@ -1,5 +1,5 @@
 ---
-title: Why cities are investing in safer, more-connected cycling infrastructure, 2022
+title: Why cities are investing in safer, more-connected cycling infrastructure, Urban Institute, 2022
 categories:
   - In the news
 tags:

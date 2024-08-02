@@ -1,5 +1,5 @@
 ---
-title: No, Bike Lanes Don't Hurt Retail Business, 2013
+title: No, Bike Lanes Don't Hurt Retail Business, CityLab, 2013
 categories:
   - In the news
 tags:
