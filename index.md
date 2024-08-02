@@ -12,12 +12,14 @@ _Maintained by_ <a class="social-icon" href="https://instagram.com/bikesoma_nj" 
 
 # _Bike infrastructure topic shortcuts_
 
-<div style="display: inline-block; position: relative; left: 50%; transform: translateX(-50%); padding-bottom: 10px;">
-    <a href="{{site.baseurl}}/safety" class="btn btn--accent">Safety</a>
-    <a href="{{site.baseurl}}/business" class="btn btn--accent">Business</a>
-    <a href="{{site.baseurl}}/environment" class="btn btn--accent">Environment</a>
-    <a href="{{site.baseurl}}/myth-busting" class="btn btn--accent">Myth busting</a>
-    <a href="{{site.baseurl}}/in-the-news" class="btn btn--accent">In the news</a>
+<div style="text-align: center;">
+    <div style="display: inline-block; float: none; padding-bottom: 10px;">
+        <a href="{{site.baseurl}}/safety" class="btn btn--accent">Safety</a>
+        <a href="{{site.baseurl}}/business" class="btn btn--accent">Business</a>
+        <a href="{{site.baseurl}}/environment" class="btn btn--accent">Environment</a>
+        <a href="{{site.baseurl}}/myth-busting" class="btn btn--accent">Myth busting</a>
+        <a href="{{site.baseurl}}/in-the-news" class="btn btn--accent">In the news</a>
+    </div>
 </div>
 
 <hr>
