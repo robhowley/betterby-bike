@@ -29,9 +29,15 @@ author:
     - title: Instagram
       url: https://instagram.com/bikesoma_nj
       icon: fab fa-instagram
+    - title: Facebook
+      url: https://www.facebook.com/profile.php?id=61560900343761
+      icon: fab fa-facebook
 
 footer_links:
   - title: Instagram
     url: https://instagram.com/bikesoma_nj
     icon: fab fa-instagram
+  - title: Facebook
+    url: https://www.facebook.com/profile.php?id=61560900343761
+    icon: fab fa-facebook
 
