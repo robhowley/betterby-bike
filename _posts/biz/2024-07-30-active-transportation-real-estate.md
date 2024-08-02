@@ -9,7 +9,7 @@ tags:
   - Radnor
 ---
 
-#### Protected bike lanes are good for property values
+Protected bike lanes are good for property values
 
 * _Indianapolis_ (2014): the 1800 properties within 500 ft of 8 mile bike trail up in value by 148%, $1 billion in value
 * _Dallas_: 3.5 mile trail opened in 2006 through Uptown neighborhood, nearby property values up 80%

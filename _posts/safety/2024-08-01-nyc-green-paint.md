@@ -1,13 +1,14 @@
 ---
 title: Evaluation of solid green bicycle lanes ..., 2011
+excerpt: |
+  Even among unprotected bike lanes design considerations matter. NYC found that bike lanes painted green are safer than
+  unpainted bike lanes.
 categories:
   - Safety
 tags:
   - NYC
   - MUTCD
 ---
-
-#### Bike lanes painted green are safer than unpainted bike lanes
 
 In September 2010 NYC studied the difference between unpainted bike lanes and those painted green. The following results
 were released in February 2011.

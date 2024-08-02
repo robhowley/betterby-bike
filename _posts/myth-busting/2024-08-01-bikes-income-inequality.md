@@ -10,7 +10,7 @@ tags:
   - ACS
 ---
 
-#### Fact: Lower income people are more likely to bike or walk to work
+Fact: Lower income people are more likely to bike or walk to work
 
 For many people biking and going for walks is far from a hobby, but instead how they get to work. The Census Bureau's
 American Community Survey confirms this and also shows that these people skew lower income.
