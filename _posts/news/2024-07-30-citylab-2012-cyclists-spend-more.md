@@ -1,5 +1,5 @@
 ---
-title: Cyclists and Pedestrians Can End Up Spending More Each Month Than Drivers, CityLab, 2012
+title: Cyclists and Pedestrians Can End Up Spending More Each Month Than Drivers, 2012
 categories:
   - In the news
 tags:

@@ -1,5 +1,5 @@
 ---
-title: The Complete Business Case for Converting Street Parking Into Bike Lanes, CityLab, 2015
+title: The Complete Business Case for Converting Street Parking Into Bike Lanes, 2015
 categories:
   - In the news
 tags:
