@@ -25,7 +25,7 @@ design for bike lanes to enhance safety.
 #### Sources
 
 * Evaluation of green bicycle lanes to increase compliance and bicycle safety, 2011
-  * [pdf](/images/research/nyc-green-paint-2011.pdf)
+  * [pdf](/images/research/2011-nyc-green-paint.pdf)
 * MUTCD approval (adoption) of green paint for bike lanes
   * [pdf](/images/research/mutcd-green-paint.pdf) 
   * [original link](https://mutcd.fhwa.dot.gov/resources/interim_approval/ia14/)
