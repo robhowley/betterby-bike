@@ -1,5 +1,5 @@
 ---
-title: "NYC Protected Bike Lane Analysis, NYC DOT, 2014"
+title: "NYC Protected Bike Lane Analysis, NYC DOT"
 categories:
   - Environment
 tags:
