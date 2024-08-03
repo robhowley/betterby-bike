@@ -25,4 +25,4 @@ _Maintained by_ <a class="social-icon" href="https://instagram.com/bikesoma_nj" 
 
 <hr>
 
-# _Latest additions_
+# _Latest research_
