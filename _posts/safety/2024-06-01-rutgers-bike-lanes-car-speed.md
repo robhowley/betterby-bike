@@ -1,5 +1,5 @@
 ---
-title: "Traffic Speeds Decrease When Bike Lane is Present, 2024"
+title: Traffic Speeds Decrease When Bike Lane is Present
 categories:
   - Safety
 tags:

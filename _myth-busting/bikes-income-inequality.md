@@ -1,13 +1,5 @@
 ---
 title: "Myth: biking, just a hobby for the wealthy"
-categories:
-  - Myth busting
-tags:
-  - Streetsblog
-  - Inequality
-  - Car
-  - Cost
-  - ACS
 ---
 
 Fact: Lower income people are more likely to bike or walk to work

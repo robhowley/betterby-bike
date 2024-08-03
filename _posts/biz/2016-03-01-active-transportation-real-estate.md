@@ -1,5 +1,5 @@
 ---
-title: "Active Transportation and Real Estate, Urban Land Institute, 2016"
+title: "Active Transportation and Real Estate, Urban Land Institute"
 categories:
   - Business
 tags:

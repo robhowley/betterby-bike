@@ -1,5 +1,5 @@
 ---
-title: "NYC DOT: Measuring the street, NYC DOT, 2012"
+title: Measuring the street, NYC DOT
 categories:
   - Safety
 tags:

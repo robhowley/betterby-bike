@@ -1,5 +1,5 @@
 ---
-title: "Measuring the street, NYC DOT, 2012"
+title: "Measuring the street, NYC DOT"
 categories:
   - Business
 tags:

@@ -6,6 +6,19 @@ title: Life is better by bike
 description: ... here are the receipts
 logo: "images/img/bike-logo-01.png"
 
+google_analytics:
+include:
+  - _pages
+  - _myth-busting
+exclude:
+  - docker-compose.yml
+  - Gemfile
+
+collections:
+  myth-busting:
+    output: true
+    permalink: /:collection/:path/
+
 defaults:
   - scope:
       path: _posts
@@ -13,13 +26,12 @@ defaults:
     values:
       layout: post
       share: true
-
-google_analytics:
-include:
-  - _pages
-exclude:
-  - docker-compose.yml
-  - Gemfile
+  - scope:
+      path: _myth-busting
+      type: myth-busting
+    values:
+      layout: post
+      share: true
 
 author:
   name: BikeSOMa_NJ

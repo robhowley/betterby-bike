@@ -1,9 +1,5 @@
 ---
 title: "Myth: protected bike lanes make traffic worse"
-categories:
-  - Myth busting
-tags:
-  - NYC
 ---
 
 Fact: Protected bike lanes _reduce_ car travel times

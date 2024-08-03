@@ -1,5 +1,5 @@
 ---
-title: Separated Bike Lanes Means Safer Streets, Study Says, Streetsblog, 2019
+title: Separated Bike Lanes Means Safer Streets, Study Says, Streetsblog
 categories:
   - In the news
   - Safety

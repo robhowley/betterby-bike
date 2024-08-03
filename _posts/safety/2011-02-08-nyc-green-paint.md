@@ -1,5 +1,5 @@
 ---
-title: Evaluation of solid green bicycle lanes ..., 2011
+title: Evaluation of solid green bicycle lanes
 excerpt: |
   Even among unprotected bike lanes design considerations matter. NYC found that bike lanes painted green are safer than
   unpainted bike lanes.
