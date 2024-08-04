@@ -2,13 +2,14 @@
 title: "NYC Protected Bike Lane Analysis, NYC DOT"
 categories:
   - Environment
+  - Safety
 tags:
   - Spain
 ---
 
-Seville, Spain built a full protected bike lane network and saw ridership increase > 400% and risk of bike and car
+Seville, Spain built a full protected bike lane network and saw ridership increase > 400% and the risk of bike and car
 crashes decline > 60%. The share of total trips taken in the area went from near 0% by bike to almost 9%, a mode shift
-level that's hard to overstate.
+size that's hard to overstate.
 
 #### Source
 
