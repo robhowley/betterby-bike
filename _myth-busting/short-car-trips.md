@@ -2,7 +2,9 @@
 title: "Myth: most car trips are too far for a bike"
 ---
 
-Fact: ~27% of car trips are under 3 miles, ~60% of are less than 6 miles
+Fact: ~27% of car trips are under 3 miles ...
+
+... and in 2017, ~60% were less than 6 miles.
 
 ![histogram of trip length](/images/img/myth-busting/trip-length-histogram.png)
 
