@@ -4,6 +4,7 @@ categories:
   - In the news
 tags:
   - CityLab
+  - Seattle
 ---
 
 Covers research of Kyle Rowe at University of Washington. The conclusion is that bike lanes don't hurt

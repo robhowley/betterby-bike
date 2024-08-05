@@ -4,9 +4,24 @@ categories:
   - In the news
 tags:
   - CityLab
+  - Portland
+  - NYC
+  - New Zealand
+  - Dublin
+  - LA
+  - Toronto
+  - SF
+  - Seattle
+  - Davis, CA
+  - UK
+  - Austria
+  - Melbourne
 ---
 
-A review of 12 studies related to bike lanes and business. 
+A review of 12 studies related to bike lanes and business. Key takeways are that shoppers by bike spend at least as much
+as drivers since they return more often, business owners consistently underestimate the share of customers who arrive by
+bike, and business owners often overestimate how far away their customers live. As a result, protected bike lanes are
+likely good for business.
 
 Key quote ...
 
