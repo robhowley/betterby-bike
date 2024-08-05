@@ -13,5 +13,5 @@ protected bike lane design that helped with travel times.
 
 #### Source
 
-* [pdf](/images/news/2014-09-08-vox-bike-lane-travel-times.pdf)
+* [pdf](/images/news/2014-vox-bike-lane-travel-times.pdf)
 * [original link](https://www.vox.com/2014/9/8/6121129/bike-lanes-traffic-new-york)
