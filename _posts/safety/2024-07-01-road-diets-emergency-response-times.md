@@ -4,6 +4,7 @@ categories:
   - Safety
 tags:
   - Cedar Rapids, IA
+  - First responders
 ---
 
 Cedar Rapids, IA implemented a road diet on four different roads that reduced the number of lanes of traffic. Using
