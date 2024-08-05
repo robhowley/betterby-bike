@@ -1,5 +1,5 @@
 ---
-title: The bike infra research cheatsheet
+title: The bike research cheatsheet
 layout: home
 excerpt: Life is better by bike, here are the receipts.
 permalink: /
@@ -11,7 +11,7 @@ some of the many ways in which more biking improves our neighborhoods and cities
 
 _Maintained by_ <a class="social-icon" href="https://instagram.com/bikesoma_nj" style="text-decoration:none"><i class="fab fa-instagram" title="Instagram"></i>BikeSOMa_NJ</a>
 
-# _Bike infrastructure topic shortcuts_
+# _Research topic shortcuts_
 
 <div style="text-align: center;">
     <div style="display: inline-block; float: none; padding-bottom: 10px;">
