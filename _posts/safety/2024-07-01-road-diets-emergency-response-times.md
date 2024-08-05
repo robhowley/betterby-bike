@@ -3,7 +3,7 @@ title: Road diets and emergency response times
 categories:
   - Safety
 tags:
-  - Cedar Rapids, IA
+  - Cedar Rapids
   - First responders
 ---
 

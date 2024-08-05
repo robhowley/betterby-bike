@@ -3,7 +3,7 @@ title: Traffic Speeds Decrease When Bike Lane is Present
 categories:
   - Safety
 tags:
-  - Asbury, NJ
+  - Asbury
 ---
 
 Protected bike lanes provide significant traffic calming in the form of max car speed reductions.

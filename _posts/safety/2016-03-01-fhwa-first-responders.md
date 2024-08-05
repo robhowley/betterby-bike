@@ -4,8 +4,8 @@ categories:
   - Safety
 tags:
   - FHWA
-  - Ocean City, NJ
-  - Woodbury, NJ
+  - Ocean City
+  - Woodbury
   - First responders
 ---
 

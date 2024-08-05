@@ -12,7 +12,7 @@ tags:
   - Toronto
   - SF
   - Seattle
-  - Davis, CA
+  - Davis
   - UK
   - Austria
   - Melbourne
