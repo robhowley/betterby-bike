@@ -10,8 +10,10 @@ jobs:
       - name: check out code
         uses: actions/checkout@v4
 
+      - run: ls -a
+
       - name: run markdown lint
         uses: docker://avtodev/markdown-lint:v1
         with:
-          config: ".markdownlint.yaml"
+          config: 'betterby-bike/.markdownlint.yaml'
           args: "**/*.md"
