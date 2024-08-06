@@ -1,5 +1,5 @@
 ---
-title: "NYC DOT: Bike lanes are good for pedestrians" 
+title: "NYC DOT: Bike lanes are good for pedestrians"
 categories:
   - Safety
 tags:

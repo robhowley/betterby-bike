@@ -16,7 +16,7 @@ In one case sidewalk riding went down 81% despite bike volume going up 190%.
 
 Key quote ...
 
-> "The reason that cyclists use the sidewalks is that they don't want to die," wrote the District's John Glad. 
+> "The reason that cyclists use the sidewalks is that they don't want to die," wrote the District's John Glad.
 > "If and when they are provided with dedicated bike lanes that are not accessible to drivers, they will be only too
 > happy to use them."
 

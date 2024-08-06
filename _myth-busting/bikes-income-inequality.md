@@ -12,7 +12,7 @@ American Community Survey confirms this and also shows that these people skew lo
 This result shouldn't be surprising given that the _cost of car ownership is now over $1,000 per month_ according to
 AAA.
 
-#### Source 
+#### Source
 
 * Low-Income Americans Walk and Bike to Work the Most
   * [pdf](/images/news/2014-streetsblog-income-biking.pdf)

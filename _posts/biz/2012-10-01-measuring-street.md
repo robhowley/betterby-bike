@@ -11,7 +11,7 @@ business, maybe even great.
 
 * 9th Ave protected bike lane
 
-  * retail sales up 49% after 
+  * retail sales up 49% after
 
   * rest of Manhattan up only 3%
 
