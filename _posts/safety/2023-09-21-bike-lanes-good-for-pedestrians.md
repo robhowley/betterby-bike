@@ -12,5 +12,5 @@ pedestrians the decline was 39%!
 
 #### Source
 
- * [pdf](/images/news/2023-nycdot-bike-lanes-pedestrians.pdf)
- * [original link](https://www.nyc.gov/html/dot/html/pr2023/east-ny-bike-lanes.shtml)
+* [pdf](/images/news/2023-nycdot-bike-lanes-pedestrians.pdf)
+* [original link](https://www.nyc.gov/html/dot/html/pr2023/east-ny-bike-lanes.shtml)

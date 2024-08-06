@@ -23,11 +23,12 @@ better accounted for. These combine to make a more easily navigable street for f
 Key quote ...
 
 > The new configuration is leaps and bounds safer.
+>
 > - Brian Hopely, Police Traffic Sergeant, Ocean City Police
 
 #### Sources
 
 Road Diets and Emergency Response: Friends, Not Foes
 
-  * [pdf](/images/research/2016-fhwa-road-diet-response-times.pdf)
-  * [original link](https://safety.fhwa.dot.gov/road_diets/resources/pdf/fhwasa17020.pdf)
+- [pdf](/images/research/2016-fhwa-road-diet-response-times.pdf)
+- [original link](https://safety.fhwa.dot.gov/road_diets/resources/pdf/fhwasa17020.pdf)

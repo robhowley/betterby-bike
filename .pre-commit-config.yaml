@@ -9,5 +9,4 @@ repos:
     hooks:
       - id: markdownlint
         args:
-          - "--disable"
-          - MD033
+          - "--fix"
