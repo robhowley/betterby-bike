@@ -3,12 +3,11 @@ on:
   push:
 
 jobs:
-  test:
+  linting:
     runs-on: ubuntu-latest
 
     steps:
       - uses: articulate/actions-markdownlint@v1
         with:
-          config:
-          files: .markdownlint.yaml
-          version: 0.41.0
+          config: .markdownlint.yaml
+          files: .
