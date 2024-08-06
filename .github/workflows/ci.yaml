@@ -16,7 +16,4 @@ jobs:
         uses: docker://avtodev/markdown-lint:v1
         with:
           config: '.markdownlint.yaml'
-          args:
-            - "**/*.md"
-            - "--disable"
-            - "MD033"
+          args: '**/*.md --disable MD033'
