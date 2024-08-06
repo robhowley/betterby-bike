@@ -3,12 +3,15 @@ on:
   push:
 
 jobs:
-  test:
+  linting:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: articulate/actions-markdownlint@v1
+      - name: check out code
+        uses: actions/checkout@v4
+
+      - name: run markdown lint
+        uses: docker://avtodev/markdown-lint:v1
         with:
-          config:
-          files: .markdownlint.yaml
-          version: 0.41.0
+          config: '.markdownlint.yaml'
+          args: '**/*.md'

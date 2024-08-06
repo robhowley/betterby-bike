@@ -6,13 +6,14 @@ Live site: [betterby.bike](https://betterby.bike)
 
 ## Stack
 
-Runs on [git pages](https://pages.github.com/) using [jekyll](https://jekyllrb.com/docs/github-pages/) for styling. Keeping things as lightweight as possible.
+Runs on [git pages](https://pages.github.com/) using [jekyll](https://jekyllrb.com/docs/github-pages/) for styling.
+Keeping things as lightweight as possible.
 
 ## Local dev
 
 ### Running site locally
 
-```
+```shell
 docker compose up
 ```
 

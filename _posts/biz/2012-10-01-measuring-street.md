@@ -19,6 +19,6 @@ business, maybe even great.
 
   * retail vacancies down 49%
 
-   * rest of Manhattan vacancies down only 5%
+  * rest of Manhattan vacancies down only 5%
 
 _Source_: [Measuring the street](/images/research/2012-10-measuring-the-street.pdf), NYC DOT, 2012

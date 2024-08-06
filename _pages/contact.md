@@ -15,7 +15,9 @@ Bike SOMa NJ at either of the following.
         {%- else -%}
           {%- assign url = footer_link.url | relative_url -%}
         {%- endif -%}
-        <a class="social-icon" href="{{ url }}" style="padding: 4px;"><i class="{{ footer_link.icon }} fa-4x" title="{{ footer_link.title }}"></i></a>
+        <a class="social-icon" href="{{ url }}" style="padding: 4px;">
+            <i class="{{ footer_link.icon }} fa-4x" title="{{ footer_link.title }}"></i>
+        </a>
       {%- endfor -%}
     </div>
 </div>
