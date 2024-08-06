@@ -13,7 +13,5 @@ jobs:
       - name: run markdown lint
         uses: docker://avtodev/markdown-lint:v1
         with:
-          args:
-            - "--config"
-            - ".markdownlint.yaml"
-            - "**/*.md"
+          config: ".markdownlint.yaml"
+          args: "**/*.md"
