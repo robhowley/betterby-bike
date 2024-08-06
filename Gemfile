@@ -6,4 +6,5 @@ gem "jekyll-theme-so-simple"
 
 group :jekyll_plugin do
   gem "jekyll-remote-theme"
+  gem "jekyll-paginate"
 end

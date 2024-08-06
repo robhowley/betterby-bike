@@ -1,6 +1,7 @@
 remote_theme: mmistakes/so-simple-theme
 plugins:
 - jekyll-remote-theme
+- jekyll-paginate
 
 title: Life is better by bike
 description: ... here are the receipts
@@ -32,6 +33,9 @@ defaults:
     values:
       layout: post
       share: true
+
+paginate: 15
+paginate_path: /page-:num/
 
 author:
   name: BikeSOMa_NJ
