@@ -6,7 +6,7 @@ tags:
   - NYC
 ---
 
-3 years of data from protected bike lane implementations around NYC show reduction of injuries for all road users. 
+3 years of data from protected bike lane implementations around NYC show reduction of injuries for all road users.
 Everyone, drivers and their passengers included, are injured in crashes less often when streets have protected bike
 lanes.
 

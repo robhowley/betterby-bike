@@ -37,9 +37,9 @@ Includes helpful diagrams on the different types of bike infrastructure.
 
 Note the distinction between designs
 
-* unprotected designs 
-  * sharrows 
-  * bike lanes between parked cars and traffic (door lanes) 
+* unprotected designs
+  * sharrows
+  * bike lanes between parked cars and traffic (door lanes)
 * protected designs
   * buffered bike lanes
   * parking protected lanes

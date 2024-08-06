@@ -13,8 +13,8 @@ car trips really are.
 
 | Trip distance       | % of trips |
 |:--------------------|:----------:|
-| Less than 0.5 miles |    3.8%    | 
-| 1 mile              |   12.6%    | 
+| Less than 0.5 miles |    3.8%    |
+| 1 mile              |   12.6%    |
 | 2 miles             |   11.3%    |
 | 3 miles             |   10.7%    |
 | 4 miles             |    7.5%    |
