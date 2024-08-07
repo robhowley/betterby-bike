@@ -13,6 +13,7 @@ tags:
   - SF
   - Seattle
   - Davis
+  - CA
   - UK
   - Austria
   - Melbourne
