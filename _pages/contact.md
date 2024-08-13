@@ -9,14 +9,10 @@ Bike SOMa NJ at either of the following.
 
 <div style="display: flex; justify-content: center;">
     <div class="social-icons">
-      {%- for footer_link in site.footer_links -%}
-        {%- if footer_link.url contains "://" -%}
-          {%- assign url = footer_link.url -%}
-        {%- else -%}
-          {%- assign url = footer_link.url | relative_url -%}
-        {%- endif -%}
-        <a class="social-icon" href="{{ url }}" style="padding: 4px;">
-            <i class="{{ footer_link.icon }} fa-4x" title="{{ footer_link.title }}"></i>
+      {%- for author_link in site.author.links -%}
+        {%- assign url = author_link.url -%}
+        <a class="social-icon" href="{{ url }}" style="padding: 0 0.25em; text-decoration:none;">
+            <i class="{{ author_link.icon }} fa-4x" title="{{ author_link.title }}"></i>
         </a>
       {%- endfor -%}
     </div>

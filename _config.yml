@@ -56,3 +56,6 @@ footer_links:
   - title: Facebook
     url: https://www.facebook.com/profile.php?id=61560900343761
     icon: fab fa-facebook
+  - title: Github
+    url: https://github.com/robhowley/betterby-bike
+    icon: fab fa-github
