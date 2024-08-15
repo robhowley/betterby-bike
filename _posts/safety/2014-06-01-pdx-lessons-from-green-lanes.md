@@ -1,5 +1,5 @@
 ---
-title: Lessons from the Green Lanes: Evaluating Protected Bike Lanes in the US
+title: "Lessons from the Green Lanes: Evaluating Protected Bike Lanes in the US"
 categories:
   - Safety
   - Environment
