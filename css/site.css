@@ -92,7 +92,6 @@ body { background: var(--bg); color: var(--tx); font-family: var(--fb); line-hei
 .pill-s { background: var(--orange); color: #fff; }
 .pill-b { background: var(--gold);   color: #000; }
 .pill-e { background: var(--green);  color: #000; }
-.pill-n { background: var(--blue);   color: #fff; }
 .pill-m { background: var(--purple); color: #fff; }
 
 /* ── FILTER BAR ── */
@@ -126,7 +125,6 @@ body { background: var(--bg); color: var(--tx); font-family: var(--fb); line-hei
 .fbtn.on[data-f="safety"]::after      { background: var(--orange); }
 .fbtn.on[data-f="business"]::after    { background: var(--gold); }
 .fbtn.on[data-f="environment"]::after { background: var(--green); }
-.fbtn.on[data-f="news"]::after        { background: var(--blue); }
 .cnt {
   font-family: var(--fm); font-size: 0.5625rem;
   background: var(--surf); border-radius: 100px;
