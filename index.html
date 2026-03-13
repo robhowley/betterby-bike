@@ -1,33 +1,637 @@
----
-title: The bike research cheatsheet
-layout: home
-excerpt: Life is better by bike, here are the receipts.
-paginate: true
-entries_layout: list
----
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Life is better by bike — here are the receipts</title>
+  <meta name="description" content="A cheatsheet of research showing the many ways more biking improves our neighborhoods and cities. Maintained by @BikeSOMa_NJ.">
+  <link rel="icon" href="/images/img/bike-logo-01.png" type="image/png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400..900;1,9..144,400..900&family=Outfit:wght@300;400;500;600;700&family=DM+Mono:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
+  <style>
+    *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
 
-<div>
-    <p>
-        Bike and safe streets advocates have our work cut out for us. To help, here is a cheatsheet of useful resources
-        showing some of the many ways in which more biking improves our neighborhoods and cities.
-    </p>
-    <p>
-        <i>Maintained by</i>
-            <a class="social-icon" href="https://instagram.com/bikesoma_nj" style="text-decoration:none">
-                <i class="fab fa-instagram" title="Instagram"></i>BikeSOMa_NJ
-            </a>
-    </p>
-    <h1><i>Research topic shortcuts</i></h1>
-</div>
+    :root {
+      --bg:       #0A0A0A;
+      --surf:     #111111;
+      --card:     #181818;
+      --card-h:   #202020;
+      --bdr:      rgba(255,255,255,0.07);
+      --bdr-s:    rgba(255,255,255,0.13);
 
-<div style="text-align: center;">
-    <div style="display: inline-block; float: none; padding-bottom: 10px;">
-        <a href="{{site.baseurl}}/safety" class="btn btn--accent">Safety</a>
-        <a href="{{site.baseurl}}/business" class="btn btn--accent">Business</a>
-        <a href="{{site.baseurl}}/environment" class="btn btn--accent">Environment</a>
-        <a href="{{site.baseurl}}/myth-busting" class="btn btn--accent">Myth busting</a>
-        <a href="{{site.baseurl}}/in-the-news" class="btn btn--accent">In the news</a>
+      --tx:       #EDE8DE;
+      --muted:    #85807A;
+      --dim:      #48443E;
+
+      --orange:   #FF5820;
+      --gold:     #F0B830;
+      --green:    #6DCB42;
+      --blue:     #4CAAE8;
+      --purple:   #B57CF5;
+
+      --fd: 'Fraunces', Georgia, serif;
+      --fb: 'Outfit', system-ui, sans-serif;
+      --fm: 'DM Mono', monospace;
+
+      --r: 6px;
+      --tr: 170ms ease;
+    }
+
+    html { scroll-behavior: smooth; }
+    body { background: var(--bg); color: var(--tx); font-family: var(--fb); line-height: 1.6; min-height: 100vh; }
+
+    /* ── NAV ── */
+    .nav {
+      position: fixed; top: 0; left: 0; right: 0; z-index: 200;
+      height: 54px; display: flex; align-items: center;
+      justify-content: space-between; padding: 0 1.5rem;
+      background: rgba(10,10,10,0.9); backdrop-filter: blur(20px) saturate(180%);
+      border-bottom: 1px solid var(--bdr); transition: border-color var(--tr);
+    }
+    .nav.up { border-color: var(--bdr-s); }
+    .nav-brand { display: flex; align-items: center; gap: 0.625rem; text-decoration: none; color: var(--tx); }
+    .nav-logo  { width: 28px; height: 28px; border-radius: 50%; }
+    .nav-name  { font-family: var(--fd); font-size: 0.9375rem; font-weight: 700; letter-spacing: -0.02em; }
+    .nav-links { display: flex; gap: 1.5rem; list-style: none; align-items: center; }
+    .nav-links a {
+      color: var(--muted); text-decoration: none; font-size: 0.75rem;
+      font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase;
+      transition: color var(--tr); cursor: pointer;
+    }
+    .nav-links a:hover { color: var(--tx); }
+
+    /* ── HERO ── */
+    .hero-wrap {
+      background: radial-gradient(ellipse 70% 55% at 50% -5%, rgba(255,88,32,0.1) 0%, transparent 65%);
+    }
+    .hero {
+      max-width: 860px; margin: 0 auto;
+      padding: 7.5rem 1.5rem 5.5rem;
+      text-align: center;
+    }
+    .hero-logo {
+      width: 76px; height: 76px; border-radius: 50%;
+      margin-bottom: 2.25rem;
+      filter: drop-shadow(0 0 32px rgba(255,88,32,0.35));
+    }
+    .hero-hed {
+      font-family: var(--fd); font-weight: 900;
+      font-size: clamp(3.25rem, 10vw, 7rem);
+      line-height: 0.95; letter-spacing: -0.045em;
+      color: var(--tx); margin-bottom: 0.6rem;
+    }
+    .hero-hed em { color: var(--orange); font-style: normal; display: block; }
+    .hero-sub {
+      font-family: var(--fd); font-style: italic; font-weight: 400;
+      font-size: clamp(1.0625rem, 2.5vw, 1.375rem);
+      color: var(--muted); margin-bottom: 1.625rem;
+    }
+    .hero-desc {
+      font-size: 0.9375rem; color: var(--muted); line-height: 1.8;
+      max-width: 560px; margin: 0 auto 2.5rem;
+    }
+    .hero-pills { display: flex; flex-wrap: wrap; gap: 0.5rem; justify-content: center; }
+    .pill {
+      display: inline-block; padding: 0.425rem 1.0625rem;
+      border-radius: 100px; border: none; cursor: pointer;
+      font-family: var(--fb); font-size: 0.75rem; font-weight: 700;
+      letter-spacing: 0.06em; text-transform: uppercase;
+      text-decoration: none; transition: filter var(--tr), transform var(--tr);
+      line-height: 1.4;
+    }
+    .pill:hover { filter: brightness(1.18); transform: translateY(-2px); }
+    .pill-s { background: var(--orange); color: #fff; }
+    .pill-b { background: var(--gold);   color: #000; }
+    .pill-e { background: var(--green);  color: #000; }
+    .pill-n { background: var(--blue);   color: #fff; }
+    .pill-m { background: var(--purple); color: #fff; }
+
+    /* ── FILTER BAR ── */
+    .fbar {
+      position: sticky; top: 54px; z-index: 100;
+      background: rgba(10,10,10,0.96); backdrop-filter: blur(20px);
+      border-bottom: 1px solid var(--bdr);
+    }
+    .fbar-in {
+      max-width: 1200px; margin: 0 auto; padding: 0 1.5rem;
+      display: flex; align-items: stretch;
+      overflow-x: auto; scrollbar-width: none; gap: 0;
+    }
+    .fbar-in::-webkit-scrollbar { display: none; }
+    .fbtn {
+      display: flex; align-items: center; gap: 0.375rem;
+      padding: 0.875rem 0.9375rem;
+      border: none; background: none; cursor: pointer;
+      font-family: var(--fb); font-size: 0.6875rem; font-weight: 800;
+      letter-spacing: 0.1em; text-transform: uppercase;
+      color: var(--dim); white-space: nowrap;
+      position: relative; transition: color var(--tr);
+    }
+    .fbtn::after {
+      content: ''; position: absolute; bottom: 0; left: 0; right: 0;
+      height: 2px; background: transparent; transition: background var(--tr);
+    }
+    .fbtn:hover { color: var(--muted); }
+    .fbtn.on { color: var(--tx); }
+    .fbtn.on[data-f="all"]::after         { background: var(--orange); }
+    .fbtn.on[data-f="safety"]::after      { background: var(--orange); }
+    .fbtn.on[data-f="business"]::after    { background: var(--gold); }
+    .fbtn.on[data-f="environment"]::after { background: var(--green); }
+    .fbtn.on[data-f="news"]::after        { background: var(--blue); }
+    .cnt {
+      font-family: var(--fm); font-size: 0.5625rem;
+      background: var(--surf); border-radius: 100px;
+      padding: 0.1rem 0.4rem; color: var(--dim);
+    }
+    .fbar-sp { flex: 1; min-width: 0.75rem; }
+    .srch-wrap { position: relative; display: flex; align-items: center; padding: 0.5rem 0; }
+    .srch-ico {
+      position: absolute; left: 0.5625rem; pointer-events: none;
+      color: var(--dim); width: 12px; height: 12px; flex-shrink: 0;
+    }
+    .srch-in {
+      background: var(--surf); border: 1px solid var(--bdr);
+      border-radius: 100px; padding: 0.35rem 0.875rem 0.35rem 1.75rem;
+      color: var(--tx); font-family: var(--fb); font-size: 0.75rem;
+      outline: none; width: 160px;
+      transition: border-color var(--tr), width var(--tr);
+    }
+    .srch-in:focus { border-color: var(--orange); width: 220px; }
+    .srch-in::placeholder { color: var(--dim); }
+
+    /* ── GRID ── */
+    .posts { max-width: 1200px; margin: 0 auto; padding: 2.25rem 1.5rem 4rem; }
+    .grid  { display: grid; grid-template-columns: repeat(3,1fr); gap: 0.875rem; }
+    @media (max-width: 920px)  { .grid { grid-template-columns: repeat(2,1fr); } }
+    @media (max-width: 600px)  { .grid { grid-template-columns: 1fr; } }
+
+    /* ── CARD ── */
+    .card {
+      background: var(--card); border: 1px solid var(--bdr);
+      border-radius: var(--r); padding: 1.25rem;
+      cursor: pointer; display: flex; flex-direction: column; gap: 0.575rem;
+      position: relative; overflow: hidden;
+      transition: background var(--tr), transform var(--tr), border-color var(--tr);
+      animation: rise 0.32s ease both;
+    }
+    .card::before {
+      content: ''; position: absolute; top: 0; left: 0; right: 0;
+      height: 3px; background: var(--cc, var(--orange));
+    }
+    .card:hover { background: var(--card-h); transform: translateY(-3px); border-color: var(--bdr-s); }
+    .card-top   { display: flex; justify-content: space-between; align-items: center; gap: 0.5rem; }
+    .card-cat   { font-size: 0.5625rem; font-weight: 800; letter-spacing: 0.12em; text-transform: uppercase; color: var(--cc, var(--orange)); flex-shrink: 0; }
+    .card-date  { font-family: var(--fm); font-size: 0.5625rem; color: var(--dim); }
+    .card-title { font-family: var(--fd); font-size: 1.03125rem; font-weight: 700; line-height: 1.3; letter-spacing: -0.025em; color: var(--tx); }
+    .card-exc   { font-size: 0.8125rem; color: var(--muted); line-height: 1.65; flex: 1; }
+    .card-tags  { display: flex; flex-wrap: wrap; gap: 0.275rem; margin-top: 0.125rem; }
+    .tag        { font-size: 0.5rem; font-weight: 800; letter-spacing: 0.08em; text-transform: uppercase; background: var(--surf); color: var(--dim); padding: 0.175rem 0.4rem; border-radius: 2px; }
+
+    /* ── EMPTY ── */
+    .empty { grid-column: 1/-1; text-align: center; padding: 4rem; font-family: var(--fd); font-size: 1.125rem; font-style: italic; color: var(--dim); }
+
+    /* ── MYTHS ── */
+    .myths { background: var(--surf); border-top: 1px solid var(--bdr); padding: 4.5rem 1.5rem 5rem; }
+    .myths-in   { max-width: 1200px; margin: 0 auto; }
+    .myths-eye  { font-size: 0.625rem; font-weight: 800; letter-spacing: 0.18em; text-transform: uppercase; color: var(--purple); margin-bottom: 0.4rem; }
+    .myths-hed  { font-family: var(--fd); font-weight: 900; font-size: clamp(1.875rem, 5vw, 3rem); letter-spacing: -0.035em; color: var(--tx); margin-bottom: 2.5rem; }
+    .myths-grid { display: grid; grid-template-columns: repeat(3,1fr); gap: 0.875rem; }
+    @media (max-width: 800px) { .myths-grid { grid-template-columns: 1fr; } }
+
+    .mcard { background: var(--card); border: 1px solid var(--bdr); border-radius: var(--r); overflow: hidden; cursor: pointer; transition: transform var(--tr), background var(--tr), border-color var(--tr); }
+    .mcard:hover { transform: translateY(-3px); background: var(--card-h); border-color: var(--bdr-s); }
+    .mbar  { background: var(--purple); padding: 0.625rem 1.125rem; display: flex; align-items: center; gap: 0.5rem; }
+    .mlbl  { font-size: 0.5625rem; font-weight: 800; letter-spacing: 0.14em; text-transform: uppercase; color: rgba(255,255,255,0.6); }
+    .mx    { margin-left: auto; color: rgba(255,255,255,0.25); font-size: 1.0625rem; font-weight: 900; }
+    .mbody { padding: 1.25rem; }
+    .mq    { font-family: var(--fd); font-size: 0.9375rem; font-style: italic; color: var(--muted); margin-bottom: 0.75rem; line-height: 1.4; }
+    .mf    { font-size: 0.9375rem; font-weight: 600; color: var(--tx); line-height: 1.45; }
+
+    /* ── FOOTER ── */
+    .footer { max-width: 1200px; margin: 0 auto; padding: 2.5rem 1.5rem; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 1rem; border-top: 1px solid var(--bdr); }
+    .fl { display: flex; align-items: center; gap: 0.5rem; font-family: var(--fd); font-size: 0.875rem; font-weight: 700; color: var(--muted); }
+    .fl img { width: 22px; height: 22px; border-radius: 50%; opacity: 0.65; }
+    .fr { display: flex; align-items: center; gap: 1.5rem; flex-wrap: wrap; }
+    .fcred { font-size: 0.75rem; color: var(--dim); }
+    .fcred a { color: var(--muted); text-decoration: none; transition: color var(--tr); }
+    .fcred a:hover { color: var(--orange); }
+    .fsocials { display: flex; gap: 1rem; list-style: none; }
+    .fsocials a { color: var(--dim); transition: color var(--tr); display: block; line-height: 0; }
+    .fsocials a:hover { color: var(--orange); }
+
+    /* ── OVERLAY / MODAL ── */
+    .ov {
+      position: fixed; inset: 0; z-index: 400;
+      background: rgba(0,0,0,0.88); backdrop-filter: blur(12px);
+      display: flex; align-items: flex-start; justify-content: center;
+      padding: 4rem 1.5rem 3rem;
+      opacity: 0; pointer-events: none;
+      transition: opacity 0.2s ease; overflow-y: auto;
+    }
+    .ov.open { opacity: 1; pointer-events: all; }
+    .modal {
+      background: var(--card); border: 1px solid var(--bdr-s);
+      border-radius: var(--r); width: 100%; max-width: 680px;
+      transform: translateY(20px); transition: transform 0.25s ease;
+      overflow: hidden; flex-shrink: 0; margin: auto;
+    }
+    .ov.open .modal { transform: translateY(0); }
+    .mhd { padding: 1.75rem 1.75rem 1.25rem; border-bottom: 1px solid var(--bdr); position: relative; }
+    .mcats { display: flex; flex-wrap: wrap; gap: 0.375rem; margin-bottom: 0.75rem; }
+    .mcat-badge { font-size: 0.5625rem; font-weight: 800; letter-spacing: 0.1em; text-transform: uppercase; padding: 0.2rem 0.5rem; border-radius: 2px; }
+    .mtitle { font-family: var(--fd); font-weight: 900; font-size: clamp(1.25rem, 4vw, 1.8125rem); line-height: 1.2; letter-spacing: -0.03em; color: var(--tx); padding-right: 2.75rem; margin-bottom: 0.5rem; }
+    .mdate  { font-family: var(--fm); font-size: 0.6875rem; color: var(--dim); }
+    .xbtn {
+      position: absolute; top: 1.25rem; right: 1.25rem;
+      width: 28px; height: 28px; display: flex; align-items: center; justify-content: center;
+      border: 1px solid var(--bdr); border-radius: 50%;
+      background: none; cursor: pointer; color: var(--muted); font-size: 0.875rem;
+      transition: all var(--tr);
+    }
+    .xbtn:hover { background: var(--surf); color: var(--tx); border-color: var(--bdr-s); }
+    .mbd { padding: 1.75rem; }
+    .mft { padding: 1rem 1.75rem; border-top: 1px solid var(--bdr); display: flex; flex-wrap: wrap; gap: 0.3rem; }
+
+    /* ── PROSE ── */
+    .prose { font-size: 0.9375rem; line-height: 1.8; color: var(--tx); }
+    .prose h1,.prose h2,.prose h3 { font-family: var(--fd); font-weight: 700; line-height: 1.3; margin: 1.5em 0 0.5em; color: var(--tx); }
+    .prose h4 { font-size: 0.6875rem; font-weight: 800; letter-spacing: 0.1em; text-transform: uppercase; color: var(--muted); margin: 1.5em 0 0.5em; }
+    .prose p { margin-bottom: 1em; }
+    .prose a { color: var(--orange); text-decoration: none; border-bottom: 1px solid rgba(255,88,32,0.35); transition: border-color var(--tr); }
+    .prose a:hover { border-color: var(--orange); }
+    .prose strong { font-weight: 700; color: var(--tx); }
+    .prose em { font-style: italic; }
+    .prose blockquote {
+      border-left: 3px solid var(--orange); padding: 0.75rem 1.25rem;
+      margin: 1.5rem 0; background: rgba(255,88,32,0.06);
+      border-radius: 0 var(--r) var(--r) 0; color: var(--muted); font-style: italic;
+    }
+    .prose ul,.prose ol { margin: 0.75em 0 1em 1.5rem; }
+    .prose li { margin-bottom: 0.3em; }
+    .prose li > ul,.prose li > ol { margin-top: 0.25em; margin-bottom: 0; }
+    .prose table { width: 100%; border-collapse: collapse; font-size: 0.875rem; margin: 1.25em 0; }
+    .prose th { background: rgba(255,255,255,0.04); padding: 0.5rem 0.75rem; text-align: left; font-size: 0.625rem; font-weight: 800; letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); border-bottom: 1px solid var(--bdr); }
+    .prose td { padding: 0.5rem 0.75rem; border-bottom: 1px solid var(--bdr); color: var(--muted); }
+    .prose tr:last-child td { border-bottom: none; }
+    .prose img { max-width: 100%; border-radius: var(--r); margin: 1rem 0; display: block; }
+    .prose code { font-family: var(--fm); font-size: 0.875em; background: var(--surf); padding: 0.1em 0.35em; border-radius: 3px; }
+
+    /* ── ANIMATIONS ── */
+    @keyframes rise { from { opacity:0; transform:translateY(10px); } to { opacity:1; transform:translateY(0); } }
+
+    /* ── MISC ── */
+    @media (max-width: 600px) {
+      .nav-links { gap: 1rem; }
+      .hero { padding-top: 6rem; }
+      .footer { flex-direction: column; align-items: flex-start; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- NAV -->
+<nav class="nav" id="nav">
+  <a class="nav-brand" href="/">
+    <img class="nav-logo" src="/images/img/bike-logo-01.png" alt="Bike logo">
+    <span class="nav-name">betterby.bike</span>
+  </a>
+  <ul class="nav-links">
+    <li><a href="#myth-busting">Myth Busting</a></li>
+    <li><a onclick="openContact()">Contact</a></li>
+  </ul>
+</nav>
+
+<!-- HERO -->
+<div class="hero-wrap">
+  <header class="hero">
+    <img class="hero-logo" src="/images/img/bike-logo-01.png" alt="">
+    <h1 class="hero-hed">Life is better<em>by bike.</em></h1>
+    <p class="hero-sub">&#8230; here are the receipts.</p>
+    <p class="hero-desc">Bike and safe streets advocates have our work cut out for us. Here is a cheatsheet of useful resources showing the many ways more biking improves our neighborhoods and cities.</p>
+    <div class="hero-pills">
+      <button class="pill pill-s" data-f="safety">Safety</button>
+      <button class="pill pill-b" data-f="business">Business</button>
+      <button class="pill pill-e" data-f="environment">Environment</button>
+      <button class="pill pill-n" data-f="news">In the news</button>
+      <a class="pill pill-m" href="#myth-busting">Myth busting</a>
     </div>
+  </header>
 </div>
 
-<hr>
+<!-- FILTER BAR -->
+<div class="fbar">
+  <div class="fbar-in">
+    <button class="fbtn on" data-f="all">All <span class="cnt" id="cnt-all"></span></button>
+    <button class="fbtn" data-f="safety">Safety <span class="cnt" id="cnt-safety"></span></button>
+    <button class="fbtn" data-f="business">Business <span class="cnt" id="cnt-business"></span></button>
+    <button class="fbtn" data-f="environment">Environment <span class="cnt" id="cnt-environment"></span></button>
+    <button class="fbtn" data-f="news">In the news <span class="cnt" id="cnt-news"></span></button>
+    <div class="fbar-sp"></div>
+    <div class="srch-wrap">
+      <svg class="srch-ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+        <circle cx="11" cy="11" r="7.5"/><line x1="16.5" y1="16.5" x2="21" y2="21"/>
+      </svg>
+      <input class="srch-in" id="srch" type="search" placeholder="Search&#8230;" autocomplete="off">
+    </div>
+  </div>
+</div>
+
+<!-- POSTS -->
+<main class="posts" id="posts-anchor">
+  <div class="grid" id="grid"></div>
+</main>
+
+<!-- MYTHS -->
+<section class="myths" id="myth-busting">
+  <div class="myths-in">
+    <div class="myths-eye">Myth Busting</div>
+    <h2 class="myths-hed">Setting the record straight.</h2>
+    <div class="myths-grid" id="myths-grid"></div>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer class="footer">
+  <div class="fl">
+    <img src="/images/img/bike-logo-01.png" alt="">
+    <span>Life is better by bike</span>
+  </div>
+  <div class="fr">
+    <span class="fcred">Maintained by <a href="https://instagram.com/bikesoma_nj" target="_blank" rel="noopener">@BikeSOMa_NJ</a></span>
+    <ul class="fsocials">
+      <li>
+        <a href="https://instagram.com/bikesoma_nj" target="_blank" rel="noopener" aria-label="Instagram">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75">
+            <rect x="2" y="2" width="20" height="20" rx="5.5"/>
+            <circle cx="12" cy="12" r="4"/>
+            <circle cx="17.5" cy="6.5" r="1.1" fill="currentColor" stroke="none"/>
+          </svg>
+        </a>
+      </li>
+      <li>
+        <a href="https://www.facebook.com/profile.php?id=61560900343761" target="_blank" rel="noopener" aria-label="Facebook">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75">
+            <path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/>
+          </svg>
+        </a>
+      </li>
+      <li>
+        <a href="https://github.com/robhowley/betterby-bike" target="_blank" rel="noopener" aria-label="GitHub">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75">
+            <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"/>
+          </svg>
+        </a>
+      </li>
+    </ul>
+  </div>
+</footer>
+
+<!-- POST / MYTH MODAL -->
+<div class="ov" id="ov">
+  <div class="modal">
+    <div class="mhd">
+      <div class="mcats" id="mcats"></div>
+      <h2 class="mtitle" id="mtitle"></h2>
+      <div class="mdate" id="mdate"></div>
+      <button class="xbtn" onclick="closeModal()" aria-label="Close">&#x2715;</button>
+    </div>
+    <div class="mbd" id="mbd"></div>
+    <div class="mft" id="mft"></div>
+  </div>
+</div>
+
+<!-- CONTACT MODAL -->
+<div class="ov" id="contact-ov">
+  <div class="modal">
+    <div class="mhd">
+      <h2 class="mtitle">Submit research &amp; questions</h2>
+      <button class="xbtn" onclick="closeContact()" aria-label="Close">&#x2715;</button>
+    </div>
+    <div class="mbd">
+      <div class="prose">
+        <p>Come across any cool research you want to submit? Send a link to the work along with the tldr on the key results to Bike SOMa NJ.</p>
+        <p>
+          <a href="https://instagram.com/bikesoma_nj" target="_blank" rel="noopener">@BikeSOMa_NJ on Instagram</a><br>
+          <a href="https://www.facebook.com/profile.php?id=61560900343761" target="_blank" rel="noopener">BikeSOMa NJ on Facebook</a><br>
+          <a href="mailto:bike.soma.nj@gmail.com">bike.soma.nj&#64;gmail.com</a>
+        </p>
+        <p>You can be attributed in the subsequent post(s) if desired. All good work deserves a shoutout.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/marked@9/marked.min.js"></script>
+<script>
+var POSTS = [{"id":"news-2024-08-05-boston-globe-bike-boom","title":"More Bostonians are biking as bike lanes boom, but barriers remain, Boston Globe","date":"2024-08-05","categories":["In the news","Environment"],"tags":["Boston Globe","Boston"],"content":"Boston has set a goal to have every resident within 3 minutes of a protected bike route. Progress since 2021 has shown\nand increase in ridership with more and more people interviewed saying they're opting for their bike instead of car.\nRidership increases are attributed to increased sense of safety while riding.\n\nKey quote ...\n\n> Bikers interviewed by the Globe said new bike lanes across the city have made them feel safer and even allowed some to\n> opt for biking instead of driving to work, day care, the grocery store, and to run other errands or visit friends.\n\n#### Source\n\n* [pdf](/images/news/2024-boston-globe-bike-boom.pdf)\n* [original link](https://www.boston.com/news/the-boston-globe/2024/08/05/more-bostonians-are-biking-as-bike-lanes-boom-but-barriers-remain/)","excerpt":"Boston has set a goal to have every resident within 3 minutes of a protected bike route. Progress since 2021 has shown and increase in ridership with more and more people interviewed saying they'…"},{"id":"safety-2024-07-01-road-diets-emergency-response-times","title":"Road diets and emergency response times","date":"2024-07-01","categories":["Safety"],"tags":["Cedar Rapids","First responders"],"content":"Cedar Rapids, IA implemented a road diet on four different roads that reduced the number of lanes of traffic. Using\npre/post data, researchers found that there was _no difference in emergency response times_. Over half the EMS\nrespondents in the follow up survey said the changes had either no impact or a positive impact on response times.\n\n![no change in response times error bars](/images/img/safety/iowa-ems-response-times.png)\n\n_Source_: [Impact of 4-to-3 lane conversions on emergency response](/images/research/2024-07-road-diets-ems.pdf)","excerpt":"Cedar Rapids, IA implemented a road diet on four different roads that reduced the number of lanes of traffic. Using pre/post data, researchers found that there was no difference in emergency resp…"},{"id":"safety-2024-06-01-rutgers-bike-lanes-car-speed","title":"Traffic Speeds Decrease When Bike Lane is Present","date":"2024-06-01","categories":["Safety"],"tags":["Asbury","NJ"],"content":"Protected bike lanes provide significant traffic calming in the form of max car speed reductions.\n\n* study compared the speed reduction impacts of bike lane designs in Asbury Park, NJ\n* _painted bike lanes_\n  * reduce average right turn speed 11-15%\n  * no reduction in speed of cars driving straight\n* _protected bike lanes_ using \"vertical delineators\" (flex posts)\n  * reduce max right turn speed 28%\n  * reduce average right turn speed 21%\n  * reduce speed of cars driving next to the bike lane by 8%\n\n#### Sources\n\n* Traffic Speeds Decrease When Bike Lane is Present, 2024\n  * [original link](https://www.rutgers.edu/news/traffic-speeds-decrease-when-bike-lane-present)\n  * [pdf](/images/research/rutgers-bike-lane-car-speed.pdf)\n* The Traffic Calming Effect of Delineated Bicycle Lanes, 2024\n  * [original link](https://www.sciencedirect.com/science/article/pii/S2667091724000013)\n  * [pdf](/images/research/rutgers-bike-lane-car-speed-academic.pdf)","excerpt":"Protected bike lanes provide significant traffic calming in the form of max car speed reductions."},{"id":"news-2024-03-07-business-insider-bikes-are-good-for-business","title":"Bike lanes are good for business, Business Insider","date":"2024-03-07","categories":["In the news"],"tags":["Business Insider","NYC","Portland","SF","Chicago","LA"],"content":"Meta review of years of bike lane and business research. Concludes that bike lanes are often good for business but\noccasionally have no impact. The doom and gloom to business that some may predict, however, isn't justified.\n\nKey quote ...\n\n> The most effective way to deal with opposition from local businesses is to just get the bike lanes built.\n> Before-and-after surveys tend to show that in the long run, everyone winds up satisfied.\n\n#### Source\n\n* [pdf](/images/news/2024-business-insider-bikes-good-for-business.pdf)\n\n* [orignal link](https://www.businessinsider.com/bike-lanes-good-for-business-studies-better-streets-2024-3)","excerpt":"Meta review of years of bike lane and business research. Concludes that bike lanes are often good for business but occasionally have no impact. The doom and gloom to business that some may predic…"},{"id":"safety-2023-09-21-bike-lanes-good-for-pedestrians","title":"NYC DOT: Bike lanes are good for pedestrians","date":"2023-09-21","categories":["Safety"],"tags":["NYC"],"content":"NYC DOT added 3.18 miles of protected bike lanes in East NY, Brooklyn. The subsequent traffic calming and shortened\ncrossing distance reduced death and serious injuries for all road users (that's drivers included) by 18.1%. For senior\npedestrians the decline was 39%!\n\n#### Source\n\n* [pdf](/images/news/2023-nycdot-bike-lanes-pedestrians.pdf)\n* [original link](https://www.nyc.gov/html/dot/html/pr2023/east-ny-bike-lanes.shtml)","excerpt":"NYC DOT added 3.18 miles of protected bike lanes in East NY, Brooklyn. The subsequent traffic calming and shortened crossing distance reduced death and serious injuries for all road users (that's…"},{"id":"biz-2023-01-01-monon-trail-property-values","title":"Indiana's Monon Trail raised nearby property values","date":"2023-01-01","categories":["Business"],"tags":["Indianapolis"],"content":"Indiana's Monon Trail is a \"rail to trail\" conversion that was very good for nearby property values. _Homes within 1/2\nmile of the trail sell for on average 11% more_ than those farther away.\n\n_Source_: [Protected bike lanes mean business](/images/research/2023-protected-bike-lanes-mean-business.pdf)","excerpt":"Indiana's Monon Trail is a \"rail to trail\" conversion that was very good for nearby property values. Homes within 1/2 mile of the trail sell for on average 11% more than those farther away."},{"id":"news-2022-02-22-urban-institute-cities-invest-in-bikes","title":"Why cities are investing in safer, more-connected cycling infrastructure, Urban Institute","date":"2022-02-22","categories":["In the news"],"tags":["Urban Institute","NYC","Salt Lake City","Montreal","DC","Austin","New Orleans","Atlanta","Kansas City","Nashville","LA","Pittsburgh","Denver","Portland"],"content":"Makes the safety, economic, and equity case for why so many cities are investing in bike infrastructure. Covers changes\nacross 13 cities across the US. Discusses the impacts of _protected_ bike networks specifically.\n\nThe key takeaways ...\n\n* increase ridership overall, e.g. NYC, DC, SF\n* increases ridership among women and low income ridership the most\n* good for business, e.g. Salt Lake City\n* dramatically reduces injuries to all road users\n  * NYC 40-50% reduction\n  * Montreal 28% reduction\n\nIncludes helpful diagrams on the different types of bike infrastructure.\n\n![bike infrastructure design types](/images/img/urban-inst-types-of-bike-infra.png)\n\nNote the distinction between designs\n\n* unprotected designs\n  * sharrows\n  * bike lanes between parked cars and traffic (door lanes)\n* protected designs\n  * buffered bike lanes\n  * parking protected lanes\n  * off-street trails\n\nKey quote ...\n\n> Despite the benefits of protected bike infrastructure, opposition is common, often because such improvements require\n> cities to remove parking. But those views are typically in the minority. Ultimately, removing parking spots and\n> replacing them with biking infrastructure benefits community health, promotes safety, and provides economic benefits\n> to businesses.\n\n#### Source\n\nWhy cities are investing in safer, more-connected cycling infrastructure, Urban Institute, 2022\n\n* [pdf](/images/news/2022-urban-inst-cities-invest-in-bikes.pdf)\n\n* [orignal link](https://www.urban.org/urban-wire/why-us-cities-are-investing-safer-more-connected-cycling-infrastructure)","excerpt":"Makes the safety, economic, and equity case for why so many cities are investing in bike infrastructure. Covers changes across 13 cities across the US. Discusses the impacts of protected bike net…"},{"id":"biz-2020-04-01-economic-impact-of-safe-streets","title":"Economic impacts of bicycle and pedestrian street improvements","date":"2020-04-01","categories":["Business"],"tags":["PeopleForBikes","Indianapolis","Memphis","Minneapolis","Portland","SF","Seattle"],"content":"Studied business corridors that received street redesigns in 6 different cities. Business results were often positive,\nbut in a few cases had no impact. Overall, food service and retail sales improve as does employment in those sectors.\nThese results hold in cases where parking was removed for bike lanes.\n\nSummary table ...\n\n| City         | Corridor                 | Retail | Food Service |\n|:-------------|:-------------------------|:------:|:------------:|\n| Indianapolis |                          |        |              |\n|              | Massachusetts Ave (2009) |        |      ✅       |\n|              | Virginia Ave (2009)      |        |          ✅   |\n| Memphis      |                          |        |              |\n|              | Broad Ave (2010)         |        |      ✅       |\n|              | Madison Ave (2011)       |  ✅/⛔️  |      ✅       |\n| Minneapolis  |                          |        |              |\n|              | Central Ave (2012)       |   ✅    |      ✅       |\n|              | Franklin Ave (2011)      |        |      ✅       |\n|              | Riverside Ave (2009)     |        |              |\n|              | Lyndale Ave S (2008)     |   ✅    |      ✅       |\n|              | N 2nd St (2011)          |        |      ✅       |\n| Portland     |                          |        |              |\n|              | Stark & Oak (2009)       |   ✅    |              |\n| Seattle      |                          |        |              |\n|              | 2nd Ave (2014)           |   ✅    |              |\n|              | Broadway (2014)          |        |         ✅     |\n| SF           |                          |        |              |\n|              | 17 St (2011)             |   ✅    |              |\n\nwhere ✅ indicates improvement in associated business metrics including sales, employment, wage growth, or a subset of\nthe three. A ⛔️ indicates a statistically significant negative impact. A blank cell\nmeans no change detected. The only instance of a negative impact was a mixed result on Memphis' Madison Ave where\n_retail sales grew_ but retail employment declined. So, of 13 bike friendly redesigns across 6 metro areas we have 15\npositive impacts and one negative.\n\n_On net, the evidence is clear that adding bike infrastructure is good for business._\n\n#### Source\n\nEconomic impacts of bicycle and pedestrian street improvements, PeopleForBikes, 2020\n\n* [pdf](/images/research/2020-economic-impacts-of-street-Improvements-summary-report.pdf)\n* [summary page link](https://www.peopleforbikes.org/reports/the-national-study-of-the-economic-impact-of-street)","excerpt":"Studied business corridors that received street redesigns in 6 different cities. Business results were often positive, but in a few cases had no impact. Overall, food service and retail sales imp…"},{"id":"news-2019-09-19-streetsblog-fdny-traffic-problem","title":"FDNY: Traffic — Not Bike Lanes — is to Blame for Increased Response Times, Streetsblog","date":"2019-09-19","categories":["In the news"],"tags":["Streetsblog","NYC","First Responders"],"content":"From 2015 to 2019 FDNY response times were up 8.6%. In the annual [NYC management report](https://www.nyc.gov/assets/operations/downloads/pdf/mmr2019/2019_mmr.pdf)\nthe fire department attributes the slower emergency response times to increased congestion, more cars on the road.\n\nWhen the FDNY spokesperson was asked by Streetsblog if bike lanes contributed to increased response times they said\nit was all in the report, i.e. the congestion.\n\nKey quote ...\n\n> “Traffic in New York City is becoming more and more of a challenge for New York City firefighters,” Steve Cassidy, the\n> then-union president ...\n\n#### Source\n\n* [pdf](/images/news/2019-streetsblog-fdny-traffic-is-the-problem.pdf)\n\n* [orignal link](https://nyc.streetsblog.org/2019/09/19/fdny-traffic-not-bike-lanes-is-to-blame-for-increased-response-times)","excerpt":"From 2015 to 2019 FDNY response times were up 8.6%. In the annual NYC management report the fire department attributes the slower emergency response times to increased congestion, more cars on th…"},{"id":"news-2019-06-08-cbc-bike-lanes-good-for-business","title":"Love them or hate them, research offers financial case for big city bike lanes, CBC","date":"2019-06-08","categories":["In the news","Business"],"tags":["CBC","NYC","Salt Lake City","Toronto","Vancouver","Chicago","SF","Portland"],"content":"Covers the studies demonstrating retail sales, jobs, and property value gains from bike lanes. Pulls from over two dozen\ndifferent sources for stats and quotes.\n\nKey quote ...\n\n> Outside of health and environmental claims, there are also business arguments related to bike lanes for their role in\n> helping combat traffic congestion, and freeing up parking space for development.\n\n#### Source\n\n* [pdf](/images/news/2019-cbc-good-for-business.pdf)\n* [original link](https://www.cbc.ca/news/business/biking-lanes-business-health-1.5165954)","excerpt":"Covers the studies demonstrating retail sales, jobs, and property value gains from bike lanes. Pulls from over two dozen different sources for stats and quotes."},{"id":"news-2019-05-29-streetsblog-separate-bike-lanes-safe","title":"Separated Bike Lanes Means Safer Streets, Study Says, Streetsblog","date":"2019-05-29","categories":["In the news","Safety"],"tags":["Streetsblog","Denver","Portland","Dallas","Seattle","San Francisco","Kansas City","Chicago","Oklahoma City","Memphis","Minneapolis","Austin","SF"],"content":"Covers University of Colorado research on safety benefits of protected bike lanes across 12 US metros.\n\n* protected bike lanes improve safety for cyclists and drivers alike\n  * 44% reduction in deaths\n  * 50% reduction in injuries\n* painted bike lanes provide no safety benefits\n* _sharrows actually reduced safety_ for bikers\n\nSome standouts in terms of reductions in fatality rates over the 13 year period\n\n| City          | Fatality reduction |\n|:--------------|:------------------:|\n| Portland      |       75.0%        |\n| Seattle       |       60.6%        |\n| San Francisco |       49.3%        |\n| Denver        |       40.3%        |\n| Chicago       |       38.2%        |\n\nKey quote ...\n\n> After analyzing traffic crash data over a 13-year period in areas with separated bike lanes on city streets,\n> researches (sic) estimated that having a protected bike facility in a city would result in 44 percent fewer deaths and\n> 50 percent fewer serous injuries than an average city.\n\n#### Source\n\nSeparated Bike Lanes Means Safer Streets, Study Says, 2019\n\n* [pdf](/images/news/2019-streetsblog-protect-bike-safety.pdf)\n\n* [orignal link](https://usa.streetsblog.org/2019/05/29/protect-yourself-separated-bike-lanes-means-safer-streets-study-says)","excerpt":"Covers University of Colorado research on safety benefits of protected bike lanes across 12 US metros."},{"id":"news-2018-10-05-wef-copenhagen-best-bike-city","title":"What makes Copenhagen the world's most bike-friendly city?, World Economic Forum","date":"2018-10-05","categories":["In the news","Environment"],"tags":["World Economic Forum","Copenhagen"],"content":"As Copenhagen's protected bike network grows, cyclists feel safer, and ridership grows. Government estimates are that\neach new protected route yields 15-20% more riders. From 2006 to 2016 there's been a 22% increase in kilometres covered\nby bike (1.4 _million_ km in 2016). Around 62% of commutes for those that live and work in Copenhagen are by bike.\n\n![safer routes means more cycling in copenhagen](/images/img/news/2018-wef-copenhagen-risk-vs-ridership.png)\n\nKey quote ...\n\n> One of the main reasons for the popularity of cycling in Denmark is the network of paths, including innovative\n> bridges, which form cycling superhighways across the city. This is perhaps the key to understanding why Copenhagen is\n> also one of the safest places to be a cyclist.\n\n#### Source\n\n* [pdf](/images/news/2018-wef-copenhagen-best-bike-city.pdf)\n* [original link](https://www.weforum.org/agenda/2018/10/what-makes-copenhagen-the-worlds-most-bike-friendly-city/)","excerpt":"As Copenhagen's protected bike network grows, cyclists feel safer, and ridership grows. Government estimates are that each new protected route yields 15-20% more riders. From 2006 to 2016 there's…"},{"id":"news-2018-06-25-cph-post-value-of-biking","title":"More investment needed in Copenhagen cycling infrastructure, review suggests, CPHpost","date":"2018-06-25","categories":["In the news"],"tags":["CPHpost","Copenhagen"],"content":"Danish government estimates that 1 km of biking in Copenhagen creates 4.80 kroner (~ $1 per mile) in economic value. If\nthat trip by bike replaced a car trip the economic value goes up to 10.09 kroner per km (~ $2.10 per mile). In 2017,\n43% of work commutes in the city were taken by bike, so this value estimate is across _a lot_ of kilometers of biking.\n\n#### Source\n\n* [pdf](/images/news/2018-cph-post-value-of-biking.pdf)\n* [original link](https://cphpost.dk/2018-06-25/news/more-investment-needed-in-copenhagen-cycling-infrastructure-review-suggests/)","excerpt":"Danish government estimates that 1 km of biking in Copenhagen creates 4.80 kroner ( $1 per mile) in economic value. If that trip by bike replaced a car trip the economic value goes up to 10.09 kr…"},{"id":"safety-2018-04-20-sharrows-are-worse-than-nothing","title":"Sharrows actually increase danger to bikers","date":"2018-04-20","categories":["Safety"],"tags":["Chicago"],"content":"Crash data from Chicago 2011 - 2014 shows that streets with sharrows have _increased cyclist injury rates_. Cities would\nbe _better off not painting sharrows_ and leaving the street without any markings at all.\n\n#### Source\n\n* Advancing healthy cities through safer cycling: An examination of shared lane markings, 2019\n  * [pdf](/images/research/2019-sharrows-are-harmful.pdf)","excerpt":"Crash data from Chicago 2011 - 2014 shows that streets with sharrows have increased cyclist injury rates. Cities would be better off not painting sharrows and leaving the street without any marki…"},{"id":"environment-2016-10-17-seville-ridership-boom","title":"On the effect of networks of cycle-tracks on the risk of cycling. The case of Seville","date":"2016-10-17","categories":["Environment","Safety"],"tags":["Spain"],"content":"Seville, Spain built a full protected bike lane network and saw ridership increase > 400% and the risk of bike and car\ncrashes decline > 60%. The share of total trips taken in the area went from near 0% by bike to almost 9%, a mode shift\nsize that's hard to overstate.\n\n#### Source\n\nOn the effect of networks of cycle-tracks on the risk of cycling. The case of Seville, 2016\n\n* [pre-print pdf](/images/research/2016-seville-ridership.pdf)\n* [published paper link (paywalled)](https://www.sciencedirect.com/science/article/abs/pii/S0001457517301021?via%3Dihub)","excerpt":"Seville, Spain built a full protected bike lane network and saw ridership increase 400% and the risk of bike and car crashes decline 60%. The share of total trips taken in the area went from near…"},{"id":"safety-2016-03-01-fhwa-first-responders","title":"FHWA says road diets are good for emergency response times","date":"2016-03-01","categories":["Safety"],"tags":["FHWA","Ocean City","Woodbury","NJ","First responders"],"content":"Converting two-way four lane roads to two travel lanes with center left turn lane not only reduces crashes 19-47%, but\ncan also _improve emergency response times_. Case studies from Ocean City, NJ and Woodbury, NJ demonstrate this; the\nformer's road diet also included a buffered bike lane in the design.\n\nDiagram of the minimum road diet considered.\n\n![4 lanes to 2 with a suicide lane](/images/img/safety/2016-fhwa-first-responder.png)\n\nThe post road diet designs make driver behavior more predictable, safer, and with much less speeding. All road users are\nbetter accounted for. These combine to make a more easily navigable street for first responders.\n\nKey quote ...\n\n> The new configuration is leaps and bounds safer.\n>\n> - Brian Hopely, Police Traffic Sergeant, Ocean City Police\n\n#### Sources\n\nRoad Diets and Emergency Response: Friends, Not Foes\n\n- [pdf](/images/research/2016-fhwa-road-diet-response-times.pdf)\n- [original link](https://safety.fhwa.dot.gov/road_diets/resources/pdf/fhwasa17020.pdf)","excerpt":"Converting two-way four lane roads to two travel lanes with center left turn lane not only reduces crashes 19-47%, but can also improve emergency response times. Case studies from Ocean City, NJ …"},{"id":"biz-2016-03-01-active-transportation-real-estate","title":"Active Transportation and Real Estate, Urban Land Institute","date":"2016-03-01","categories":["Business"],"tags":["Indianapolis","Minneapolis","Dallas","Radnor"],"content":"Protected bike lanes are good for property values\n\n* _Indianapolis_ (2014): the 1800 properties within 500 ft of 8 mile bike trail up in value by 148%, $1 billion in value\n* _Dallas_: 3.5 mile trail opened in 2006 through Uptown neighborhood, nearby property values up 80%\n* _Radnor, PA_ (2011): properties along a 1/4 mile bike trail valued on avg $69k higher\n* _Minneapolis_: every 1,300 ft closer to a separated bike lane increases a property's value by $510\n* _Nationally_ (2009): properties in above average walkability or bikability areas worth $34k more\n\n_Source_: [Active Transportation and Real Estate](/images/research/2016-active-transportation-real-estate.pdf), Urban\nLand Institute, 2016","excerpt":"Protected bike lanes are good for property values"},{"id":"news-2015-10-06-streetsblog-salt-lake-bike-lanes","title":"Salt Lake City Cuts Car Parking, Adds Bike Lanes, Sees Retail Boost, Streetsblog","date":"2015-10-06","categories":["In the news"],"tags":["Streetsblog","Salt Lake City"],"content":"Salt Lake City removed 30% of parking on Broadway and that stretch saw retail sales outperform the rest of the city by\n~25%. The road diet converted angled parking to parallel parking to create the space for 9 blocks of protected bike\nlanes.\n\nWhen all was said and done, the business owners loved it and attribute their business growth to the street redesign.\n\n![img.png](/images/img/streetsblog-2015-slc.png)\n\nKey quote ...\n\n> \"Both customers and employees love the bike lanes,\" Jeff Telicson, manager of the Copper Onion restaurant, told the\n> city. \"We need more bike parking!\"\n\n#### Source\n\n* [pdf](/images/news/2015-streetsblog-slc.pdf)\n\n* [orignal link](https://usa.streetsblog.org/2015/10/06/salt-lake-city-cuts-car-parking-adds-bike-lanes-sees-retail-boost)","excerpt":"Salt Lake City removed 30% of parking on Broadway and that stretch saw retail sales outperform the rest of the city by 25%. The road diet converted angled parking to parallel parking to create th…"},{"id":"news-2015-03-13-citylab-biz-case-parking-to-bike-lanes","title":"The Complete Business Case for Converting Street Parking Into Bike Lanes, CityLab","date":"2015-03-13","categories":["In the news"],"tags":["CityLab","Portland","NYC","New Zealand","Dublin","LA","Toronto","SF","Seattle","Davis","CA","UK","Austria","Melbourne"],"content":"A review of 12 studies related to bike lanes and business. Key takeways are that shoppers by bike spend at least as much\nas drivers since they return more often, business owners consistently underestimate the share of customers who arrive by\nbike, and business owners often overestimate how far away their customers live. As a result, protected bike lanes are\nlikely good for business.\n\nKey quote ...\n\n> While cyclists tend to spend less per shopping trip than drivers, they also tend to make more trips, pumping more\n> total money into the local economy over time.\n\n#### Source\n\n* [pdf](/images/news/2015-city-lab-good-for-business.pdf)\n\n* [original link](https://www.bloomberg.com/news/articles/2015-03-13/every-study-ever-conducted-on-the-impact-converting-street-parking-into-bike-lanes-has-on-businesses)","excerpt":"A review of 12 studies related to bike lanes and business. Key takeways are that shoppers by bike spend at least as much as drivers since they return more often, business owners consistently unde…"},{"id":"news-2014-09-08-vox-bike-lane-travel-times","title":"Bike lanes have actually sped up car traffic in New York City, Vox","date":"2014-09-08","categories":["In the news"],"tags":["Vox","NYC"],"content":"Narrowing travel lanes and building protected bike lanes both _reduced cyclist risk by roughly half_ and _rush hour car\ntravel times declined by 35%_. Removing parking for the \"pocket lane\" for car left turns is an innovation in the parking\nprotected bike lane design that helped with travel times.\n\n#### Source\n\n* [pdf](/images/news/2014-vox-bike-lane-travel-times.pdf)\n* [original link](https://www.vox.com/2014/9/8/6121129/bike-lanes-traffic-new-york)","excerpt":"Narrowing travel lanes and building protected bike lanes both reduced cyclist risk by roughly half and rush hour car travel times declined by 35%. Removing parking for the \"pocket lane\" for car l…"},{"id":"safety-2014-09-01-pbl-analysis","title":"NYC Protected Bike Lane Analysis, NYC DOT","date":"2014-09-01","categories":["Safety"],"tags":["NYC"],"content":"3 years of data from protected bike lane implementations around NYC show reduction of injuries for all road users.\nEveryone, drivers and their passengers included, are injured in crashes less often when streets have protected bike\nlanes.\n\n![everyone is safer in nyc thanks to pbls](/images/img/2014-09-nyc-pbl/injury-plot.png)\n\nThis study also shows that from 2001 to 2013, a 75% reduction in cycling risk.\n\n_Source_: [NYC Protected Bike Lane Analysis](/images/research/2014-09-nyc-pbl-analysis.pdf), NYC DOT, 2014","excerpt":"3 years of data from protected bike lane implementations around NYC show reduction of injuries for all road users. Everyone, drivers and their passengers included, are injured in crashes less oft…"},{"id":"environment-2014-09-01-pbl-analysis","title":"NYC Protected Bike Lane Analysis, NYC DOT","date":"2014-09-01","categories":["Environment"],"tags":["NYC"],"content":"NYC DOT studied different protected bike lane segments around Manhattan. They found that protected bike lanes often\ndramatically increase ridership. Over a 6 month stretch ...\n\n  | Route                     | Bike volume change %      |\n  |:--------------------------|:-------------------------:|\n  | 1st Ave                   | 160%                      |\n  | 2nd Ave (2nd - 14th St)   | 49%                       |\n  | 2nd Ave (23rd - 34th St)  | 60%                       |\n  | 8th Ave                   | 9%                        |\n  | 9th Ave                   | 65%                       |\n  | Broadway (18th - 23rd St) | 28%                       |\n  | Broadway (47th - 59th St) | 108%                      |\n  | Columbus Ave              | 51%                       |\n\n_Source_: [NYC Protected Bike Lane Analysis](/images/research/2014-09-nyc-pbl-analysis.pdf), NYC DOT, 2014","excerpt":"NYC DOT studied different protected bike lane segments around Manhattan. They found that protected bike lanes often dramatically increase ridership. Over a 6 month stretch ..."},{"id":"news-2014-08-14-riding-on-sidewalk","title":"Tired of Cyclists Riding on the Sidewalk? Build More Bike Lanes, CityLab","date":"2014-08-14","categories":["In the news"],"tags":["CityLab","NYC","Denver","DC"],"content":"When bike lanes are present riding on the sidewalk declines dramatically, on average ~56%, even when ridership goes up.\nIn one case sidewalk riding went down 81% despite bike volume going up 190%.\n\n![bike ridership up, sidewalk riding down](/images/img/news/2014-citylab-sidewalk-riding.png)\n\nKey quote ...\n\n> \"The reason that cyclists use the sidewalks is that they don't want to die,\" wrote the District's John Glad.\n> \"If and when they are provided with dedicated bike lanes that are not accessible to drivers, they will be only too\n> happy to use them.\"\n\n#### Source\n\n* [pdf](/images/news/2014-citylab-riding-on-sidewalk.pdf)\n* [original link](https://www.bloomberg.com/news/articles/2014-08-14/tired-of-cyclists-riding-on-the-sidewalk-build-more-bike-lanes)","excerpt":"When bike lanes are present riding on the sidewalk declines dramatically, on average 56%, even when ridership goes up. In one case sidewalk riding went down 81% despite bike volume going up 190%."},{"id":"safety-2014-06-01-pdx-lessons-from-green-lanes","title":"Lessons from the Green Lanes: Evaluating Protected Bike Lanes in the US","date":"2014-06-01","categories":["Safety","Environment","Business"],"tags":["Portland","Austin","Chicago","SF","DC"],"content":"Using video to count cyclists researchers found protected bike routes increased ridership from 21% - 171%. Survey data\ndata indicates that 10% of those riders came from other modes of transportation. Overall 91% of survey respondents from\nall modes, e.g. cyclists, pedestrians, and drivers, agreed that separating bike traffic from cars was desirable. Both\ncyclists and pedestrians said they frequent businesses more often after the bike lanes were installed.\n\nResearchers also found that\n\n* 96% of all road users believed protected bike lanes improve safety\n* 33% of pedestrians believed protected bike lanes improved their safety compared to 13% who thought safety declined\n* 25% of cyclists ride more frequently after protected bike lanes were added\n* the more physical separation between bike lane and traffic, the more positive the feedback\n* planters, flexposts, buffers, etc were all received more positively by road users than paint only designs\n* 3x as many respondents said protected bike lanes made the neighborhood _more desirable_ (43% vs 14%)\n* _20% of cyclists and pedestrians said they frequent businesses more often after bike lanes were installed_\n  * compared to only 1% and 6% said they went less often\n\n_Source_: [Lessons from the Green Lanes: Evaluating Protected Bike Lanes in the US](/images/research/2014-06-pdx-lessons-green-lanes.pdf),\n2014","excerpt":"Using video to count cyclists researchers found protected bike routes increased ridership from 21% - 171%. Survey data data indicates that 10% of those riders came from other modes of transportat…"},{"id":"news-2013-09-10-citylab-bike-lanes-retail","title":"No, Bike Lanes Don't Hurt Retail Business, CityLab","date":"2013-09-10","categories":["In the news"],"tags":["CityLab","Seattle"],"content":"Covers research of Kyle Rowe at University of Washington. The conclusion is that bike lanes don't hurt\nlocal business; may actually be good.\n\nKey quote ...\n\n> After the city removed 65th Street's 12 parking spots and striped a bike lane there instead, the sales index in the\n> corridor exploded 400 percent.\n\n#### Source\n\n* [pdf](/images/news/2013-citylab-bikes-biz.pdf)\n\n* [orignal link](https://www.bloomberg.com/news/articles/2013-09-10/no-bike-lanes-don-t-hurt-retail-business)","excerpt":"Covers research of Kyle Rowe at University of Washington. The conclusion is that bike lanes don't hurt local business; may actually be good."},{"id":"news-2012-12-05-citylab-cyclists-spend-more","title":"Cyclists and Pedestrians Can End Up Spending More Each Month Than Drivers, CityLab","date":"2012-12-05","categories":["In the news"],"tags":["CityLab","Portland"],"content":"Covers research out of Portland demonstrating that pedestrians and cyclists, by virtue of being more loyal/frequent\ncustomers, spend more per month than drivers\n\nKey quote ...\n\n> Walkable (and bikeable) communities by definition facilitate a more frequent interaction between patrons and\n> businesses. This means these bikers and pedestrians are also more regular customers.\n\n#### Source\n\n* [pdf](/images/news/2012-citylab-pedestrians-bikes-spending.pdf)\n\n* [orignal link](https://www.bloomberg.com/news/articles/2012-12-05/cyclists-and-pedestrians-can-end-up-spending-more-each-month-than-drivers)","excerpt":"Covers research out of Portland demonstrating that pedestrians and cyclists, by virtue of being more loyal/frequent customers, spend more per month than drivers"},{"id":"safety-2012-12-01-route-infrastructure-bicyclist-risk","title":"Route Infrastructure and the Risk of Injuries to Bicyclists: A Case-Crossover Study","date":"2012-12-01","categories":["Safety"],"tags":["Toronto","Vancouver"],"content":"Investigation of bicyclist injuries in Vancouver and Toronto show risk of injury is ~90% lower on streets with\nprotected bike lanes compared to those no bike infrastructure.\n\n_Source_: [Route Infrastructure and the Risk of Injuries to Bicyclists: A Case-Crossover Study](/images/research/2012-12-route-infrastructure-bicyclist-risk.pdf),\n2012","excerpt":"Investigation of bicyclist injuries in Vancouver and Toronto show risk of injury is 90% lower on streets with protected bike lanes compared to those no bike infrastructure."},{"id":"safety-2012-10-01-measuring-street","title":"Measuring the street, NYC DOT","date":"2012-10-01","categories":["Safety"],"tags":["NYC"],"content":"Protected bike lanes decreased injuries for _all_ road users.\n\n* 8th Ave: 35% reduction\n* 9th Ave: 58% reduction\n\n_Source_: [Measuring the street](assets/research/2012-10-measuring-the-street.pdf), NYC DOT, 2012","excerpt":"Protected bike lanes decreased injuries for all road users."},{"id":"biz-2012-10-01-measuring-street","title":"Measuring the street, NYC DOT","date":"2012-10-01","categories":["Business"],"tags":["NYC"],"content":"NYC DOT studied the impact of different redesigns on local businesses. The conclusion: protected bike lanes are good for\nbusiness, maybe even great.\n\n* 9th Ave protected bike lane\n\n  * retail sales up 49% after\n\n  * rest of Manhattan up only 3%\n\n* Union Square redesign (with protected bike lanes)\n\n  * retail vacancies down 49%\n\n  * rest of Manhattan vacancies down only 5%\n\n_Source_: [Measuring the street](/images/research/2012-10-measuring-the-street.pdf), NYC DOT, 2012","excerpt":"NYC DOT studied the impact of different redesigns on local businesses. The conclusion: protected bike lanes are good for business, maybe even great."},{"id":"safety-2012-02-01-evaluation-nz-bike-helmet-law","title":"Evaluation of New Zealand's bicycle helmet law","date":"2012-02-01","categories":["Environment","Safety"],"tags":["New Zealand"],"content":"New Zealand made bike helmets required in 1994. Cycling data from 1988-91 and 2003-07 shows that _average hours biked\nper person in NZ declined 51%_ and overall _injury rates per hour biked increased 20%_. There was a _75% reduction\nin biking for children_ 5-17 years old.\n\nDecline in hours cycled data\n\n![nz decline in hours cycled pre/post bike helmet law](/images/img/environment/2012-nz-helmet-hours-cycled.png)\n\nInjury data\n\n![raw injury data pre/post bike helmet law](/images/img/environment/2012-nz-helmet-injury-table.png)\n\n_Source_: [Evaluation of New Zealand's bicycle helmet law](/images/research/2012-02-evaluation-nz-bike-helmet.pdf), 2012","excerpt":"New Zealand made bike helmets required in 1994. Cycling data from 1988-91 and 2003-07 shows that average hours biked per person in NZ declined 51% and overall injury rates per hour biked increase…"},{"id":"safety-2011-03-21-nyc-memorandum-bike-safety","title":"NYC Deputy Mayor Howard Wolfson's memorandum on bike lane safety benefits","date":"2011-03-21","categories":["Safety","Environment"],"tags":["NYC"],"content":"Then deputy mayor writes a memorandum on the popularity and safety benefits of bike lanes. The data comes from lessons\nlearned building 255 miles of bike lanes in the prior four years. Some facts ...\n\n* 40-50% decline in injury crashes for all users\n* cycling up more than 2x in the time period\n* 54% of New Yorkers supported more bike lanes because of the health and environmental benefits\n* despite growth in cycling, no increase in bike-pedestrian fatalities\n\n_Source_: [Howard Wolfson 2011 bike lanes memo](/images/research/2011-nyc-wolfson-bike-lanes-memo.pdf)","excerpt":"Then deputy mayor writes a memorandum on the popularity and safety benefits of bike lanes. The data comes from lessons learned building 255 miles of bike lanes in the prior four years. Some facts…"},{"id":"safety-2011-02-08-nyc-green-paint","title":"Evaluation of solid green bicycle lanes","date":"2011-02-08","categories":["Safety"],"tags":["NYC","MUTCD"],"content":"In September 2010 NYC studied the difference between unpainted bike lanes and those painted green. The following results\nwere released in February 2011.\n\n* cars drive in the bike lane\n  * 16% of the time when it's unpainted\n  * 7% of the time when it's painted green\n* bike lanes are obstructed\n  * 7% of the time when unpainted\n  * 4% of the time when painted green\n\nBased upon these results, along with those from over a dozen other cities, MUTCD adopted green paint as an approved\ndesign for bike lanes to enhance safety.\n\n#### Sources\n\n* Evaluation of green bicycle lanes to increase compliance and bicycle safety, 2011\n  * [pdf](/images/research/2011-nyc-green-paint.pdf)\n* MUTCD approval (adoption) of green paint for bike lanes\n  * [pdf](/images/research/mutcd-green-paint.pdf)\n  * [original link](https://mutcd.fhwa.dot.gov/resources/interim_approval/ia14/)","excerpt":"In September 2010 NYC studied the difference between unpainted bike lanes and those painted green. The following results were released in February 2011."},{"id":"safety-2010-12-01-cycle-track-vs-street","title":"Risk of injury for bicycling on cycle tracks versus in the street","date":"2010-12-01","categories":["Safety"],"tags":["Montreal"],"content":"Bicyclist injury risk is 28% lower on cycle tracks compared to streets without bike infrastructure. Cycle tracks also\nare much more desirable routes seeing 2.5x the bike volume.\n\n_Source_: [Risk of injury for bicycling on cycle tracks versus in the street](/images/research/2010-12-risk-of-injury-on-cycle-tracks-vs-street.pdf),\n2010","excerpt":"Bicyclist injury risk is 28% lower on cycle tracks compared to streets without bike infrastructure. Cycle tracks also are much more desirable routes seeing 2.5x the bike volume."},{"id":"safety-2010-10-01-nz-bike-injuries-and-mode","title":"Injuries to pedal cyclists on New Zealand roads, 1988-2007","date":"2010-10-01","categories":["Environment","Safety"],"tags":["New Zealand"],"content":"From 1989 to 2006 New Zealand's _bicycle mode share reduced from 4% to only 1%_. This coincides with a large increase in\ntransportation by motor vehicle. During that time the _injury rates for cyclists increased 20%_ while declined by 40-50%\nfor all other modes of transportation.\n\nThe injury rates per million hours spent traveling by mode of transportation ...\n\n| Mode              | 1988-91 | 2003-07 | % change |\n|:------------------|:-------:|:-------:|:--------:|\n| Cyclists          |  25.61  |  30.74  |  +20.0%  |\n| Car/van driver    |  4.24   |  2.10   |  -50.5%  |\n| Car/van passenger |  5.64   |  2.89   |  -48.8%  |\n| Motorcyclist      | 185.14  | 107.64  |  -41.9%  |\n| Pedestrian        |  4.29   |  2.38   |  -44.5%  |\n\nIt is suspected that the \"safety in numbers\" effect went away as mode share switched from bikes to cars. It is noted\nthat the NZ passed an all age mandatory helmet law in 1994.\n\n_Source_: [Evaluation of New Zealand's bicycle helmet law](/images/research/2010-10-nz-bike-injuries.pdf), 2010","excerpt":"From 1989 to 2006 New Zealand's bicycle mode share reduced from 4% to only 1%. This coincides with a large increase in transportation by motor vehicle. During that time the injury rates for cycli…"}];
+var MYTHS = [{"id":"myth-bike-lanes-improve-traffic","title":"Myth: protected bike lanes make traffic worse","content":"Fact: Protected bike lanes _reduce_ car travel times\n\n![cars go faster with PBLs](/images/img/2014-09-nyc-pbl/travel-time-columbus.png)\n\n![cars go faster with PBLs](/images/img/2014-09-nyc-pbl/travel-time-8th.png)\n\n_Source_: [NYC Protected Bike Lane Analysis](/images/research/2014-09-nyc-pbl-analysis.pdf), NYC DOT, 2014"},{"id":"myth-bikes-income-inequality","title":"Myth: biking, just a hobby for the wealthy","content":"Fact: Lower income people are more likely to bike or walk to work\n\nFor many people biking and going for walks is far from a hobby, but instead how they get to work. The Census Bureau's\nAmerican Community Survey confirms this and also shows that these people skew lower income.\n\n![walk or bike to work](/images/img/myth-busting/census-acs-bike-income.png)\n\nThis result shouldn't be surprising given that the _cost of car ownership is now over $1,000 per month_ according to\nAAA.\n\n#### Source\n\n* Low-Income Americans Walk and Bike to Work the Most\n  * [pdf](/images/news/2014-streetsblog-income-biking.pdf)\n  * [original link](https://usa.streetsblog.org/2014/05/08/low-income-americans-walk-and-bike-to-work-the-most)\n\n* What Is the Total Cost of Owning a Car?\n  * [pdf](/images/news/2024-nerd-wallet-cost-car-ownership.pdf)\n  * [original link](https://www.nerdwallet.com/article/loans/auto-loans/total-cost-owning-car)"},{"id":"myth-short-car-trips","title":"Myth: most car trips are too far for a bike","content":"Fact: ~27% of car trips are under 3 miles ...\n\n... and in 2017, ~60% were less than 6 miles.\n\n![histogram of trip length](/images/img/myth-busting/trip-length-histogram.png)\n\nFrom the data in the FHWA funded [National Household Travel Survey](https://nhts.ornl.gov/) we see how infrequent long\ncar trips really are.\n\n| Trip distance       | % of trips |\n|:--------------------|:----------:|\n| Less than 0.5 miles |    3.8%    |\n| 1 mile              |   12.6%    |\n| 2 miles             |   11.3%    |\n| 3 miles             |   10.7%    |\n| 4 miles             |    7.5%    |\n| 5 miles             |    5.8%    |\n| 6 - 10 miles        |   19.7%    |\n| 11 - 15 miles       |    9.8%    |\n| 16 - 20 miles       |    6.0%    |\n| 21 - 30 miles       |    6.0%    |\n| 31+ miles           |    6.9%    |\n| Unknown             | 0.0% |\n\nMany car trips are short local drives that are well within biking distance especially when the growing popularity of\ne-bikes is factored in.\n\n_Source_: [FOTW #1042, August 13, 2018: In 2017 Nearly 60% of All Vehicle Trips Were Less than Six Miles](https://www.energy.gov/eere/vehicles/articles/fotw-1042-august-13-2018-2017-nearly-60-all-vehicle-trips-were-less-six)"}];
+
+// ─── Category config ─────────────────────────────────────────────────────────
+var CATS = {
+  'safety':       'var(--orange)',
+  'business':     'var(--gold)',
+  'environment':  'var(--green)',
+  'in the news':  'var(--blue)',
+  'myth busting': 'var(--purple)',
+};
+
+function catColor(cats) {
+  if (!cats || !cats.length) return 'var(--orange)';
+  return CATS[cats[0].toLowerCase()] || 'var(--orange)';
+}
+
+var MONTHS = 'Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec'.split(' ');
+function fmtDate(d) {
+  if (!d) return '';
+  var p = d.split('-');
+  if (p.length < 3) return d;
+  return MONTHS[parseInt(p[1]) - 1] + ' ' + parseInt(p[2]) + ', ' + p[0];
+}
+
+function esc(s) {
+  return String(s||'')
+    .replace(/&/g,'&amp;').replace(/</g,'&lt;')
+    .replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
+// ─── State ───────────────────────────────────────────────────────────────────
+var filter = 'all';
+var search = '';
+
+function matches(post) {
+  var cats = (post.categories||[]).map(function(c){return c.toLowerCase();});
+  var ok = false;
+  if (filter === 'all') ok = true;
+  else if (filter === 'safety')      ok = cats.indexOf('safety') > -1;
+  else if (filter === 'business')    ok = cats.indexOf('business') > -1;
+  else if (filter === 'environment') ok = cats.indexOf('environment') > -1;
+  else if (filter === 'news')        ok = cats.indexOf('in the news') > -1;
+  if (!ok) return false;
+  if (!search) return true;
+  var q = search.toLowerCase();
+  return [post.title, post.excerpt].concat(post.tags||[]).concat(post.categories||[])
+    .some(function(f){ return f && f.toLowerCase().indexOf(q) > -1; });
+}
+
+// ─── Counts ──────────────────────────────────────────────────────────────────
+function setCounts() {
+  var c = {all:0, safety:0, business:0, environment:0, news:0};
+  POSTS.forEach(function(p){
+    c.all++;
+    (p.categories||[]).forEach(function(cat){
+      var lc = cat.toLowerCase();
+      if (lc==='safety')      c.safety++;
+      if (lc==='business')    c.business++;
+      if (lc==='environment') c.environment++;
+      if (lc==='in the news') c.news++;
+    });
+  });
+  Object.keys(c).forEach(function(k){
+    var el = document.getElementById('cnt-'+k);
+    if (el) el.textContent = c[k];
+  });
+}
+
+// ─── Grid ────────────────────────────────────────────────────────────────────
+function renderGrid() {
+  var grid = document.getElementById('grid');
+  var items = POSTS.filter(matches);
+  if (!items.length) {
+    grid.innerHTML = '<div class="empty">No posts found.</div>';
+    return;
+  }
+  grid.innerHTML = items.map(function(post, i) {
+    var color  = catColor(post.categories);
+    var label  = (post.categories && post.categories.length) ? post.categories[0] : '';
+    var delay  = (Math.min(i, 9) * 0.04).toFixed(2);
+    var tags   = (post.tags||[]).slice(0,4).map(function(t){
+      return '<span class="tag">'+esc(t)+'</span>';
+    }).join('');
+    return '<article class="card" style="--cc:'+color+';animation-delay:'+delay+'s" ' +
+      'onclick="openPost('+JSON.stringify(post.id)+')">' +
+      '<div class="card-top">' +
+        '<span class="card-cat">'+esc(label)+'</span>' +
+        '<span class="card-date">'+esc(fmtDate(post.date))+'</span>' +
+      '</div>' +
+      '<h2 class="card-title">'+esc(post.title)+'</h2>' +
+      (post.excerpt ? '<p class="card-exc">'+esc(post.excerpt)+'</p>' : '') +
+      (tags ? '<div class="card-tags">'+tags+'</div>' : '') +
+      '</article>';
+  }).join('');
+}
+
+// ─── Myths ───────────────────────────────────────────────────────────────────
+function renderMyths() {
+  var g = document.getElementById('myths-grid');
+  g.innerHTML = MYTHS.map(function(m) {
+    var sub = m.title.replace(/^Myth:s*/i, '');
+    var fact = '';
+    var lines = (m.content||'').split('\n');
+    for (var i=0; i<lines.length; i++) {
+      var l = lines[i].replace(/[*_]/g,'').trim();
+      if (l.length > 10) { fact = l; break; }
+    }
+    return '<div class="mcard" onclick="openMyth('+JSON.stringify(m.id)+')">' +
+      '<div class="mbar"><span class="mlbl">Myth</span><span class="mx">&#x2715;</span></div>' +
+      '<div class="mbody">' +
+        '<p class="mq">&ldquo;'+esc(sub)+'&rdquo;</p>' +
+        '<p class="mf">'+esc(fact)+'</p>' +
+      '</div></div>';
+  }).join('');
+}
+
+// ─── Modal ───────────────────────────────────────────────────────────────────
+function showModal(title, date, cats, tags, content) {
+  var ov = document.getElementById('ov');
+  document.getElementById('mcats').innerHTML = (cats||[]).map(function(c) {
+    var col = CATS[c.toLowerCase()] || 'var(--orange)';
+    return '<span class="mcat-badge" style="background:'+col+'22;color:'+col+'">'+esc(c)+'</span>';
+  }).join('');
+  document.getElementById('mtitle').textContent = title;
+  document.getElementById('mdate').textContent  = fmtDate(date);
+  var html = (typeof marked !== 'undefined')
+    ? marked.parse(content||'')
+    : '<p>'+esc(content||'').replace(/\n\n/g,'</p><p>')+'</p>';
+  document.getElementById('mbd').innerHTML = '<div class="prose">'+html+'</div>';
+  document.getElementById('mft').innerHTML = (tags||[]).map(function(t){
+    return '<span class="tag">'+esc(t)+'</span>';
+  }).join('');
+  ov.classList.add('open');
+  document.body.style.overflow = 'hidden';
+}
+
+function openPost(id) {
+  var p = POSTS.find(function(x){return x.id===id;});
+  if (p) showModal(p.title, p.date, p.categories, p.tags, p.content);
+}
+function openMyth(id) {
+  var m = MYTHS.find(function(x){return x.id===id;});
+  if (m) showModal(m.title, '', ['Myth Busting'], [], m.content);
+}
+function closeModal() {
+  document.getElementById('ov').classList.remove('open');
+  document.body.style.overflow = '';
+}
+
+function openContact() {
+  document.getElementById('contact-ov').classList.add('open');
+  document.body.style.overflow = 'hidden';
+}
+function closeContact() {
+  document.getElementById('contact-ov').classList.remove('open');
+  document.body.style.overflow = '';
+}
+
+// ─── Events ──────────────────────────────────────────────────────────────────
+document.querySelectorAll('.fbtn').forEach(function(btn) {
+  btn.addEventListener('click', function() {
+    filter = btn.dataset.f;
+    document.querySelectorAll('.fbtn').forEach(function(b){ b.classList.remove('on'); });
+    btn.classList.add('on');
+    renderGrid();
+  });
+});
+
+document.querySelectorAll('.pill[data-f]').forEach(function(btn) {
+  btn.addEventListener('click', function() {
+    filter = btn.dataset.f;
+    document.querySelectorAll('.fbtn').forEach(function(b){
+      b.classList.toggle('on', b.dataset.f === filter);
+    });
+    renderGrid();
+    setTimeout(function(){
+      document.getElementById('posts-anchor').scrollIntoView({behavior:'smooth',block:'start'});
+    }, 60);
+  });
+});
+
+var srch = document.getElementById('srch');
+if (srch) {
+  srch.addEventListener('input', function() {
+    search = srch.value.trim();
+    renderGrid();
+  });
+}
+
+document.getElementById('ov').addEventListener('click', function(e) {
+  if (e.target === this) closeModal();
+});
+document.getElementById('contact-ov').addEventListener('click', function(e) {
+  if (e.target === this) closeContact();
+});
+document.addEventListener('keydown', function(e) {
+  if (e.key === 'Escape') { closeModal(); closeContact(); }
+});
+
+window.addEventListener('scroll', function() {
+  document.getElementById('nav').classList.toggle('up', window.scrollY > 20);
+}, {passive:true});
+
+// ─── Init ────────────────────────────────────────────────────────────────────
+setCounts();
+renderGrid();
+renderMyths();
+</script>
+</body>
+</html>

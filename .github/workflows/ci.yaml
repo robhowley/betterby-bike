@@ -15,3 +15,24 @@ jobs:
         with:
           config: '.markdownlint.yaml'
           args: '**/*.md'
+
+  build:
+    runs-on: ubuntu-latest
+    needs: linting
+
+    steps:
+      - name: check out code
+        uses: actions/checkout@v4
+
+      - name: set up node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: build site
+        run: node build.js
+
+      - name: verify index.html generated
+        run: |
+          test -f index.html && echo "✓ index.html exists"
+          wc -c index.html
