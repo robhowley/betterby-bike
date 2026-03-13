@@ -1,7 +1,4 @@
 .idea
-.sass-cache
-Gemfile.lock
-_site
-.jekyll-metadata
 .pi
 .claude
+.dev
