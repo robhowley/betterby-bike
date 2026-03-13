@@ -1,33 +1,151 @@
----
-title: The bike research cheatsheet
-layout: home
-excerpt: Life is better by bike, here are the receipts.
-paginate: true
-entries_layout: list
----
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Life is better by bike — here are the receipts</title>
+  <meta name="description" content="A cheatsheet of research showing the many ways more biking improves our neighborhoods and cities. Maintained by @BikeSOMa_NJ.">
+  <link rel="icon" href="/images/img/bike-logo-01.png" type="image/png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400..900;1,9..144,400..900&family=Outfit:wght@300;400;500;600;700&family=DM+Mono:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/site.css">
+</head>
+<body>
 
-<div>
-    <p>
-        Bike and safe streets advocates have our work cut out for us. To help, here is a cheatsheet of useful resources
-        showing some of the many ways in which more biking improves our neighborhoods and cities.
-    </p>
-    <p>
-        <i>Maintained by</i>
-            <a class="social-icon" href="https://instagram.com/bikesoma_nj" style="text-decoration:none">
-                <i class="fab fa-instagram" title="Instagram"></i>BikeSOMa_NJ
-            </a>
-    </p>
-    <h1><i>Research topic shortcuts</i></h1>
-</div>
+<!-- NAV -->
+<nav class="nav" id="nav">
+  <a class="nav-brand" href="/">
+    <img class="nav-logo" src="/images/img/bike-logo-01.png" alt="Bike logo">
+    <span class="nav-name">betterby.bike</span>
+  </a>
+  <ul class="nav-links">
+    <li><a href="#myth-busting">Myth Busting</a></li>
+    <li><a id="contact-link">Contact</a></li>
+  </ul>
+</nav>
 
-<div style="text-align: center;">
-    <div style="display: inline-block; float: none; padding-bottom: 10px;">
-        <a href="{{site.baseurl}}/safety" class="btn btn--accent">Safety</a>
-        <a href="{{site.baseurl}}/business" class="btn btn--accent">Business</a>
-        <a href="{{site.baseurl}}/environment" class="btn btn--accent">Environment</a>
-        <a href="{{site.baseurl}}/myth-busting" class="btn btn--accent">Myth busting</a>
-        <a href="{{site.baseurl}}/in-the-news" class="btn btn--accent">In the news</a>
+<!-- HERO -->
+<div class="hero-wrap">
+  <header class="hero">
+    <img class="hero-logo" src="/images/img/bike-logo-01.png" alt="">
+    <h1 class="hero-hed">Life is better<em>by bike.</em></h1>
+    <p class="hero-sub">&#8230; here are the receipts.</p>
+    <p class="hero-desc">Bike and safe streets advocates have our work cut out for us. Here is a cheatsheet of useful resources showing the many ways more biking improves our neighborhoods and cities.</p>
+    <div class="hero-pills">
+      <button class="pill pill-s" data-f="safety">Safety</button>
+      <button class="pill pill-b" data-f="business">Business</button>
+      <button class="pill pill-e" data-f="environment">Environment</button>
+      <button class="pill pill-n" data-f="news">In the news</button>
+      <a class="pill pill-m" href="#myth-busting">Myth busting</a>
     </div>
+  </header>
 </div>
 
-<hr>
+<!-- FILTER BAR -->
+<div class="fbar">
+  <div class="fbar-in">
+    <button class="fbtn on" data-f="all">All <span class="cnt" id="cnt-all"></span></button>
+    <button class="fbtn" data-f="safety">Safety <span class="cnt" id="cnt-safety"></span></button>
+    <button class="fbtn" data-f="business">Business <span class="cnt" id="cnt-business"></span></button>
+    <button class="fbtn" data-f="environment">Environment <span class="cnt" id="cnt-environment"></span></button>
+    <button class="fbtn" data-f="news">In the news <span class="cnt" id="cnt-news"></span></button>
+    <div class="fbar-sp"></div>
+    <div class="srch-wrap">
+      <svg class="srch-ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+        <circle cx="11" cy="11" r="7.5"/><line x1="16.5" y1="16.5" x2="21" y2="21"/>
+      </svg>
+      <input class="srch-in" id="srch" type="search" placeholder="Search&#8230;" autocomplete="off">
+    </div>
+  </div>
+</div>
+
+<!-- POSTS -->
+<main class="posts" id="posts-anchor">
+  <div class="grid" id="grid"></div>
+</main>
+
+<!-- MYTHS -->
+<section class="myths" id="myth-busting">
+  <div class="myths-in">
+    <div class="myths-eye">Myth Busting</div>
+    <h2 class="myths-hed">Setting the record straight.</h2>
+    <div class="myths-grid" id="myths-grid"></div>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer class="footer">
+  <div class="fl">
+    <img src="/images/img/bike-logo-01.png" alt="">
+    <span>Life is better by bike</span>
+  </div>
+  <div class="fr">
+    <span class="fcred">Maintained by <a href="https://instagram.com/bikesoma_nj" target="_blank" rel="noopener">@BikeSOMa_NJ</a></span>
+    <ul class="fsocials">
+      <li>
+        <a href="https://instagram.com/bikesoma_nj" target="_blank" rel="noopener" aria-label="Instagram">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75">
+            <rect x="2" y="2" width="20" height="20" rx="5.5"/>
+            <circle cx="12" cy="12" r="4"/>
+            <circle cx="17.5" cy="6.5" r="1.1" fill="currentColor" stroke="none"/>
+          </svg>
+        </a>
+      </li>
+      <li>
+        <a href="https://www.facebook.com/profile.php?id=61560900343761" target="_blank" rel="noopener" aria-label="Facebook">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75">
+            <path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/>
+          </svg>
+        </a>
+      </li>
+      <li>
+        <a href="https://github.com/robhowley/betterby-bike" target="_blank" rel="noopener" aria-label="GitHub">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75">
+            <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"/>
+          </svg>
+        </a>
+      </li>
+    </ul>
+  </div>
+</footer>
+
+<!-- POST / MYTH MODAL -->
+<div class="ov" id="ov">
+  <div class="modal">
+    <div class="mhd">
+      <div class="mcats" id="mcats"></div>
+      <h2 class="mtitle" id="mtitle"></h2>
+      <div class="mdate" id="mdate"></div>
+      <button class="xbtn" aria-label="Close">&#x2715;</button>
+    </div>
+    <div class="mbd" id="mbd"></div>
+    <div class="mft" id="mft"></div>
+  </div>
+</div>
+
+<!-- CONTACT MODAL -->
+<div class="ov" id="contact-ov">
+  <div class="modal">
+    <div class="mhd">
+      <h2 class="mtitle">Submit research &amp; questions</h2>
+      <button class="xbtn" aria-label="Close">&#x2715;</button>
+    </div>
+    <div class="mbd">
+      <div class="prose">
+        <p>Come across any cool research you want to submit? Send a link to the work along with the tldr on the key results to Bike SOMa NJ.</p>
+        <p>
+          <a href="https://instagram.com/bikesoma_nj" target="_blank" rel="noopener">@BikeSOMa_NJ on Instagram</a><br>
+          <a href="https://www.facebook.com/profile.php?id=61560900343761" target="_blank" rel="noopener">BikeSOMa NJ on Facebook</a><br>
+          <a href="mailto:bike.soma.nj@gmail.com">bike.soma.nj&#64;gmail.com</a>
+        </p>
+        <p>You can be attributed in the subsequent post(s) if desired. All good work deserves a shoutout.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/marked@9/marked.min.js"></script>
+<script type="module" src="/js/main.js"></script>
+</body>
+</html>
