@@ -2,6 +2,7 @@
 title: Measuring the street, NYC DOT
 categories:
   - Safety
+type: gov-report
 tags:
   - NYC
 ---

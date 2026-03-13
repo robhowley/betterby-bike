@@ -1,9 +1,9 @@
 ---
 title: Salt Lake City Cuts Car Parking, Adds Bike Lanes, Sees Retail Boost, Streetsblog
 categories:
-  - In the news
+  - Business
+type: news
 tags:
-  - Streetsblog
   - Salt Lake City
 ---
 

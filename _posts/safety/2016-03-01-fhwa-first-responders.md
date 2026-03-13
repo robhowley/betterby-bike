@@ -2,12 +2,13 @@
 title: "FHWA says road diets are good for emergency response times"
 categories:
   - Safety
+type: gov-report
 tags:
   - FHWA
   - Ocean City
   - Woodbury
   - NJ
-  - First responders
+  - First Responders
 ---
 
 Converting two-way four lane roads to two travel lanes with center left turn lane not only reduces crashes 19-47%, but

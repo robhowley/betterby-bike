@@ -3,6 +3,7 @@ title: On the effect of networks of cycle-tracks on the risk of cycling. The cas
 categories:
   - Environment
   - Safety
+type: study
 tags:
   - Spain
 ---

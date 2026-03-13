@@ -1,9 +1,9 @@
 ---
 title: More investment needed in Copenhagen cycling infrastructure, review suggests, CPHpost
 categories:
-  - In the news
+  - Environment
+type: news
 tags:
-  - CPHpost
   - Copenhagen
 ---
 

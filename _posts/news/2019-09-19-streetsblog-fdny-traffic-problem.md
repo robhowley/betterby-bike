@@ -1,9 +1,9 @@
 ---
 title: "FDNY: Traffic — Not Bike Lanes — is to Blame for Increased Response Times, Streetsblog"
 categories:
-  - In the news
+  - Safety
+type: news
 tags:
-  - Streetsblog
   - NYC
   - First Responders
 ---

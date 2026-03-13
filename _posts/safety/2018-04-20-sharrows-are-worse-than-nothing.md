@@ -2,6 +2,7 @@
 title: Sharrows actually increase danger to bikers
 categories:
   - Safety
+type: study
 tags:
   - Chicago
 ---

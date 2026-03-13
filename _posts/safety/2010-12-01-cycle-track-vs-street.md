@@ -2,6 +2,7 @@
 title: "Risk of injury for bicycling on cycle tracks versus in the street"
 categories:
   - Safety
+type: study
 tags:
   - Montreal
 ---

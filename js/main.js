@@ -1,9 +1,9 @@
-import { POSTS, MYTHS }         from './data.js';
-import { initGrid, renderGrid } from './components/grid.js';
+import { POSTS, MYTHS }           from './data.js';
+import { initGrid, renderGrid }   from './components/grid.js';
 import { initMyths, renderMyths } from './components/myths.js';
-import { initModal }             from './components/modal.js';
-import { initNav }               from './components/nav.js';
-import { setCounts, setFilter, setSearch } from './state.js';
+import { initModal }               from './components/modal.js';
+import { initNav }                 from './components/nav.js';
+import { setCounts, setFilter, setTypeFilter, setSearch } from './state.js';
 
 // ─── Bootstrap ────────────────────────────────────────────────────────────────
 initGrid(POSTS);
@@ -11,11 +11,21 @@ initMyths(MYTHS);
 initNav();
 initModal(POSTS, MYTHS);
 
-// ─── Filter tab clicks ────────────────────────────────────────────────────────
+// ─── Category filter tabs ─────────────────────────────────────────────────────
 document.querySelectorAll('.fbtn').forEach(btn => {
   btn.addEventListener('click', () => {
     setFilter(btn.dataset.f);
     document.querySelectorAll('.fbtn').forEach(b => b.classList.remove('on'));
+    btn.classList.add('on');
+    renderGrid();
+  });
+});
+
+// ─── Type filter tabs ─────────────────────────────────────────────────────────
+document.querySelectorAll('.tbtn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    setTypeFilter(btn.dataset.t);
+    document.querySelectorAll('.tbtn').forEach(b => b.classList.remove('on'));
     btn.classList.add('on');
     renderGrid();
   });

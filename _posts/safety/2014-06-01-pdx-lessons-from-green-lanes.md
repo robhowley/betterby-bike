@@ -4,6 +4,7 @@ categories:
   - Safety
   - Environment
   - Business
+type: study
 tags:
   - Portland
   - Austin

@@ -1,9 +1,9 @@
 ---
 title: The Complete Business Case for Converting Street Parking Into Bike Lanes, CityLab
 categories:
-  - In the news
+  - Business
+type: news
 tags:
-  - CityLab
   - Portland
   - NYC
   - New Zealand

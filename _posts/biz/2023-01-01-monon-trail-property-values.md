@@ -2,6 +2,7 @@
 title: Indiana's Monon Trail raised nearby property values
 categories:
   - Business
+type: study
 tags:
   - Indianapolis
 ---

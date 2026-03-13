@@ -1,10 +1,9 @@
 ---
 title: What makes Copenhagen the world's most bike-friendly city?, World Economic Forum
 categories:
-  - In the news
   - Environment
+type: analysis
 tags:
-  - World Economic Forum
   - Copenhagen
 ---
 

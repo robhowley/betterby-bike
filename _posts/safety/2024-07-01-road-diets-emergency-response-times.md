@@ -2,9 +2,10 @@
 title: Road diets and emergency response times
 categories:
   - Safety
+type: study
 tags:
   - Cedar Rapids
-  - First responders
+  - First Responders
 ---
 
 Cedar Rapids, IA implemented a road diet on four different roads that reduced the number of lanes of traffic. Using

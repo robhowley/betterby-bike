@@ -2,6 +2,7 @@
 title: Traffic Speeds Decrease When Bike Lane is Present
 categories:
   - Safety
+type: study
 tags:
   - Asbury
   - NJ

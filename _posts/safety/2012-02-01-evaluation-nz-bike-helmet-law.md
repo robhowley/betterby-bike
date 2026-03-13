@@ -3,6 +3,7 @@ title: Evaluation of New Zealand's bicycle helmet law
 categories:
   - Environment
   - Safety
+type: study
 tags:
   - New Zealand
 ---

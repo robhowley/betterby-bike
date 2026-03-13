@@ -5,6 +5,7 @@ excerpt: |
   unpainted bike lanes.
 categories:
   - Safety
+type: gov-report
 tags:
   - NYC
   - MUTCD

@@ -1,9 +1,9 @@
 ---
 title: Bike lanes are good for business, Business Insider
 categories:
-  - In the news
+  - Business
+type: news
 tags:
-  - Business Insider
   - NYC
   - Portland
   - SF

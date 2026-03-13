@@ -1,9 +1,9 @@
 ---
 title: Cyclists and Pedestrians Can End Up Spending More Each Month Than Drivers, CityLab
 categories:
-  - In the news
+  - Business
+type: news
 tags:
-  - CityLab
   - Portland
 ---
 

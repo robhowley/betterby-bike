@@ -1,10 +1,9 @@
 ---
 title: More Bostonians are biking as bike lanes boom, but barriers remain, Boston Globe
 categories:
-  - In the news
   - Environment
+type: news
 tags:
-  - Boston Globe
   - Boston
 ---
 

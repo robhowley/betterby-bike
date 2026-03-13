@@ -1,9 +1,9 @@
 ---
 title: Bike lanes have actually sped up car traffic in New York City, Vox
 categories:
-  - In the news
+  - Safety
+type: news
 tags:
-  - Vox
   - NYC
 ---
 

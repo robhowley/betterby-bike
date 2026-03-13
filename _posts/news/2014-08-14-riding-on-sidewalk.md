@@ -1,9 +1,9 @@
 ---
 title: Tired of Cyclists Riding on the Sidewalk? Build More Bike Lanes, CityLab
 categories:
-  - In the news
+  - Safety
+type: news
 tags:
-  - CityLab
   - NYC
   - Denver
   - DC

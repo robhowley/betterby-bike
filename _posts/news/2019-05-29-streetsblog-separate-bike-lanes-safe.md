@@ -1,22 +1,20 @@
 ---
 title: Separated Bike Lanes Means Safer Streets, Study Says, Streetsblog
 categories:
-  - In the news
   - Safety
+type: news
 tags:
-  - Streetsblog
   - Denver
   - Portland
   - Dallas
   - Seattle
-  - San Francisco
+  - SF
   - Kansas City
   - Chicago
   - Oklahoma City
   - Memphis
   - Minneapolis
   - Austin
-  - SF
 ---
 
 Covers University of Colorado research on safety benefits of protected bike lanes across 12 US metros.
