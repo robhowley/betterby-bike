@@ -3,6 +3,7 @@ title: NYC Deputy Mayor Howard Wolfson's memorandum on bike lane safety benefits
 categories:
   - Safety
   - Environment
+type: gov-report
 tags:
   - NYC
 ---

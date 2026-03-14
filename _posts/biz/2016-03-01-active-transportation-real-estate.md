@@ -2,6 +2,7 @@
 title: "Active Transportation and Real Estate, Urban Land Institute"
 categories:
   - Business
+type: analysis
 tags:
   - Indianapolis
   - Minneapolis

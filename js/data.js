@@ -5,11 +5,10 @@ export const POSTS = [
     "title": "More Bostonians are biking as bike lanes boom, but barriers remain, Boston Globe",
     "date": "2024-08-05",
     "categories": [
-      "In the news",
       "Environment"
     ],
+    "type": "news",
     "tags": [
-      "Boston Globe",
       "Boston"
     ],
     "content": "Boston has set a goal to have every resident within 3 minutes of a protected bike route. Progress since 2021 has shown\nand increase in ridership with more and more people interviewed saying they're opting for their bike instead of car.\nRidership increases are attributed to increased sense of safety while riding.\n\nKey quote ...\n\n> Bikers interviewed by the Globe said new bike lanes across the city have made them feel safer and even allowed some to\n> opt for biking instead of driving to work, day care, the grocery store, and to run other errands or visit friends.\n\n#### Source\n\n* [pdf](/images/news/2024-boston-globe-bike-boom.pdf)\n* [original link](https://www.boston.com/news/the-boston-globe/2024/08/05/more-bostonians-are-biking-as-bike-lanes-boom-but-barriers-remain/)",
@@ -22,9 +21,10 @@ export const POSTS = [
     "categories": [
       "Safety"
     ],
+    "type": "study",
     "tags": [
       "Cedar Rapids",
-      "First responders"
+      "First Responders"
     ],
     "content": "Cedar Rapids, IA implemented a road diet on four different roads that reduced the number of lanes of traffic. Using\npre/post data, researchers found that there was _no difference in emergency response times_. Over half the EMS\nrespondents in the follow up survey said the changes had either no impact or a positive impact on response times.\n\n![no change in response times error bars](/images/img/safety/iowa-ems-response-times.png)\n\n_Source_: [Impact of 4-to-3 lane conversions on emergency response](/images/research/2024-07-road-diets-ems.pdf)",
     "excerpt": "Cedar Rapids, IA implemented a road diet on four different roads that reduced the number of lanes of traffic. Using pre/post data, researchers found that there was no difference in emergency resp…"
@@ -36,6 +36,7 @@ export const POSTS = [
     "categories": [
       "Safety"
     ],
+    "type": "study",
     "tags": [
       "Asbury",
       "NJ"
@@ -48,10 +49,10 @@ export const POSTS = [
     "title": "Bike lanes are good for business, Business Insider",
     "date": "2024-03-07",
     "categories": [
-      "In the news"
+      "Business"
     ],
+    "type": "news",
     "tags": [
-      "Business Insider",
       "NYC",
       "Portland",
       "SF",
@@ -68,6 +69,7 @@ export const POSTS = [
     "categories": [
       "Safety"
     ],
+    "type": "gov-report",
     "tags": [
       "NYC"
     ],
@@ -81,6 +83,7 @@ export const POSTS = [
     "categories": [
       "Business"
     ],
+    "type": "study",
     "tags": [
       "Indianapolis"
     ],
@@ -92,10 +95,10 @@ export const POSTS = [
     "title": "Why cities are investing in safer, more-connected cycling infrastructure, Urban Institute",
     "date": "2022-02-22",
     "categories": [
-      "In the news"
+      "Environment"
     ],
+    "type": "analysis",
     "tags": [
-      "Urban Institute",
       "NYC",
       "Salt Lake City",
       "Montreal",
@@ -120,8 +123,8 @@ export const POSTS = [
     "categories": [
       "Business"
     ],
+    "type": "analysis",
     "tags": [
-      "PeopleForBikes",
       "Indianapolis",
       "Memphis",
       "Minneapolis",
@@ -137,10 +140,10 @@ export const POSTS = [
     "title": "FDNY: Traffic — Not Bike Lanes — is to Blame for Increased Response Times, Streetsblog",
     "date": "2019-09-19",
     "categories": [
-      "In the news"
+      "Safety"
     ],
+    "type": "news",
     "tags": [
-      "Streetsblog",
       "NYC",
       "First Responders"
     ],
@@ -152,11 +155,10 @@ export const POSTS = [
     "title": "Love them or hate them, research offers financial case for big city bike lanes, CBC",
     "date": "2019-06-08",
     "categories": [
-      "In the news",
       "Business"
     ],
+    "type": "news",
     "tags": [
-      "CBC",
       "NYC",
       "Salt Lake City",
       "Toronto",
@@ -173,23 +175,21 @@ export const POSTS = [
     "title": "Separated Bike Lanes Means Safer Streets, Study Says, Streetsblog",
     "date": "2019-05-29",
     "categories": [
-      "In the news",
       "Safety"
     ],
+    "type": "news",
     "tags": [
-      "Streetsblog",
       "Denver",
       "Portland",
       "Dallas",
       "Seattle",
-      "San Francisco",
+      "SF",
       "Kansas City",
       "Chicago",
       "Oklahoma City",
       "Memphis",
       "Minneapolis",
-      "Austin",
-      "SF"
+      "Austin"
     ],
     "content": "Covers University of Colorado research on safety benefits of protected bike lanes across 12 US metros.\n\n* protected bike lanes improve safety for cyclists and drivers alike\n  * 44% reduction in deaths\n  * 50% reduction in injuries\n* painted bike lanes provide no safety benefits\n* _sharrows actually reduced safety_ for bikers\n\nSome standouts in terms of reductions in fatality rates over the 13 year period\n\n| City          | Fatality reduction |\n|:--------------|:------------------:|\n| Portland      |       75.0%        |\n| Seattle       |       60.6%        |\n| San Francisco |       49.3%        |\n| Denver        |       40.3%        |\n| Chicago       |       38.2%        |\n\nKey quote ...\n\n> After analyzing traffic crash data over a 13-year period in areas with separated bike lanes on city streets,\n> researches (sic) estimated that having a protected bike facility in a city would result in 44 percent fewer deaths and\n> 50 percent fewer serous injuries than an average city.\n\n#### Source\n\nSeparated Bike Lanes Means Safer Streets, Study Says, 2019\n\n* [pdf](/images/news/2019-streetsblog-protect-bike-safety.pdf)\n\n* [orignal link](https://usa.streetsblog.org/2019/05/29/protect-yourself-separated-bike-lanes-means-safer-streets-study-says)",
     "excerpt": "Covers University of Colorado research on safety benefits of protected bike lanes across 12 US metros."
@@ -199,11 +199,10 @@ export const POSTS = [
     "title": "What makes Copenhagen the world's most bike-friendly city?, World Economic Forum",
     "date": "2018-10-05",
     "categories": [
-      "In the news",
       "Environment"
     ],
+    "type": "analysis",
     "tags": [
-      "World Economic Forum",
       "Copenhagen"
     ],
     "content": "As Copenhagen's protected bike network grows, cyclists feel safer, and ridership grows. Government estimates are that\neach new protected route yields 15-20% more riders. From 2006 to 2016 there's been a 22% increase in kilometres covered\nby bike (1.4 _million_ km in 2016). Around 62% of commutes for those that live and work in Copenhagen are by bike.\n\n![safer routes means more cycling in copenhagen](/images/img/news/2018-wef-copenhagen-risk-vs-ridership.png)\n\nKey quote ...\n\n> One of the main reasons for the popularity of cycling in Denmark is the network of paths, including innovative\n> bridges, which form cycling superhighways across the city. This is perhaps the key to understanding why Copenhagen is\n> also one of the safest places to be a cyclist.\n\n#### Source\n\n* [pdf](/images/news/2018-wef-copenhagen-best-bike-city.pdf)\n* [original link](https://www.weforum.org/agenda/2018/10/what-makes-copenhagen-the-worlds-most-bike-friendly-city/)",
@@ -214,10 +213,10 @@ export const POSTS = [
     "title": "More investment needed in Copenhagen cycling infrastructure, review suggests, CPHpost",
     "date": "2018-06-25",
     "categories": [
-      "In the news"
+      "Environment"
     ],
+    "type": "news",
     "tags": [
-      "CPHpost",
       "Copenhagen"
     ],
     "content": "Danish government estimates that 1 km of biking in Copenhagen creates 4.80 kroner (~ $1 per mile) in economic value. If\nthat trip by bike replaced a car trip the economic value goes up to 10.09 kroner per km (~ $2.10 per mile). In 2017,\n43% of work commutes in the city were taken by bike, so this value estimate is across _a lot_ of kilometers of biking.\n\n#### Source\n\n* [pdf](/images/news/2018-cph-post-value-of-biking.pdf)\n* [original link](https://cphpost.dk/2018-06-25/news/more-investment-needed-in-copenhagen-cycling-infrastructure-review-suggests/)",
@@ -230,6 +229,7 @@ export const POSTS = [
     "categories": [
       "Safety"
     ],
+    "type": "study",
     "tags": [
       "Chicago"
     ],
@@ -244,6 +244,7 @@ export const POSTS = [
       "Environment",
       "Safety"
     ],
+    "type": "study",
     "tags": [
       "Spain"
     ],
@@ -257,12 +258,13 @@ export const POSTS = [
     "categories": [
       "Safety"
     ],
+    "type": "gov-report",
     "tags": [
       "FHWA",
       "Ocean City",
       "Woodbury",
       "NJ",
-      "First responders"
+      "First Responders"
     ],
     "content": "Converting two-way four lane roads to two travel lanes with center left turn lane not only reduces crashes 19-47%, but\ncan also _improve emergency response times_. Case studies from Ocean City, NJ and Woodbury, NJ demonstrate this; the\nformer's road diet also included a buffered bike lane in the design.\n\nDiagram of the minimum road diet considered.\n\n![4 lanes to 2 with a suicide lane](/images/img/safety/2016-fhwa-first-responder.png)\n\nThe post road diet designs make driver behavior more predictable, safer, and with much less speeding. All road users are\nbetter accounted for. These combine to make a more easily navigable street for first responders.\n\nKey quote ...\n\n> The new configuration is leaps and bounds safer.\n>\n> - Brian Hopely, Police Traffic Sergeant, Ocean City Police\n\n#### Sources\n\nRoad Diets and Emergency Response: Friends, Not Foes\n\n- [pdf](/images/research/2016-fhwa-road-diet-response-times.pdf)\n- [original link](https://safety.fhwa.dot.gov/road_diets/resources/pdf/fhwasa17020.pdf)",
     "excerpt": "Converting two-way four lane roads to two travel lanes with center left turn lane not only reduces crashes 19-47%, but can also improve emergency response times. Case studies from Ocean City, NJ …"
@@ -274,6 +276,7 @@ export const POSTS = [
     "categories": [
       "Business"
     ],
+    "type": "analysis",
     "tags": [
       "Indianapolis",
       "Minneapolis",
@@ -288,10 +291,10 @@ export const POSTS = [
     "title": "Salt Lake City Cuts Car Parking, Adds Bike Lanes, Sees Retail Boost, Streetsblog",
     "date": "2015-10-06",
     "categories": [
-      "In the news"
+      "Business"
     ],
+    "type": "news",
     "tags": [
-      "Streetsblog",
       "Salt Lake City"
     ],
     "content": "Salt Lake City removed 30% of parking on Broadway and that stretch saw retail sales outperform the rest of the city by\n~25%. The road diet converted angled parking to parallel parking to create the space for 9 blocks of protected bike\nlanes.\n\nWhen all was said and done, the business owners loved it and attribute their business growth to the street redesign.\n\n![img.png](/images/img/streetsblog-2015-slc.png)\n\nKey quote ...\n\n> \"Both customers and employees love the bike lanes,\" Jeff Telicson, manager of the Copper Onion restaurant, told the\n> city. \"We need more bike parking!\"\n\n#### Source\n\n* [pdf](/images/news/2015-streetsblog-slc.pdf)\n\n* [orignal link](https://usa.streetsblog.org/2015/10/06/salt-lake-city-cuts-car-parking-adds-bike-lanes-sees-retail-boost)",
@@ -302,10 +305,10 @@ export const POSTS = [
     "title": "The Complete Business Case for Converting Street Parking Into Bike Lanes, CityLab",
     "date": "2015-03-13",
     "categories": [
-      "In the news"
+      "Business"
     ],
+    "type": "news",
     "tags": [
-      "CityLab",
       "Portland",
       "NYC",
       "New Zealand",
@@ -328,10 +331,10 @@ export const POSTS = [
     "title": "Bike lanes have actually sped up car traffic in New York City, Vox",
     "date": "2014-09-08",
     "categories": [
-      "In the news"
+      "Safety"
     ],
+    "type": "news",
     "tags": [
-      "Vox",
       "NYC"
     ],
     "content": "Narrowing travel lanes and building protected bike lanes both _reduced cyclist risk by roughly half_ and _rush hour car\ntravel times declined by 35%_. Removing parking for the \"pocket lane\" for car left turns is an innovation in the parking\nprotected bike lane design that helped with travel times.\n\n#### Source\n\n* [pdf](/images/news/2014-vox-bike-lane-travel-times.pdf)\n* [original link](https://www.vox.com/2014/9/8/6121129/bike-lanes-traffic-new-york)",
@@ -344,6 +347,7 @@ export const POSTS = [
     "categories": [
       "Safety"
     ],
+    "type": "gov-report",
     "tags": [
       "NYC"
     ],
@@ -357,6 +361,7 @@ export const POSTS = [
     "categories": [
       "Environment"
     ],
+    "type": "gov-report",
     "tags": [
       "NYC"
     ],
@@ -368,10 +373,10 @@ export const POSTS = [
     "title": "Tired of Cyclists Riding on the Sidewalk? Build More Bike Lanes, CityLab",
     "date": "2014-08-14",
     "categories": [
-      "In the news"
+      "Safety"
     ],
+    "type": "news",
     "tags": [
-      "CityLab",
       "NYC",
       "Denver",
       "DC"
@@ -388,6 +393,7 @@ export const POSTS = [
       "Environment",
       "Business"
     ],
+    "type": "study",
     "tags": [
       "Portland",
       "Austin",
@@ -403,10 +409,10 @@ export const POSTS = [
     "title": "No, Bike Lanes Don't Hurt Retail Business, CityLab",
     "date": "2013-09-10",
     "categories": [
-      "In the news"
+      "Business"
     ],
+    "type": "news",
     "tags": [
-      "CityLab",
       "Seattle"
     ],
     "content": "Covers research of Kyle Rowe at University of Washington. The conclusion is that bike lanes don't hurt\nlocal business; may actually be good.\n\nKey quote ...\n\n> After the city removed 65th Street's 12 parking spots and striped a bike lane there instead, the sales index in the\n> corridor exploded 400 percent.\n\n#### Source\n\n* [pdf](/images/news/2013-citylab-bikes-biz.pdf)\n\n* [orignal link](https://www.bloomberg.com/news/articles/2013-09-10/no-bike-lanes-don-t-hurt-retail-business)",
@@ -417,10 +423,10 @@ export const POSTS = [
     "title": "Cyclists and Pedestrians Can End Up Spending More Each Month Than Drivers, CityLab",
     "date": "2012-12-05",
     "categories": [
-      "In the news"
+      "Business"
     ],
+    "type": "news",
     "tags": [
-      "CityLab",
       "Portland"
     ],
     "content": "Covers research out of Portland demonstrating that pedestrians and cyclists, by virtue of being more loyal/frequent\ncustomers, spend more per month than drivers\n\nKey quote ...\n\n> Walkable (and bikeable) communities by definition facilitate a more frequent interaction between patrons and\n> businesses. This means these bikers and pedestrians are also more regular customers.\n\n#### Source\n\n* [pdf](/images/news/2012-citylab-pedestrians-bikes-spending.pdf)\n\n* [orignal link](https://www.bloomberg.com/news/articles/2012-12-05/cyclists-and-pedestrians-can-end-up-spending-more-each-month-than-drivers)",
@@ -433,6 +439,7 @@ export const POSTS = [
     "categories": [
       "Safety"
     ],
+    "type": "study",
     "tags": [
       "Toronto",
       "Vancouver"
@@ -447,6 +454,7 @@ export const POSTS = [
     "categories": [
       "Safety"
     ],
+    "type": "gov-report",
     "tags": [
       "NYC"
     ],
@@ -460,6 +468,7 @@ export const POSTS = [
     "categories": [
       "Business"
     ],
+    "type": "gov-report",
     "tags": [
       "NYC"
     ],
@@ -474,6 +483,7 @@ export const POSTS = [
       "Environment",
       "Safety"
     ],
+    "type": "study",
     "tags": [
       "New Zealand"
     ],
@@ -488,6 +498,7 @@ export const POSTS = [
       "Safety",
       "Environment"
     ],
+    "type": "gov-report",
     "tags": [
       "NYC"
     ],
@@ -501,6 +512,7 @@ export const POSTS = [
     "categories": [
       "Safety"
     ],
+    "type": "gov-report",
     "tags": [
       "NYC",
       "MUTCD"
@@ -515,6 +527,7 @@ export const POSTS = [
     "categories": [
       "Safety"
     ],
+    "type": "study",
     "tags": [
       "Montreal"
     ],
@@ -529,6 +542,7 @@ export const POSTS = [
       "Environment",
       "Safety"
     ],
+    "type": "study",
     "tags": [
       "New Zealand"
     ],

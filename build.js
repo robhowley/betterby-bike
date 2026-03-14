@@ -62,6 +62,7 @@ function loadDir(rel) {
         title: fm.title || '',
         date: dm ? dm[1] : '',
         categories: cats,
+        type: fm.type || '',
         tags,
         content,
         excerpt: excerpt(content),

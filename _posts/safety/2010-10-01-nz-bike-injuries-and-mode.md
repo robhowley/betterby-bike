@@ -3,6 +3,7 @@ title: Injuries to pedal cyclists on New Zealand roads, 1988-2007
 categories:
   - Environment
   - Safety
+type: study
 tags:
   - New Zealand
 ---

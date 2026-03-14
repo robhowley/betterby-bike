@@ -1,10 +1,9 @@
 ---
 title: Love them or hate them, research offers financial case for big city bike lanes, CBC
 categories:
-  - In the news
   - Business
+type: news
 tags:
-  - CBC
   - NYC
   - Salt Lake City
   - Toronto

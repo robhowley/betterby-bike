@@ -2,6 +2,7 @@
 title: "Route Infrastructure and the Risk of Injuries to Bicyclists: A Case-Crossover Study"
 categories:
   - Safety
+type: study
 tags:
   - Toronto
   - Vancouver

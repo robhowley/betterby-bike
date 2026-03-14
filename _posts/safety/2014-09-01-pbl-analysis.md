@@ -2,6 +2,7 @@
 title: NYC Protected Bike Lane Analysis, NYC DOT
 categories:
   - Safety
+type: gov-report
 tags:
   - NYC
 ---

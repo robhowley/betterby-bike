@@ -1,9 +1,9 @@
 ---
 title: Why cities are investing in safer, more-connected cycling infrastructure, Urban Institute
 categories:
-  - In the news
+  - Environment
+type: analysis
 tags:
-  - Urban Institute
   - NYC
   - Salt Lake City
   - Montreal

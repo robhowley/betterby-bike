@@ -1,9 +1,9 @@
 ---
 title: No, Bike Lanes Don't Hurt Retail Business, CityLab
 categories:
-  - In the news
+  - Business
+type: news
 tags:
-  - CityLab
   - Seattle
 ---
 

@@ -2,6 +2,7 @@
 title: "NYC DOT: Bike lanes are good for pedestrians"
 categories:
   - Safety
+type: gov-report
 tags:
   - NYC
 ---

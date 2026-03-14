@@ -2,8 +2,8 @@
 title: Economic impacts of bicycle and pedestrian street improvements
 categories:
   - Business
+type: analysis
 tags:
-  - PeopleForBikes
   - Indianapolis
   - Memphis
   - Minneapolis
