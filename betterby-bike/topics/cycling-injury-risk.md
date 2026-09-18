@@ -24,6 +24,9 @@ sources:
   - id: nyc2012
     resource: /sources/2012-measuring-the-street.md
     title: "Measuring the Street: New Metrics for 21st Century Streets"
+  - id: monsere2014
+    resource: /sources/2014-lessons-green-lanes.md
+    title: "Lessons from the Green Lanes: Evaluating Protected Bike Lanes in the U.S."
 ---
 
 # Interpreting cycling injury risk
@@ -108,6 +111,20 @@ falling injuries do not isolate green paint's effect; the report also could not 
 network expansion. Thus, neither favorable behavior observations nor broad city trends should be substituted for matched
 injury and exposure measures.
 
+## Short conflict observations and perceived safety are not injury rates
+
+The [2014 Green Lane evaluation](/findings/safety/green-lanes-conflicts-and-risk-limits.md) found no collisions or
+near collisions in 144 hours of 2013 intersection video covering nearly 12,900 bicycles. Low-level conflicts did occur,
+and riders separately reported collisions outside that window. This does not conflict with Montreal's nonzero injury
+rates: observation periods, event definitions, sites and denominators differ. With no matched before/after injury
+comparison, zero observed collisions cannot establish zero risk or an installation effect.[^monsere2014]
+
+The same study's favorable [buffer-comfort ratings](/findings/design/green-lanes-buffer-comfort.md) and perceived
+safety gains may help explain route appeal, but are not injury outcomes. Its
+[intersection behavior findings](/findings/design/green-lanes-intersection-behavior.md) reveal positioning differences
+and signal violations even where conflicting movements were separated by signals. These are useful design observations,
+not independent estimates of injury reduction or proof of one universally safest intersection design.[^monsere2014]
+
 ## Policy claims need supporting analyses
 
 [NYC's March 2011 mayoral memo](/findings/safety/nyc-wolfson-protected-lane-crash-claims.md) reports that protected
@@ -173,6 +190,12 @@ evaluation methods.
 
 [Route Infrastructure and the Risk of Injuries to Bicyclists](/sources/2012-route-infrastructure-bicyclist-risk.md)
 describes the Toronto–Vancouver case-crossover design and its injury-population limits.
+
+[Lessons from the Green Lanes](/sources/2014-lessons-green-lanes.md) distinguishes post-installation video conflicts,
+perceived safety and comfort from long-term crash evidence.
+
+[^monsere2014]: Monsere et al. (2014), sections 7.1–7.2 pp. 73–94; sections 8.2–8.3 pp. 105–119;
+    sections 12.2 and 12.8 pp. 138–139 and 143.
 
 [^teschke2012]: Teschke et al. (2012), Methods pp. 2336–2339; Table 4 p. 2340; Figure 1 and Discussion pp. 2341–2342.
 

@@ -2,20 +2,25 @@
 type: Topic
 title: Evaluating street redesign outcomes
 description:
-  Project-level safety, business and mobility changes can coexist without identifying which street treatment caused
-  them.
+  Street evaluations distinguish injuries, counts, perceptions and sales, with mixed local outcomes and limited
+  attribution to individual treatments.
 tags: [street design, business, mobility, safety, measurement]
 sources:
   - id: nyc2012
     resource: /sources/2012-measuring-the-street.md
     title: "Measuring the Street: New Metrics for 21st Century Streets"
+  - id: monsere2014
+    resource: /sources/2014-lessons-green-lanes.md
+    title: "Lessons from the Green Lanes: Evaluating Protected Bike Lanes in the U.S."
 ---
 
 # Evaluating street redesign outcomes
 
-NYCDOT's 2012 cases report safety, economic and mobility improvements alongside street redesigns that include space for
-cycling. They support examining more than vehicle throughput, but do not isolate bike-lane effects or establish typical
-outcomes across projects. The findings below come from one agency report, not independent studies.[^nyc2012]
+NYCDOT's 2012 cases and the 2014 five-city Green Lane evaluation support examining safety, use, comfort, business and
+mobility together, rather than vehicle throughput alone. They do not isolate bike-lane effects or establish typical
+outcomes across projects. The Green Lane study adds observed behavior and mixed survey responses; these are not the same
+measures as NYC's reported injuries, retail sales and travel times. Each report's Findings share one evaluation, not
+independent replications.[^nyc2012][^monsere2014]
 
 ## Match the claim to the measure
 
@@ -44,12 +49,41 @@ Economic results likewise differ: the report describes retail sales at Pearl Str
 vacancies at Union Square North and First/Second Avenues. These are useful complementary indicators, not interchangeable
 business outcomes or additional independent estimates of a bicycle-lane effect.[^nyc2012]
 
+## Added counts can include existing riders changing routes
+
+The [Green Lane count estimates](/findings/networks/green-lanes-ridership-changes.md) rose 21–171% across the eight
+routes summarized. Unlike NYC's volume headline, this study also asked riders about alternatives: 24% of route
+responses indicated another bicycle route and 10% another mode. This supports considering both diversion and new
+cycling, not subtracting survey percentages from count increases to estimate a causal net gain. The surveys sampled
+current users, and the count comparisons lacked matched parallel-route controls.[^monsere2014]
+
+## Comfort, support and correct use are different outcomes
+
+[Vertical buffers received higher comfort ratings](/findings/design/green-lanes-buffer-comfort.md) than paint-only
+buffers, and [most surveyed neighbors supported more lanes](/findings/design/green-lanes-resident-support.md),
+including car commuters. Neither comfort nor stated willingness to cycle measures subsequent adoption or injury risk.
+[Intersection observations](/findings/design/green-lanes-intersection-behavior.md) also show why perceived understanding
+cannot substitute for observing positioning and signal compliance. Designs differed in both behavior and traffic
+context, so the results do not establish a universal best treatment.[^monsere2014]
+
+## Preserve adverse experiences and distinguish economic measures
+
+The [driving/walking responses](/findings/operations/green-lanes-driving-walking-perceptions.md) were mixed: most
+reported unchanged driving times, while parking concerns were common; overall walking satisfaction improved more often
+than it declined, but Chicago crossing-safety responses leaned negative. These are perceptions, not timed delay or
+pedestrian injuries, and they coexist with broad support for protected lanes.[^monsere2014]
+
+[Business-visit responses](/findings/business/green-lanes-business-visits.md) mostly indicated no change, with a
+favorable overall balance but negative balances among Chicago residents. They complement, rather than replicate,
+NYC's retail-sales evidence: visit frequency and stated likelihood do not measure spending, profits or business survival.
+The Green Lane report deferred its proposed sales-tax analysis.[^monsere2014]
+
 ## What remains uncertain
 
-The report illustrates selected favorable cases without detailed periods, baselines, uncertainty or controlled analyses.
-It does not establish how often projects produce benefits, whether other projects had null/adverse outcomes, or how much
-observed change would have occurred without redesign. Its metrics framework is broader than its causal evidence.
-Underlying evaluations would be needed to assess those questions.
+NYC's report illustrates selected favorable cases without detailed periods, baselines, uncertainty or controlled
+analyses. Green Lane methods provide more detail and retain adverse responses, but selected sites, short counts,
+nonrepresentative survey responses and no matched controls still limit causal inference. Neither report establishes
+how often all projects benefit, the long-term effects, or how much change would have occurred without redesign.
 
 ## Related
 
@@ -61,3 +95,6 @@ curb-management examples.
 [^nyc2012]:
     NYCDOT (2012), goals/metrics pp. 2–3; avenue safety and retail p. 4; public space pp. 6–7; transit pp. 8–9; traffic
     pp. 10–11; curb management pp. 12–13.
+
+[^monsere2014]: Monsere et al. (2014), methods pp. 34–56; counts/route choices pp. 62–68; design pp. 73–94;
+    comfort pp. 107–110; resident perceptions pp. 120–129; business pp. 135–136; limitations p. 143.

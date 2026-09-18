@@ -6,15 +6,15 @@ okf_version: "0.2"
 
 Research summaries and findings for understanding cycling and street design. Current coverage includes historical New
 Zealand injury trends, a Montreal cycle-track comparison, NYC green-lane behavior observations, a NYC mayoral memo's
-attributed policy claims, NYCDOT's 2012 street-redesign case studies and a Toronto–Vancouver within-trip infrastructure
-study; it is not a comprehensive review.
+attributed policy claims, NYCDOT's 2012 street-redesign case studies, a Toronto–Vancouver within-trip infrastructure
+study and a 2014 five-city U.S. protected-lane evaluation; it is not a comprehensive review.
 
 ## Topics
 
 - [Interpreting cycling injury risk](topics/cycling-injury-risk.md): exposure, severity, crash mechanisms, behavioral
-  measures, policy claims and limits on causal interpretation.
-- [Evaluating street redesign outcomes](topics/street-redesign-outcomes.md): safety, retail sales, bicycle volumes and
-  travel times, without isolating bike-lane effects.
+  measures, short conflict observations, policy claims and limits on causal interpretation.
+- [Evaluating street redesign outcomes](topics/street-redesign-outcomes.md): safety, business, bicycle volumes,
+  comfort and mixed driving/walking experiences, without isolating bike-lane effects.
 - [Topics index](topics/index.md).
 
 ## Evidence

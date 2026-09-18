@@ -50,4 +50,9 @@ These findings preserve reported figures from one policy statement, not independ
 - [8th/9th Avenue injury changes](nyc-eighth-ninth-injury-changes.md): reported 35% and 58% reductions in all-user
   injuries, without exposure or isolated treatment effects.
 
+## U.S. protected-lane conflict observations
+
+- [Green Lane conflicts and risk limits](green-lanes-conflicts-and-risk-limits.md): no collisions in a short 2013
+  video sample, but low-level conflicts and separately self-reported collisions; not an injury-risk estimate.
+
 [Findings index](../index.md) · [Interpreting cycling injury risk](../../topics/cycling-injury-risk.md).

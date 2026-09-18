@@ -87,3 +87,27 @@ of Injuries to Bicyclists: A Case-Crossover Study_, adding independent Toronto�
 Revised [Interpreting cycling injury risk](topics/cycling-injury-risk.md) to compare within-trip matching with Montreal's
 route comparisons without pooling distinct measures. All eight paper pages, including Tables 1–4 and Figure 1, were
 reviewed as extracted text. Supplementary materials and the separate preference survey were not independently reviewed.
+
+Ingested [Monsere et al. (2014), _Lessons from the Green Lanes_](sources/2014-lessons-green-lanes.md), adding a
+five-city U.S. protected-lane evaluation:
+
+- [Ridership](findings/networks/green-lanes-ridership-changes.md): retained 21–171% summary route-count growth,
+  individual null/negative comparisons, and survey evidence of route substitution without claiming net causal growth.
+- [Buffer comfort](findings/design/green-lanes-buffer-comfort.md): vertical separation rated above paint alone,
+  distinguished from actual injury protection.
+- [Intersection behavior](findings/design/green-lanes-intersection-behavior.md): different positioning across designs
+  and nonidentical driver/cyclist signal-compliance denominators.
+- [Conflicts and risk limits](findings/safety/green-lanes-conflicts-and-risk-limits.md): no collisions in the short
+  video sample, with low-level conflicts, separate rider-reported collisions and no long-term injury effect.
+- [Resident support](findings/design/green-lanes-resident-support.md): broad local survey support and stated cycling
+  interest, not representative citywide opinion or observed adoption.
+- [Driving and walking](findings/operations/green-lanes-driving-walking-perceptions.md): parking/delay concerns and
+  adverse Chicago pedestrian responses preserved alongside favorable responses elsewhere.
+- [Business visits](findings/business/green-lanes-business-visits.md): mostly unchanged responses and mixed local
+  balances, not measured sales or profits.
+
+Revised [Evaluating street redesign outcomes](topics/street-redesign-outcomes.md) and
+[Interpreting cycling injury risk](topics/cycling-injury-risk.md) to distinguish counts, perceptions, conflicts and injury
+outcomes. Reviewed methods, relevant results/tables and conclusions as extracted text; visually checked printed pp. 69
+and 119 for inconsistent summary totals. Separate appendices and underlying datasets remain unreviewed. Reporting
+discrepancies are documented, not silently corrected. No bundle validation or bookkeeping-metadata changes were made.
