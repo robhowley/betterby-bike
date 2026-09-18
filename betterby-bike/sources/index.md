@@ -27,4 +27,8 @@
 - [Protected Bicycle Lanes in NYC](2014-nyc-protected-bicycle-lanes.md): September 2014 Manhattan analysis of injuries,
   count-normalized cyclist risk, traffic performance and retail sales, preserving mixed corridor results and causal limits.
 
+- [Active Transportation and Real Estate: The Next Frontier](2016-active-transportation-real-estate.md): ULI's 2016
+  selected development/infrastructure profiles and secondary research, distinguishing property associations, developer
+  accounts, affordable housing and forecasts.
+
 [Bundle index](../index.md).

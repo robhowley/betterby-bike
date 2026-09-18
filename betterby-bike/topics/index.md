@@ -8,4 +8,7 @@
 - [Evaluating street redesign outcomes](street-redesign-outcomes.md): NYC project metrics and five-city protected-lane
   counts, comfort and mixed resident responses, without confusing perceptions, sales and causal effects.
 
+- [Active transportation and real estate](active-transportation-real-estate.md): property-value associations,
+  development financing and car-optional housing, without assuming causal premiums or affordability benefits.
+
 [Bundle index](../index.md).

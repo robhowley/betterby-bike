@@ -6,6 +6,9 @@ description:
   attribution to individual treatments.
 tags: [street design, business, mobility, safety, measurement]
 sources:
+  - id: uli2016
+    resource: /sources/2016-active-transportation-real-estate.md
+    title: "Active Transportation and Real Estate: The Next Frontier"
   - id: nyc2014
     resource: /sources/2014-nyc-protected-bicycle-lanes.md
     title: Protected Bicycle Lanes in NYC
@@ -99,6 +102,20 @@ presentation repeats a 2013 economic report, does not detail matching or uncerta
 from the whole redesign. Ninth Avenue's 47% versus 43%/23% comparisons must remain distinct from the earlier “up to
 49% versus 3%” claim; these are not independent confirmations.[^nyc2014]
 
+## ULI adds secondary comparisons, not a controlled evaluation
+
+The [Salt Lake City Broadway case](/findings/business/salt-lake-broadway-retail-sales.md) reports 8.8% sales growth
+versus 7% citywide after a redesign removed 30% of parking and added bike lanes, sidewalk and crossing improvements.
+This adds another reported economic comparison, not an isolated parking-removal benefit. Business-owner support of
+59% coexisted with 18% opposition; opinion and sales are different outcomes. ULI does not reproduce the underlying
+municipal analysis.[^uli2016]
+
+[Copenhagen's Farum route](/findings/networks/copenhagen-farum-ridership.md) had reported 52% cyclist-count growth in
+2012–14, but its commuter survey and count totals have different denominators. As with NYC and Green Lane counts,
+this cannot establish net new regional cycling. ULI's projected economic returns for Copenhagen's completed network
+and London's new routes are forecasts, not observed outcomes. Its early London CS2 account also retains six cyclist
+deaths in 2011–15, rather than presenting every route branded a cycle superhighway as already safe.[^uli2016]
+
 ## What remains uncertain
 
 NYC's 2012 report illustrates selected favorable cases without detailed periods, baselines, uncertainty or controlled
@@ -113,6 +130,11 @@ not establish how often all projects benefit or how much change would have occur
 behavior and exposure-based risks cannot substitute for each other. The
 [Source summary](/sources/2012-measuring-the-street.md) covers the report's additional public-space, bus and
 curb-management examples.
+
+[Active transportation and real estate](/topics/active-transportation-real-estate.md) separates property appreciation,
+developer accounts and affordability from street-level sales and mobility outcomes.
+
+[^uli2016]: ULI (2016), Broadway p. 6; Farum and Copenhagen forecasts pp. 42–44; London deaths and forecasts pp. 47, 49.
 
 [^nyc2014]: NYCDOT (2014), safety pp. 7–9, mobility pp. 10–13, retail p. 14, corridor counts pp. 20–31.
 

@@ -131,3 +131,27 @@ Revised [Interpreting cycling injury risk](topics/cycling-injury-risk.md) and
 without treating overlapping corridors or repeated economic results as independent studies. Read all 31 PDF pages as
 extracted text and visually checked pp. 7 and 14. Underlying datasets and the separate economic report remain
 unreviewed. No bundle validation or bookkeeping-metadata changes were made.
+
+Ingested [ULI (March 2016), _Active Transportation and Real Estate: The Next Frontier_](sources/2016-active-transportation-real-estate.md):
+
+- [Indianapolis](findings/business/indianapolis-cultural-trail-property-values.md),
+  [Radnor](findings/business/radnor-trail-property-values.md) and
+  [Montreal Bixi](findings/business/montreal-bixi-property-values.md): separated aggregate appreciation, proximity
+  differences and repeat-sales associations, all secondary reporting rather than causal premiums.
+- [Broadway retail](findings/business/salt-lake-broadway-retail-sales.md): retained 8.8% sales growth versus 7% citywide
+  after combined improvements and parking removal, alongside 18% business-owner opposition.
+- [MoZaic](findings/business/mozaic-trail-access-and-leasing.md): documented shared financing and developer-attributed
+  leasing benefits without inventing a rent premium or return.
+- [Silver Moon Lodge](findings/access/silver-moon-lodge-low-parking-housing.md): added income-restricted housing with
+  low parking provision, preserving tax-credit context and the absence of measured household savings.
+- [Farum ridership](findings/networks/copenhagen-farum-ridership.md): separated 52% corridor-count growth from commuter
+  responses and future network forecasts.
+
+Added [Active transportation and real estate](topics/active-transportation-real-estate.md) and revised
+[Evaluating street redesign outcomes](topics/street-redesign-outcomes.md). Distinguished historical outcomes, developer
+accounts and forecasts; retained Bixi's financial difficulties and early London CS2 deaths. The repeated Montreal
+cycle-track safety result is linked to the existing primary Source, not counted as new evidence.
+
+Read all 65 PDF pages as extracted text. Underlying studies remain unreviewed; sparse methods, unclear Indianapolis
+valuation dates and absent displacement/affordability outcomes limit interpretation. No bundle validation or
+bookkeeping-metadata changes were made.
