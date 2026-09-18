@@ -17,4 +17,8 @@
 - [Measuring the Street: New Metrics for 21st Century Streets](2012-measuring-the-street.md): NYCDOT's 2012 safety,
   business and mobility case studies, with limited methods and no isolated bike-lane effects.
 
+- [Route Infrastructure and the Risk of Injuries to Bicyclists](2012-route-infrastructure-bicyclist-risk.md): 2012
+  Toronto–Vancouver case-crossover study of 14 route types, with lower cycle-track/local-street odds and higher odds
+  around rail tracks, downhill grades and construction.
+
 [Bundle index](../index.md).

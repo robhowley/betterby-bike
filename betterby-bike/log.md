@@ -73,3 +73,17 @@ Added [Evaluating street redesign outcomes](topics/street-redesign-outcomes.md) 
 [Interpreting cycling injury risk](topics/cycling-injury-risk.md). The Source also covers public-space, transit and
 curb-management results. All 16 PDF pages were read as extracted text; pp. 4, 9 and 10 were checked visually. Missing
 evaluation periods, baselines and methods remain unresolved; underlying evaluations were not independently reviewed.
+
+Ingested [Teschke et al. (2012)](sources/2012-route-infrastructure-bicyclist-risk.md), _Route Infrastructure and the Risk
+of Injuries to Bicyclists: A Case-Crossover Study_, adding independent Toronto–Vancouver within-trip evidence:
+
+- [Cycle tracks](findings/safety/toronto-vancouver-cycle-track-injury-odds.md): adjusted OR 0.11 (0.02–0.54), retaining
+  the sparse two-injury/ten-control-site basis and avoiding causal installation claims.
+- [Other route types](findings/safety/toronto-vancouver-route-type-comparisons.md): lower local-street odds alongside
+  inconclusive adjusted estimates for painted/shared lanes, traffic-calmed routes and most paths.
+- [Route hazards](findings/safety/toronto-vancouver-route-hazards.md): higher odds with rail tracks, downhill grades and
+  construction, preserving the inconclusive aggregate intersection result and temporary-condition measurement limits.
+
+Revised [Interpreting cycling injury risk](topics/cycling-injury-risk.md) to compare within-trip matching with Montreal's
+route comparisons without pooling distinct measures. All eight paper pages, including Tables 1–4 and Figure 1, were
+reviewed as extracted text. Supplementary materials and the separate preference survey were not independently reviewed.

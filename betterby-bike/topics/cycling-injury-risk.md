@@ -18,6 +18,9 @@ sources:
   - id: wolfson2011
     resource: /sources/2011-nyc-wolfson-bike-lanes-memo.md
     title: "Bike Lanes: memorandum from Howard Wolfson"
+  - id: teschke2012
+    resource: /sources/2012-route-infrastructure-bicyclist-risk.md
+    title: "Route Infrastructure and the Risk of Injuries to Bicyclists: A Case-Crossover Study"
   - id: nyc2012
     resource: /sources/2012-measuring-the-street.md
     title: "Measuring the Street: New Metrics for 21st Century Streets"
@@ -27,9 +30,9 @@ sources:
 
 Injury counts, rates per hour or kilometre, and life-threatening injury rates answer different questions. This bundle
 contains a historical New Zealand population study and a Montreal comparison of six two-way cycle tracks with streets
-without bicycle facilities. It also includes a New York City green-paint evaluation of motorist behavior, not injury
-risk. These studies address different questions, not independent confirmations of one
-effect.[^nz2010][^lusk2011][^nyc2011]
+without bicycle facilities, plus a Toronto–Vancouver within-trip infrastructure study. It also includes a New York City
+green-paint evaluation of motorist behavior, not injury risk. These studies address different questions, not independent
+confirmations of one effect.[^nz2010][^lusk2011][^teschke2012][^nyc2011]
 
 ## What the evidence supports
 
@@ -69,6 +72,28 @@ Event coverage matters as well. A
 changed the overall risk comparison when assumed non-intersection roadway crashes were added. That is a sensitivity
 demonstration using a city-wide crash proportion, not another independent cycle-track study or proof that sidewalks and
 cycle tracks are interchangeable.
+
+## Within-trip comparisons strengthen matching, not causal attribution
+
+The Toronto–Vancouver study matched each of 690 adult emergency-department injury sites in 2008–09 with a random point
+along that rider's trip. This controls stable rider and trip characteristics and samples exposure in proportion to
+route length. [Cycle tracks had adjusted OR 0.11 (95% CI 0.02–0.54)](/findings/safety/toronto-vancouver-cycle-track-injury-odds.md)
+relative to major streets with parking and no bicycle infrastructure, but with only two injury and ten control sites.
+This independently supports a favorable cycle-track association alongside Montreal, not a shared effect size: Montreal
+used EMR records, different comparison streets and separately counted exposure. Neither design measures the causal
+change from installing a track.[^teschke2012]
+
+[Other route comparisons](/findings/safety/toronto-vancouver-route-type-comparisons.md) favor local streets and major
+streets without parking or bike infrastructure. Adjusted estimates for painted lanes, shared lanes, traffic-calmed local
+routes, sidewalks and other paths were inconclusive. These results do not justify treating all off-street facilities as
+one intervention, claiming every lower point estimate proves benefit, or interpreting traffic-calmed versus uncalmed
+point estimates as a test of adding traffic calming.[^teschke2012]
+
+[Rail tracks, downhill grades and construction](/findings/safety/toronto-vancouver-route-hazards.md) had higher adjusted
+injury odds. This extends the prevention question beyond motor-vehicle collisions: the study included falls and other
+crashes. However, post-injury site observations may misclassify temporary conditions, and exclusions of children, fatal
+cases and riders unable to recall their trip limit conclusions about those groups. Its aggregate inconclusive
+intersection association does not resolve individual intersection-design risks.[^teschke2012]
 
 ## Behavior is not an injury outcome
 
@@ -125,6 +150,10 @@ Montreal adds a direct infrastructure comparison, but its six two-way tracks can
 explain safety differences or establish effects for one-way tracks. The authors recommended not discouraging cycle-track
 construction; that recommendation is broader than the measured route-specific associations.[^lusk2011]
 
+The Toronto–Vancouver study likewise did not distinguish one-way from two-way cycle tracks or measure ridership growth.
+Its authors' recommendations for safer infrastructure and construction detours go beyond the observational comparisons;
+these interventions were not tested.[^teschke2012]
+
 ## Sources
 
 [Injuries to pedal cyclists on New Zealand roads, 1988-2007](/sources/2010-nz-bike-injuries.md) describes the study
@@ -141,6 +170,11 @@ public-support and implementation claims without underlying analyses.
 
 [Measuring the Street](/sources/2012-measuring-the-street.md) presents selected NYC redesign outcomes without detailed
 evaluation methods.
+
+[Route Infrastructure and the Risk of Injuries to Bicyclists](/sources/2012-route-infrastructure-bicyclist-risk.md)
+describes the Toronto–Vancouver case-crossover design and its injury-population limits.
+
+[^teschke2012]: Teschke et al. (2012), Methods pp. 2336–2339; Table 4 p. 2340; Figure 1 and Discussion pp. 2341–2342.
 
 [^nyc2012]: NYCDOT (2012), p. 4, 8th/9th Avenue project panel.
 

@@ -25,6 +25,17 @@ data, not an independent replication.
 - [Intersection-only sidewalk risk reanalysis](intersection-only-sidewalk-risk-reanalysis.md): adding assumed
   non-intersection roadway crashes changed the apparent risk comparison.
 
+## Toronto–Vancouver within-trip infrastructure comparisons
+
+These findings come from one study of 690 adult injury trips in 2008–09, independent of the Montreal study.
+
+- [Cycle-track injury odds](toronto-vancouver-cycle-track-injury-odds.md): lowest adjusted odds, with few observations
+  and a wide confidence interval.
+- [Other route types](toronto-vancouver-route-type-comparisons.md): lower local-street odds alongside inconclusive
+  adjusted estimates for painted/shared lanes and most paths.
+- [Route hazards](toronto-vancouver-route-hazards.md): higher odds with rail tracks, downhill grades and construction,
+  without measured intervention effects.
+
 ## NYC mayoral memo claims
 
 These findings preserve reported figures from one policy statement, not independently reviewed crash analyses.
