@@ -111,3 +111,23 @@ Revised [Evaluating street redesign outcomes](topics/street-redesign-outcomes.md
 outcomes. Reviewed methods, relevant results/tables and conclusions as extracted text; visually checked printed pp. 69
 and 119 for inconsistent summary totals. Separate appendices and underlying datasets remain unreviewed. Reporting
 discrepancies are documented, not silently corrected. No bundle validation or bookkeeping-metadata changes were made.
+
+Ingested [NYCDOT (September 2014), _Protected Bicycle Lanes in NYC_](sources/2014-nyc-protected-bicycle-lanes.md):
+
+- [Aggregate injuries](findings/safety/nyc-pbl-injury-changes.md): 17% fewer injury crashes and 20% fewer injuries,
+  distinguished from the nearly unchanged cyclist count; chart aggregation remains unspecified.
+- [Corridor risk](findings/safety/nyc-pbl-corridor-risk.md): seven decreases and one 11.2% increase, retaining short-count
+  exposure limits and bicycle-volume changes.
+- [Citywide indicator](findings/safety/nyc-cycling-risk-indicator-2001-2013.md): preliminary 75% decline in 2001–2013,
+  not a lane-specific effect or absolute risk.
+- [Traffic performance](findings/operations/nyc-pbl-traffic-performance.md): steady taxi speeds and shorter observed
+  travel times, with routes, hours, dates and sampling limits retained.
+- [Retail comparisons](findings/business/nyc-pbl-retail-comparisons.md): Ninth/Columbus growth versus named corridors,
+  attributed to an unreviewed 2013 report and distinguished from the
+  [earlier Ninth Avenue headline](findings/business/nyc-ninth-avenue-retail-sales.md).
+
+Revised [Interpreting cycling injury risk](topics/cycling-injury-risk.md) and
+[Evaluating street redesign outcomes](topics/street-redesign-outcomes.md) to integrate the later NYC measurements
+without treating overlapping corridors or repeated economic results as independent studies. Read all 31 PDF pages as
+extracted text and visually checked pp. 7 and 14. Underlying datasets and the separate economic report remain
+unreviewed. No bundle validation or bookkeeping-metadata changes were made.

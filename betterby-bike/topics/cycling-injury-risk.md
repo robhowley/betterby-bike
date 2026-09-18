@@ -6,6 +6,9 @@ description:
   identify causes.
 tags: [safety, injuries, exposure]
 sources:
+  - id: nyc2014
+    resource: /sources/2014-nyc-protected-bicycle-lanes.md
+    title: Protected Bicycle Lanes in NYC
   - id: nz2010
     resource: /sources/2010-nz-bike-injuries.md
     title: Injuries to pedal cyclists on New Zealand roads, 1988-2007
@@ -150,6 +153,22 @@ their independence from the memo's underlying data is unknown.[^nyc2012]
 [Evaluating street redesign outcomes](/topics/street-redesign-outcomes.md) places these safety changes alongside
 business and mobility measures without attributing every change to bicycle lanes.
 
+## Before/after corridor risk can differ from injury totals
+
+NYCDOT's 2014 Manhattan analysis adds a more explicit before/after basis:
+[total injuries fell 20%, but cyclist injuries only 2%](/findings/safety/nyc-pbl-injury-changes.md) across eligible
+protected-lane projects. [Count-normalized cyclist risk fell on seven of eight corridors](/findings/safety/nyc-pbl-corridor-risk.md),
+but increased 11.2% on Broadway (18th–23rd), despite fewer all-user injury crashes there. The different outcomes are
+compatible, not contradictory: users, exposure and event definitions differ.[^nyc2014]
+
+Three-year injury periods and short seasonal bicycle counts provide more measurement detail than earlier NYC claims,
+but no untreated safety controls or uncertainty estimates. These are within-corridor temporal comparisons, unlike
+Montreal's nearby-street comparison or Toronto–Vancouver's within-trip design. Neither the corridor proxy nor the
+[separate 75% citywide indicator decline](/findings/safety/nyc-cycling-risk-indicator-2001-2013.md) is an absolute trip risk
+or an isolated installation effect. The citywide measure covers killed/severely injured cyclists in motor-vehicle
+crashes and divides by a six-location cycling index; it cannot substitute for the corridor injury measure. Overlapping
+NYC locations also mean successive reports are not independent replications.[^nyc2014]
+
 ## What remains unresolved
 
 The New Zealand study does not establish why cycling injury rates changed. Its safety-in-numbers discussion is a
@@ -193,6 +212,9 @@ describes the Toronto–Vancouver case-crossover design and its injury-populatio
 
 [Lessons from the Green Lanes](/sources/2014-lessons-green-lanes.md) distinguishes post-installation video conflicts,
 perceived safety and comfort from long-term crash evidence.
+
+[^nyc2014]: NYCDOT (2014), scope/design pp. 5–6, aggregate injuries p. 7, citywide indicator p. 8,
+    corridor risk and method p. 9, corridor appendix pp. 20–31.
 
 [^monsere2014]: Monsere et al. (2014), sections 7.1–7.2 pp. 73–94; sections 8.2–8.3 pp. 105–119;
     sections 12.2 and 12.8 pp. 138–139 and 143.

@@ -50,6 +50,15 @@ These findings preserve reported figures from one policy statement, not independ
 - [8th/9th Avenue injury changes](nyc-eighth-ninth-injury-changes.md): reported 35% and 58% reductions in all-user
   injuries, without exposure or isolated treatment effects.
 
+## NYC 2014 protected-lane analysis
+
+These results share one agency presentation and overlap earlier NYC project locations.
+
+- [Aggregate injury changes](nyc-pbl-injury-changes.md): 20% fewer all-user injuries, with only 2% fewer cyclist injuries.
+- [Corridor cyclist-risk proxy](nyc-pbl-corridor-risk.md): seven decreases and one increase, using short bicycle counts.
+- [Citywide cycling-risk indicator](nyc-cycling-risk-indicator-2001-2013.md): preliminary 75% decline in 2001–2013,
+  not an absolute trip risk or protected-lane effect.
+
 ## U.S. protected-lane conflict observations
 
 - [Green Lane conflicts and risk limits](green-lanes-conflicts-and-risk-limits.md): no collisions in a short 2013

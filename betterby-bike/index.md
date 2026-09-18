@@ -7,7 +7,8 @@ okf_version: "0.2"
 Research summaries and findings for understanding cycling and street design. Current coverage includes historical New
 Zealand injury trends, a Montreal cycle-track comparison, NYC green-lane behavior observations, a NYC mayoral memo's
 attributed policy claims, NYCDOT's 2012 street-redesign case studies, a Toronto–Vancouver within-trip infrastructure
-study and a 2014 five-city U.S. protected-lane evaluation; it is not a comprehensive review.
+study, a 2014 five-city U.S. protected-lane evaluation and NYCDOT's 2014 Manhattan protected-lane analysis; it is not a
+comprehensive review.
 
 ## Topics
 

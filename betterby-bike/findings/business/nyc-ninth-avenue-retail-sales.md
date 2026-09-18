@@ -28,6 +28,10 @@ redesign; it does not show that the bike lane alone caused a 49% sales increase.
 
 ## Related
 
+- [2014 Ninth/Columbus sales comparisons](nyc-pbl-retail-comparisons.md): a later presentation reports 47% on Ninth
+  Avenue versus 43% and 23% on named comparison corridors. Different scope and comparators, not a replacement for this
+  headline or independent confirmation.
+
 - [Evaluating street redesign outcomes](/topics/street-redesign-outcomes.md): economic measures and comparisons need
   explicit scope.
 - [8th/9th Avenue injuries](/findings/safety/nyc-eighth-ninth-injury-changes.md): a different result from the same

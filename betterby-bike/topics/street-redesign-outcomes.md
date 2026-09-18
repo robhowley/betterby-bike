@@ -6,6 +6,9 @@ description:
   attribution to individual treatments.
 tags: [street design, business, mobility, safety, measurement]
 sources:
+  - id: nyc2014
+    resource: /sources/2014-nyc-protected-bicycle-lanes.md
+    title: Protected Bicycle Lanes in NYC
   - id: nyc2012
     resource: /sources/2012-measuring-the-street.md
     title: "Measuring the Street: New Metrics for 21st Century Streets"
@@ -16,11 +19,11 @@ sources:
 
 # Evaluating street redesign outcomes
 
-NYCDOT's 2012 cases and the 2014 five-city Green Lane evaluation support examining safety, use, comfort, business and
-mobility together, rather than vehicle throughput alone. They do not isolate bike-lane effects or establish typical
-outcomes across projects. The Green Lane study adds observed behavior and mixed survey responses; these are not the same
-measures as NYC's reported injuries, retail sales and travel times. Each report's Findings share one evaluation, not
-independent replications.[^nyc2012][^monsere2014]
+NYCDOT's 2012 cases, its 2014 Manhattan analysis and the 2014 five-city Green Lane evaluation support examining safety,
+use, comfort, business and mobility together, rather than vehicle throughput alone. They do not isolate bike-lane effects
+or establish typical outcomes across projects. The Green Lane study adds observed behavior and mixed survey responses;
+these are not the same measures as NYC's reported injuries, retail sales and travel times. Findings from one evaluation
+are not independent replications. Successive NYC reports also cover overlapping projects.[^nyc2012][^monsere2014][^nyc2014]
 
 ## Match the claim to the measure
 
@@ -78,12 +81,31 @@ favorable overall balance but negative balances among Chicago residents. They co
 NYC's retail-sales evidence: visit frequency and stated likelihood do not measure spending, profits or business survival.
 The Green Lane report deferred its proposed sales-tax analysis.[^monsere2014]
 
+## Later NYC evidence adds comparisons, not isolated lane effects
+
+The 2014 Manhattan report gives [20% fewer total injuries but only 2% fewer cyclist injuries](/findings/safety/nyc-pbl-injury-changes.md).
+Its [cyclist-risk proxy](/findings/safety/nyc-pbl-corridor-risk.md) improves on seven corridors but worsens on one,
+showing why a favorable pooled all-user result need not describe every user's outcome on every street. Bicycle counts
+rose at the eight reported locations, but cannot separate new cycling from route diversion.[^nyc2014]
+
+[Traffic measures stayed level or improved](/findings/operations/nyc-pbl-traffic-performance.md): Eighth Avenue's daily
+average travel time fell 14%, Columbus's morning time fell 35%, and NYCDOT describes level First Avenue/CBD taxi
+speeds. These measured windows complement Green Lane respondents' mixed experiences, not contradict them. Short samples,
+different seasons, routes and hours prevent extrapolating one percentage to all traffic.[^nyc2014]
+
+[Two-year retail-sales growth on Ninth and Columbus Avenues](/findings/business/nyc-pbl-retail-comparisons.md) exceeded
+named comparison corridors, a more local comparison than the 2012 brochure's borough-wide headline. But the 2014
+presentation repeats a 2013 economic report, does not detail matching or uncertainty, and does not isolate the lane
+from the whole redesign. Ninth Avenue's 47% versus 43%/23% comparisons must remain distinct from the earlier “up to
+49% versus 3%” claim; these are not independent confirmations.[^nyc2014]
+
 ## What remains uncertain
 
-NYC's report illustrates selected favorable cases without detailed periods, baselines, uncertainty or controlled
-analyses. Green Lane methods provide more detail and retain adverse responses, but selected sites, short counts,
-nonrepresentative survey responses and no matched controls still limit causal inference. Neither report establishes
-how often all projects benefit, the long-term effects, or how much change would have occurred without redesign.
+NYC's 2012 report illustrates selected favorable cases without detailed periods, baselines, uncertainty or controlled
+analyses. The 2014 report adds injury values, an exposure proxy, mobility dates and named retail comparisons, but still
+lacks controlled safety estimates and uncertainty. Green Lane methods retain adverse responses, but selected sites,
+short counts, nonrepresentative survey responses and no matched controls still limit causal inference. These reports do
+not establish how often all projects benefit or how much change would have occurred without redesign.
 
 ## Related
 
@@ -91,6 +113,8 @@ how often all projects benefit, the long-term effects, or how much change would 
 behavior and exposure-based risks cannot substitute for each other. The
 [Source summary](/sources/2012-measuring-the-street.md) covers the report's additional public-space, bus and
 curb-management examples.
+
+[^nyc2014]: NYCDOT (2014), safety pp. 7–9, mobility pp. 10–13, retail p. 14, corridor counts pp. 20–31.
 
 [^nyc2012]:
     NYCDOT (2012), goals/metrics pp. 2–3; avenue safety and retail p. 4; public space pp. 6–7; transit pp. 8–9; traffic
