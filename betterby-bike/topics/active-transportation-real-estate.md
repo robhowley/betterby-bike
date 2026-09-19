@@ -4,6 +4,9 @@ title: Active transportation and real estate
 description: Reported property-value associations and development examples support market interest, not a universal causal premium or affordability benefit.
 tags: [real estate, property values, trails, housing, affordability]
 sources:
+  - id: cbc2019
+    resource: /sources/2019-cbc-good-for-business.md
+    title: Love them or hate them, research offers financial case for big city bike lanes
   - id: business
     resource: /sources/protected-bike-lanes-mean-business.md
     title: Protected Bike Lanes Mean Business
@@ -39,6 +42,14 @@ Minneapolis–St. Paul trail (citing Krizek, 2006), and an 11% sale-price differ
 Indiana's Monon Trail versus similar homes farther away (Lindsey et al., 2004). These add distinct proximity
 comparisons, not post-installation appreciation or protected-lane premiums. The summary omits valuation periods,
 controls and uncertainty; the underlying studies remain unreviewed.[^business]
+
+CBC's 2019 roundup repeats the Monon 11% result but describes the boundary as **one kilometre**, rather than the
+business report's **half mile**. Both cite the 2004 study, so this is a reporting discrepancy to resolve from the
+primary paper, not independent confirmation or interchangeable distance bands. Its
+[Delaware account](../findings/business/delaware-bike-path-property-values.md) adds a reported **at least $8,800**
+near-path value difference and a review finding mostly small positive **or null** effects. These results concern
+paths/trails, not necessarily protected street lanes; neither CBC's favorable framing nor its gentrification concerns
+measure causal price changes or displacement.[^cbc2019]
 
 ## Development accounts show arrangements, not isolated returns
 
@@ -82,6 +93,8 @@ returns, rather than more selected success stories.
 - [Evaluating street redesign outcomes](street-redesign-outcomes.md): sales, user responses and corridor counts require
   different interpretations.
 - [Source summary](../sources/2016-active-transportation-real-estate.md): publication scope, forecasts and limitations.
+
+[^cbc2019]: Dunne (2019), PDF pp. 4–5, section 3; underlying property studies not separately reviewed.
 
 [^business]: Andersen and Hall, property profiles/callouts pp. 10–12; employer accounts pp. 16–19;
     references p. 35, items 1–2. See [Source summary](../sources/protected-bike-lanes-mean-business.md).

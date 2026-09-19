@@ -10,6 +10,9 @@
 - [NYC green-paint measurement limits](nyc-green-paint-measurement-limits.md): inconsistent aggregates and no isolated
   injury or ridership effect.
 
+- [Copenhagen perceived safety](copenhagen-perceived-safety.md): reported rise from 53% to 76% in 2006–2016,
+  without survey methods or a measured injury-risk change.
+
 - [Green Lane buffer comfort](green-lanes-buffer-comfort.md): vertical separation rated above paint alone, not a
   measured injury effect.
 - [Green Lane intersection behavior](green-lanes-intersection-behavior.md): differing positioning and signal compliance,

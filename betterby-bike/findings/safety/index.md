@@ -59,6 +59,11 @@ These results share one agency presentation and overlap earlier NYC project loca
 - [Citywide cycling-risk indicator](nyc-cycling-risk-indicator-2001-2013.md): preliminary 75% decline in 2001–2013,
   not an absolute trip risk or protected-lane effect.
 
+## NYC 2023 agency safety claims
+
+- [All-user and senior-pedestrian serious casualties](nyc-dot-protected-lane-serious-casualty-claims.md): reported
+  18.1% and 39% reductions in deaths and serious injuries, without analysis details; not East New York project outcomes.
+
 ## U.S. protected-lane conflict observations
 
 - [Green Lane conflicts and risk limits](green-lanes-conflicts-and-risk-limits.md): no collisions in a short 2013
@@ -83,5 +88,11 @@ These findings share one block-group study comparing 2011–2012 with 2013–201
   the 5% level within groups.
 - [Exposure limits](chicago-sharrow-exposure-limits.md): resident commuters, spatial assignment and weighting do not
   measure corridor risk; baseline total/component reporting discrepancies remain unresolved.
+
+## Reported U.S. city-level casualty comparison
+
+- [Protected-lane casualty association](us-cities-protected-lane-casualty-association.md): Streetsblog reports 44%
+  fewer deaths and 50% fewer serious injuries than an undefined average-city comparator; all-user outcomes,
+  a painted-lane null report and equity caveats, not a reviewed primary analysis or causal installation estimate.
 
 [Findings index](../index.md) · [Interpreting cycling injury risk](../../topics/cycling-injury-risk.md).

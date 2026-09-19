@@ -4,6 +4,12 @@ title: Portland bicycle customers reportedly spent less per trip but more per mo
 description: A secondary Portland comparison reports $10.66 per bicycle trip versus $13.70 by car, but $75.66 versus $61.03 monthly, without establishing a lane effect.
 tags: [business, retail spending, Portland, travel mode]
 sources:
+  - id: cbc2019
+    resource: /sources/2019-cbc-good-for-business.md
+    title: Love them or hate them, research offers financial case for big city bike lanes
+  - id: citylab2015
+    resource: /sources/2015-city-lab-good-for-business.md
+    title: The Complete Business Case for Converting Street Parking Into Bike Lanes
   - id: business
     resource: /sources/protected-bike-lanes-mean-business.md
     title: Protected Bike Lanes Mean Business
@@ -32,6 +38,15 @@ June–early October 2011 and 19,653 supermarket customers surveyed through a lo
 restaurants were high-turnover sit-down pizza and Mexican spots. Estimated monthly spending is not a month of
 tracked purchases. The article supplies no response rates, confidence intervals or adjusted effects.[^citylab2012]
 
+CityLab's 2015 roundup repeats the grocery exception and higher bicycle monthly spending at bars, restaurants and
+convenience stores, linking the earlier coverage and a Clifton manuscript. It describes 78 businesses rather than
+the earlier coverage's 89 total (including 11 groceries). Whether this is a non-grocery count used loosely or a
+sample difference is unresolved; it is not independent confirmation.[^citylab2015]
+
+CBC's 2019 roundup links the same 2012 *Business Cycles* paper and repeats the 24% monthly advantage at bars,
+restaurants and convenience stores, along with the supermarket exception. It attributes the proposed disposable-income
+mechanism to the study author; this is repeated reporting, not another sample or a tested explanation.[^cbc2019]
+
 These are customer-mode associations, not total corridor sales, profits or a before/after protected-lane comparison.
 Customer characteristics, business selection and different grocery/non-grocery survey periods limit interpretation.
 Neither account establishes that switching a customer from car to bicycle increases spending or that removing parking
@@ -45,6 +60,10 @@ aggregation correspondence remains unverified.
 - [Green Lane business visits](green-lanes-business-visits.md): stated visit changes do not measure spending.
 - [Evaluating street redesign outcomes](/topics/street-redesign-outcomes.md): distinguish customer comparisons from
   economic effects of a redesign.
+
+[^cbc2019]: Dunne (2019), PDF p. 4, section 2 and Portland photograph caption.
+
+[^citylab2015]: Jaffe (2015), PDF p. 2, “Portland, Oregon.”
 
 [^business]: Andersen and Hall, printed p. 28, “Bike shopping: smaller trips, more visits”; p. 35, reference 12.
 

@@ -6,6 +6,12 @@ description:
   identify causes.
 tags: [safety, injuries, exposure]
 sources:
+  - id: nycdot2023
+    resource: /sources/2023-nycdot-bike-lanes-pedestrians.md
+    title: NYC DOT Completes East New York’s Longest Protected Bike Lane Project, Delivering Much-Needed Safety Near Schools
+  - id: short2019
+    resource: /sources/2019-streetsblog-protect-bike-safety.md
+    title: Separated Bike Lanes Means Safer Streets, Study Says
   - id: younes2024
     resource: /sources/2024-rutgers-bike-lane-car-speed.md
     title: The Traffic Calming Effect of Delineated Bicycle Lanes
@@ -195,6 +201,14 @@ concern citywide fatalities, not lane-specific crashes. Small counts, absent exp
 prevent interpreting the difference as proof of reduced pedestrian risk. Neither set of memo figures should be treated
 as independent confirmation of Montreal's result or of green paint's effectiveness.[^wolfson2011]
 
+NYC DOT's [2023 casualty claims](/findings/safety/nyc-dot-protected-lane-serious-casualty-claims.md) concern a
+narrower severity measure: 18.1% fewer deaths and serious injuries across all road users, and 39% fewer among senior
+pedestrians with protected lanes. The release supplies no underlying analysis, comparison period, denominator or
+senior age definition. These figures neither measure cyclist risk nor establish benefits for all pedestrians, and
+are not evaluated outcomes of the newly announced East New York lanes. Differences from the earlier memo's
+injury-crash percentage are not evidence of changing effectiveness; the measures differ and data overlap is
+unknown.[^nycdot2023]
+
 ## Site-specific injury changes are not cyclist risk estimates
 
 [NYCDOT's 2012 report gives 35% and 58% fewer injuries to all street users on 8th and 9th Avenues](/findings/safety/nyc-eighth-ninth-injury-changes.md).
@@ -236,6 +250,21 @@ identify connectivity or prove that additional cyclists caused safety gains. Eig
 correlated predictors, estimated exposure and assumed stable police reporting limit inference; the longer analysis
 also assumes unchanged pre-2006 trips. The authors' network-first causal explanation and recommendations for traffic
 calming go beyond the fitted associations.[^seville]
+
+## City-level all-user associations are not cyclist route risks
+
+[Streetsblog's 2019 coverage of a 12-city study](/findings/safety/us-cities-protected-lane-casualty-association.md)
+reports 44% fewer deaths and 50% fewer serious injuries with protected/separated facilities than an undefined
+“average city,” using 2000–2012 casualties. Unlike Seville's bicycle-trip denominator or Montreal's route comparison,
+this concerns all road users at city scale. The article omits denominators, model details and uncertainty; its causal
+language cannot establish an installation effect. Its gentrification update also cautions against assuming benefits
+were equally distributed.[^short2019]
+
+The article reports no safety improvement from painted lanes, without estimates or precision. This does not refute
+Asbury Park's local speed observations or establish universal painted-lane ineffectiveness: outcomes and study scales
+differ. Marshall's speed explanation and warning about parking between bollards are interpretations, not measured
+mechanisms in this account. Its separate sharrow criticism repeats the Chicago study above, not another independent
+confirmation, and does not resolve that study's rate/count differences.[^short2019]
 
 ## What remains unresolved
 
@@ -286,6 +315,12 @@ describes the Toronto–Vancouver case-crossover design and its injury-populatio
 
 [Lessons from the Green Lanes](/sources/2014-lessons-green-lanes.md) distinguishes post-installation video conflicts,
 perceived safety and comfort from long-term crash evidence.
+
+[^nycdot2023]: NYC DOT (September 21, 2023), PDF p. 1, opening announcement and paragraph beginning
+    “By shortening crossing times for pedestrians.”
+
+[^short2019]: Short (2019), PDF pp. 2–4, study coverage, equity update, painted/shared-lane claims and Marshall interview;
+    underlying 12-city paper not independently reviewed.
 
 [^younes2024]: Younes et al. (2024), PDF pp. 12–18, speed definitions and Tables 3–6;
     pp. 19–20, discussion, limitations and safety interpretation.

@@ -6,6 +6,27 @@ description:
   attribution to individual treatments.
 tags: [street design, business, mobility, safety, measurement, emergency response]
 sources:
+  - id: rogers2024
+    resource: /sources/2024-business-insider-bikes-good-for-business.md
+    title: Bike lanes are good for business
+  - id: dolven2024
+    resource: /sources/2024-boston-globe-bike-boom.md
+    title: More Bostonians are biking as bike lanes boom, but barriers remain
+  - id: nycdot2023
+    resource: /sources/2023-nycdot-bike-lanes-pedestrians.md
+    title: NYC DOT Completes East New York’s Longest Protected Bike Lane Project, Delivering Much-Needed Safety Near Schools
+  - id: cuba2019
+    resource: /sources/2019-streetsblog-fdny-traffic-is-the-problem.md
+    title: "FDNY: Traffic, Not Bike Lanes, is to Blame for Increased Response Times"
+  - id: cbc2019
+    resource: /sources/2019-cbc-good-for-business.md
+    title: Love them or hate them, research offers financial case for big city bike lanes
+  - id: streetsblog2015
+    resource: /sources/2015-streetsblog-slc.md
+    title: Salt Lake City Cuts Car Parking, Adds Bike Lanes, Sees Retail Boost
+  - id: citylab2015
+    resource: /sources/2015-city-lab-good-for-business.md
+    title: The Complete Business Case for Converting Street Parking Into Bike Lanes
   - id: vox2014
     resource: /sources/2014-vox-bike-lane-travel-times.md
     title: Bike lanes have actually sped up car traffic in New York City
@@ -77,6 +98,17 @@ are not independent replications. Successive NYC reports also cover overlapping 
   accompanied bicycle lanes, signals and turn changes. It shows a reported improvement alongside bicycle provision, not
   that bicycle lanes alone reduced delay.
 
+## Announced infrastructure is not a measured safety outcome
+
+[NYC DOT's September 2023 East New York release](/sources/2023-nycdot-bike-lanes-pedestrians.md) reports substantial
+completion of 3.18 miles of parking-protected lanes on Cozine and Wortman avenues, alongside connecting lanes,
+pedestrian-space improvements and school-area treatments. Its
+[18.1% all-user and 39% senior-pedestrian reductions](/findings/safety/nyc-dot-protected-lane-serious-casualty-claims.md)
+refer to protected-lane designs generally, not a before/after evaluation of this project. Unlike the earlier NYC
+corridor evaluations, the announcement supplies no local injury outcomes. School proximity, outreach and equity-based
+project prioritization describe intended beneficiaries and implementation, not measured school-travel safety or an
+equitable distribution of benefits.[^nycdot2023]
+
 ## Treat the whole project as the observed intervention
 
 The cases combine lanes, refuges, signals, turn management and sometimes public-space changes. Their reported outcomes
@@ -96,6 +128,14 @@ responses indicated another bicycle route and 10% another mode. This supports co
 cycling, not subtracting survey percentages from count increases to estimate a causal net gain. The surveys sampled
 current users, and the count comparisons lacked matched parallel-route controls.[^monsere2014]
 
+Boston's [Mass Ave. bridge counts](/findings/networks/boston-mass-ave-bridge-counts.md) add reported 51% growth
+between fall 2021 and fall 2023, but the Globe's other locations qualify a uniformly rising-use narrative:
+[South Huntington](/findings/networks/boston-south-huntington-counts.md) increased in 2023 while remaining below
+its 2017 peak, and [Cambridge Street](/findings/networks/boston-cambridge-street-counts.md) dipped in 2023 after
+an initial rise. These are short fall counting windows, not annual daily averages or controlled lane effects.
+The article's separate StreetLight metro trip estimate and Bluebikes totals cannot be pooled with these corridor
+counts or treated as independent confirmation that lanes caused growth.[^dolven2024]
+
 ## Citywide trip estimates address a different scale
 
 [Seville's estimated bicycle trips](/findings/networks/seville-citywide-bicycle-trips.md) rose from 3.055 million in
@@ -110,6 +150,20 @@ use and lower per-trip risk need not mean fewer total crashes. The
 not a proven additional effect: its binary indicator represents all changes after 2006, not connectivity alone.
 These trip and safety findings share one city time series, rather than independently confirming an intervention effect.[^seville]
 
+## Construction and connection are not measured travel benefits
+
+Urban Institute's [13-city construction comparison](/findings/networks/us-cities-protected-construction-share.md)
+adds a different measure from Seville's trip series: the average protected share of new infrastructure rose from
+57% in 2016 to 78% in 2020, with substantial city differences. This describes new construction, not the protected
+share of the whole network, dollar spending or a national trend. The explainer includes buffered lanes in its
+protected-infrastructure discussion, limiting comparisons with studies restricted to physical separation.
+
+[Pittsburgh staff's reported connectivity increase from 40% to 80%](/findings/networks/pittsburgh-reported-lane-connectivity.md)
+likewise describes network links, without dates or a reproducible metric. Neither result measures additional trips,
+fewer injuries or Final Mile's causal effect. They support a reported shift in planning and construction priorities,
+not the article's expected downstream benefits. Its Salt Lake City sales and Montreal/NYC safety examples repeat
+[earlier evidence](/sources/2022-urban-inst-cities-invest-in-bikes.md), rather than independently confirming those benefits.
+
 ## Comfort, support and correct use are different outcomes
 
 [Vertical buffers received higher comfort ratings](/findings/design/green-lanes-buffer-comfort.md) than paint-only
@@ -118,6 +172,12 @@ including car commuters. Neither comfort nor stated willingness to cycle measure
 [Intersection observations](/findings/design/green-lanes-intersection-behavior.md) also show why perceived understanding
 cannot substitute for observing positioning and signal compliance. Designs differed in both behavior and traffic
 context, so the results do not establish a universal best treatment.[^monsere2014]
+
+[Boston's interviewed riders](/sources/2024-boston-globe-bike-boom.md) describe more comfortable everyday trips,
+but all three were experienced cyclists, not evidence of adoption among beginners. One still mostly drove to day
+care; another would not carry his child through a truck-sharing construction gap. These accounts illustrate why
+comfortable segments need not provide a usable whole journey. They complement survey evidence without estimating
+population preferences, safety effects or how many car trips lanes displaced.[^dolven2024]
 
 ## Sidewalk-riding changes are not pedestrian-safety estimates
 
@@ -178,6 +238,58 @@ article's 400% wording also differs from a chart peaking near 400 on a baseline 
 not be reused without resolving that denominator. Neither comparison isolates lane effects or measures profits or
 customer numbers. Rowe's no-negative-impact conclusion and Jaffe's broad headline remain interpretations, not a
 universal guarantee.[^citylab2013]
+
+## A multi-city roundup is not twelve tests of parking removal
+
+[Jaffe's 2015 roundup](/sources/2015-city-lab-good-for-business.md) broadens the geography but mixes study designs.
+It repeats Portland, Seattle and Melbourne evidence already represented here, not independent confirmations.
+Its [York road-diet account](/findings/business/york-road-diet-business-results.md) reports little business effect
+and rising receipts in both sections; a higher treated-section revenue level alone does not identify an effect.
+[Vancouver](/findings/business/vancouver-separated-lane-sales-reports.md) adds a reported sales decline. Possible
+merchant-response bias and smaller losses in limited sales records qualify that result without erasing it.[^citylab2015]
+
+Customer surveys explain why car-arrival shares alone cannot stand in for spending, but do not test lane installation.
+[Davis](/findings/business/davis-downtown-customer-spending.md) estimates higher bicycle spending for Target-type
+goods, unlike Portland's lower per-trip bicycle spending and supermarket exception.
+[New Zealand](/findings/business/nz-shopping-mode-spending.md) reports higher driver spending per trip; proposed
+longer-term non-driver benefits are not measured monthly results.
+[Bloor Street](/findings/business/toronto-bloor-customer-spending.md) similarly supports a forecast, not an observed
+conversion gain. [Dublin and Bristol](/findings/business/merchant-car-arrival-overestimates.md) document merchant
+mode-share overestimates, not business losses or gains. Taken together, these cases challenge assumptions that
+customers predominantly drive, but do not establish a universal no-harm effect of parking removal.[^citylab2015]
+
+## CBC's economic roundup mixes outcomes and repeats evidence
+
+[CBC's 2019 roundup](/sources/2019-cbc-good-for-business.md) largely repeats NYC, Broadway, Valencia and Portland
+results, retaining Vancouver's adverse account and Portland's supermarket exception. These are not additional
+independent confirmations. Its [2017 Bloor account](/findings/business/toronto-bloor-2017-business-reports.md) is a
+later post-installation assessment, unlike the earlier conversion prediction: most merchants reportedly saw more
+customers, but CBC supplies neither sales magnitudes nor enough methods to infer an isolated lane effect.[^cbc2019]
+
+The [11.4 versus 7.8 local jobs per million dollars](/findings/business/us-cycling-project-jobs-per-dollar.md)
+comparison concerns project spending on cycling versus road-only infrastructure, not subsequent retail employment,
+permanent jobs or net economic gains. Florida's worker-attraction argument and Amazon's stated location criteria
+likewise do not measure recruitment effects. CBC explicitly excludes suburban settings and the impact of reduced
+driving lanes, so its roundup cannot resolve those trade-offs.[^cbc2019]
+
+## Business-wide conclusions can conceal losses and different denominators
+
+[Business Insider's 2024 review](/sources/2024-business-insider-bikes-good-for-business.md) repeats Seattle, NYC
+and national-study evidence rather than independently confirming it. Its added
+[2018 San Francisco account](/findings/business/san-francisco-2018-business-sales.md) distinguishes local-serving
+businesses from wider-market businesses and retains a district sales-per-employee decline. Its
+[2019 comparison](/findings/business/san-francisco-2019-business-sales.md) reports median sales declines on both
+painted-lane and signed shared streets, as well as among similar shops without a lane. Sector and business-age
+differences qualify any universal no-harm claim, but unadjusted dollar declines do not establish harm caused by lanes.
+The 2019 treatments are not protected lanes; 2018 lane designs and sample independence between the two papers
+remain unspecified in the article.[^rogers2024]
+
+The [Los Angeles arrival comparison](/findings/business/los-angeles-merchant-car-arrival-estimates.md) adds another
+reason not to substitute merchant beliefs for customer data: over half of merchants believed most customers drove,
+while the reported customer driver share was 15%. Those are different denominators, not two mode-share estimates
+that can be subtracted. This survey result and York's sales account concern the same local research, not independent
+confirmation of economic benefits. Rogers's proposed compensation for businesses losing sales is a policy suggestion,
+not a tested remedy; the interviews explain possible adaptation without proving that every business benefits.[^rogers2024]
 
 ## Later NYC evidence adds comparisons, not isolated lane effects
 
@@ -248,19 +360,51 @@ responses. Multiple datasets and methods analyze the same corridors, not indepen
 summary lacks coefficients, confidence intervals, detailed periods and matching diagnostics; the separate technical
 report remains unreviewed.[^national2020]
 
-## ULI adds secondary comparisons, not a controlled evaluation
+## Broadway's sales, survey and traffic figures are not independent effect estimates
 
 The [Salt Lake City Broadway case](/findings/business/salt-lake-broadway-retail-sales.md) reports 8.8% sales growth
-versus 7% citywide after a redesign removed 30% of parking and added bike lanes, sidewalk and crossing improvements.
-This adds another reported economic comparison, not an isolated parking-removal benefit. Business-owner support of
-59% coexisted with 18% opposition; opinion and sales are different outcomes. ULI does not reproduce the underlying
-municipal analysis.[^uli2016]
+versus 7% citywide after a redesign removed 30% of parking and added protected lanes and streetscape improvements.
+Streetsblog dates the sales-tax comparison to the first halves of 2013 and 2015, unlike ULI's year-over-year wording.
+These are two accounts of the same municipal evidence, not independent confirmations or an isolated parking-removal
+benefit. The underlying analysis remains unreviewed and the period discrepancy unresolved.[^streetsblog2015][^uli2016]
+
+The [manager survey](/findings/business/salt-lake-broadway-merchant-responses.md) adds perceptions, not audited sales:
+90% of 90 storefronts were reached, with some opposition and reported sales declines. Its largest sales-response
+category is “good,” not an explicit no-change category. ULI's 59% support and 18% opposition describe the same case,
+not another sample. Aggregate sales growth and favorable opinions cannot establish that no retailer was harmed.[^streetsblog2015][^uli2016]
+
+[Reported 30% bicycle-traffic growth](/findings/networks/salt-lake-broadway-bicycle-traffic.md) supplies another outcome,
+not evidence of net new citywide trips or spending by cyclists. The article lacks counting methods and dates.
+Andersen and local interviewees propose that calmer traffic and a more pleasant walking environment helped sales;
+neither those mechanisms nor the contribution of bicycle traffic were tested.[^streetsblog2015]
+
+## ULI's route counts and forecasts require separate interpretation
 
 [Copenhagen's Farum route](/findings/networks/copenhagen-farum-ridership.md) had reported 52% cyclist-count growth in
 2012–14, but its commuter survey and count totals have different denominators. As with NYC and Green Lane counts,
 this cannot establish net new regional cycling. ULI's projected economic returns for Copenhagen's completed network
 and London's new routes are forecasts, not observed outcomes. Its early London CS2 account also retains six cyclist
 deaths in 2011–15, rather than presenting every route branded a cycle superhighway as already safe.[^uli2016]
+
+The later [Copenhagen per-kilometre values](/findings/copenhagen-cycling-economic-values.md), reported by The
+Copenhagen Post in 2018, answer another question: the article attributes gains of 4.80 kroner per bicycle kilometre,
+or 10.09 kroner when replacing an equivalent car journey, to finance-ministry figures. Unlike a project return or
+observed sales change, these values depend on a valuation framework that the article does not supply. They cannot
+establish realized savings or the return from wider cycle paths. Deputy mayor Olsen's call for wider paths and
+road pricing is a policy proposal, not an evaluated intervention. This reporting does not replicate ULI's network
+forecast or Farum count result.
+
+[WEF's later Copenhagen explainer](/sources/2018-wef-copenhagen-best-bike-city.md) repeats the same economic values;
+its daily benefit range is a scenario obtained by scaling them by cycling distance, not independent confirmation
+or observed cash savings. Its [32% bicycle-arrival spending share](/findings/business/copenhagen-bike-shopping-share.md)
+adds spending composition, not sales growth caused by infrastructure. Without the underlying retail methods or
+before/after comparison, the article's claim of stronger effects in cycle-friendly shopping areas remains untested.
+
+Copenhagen's [reported perceived-safety increase from 53% to 76% in 2006–2016](/findings/design/copenhagen-perceived-safety.md)
+likewise concerns a different outcome from injuries. Missing survey methods prevent assessing comparability;
+the council's 90% target for 2025 and expected 15%–20% additional cyclists per dedicated cycleway were goals or
+expectations in the 2018 account, not measured project effects. These distinctions qualify the explainer's broad
+success narrative without negating the reported use and perception figures.
 
 ## Emergency access accounts and incident records answer different questions
 
@@ -291,6 +435,15 @@ not contradict the single-city model, whose sample and measure differ. Yielding 
 response, not a tested remedy. The paper's citation of FHWA does not turn the earlier cases into another quantitative
 replication.[^corcoran2024]
 
+Streetsblog's [2019 NYC response-time account](/findings/operations/nyc-fdny-response-time-trend.md) adds a citywide
+trend, not another redesign evaluation: fire-company dispatch-plus-travel time to all emergencies reportedly reached
+**5 minutes 15 seconds**, up **25 seconds (8.6%)** from fiscal 2015. The quoted management report tentatively
+attributes part of the travel-time increase to population growth, vehicles and construction; the FDNY spokesman
+refers back to that report. Firefighter and union accounts instead blame plazas or Vision Zero barriers. Neither
+these accounts nor the aggregate trend isolates bike-lane effects. The article's categorical headline should not
+be read as a controlled no-delay result, and its average seconds cannot be pooled with Cedar Rapids' minutes per
+inferred kilometre.[^cuba2019]
+
 ## What remains uncertain
 
 NYC's 2012 report illustrates selected favorable cases without detailed periods, baselines, uncertainty or controlled
@@ -309,12 +462,22 @@ curb-management examples.
 [Active transportation and real estate](/topics/active-transportation-real-estate.md) separates property appreciation,
 developer accounts and affordability from street-level sales and mobility outcomes.
 
+[^rogers2024]: Rogers (2024), PDF p. 3, Los Angeles; pp. 4–8, repeated evidence and San Francisco comparisons;
+    pp. 10–12, individual losses, compensation proposal and interview interpretations.
+
+[^dolven2024]: Dolven (2024), PDF p. 3 (counting basis), pp. 5–9 (rider accounts), pp. 8–10 (corridor and regional trends).
+
 [^rutgers2024]: MacPherson (2024), Rutgers news article, PDF pp. 1–2, researcher comments, speed summary and rider survey.
 
 [^younes2024]: Younes et al. (2024), PDF pp. 7–12, methods; pp. 14–18, Tables 3–6;
     pp. 19–20, discussion/conclusions; p. 26, sampling endnotes.
 
+[^cbc2019]: Dunne (2019), PDF p. 1 (scope), pp. 2–4 (retail/spending), pp. 5–6 (jobs), pp. 6–7 (worker attraction).
+
 [^citylab2014]: Jaffe (2014), PDF pp. 2–3, corridor comparisons, chart and selection caveat; pp. 3–4, policy argument.
+
+[^citylab2015]: Jaffe (2015), PDF pp. 2–9, city entries; these are secondary accounts with different measures,
+    including repeated Portland/Seattle/Melbourne research, not a pooled parking-conversion evaluation.
 
 [^citylab2013]: Jaffe (2013), PDF pp. 2–4, Seattle comparison methods, both sales-index charts and interpretations.
 
@@ -331,7 +494,16 @@ developer accounts and affordability from street-level sales and mobility outcom
 [^corcoran2024]: Corcoran et al. (2024), pp. 3–5, survey results and Tables 2–5; pp. 5–8, incident methods,
     Tables 6–7, Figure 4 and limitations. Table 7's interval differs from p. 8 prose; see the measurement Finding.
 
+[^nycdot2023]: NYC DOT (September 21, 2023), PDF p. 1, project announcement, safety paragraph, school-area
+    treatments, outreach and equity formula; p. 2, advocacy endorsement.
+
+[^cuba2019]: Cuba (2019), PDF pp. 2–3, tentative explanation and response-time definition; pp. 4–5, opposing
+    accounts; pp. 6–7, mayor's radio comments. Underlying management report not independently reviewed.
+
 [^fhwa]: FHWA, FHWA-SA-17-020, PDF p. 1 (center-lane mechanism and general claims); p. 2 (Ocean City and Woodbury accounts).
+
+[^streetsblog2015]: Andersen (2015), PDF pp. 1–3, redesign and sales comparison; pp. 3–4, survey and charts;
+    pp. 5–6, bicycle traffic and local interpretations.
 
 [^uli2016]: ULI (2016), Broadway p. 6; Farum and Copenhagen forecasts pp. 42–44; London deaths and forecasts pp. 47, 49.
 

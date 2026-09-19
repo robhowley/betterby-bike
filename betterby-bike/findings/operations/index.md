@@ -15,6 +15,9 @@
 - [Woodbury emergency response times](woodbury-road-diet-response-times.md): a police account reports unchanged
   response times and easier, safer travel, not a measured time saving.
 
+- [NYC fire-company response-time trend](nyc-fdny-response-time-trend.md): reported 25-second increase from fiscal
+  2015, with tentative congestion attribution and competing accounts, not an isolated bike-lane effect.
+
 - [Cedar Rapids emergency response rates](cedar-rapids-road-diet-response-rates.md): no significant adjusted
   before/after change at four conversions, with uneven site samples and no untreated controls.
 

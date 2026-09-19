@@ -21,7 +21,9 @@
 - [Montreal Bixi values](montreal-bixi-property-values.md): repeat-sales association of CA$709 per nearby station,
   as reported by ULI without the underlying model.
 - [Salt Lake City Broadway retail](salt-lake-broadway-retail-sales.md): 8.8% versus 7% citywide sales growth after a
-  combined upgrade and parking reduction, with some business-owner opposition.
+  combined upgrade and parking reduction; Streetsblog and ULI differ on the comparison period.
+- [Broadway merchant responses](salt-lake-broadway-merchant-responses.md): support, opposition and reported sales
+  declines; the largest sales-response category is “good,” not explicitly unchanged.
 - [MoZaic access and leasing](mozaic-trail-access-and-leasing.md): shared trail-connection financing and reported full
   occupancy, without an isolated financial return.
 
@@ -32,6 +34,9 @@
 - [Economic measurement limits](national-street-improvements-measurement.md): price versus volume, adjustment times
   and model choice prevent equating revenue and jobs with immediate consumer response.
 
+- [Copenhagen bicycle-arrival spending](copenhagen-bike-shopping-share.md): reported 32% of high-street and
+  supermarket spending, not additional sales caused by cycling infrastructure.
+
 - [Portland customer spending](portland-bike-customer-spending.md): lower bicycle-trip spending but higher monthly
   spending in secondary reporting, with supermarket and walking-mode exceptions, not a measured lane effect.
 - [Melbourne parking revenue](melbourne-parking-retail-revenue.md): retail revenue per space and time, with unit
@@ -40,6 +45,33 @@
   and 4% harm after a combined redesign, not audited sales.
 - [Employer location accounts](bike-access-employer-location-accounts.md): bicycle access as a stated recruitment
   and location consideration, without measured hiring or retention effects.
+
+- [Vancouver sales reports](vancouver-separated-lane-sales-reports.md): adverse merchant reports, with possible
+  response bias and smaller declines in limited sales records.
+- [York road-diet business results](york-road-diet-business-results.md): little reported effect and rising receipts
+  in both sections; higher treated-section revenue is not a causal gain.
+- [Davis customer spending](davis-downtown-customer-spending.md): higher estimated monthly bicycle spending on
+  Target-type goods, excluding food and services.
+- [New Zealand shopping surveys](nz-shopping-mode-spending.md): higher driver spending per trip, with longer-term
+  non-driver benefits proposed rather than measured.
+- [Bloor Street customers](toronto-bloor-customer-spending.md): low driver share and high walking/cycling monthly
+  spending informed a parking-conversion prediction, not an observed effect.
+- [Merchant car-arrival overestimates](merchant-car-arrival-overestimates.md): separate Dublin and Bristol
+  comparisons show why merchant beliefs cannot substitute for customer travel surveys.
+
+- [Bloor Street 2017 assessment](toronto-bloor-2017-business-reports.md): favorable later merchant/customer reporting,
+  distinct from the earlier conversion prediction; methods and effect sizes absent from CBC's account.
+- [Delaware path proximity values](delaware-bike-path-property-values.md): reported at least $8,800 near-path
+  difference and positive-or-null review results, not causal appreciation or improved affordability.
+- [U.S. project jobs per dollar](us-cycling-project-jobs-per-dollar.md): reported 11.4 versus 7.8 local jobs per
+  million dollars for cycling versus road-only projects, not permanent or net employment effects.
+
+- [Los Angeles merchant arrival estimates](los-angeles-merchant-car-arrival-estimates.md): majority-driver beliefs
+  versus a 15% customer driver share, with different denominators and no sales effect.
+- [San Francisco 2018 sales results](san-francisco-2018-business-sales.md): customer-base differences and an adverse
+  sales-per-employee result, reported without numerical effect estimates.
+- [San Francisco 2019 sales changes](san-francisco-2019-business-sales.md): median declines in painted-lane,
+  signed shared-street and comparison groups, with mixed sector outcomes and no isolated lane effect.
 
 [Findings index](../index.md) · [Evaluating street redesign outcomes](../../topics/street-redesign-outcomes.md) ·
 [Active transportation and real estate](../../topics/active-transportation-real-estate.md).
