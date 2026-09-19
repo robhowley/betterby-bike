@@ -15,6 +15,9 @@ sources:
   - id: seville
     resource: /sources/2016-seville-ridership.md
     title: On the effect of networks of cycle-tracks on the risk of cycling. The case of Seville
+  - id: corcoran2024
+    resource: /sources/2024-07-road-diets-ems.md
+    title: Impact of 4-to-3 lane conversions on emergency response
   - id: fhwa
     resource: /sources/2016-fhwa-road-diet-response-times.md
     title: "Road Diets and Emergency Response: Friends, Not Foes"
@@ -180,7 +183,7 @@ this cannot establish net new regional cycling. ULI's projected economic returns
 and London's new routes are forecasts, not observed outcomes. Its early London CS2 account also retains six cyclist
 deaths in 2011–15, rather than presenting every route branded a cycle superhighway as already safe.[^uli2016]
 
-## Emergency access accounts are not timed response evaluations
+## Emergency access accounts and incident records answer different questions
 
 FHWA's road-diet fact sheet adds a different operational question: can emergency vehicles pass ordinary traffic?
 Its [Ocean City case](/findings/operations/ocean-city-road-diet-emergency-access.md) describes easier passage using
@@ -193,6 +196,21 @@ This distinction matters alongside NYC's travel-time observations and Green Lane
 traffic speeds, responder ease of passage and dispatch-to-arrival times are different measures. The fact sheet's
 broad no-delay and improvement claims are not established by its two selected cases, and center-turn-lane road diets
 cannot stand in for all protected-lane designs.[^fhwa]
+
+The [2024 Cedar Rapids analysis](/findings/operations/cedar-rapids-road-diet-response-rates.md) adds independent
+quantitative evidence: four conversions had an adjusted before/after response-rate ratio of **1.024 (Table 7 95% CI
+0.992–1.056)**, with after as reference. This is no significant detected change, not a demonstrated improvement or
+universal no-delay guarantee. The outcome is alarm-to-arrival minutes per inferred kilometre, including pre-departure
+time, unlike ordinary traffic speed or driving time alone. [Assumed routes, whole-trip exposure and reporting
+discrepancies](/findings/operations/cedar-rapids-response-measurement-limits.md) qualify numerical reuse; there were no
+non-converted road controls, and an apparent 42nd Street improvement had only 14 pre-conversion trips.[^corcoran2024]
+
+The same publication's [ten-city Iowa survey](/findings/operations/iowa-road-diet-responder-perceptions.md) broadens
+the favorable FHWA accounts: 51% of 163 response-time answers perceived unchanged times, 33% slower and 16% faster.
+Respondents described both center-lane passing benefits and driver confusion or blocked lanes. These experiences need
+not contradict the single-city model, whose sample and measure differ. Yielding education is the authors' proposed
+response, not a tested remedy. The paper's citation of FHWA does not turn the earlier cases into another quantitative
+replication.[^corcoran2024]
 
 ## What remains uncertain
 
@@ -219,6 +237,9 @@ developer accounts and affordability from street-level sales and mobility outcom
 
 [^seville]: Marqués and Hernández-Herrador, supplied manuscript, section 3, Table 2; sections 4.1–4.2,
     Tables 4–7; section 5 and conclusions.
+
+[^corcoran2024]: Corcoran et al. (2024), pp. 3–5, survey results and Tables 2–5; pp. 5–8, incident methods,
+    Tables 6–7, Figure 4 and limitations. Table 7's interval differs from p. 8 prose; see the measurement Finding.
 
 [^fhwa]: FHWA, FHWA-SA-17-020, PDF p. 1 (center-lane mechanism and general claims); p. 2 (Ocean City and Woodbury accounts).
 

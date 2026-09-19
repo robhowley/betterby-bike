@@ -240,3 +240,18 @@ healthcare-cost and ridership claims without treating them as measured protected
 Read all 19 PDF pages as extracted text, including references, and visually checked printed pp. 28–31. The report has
 no printed date; January 2014 PDF metadata does not support treating the supplied 2023 filename as publication year.
 Underlying studies remain unreviewed. No bundle validation or bookkeeping-metadata changes were made.
+
+Ingested [Corcoran et al. (2024), _Impact of 4-to-3 lane conversions on emergency response_](sources/2024-07-road-diets-ems.md):
+
+- [Cedar Rapids response rates](findings/operations/cedar-rapids-road-diet-response-rates.md): no significant adjusted
+  before/after change, preserving the Table 7 ratio of 1.024 (95% CI 0.992–1.056), site imbalance and causal limits.
+- [Iowa responder perceptions](findings/operations/iowa-road-diet-responder-perceptions.md): retained unchanged,
+  slower and faster perceived times, mixed safety experiences and center-lane yielding concerns.
+- [Measurement limits](findings/operations/cedar-rapids-response-measurement-limits.md): documented inferred routes,
+  alarm-to-arrival timing and unresolved survey/trip totals and confidence-limit discrepancies.
+
+Revised [Evaluating street redesign outcomes](topics/street-redesign-outcomes.md) to distinguish quantitative Iowa
+records from FHWA's descriptive accounts, without treating a null result as an equivalence guarantee or public education
+as a tested remedy. Read all 12 PDF pages as extracted text, including appendices and references; visually checked
+pp. 7, 8 and 11. Confidential incident data were unavailable for reanalysis. Reporting inconsistencies remain unresolved.
+No bundle validation or bookkeeping-metadata changes were made.

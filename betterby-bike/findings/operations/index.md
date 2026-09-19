@@ -15,4 +15,13 @@
 - [Woodbury emergency response times](woodbury-road-diet-response-times.md): a police account reports unchanged
   response times and easier, safer travel, not a measured time saving.
 
+- [Cedar Rapids emergency response rates](cedar-rapids-road-diet-response-rates.md): no significant adjusted
+  before/after change at four conversions, with uneven site samples and no untreated controls.
+
+- [Iowa responder perceptions](iowa-road-diet-responder-perceptions.md): unchanged, slower and faster perceived
+  response times, with mixed safety and yielding experiences rather than measured delays.
+
+- [Cedar Rapids measurement limits](cedar-rapids-response-measurement-limits.md): inferred routes, alarm-to-arrival
+  timing, whole-trip exposure and conflicting printed sample counts and confidence bounds.
+
 [Findings index](../index.md) · [Evaluating street redesign outcomes](../../topics/street-redesign-outcomes.md).

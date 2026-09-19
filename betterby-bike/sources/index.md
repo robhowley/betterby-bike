@@ -46,6 +46,9 @@
   six-city summary of 14 corridor evaluations, with favorable retail/food-service patterns, mixed and adverse results,
   and limited model detail.
 
+- [Impact of 4-to-3 lane conversions on emergency response](2024-07-road-diets-ems.md): 2024 Iowa responder survey
+  and Cedar Rapids incident analysis, with mixed perceptions, no significant adjusted rate change and reporting limitations.
+
 - [Protected Bike Lanes Mean Business](protected-bike-lanes-mean-business.md): 15 business interviews and secondary
   retail, property and health research, with merchant dissent and repeated NYC evidence distinguished; printed date
   unstated, PDF metadata January 2014 despite the supplied 2023 filename.
