@@ -266,3 +266,19 @@ Ingested [FHWA (15 April 2011), _MUTCD green-pavement interim approval (IA-14)_]
 Revised [Interpreting cycling injury risk](topics/cycling-injury-risk.md) to distinguish conditional regulatory approval
 from measured injury outcomes. Read all five scanned pages visually. Current MUTCD requirements and underlying
 experimental reports were not reviewed. No bundle validation or bookkeeping-metadata changes were made.
+
+Ingested [Younes et al. (2024), _The Traffic Calming Effect of Delineated Bicycle Lanes_](sources/2024-rutgers-bike-lane-car-speed.md):
+
+- [Right-turn speeds](findings/design/asbury-park-right-turn-speeds.md): lower adjusted average/top speeds with
+  delineators and smaller paint-only associations; the stopped subgroup's unadjusted paint-only average rose slightly.
+- [Directional comparisons](findings/design/asbury-park-directional-speed-comparisons.md): smaller straight-movement
+  associations and null perpendicular results, retaining Table 6's paint-only through-movement finding despite the
+  abstract's right-turn-only claim.
+- [Measurement limits](findings/design/asbury-park-speed-measurement-limits.md): within-vehicle speed percentiles,
+  inconsistent vehicle totals, 39 analyzed hours and temporary-treatment/signal complications.
+
+Revised [Evaluating street redesign outcomes](topics/street-redesign-outcomes.md) and
+[Interpreting cycling injury risk](topics/cycling-injury-risk.md) to distinguish local traffic calming from corridor
+travel time and measured injury reductions. Read all 27 printout pages as extracted text, including references and
+endnotes; visually checked Figure 2 and Table 6. Supplementary material and raw trajectories were not reviewed;
+vehicle totals remain unresolved. No bookkeeping metadata was changed.

@@ -6,6 +6,9 @@ description:
   identify causes.
 tags: [safety, injuries, exposure]
 sources:
+  - id: younes2024
+    resource: /sources/2024-rutgers-bike-lane-car-speed.md
+    title: The Traffic Calming Effect of Delineated Bicycle Lanes
   - id: ferenchak2019
     resource: /sources/2019-chicago-shared-lane-markings.md
     title: "Advancing healthy cities through safer cycling: An examination of shared lane markings"
@@ -152,6 +155,18 @@ judgment and cyclists' reports of feeling safer cannot substitute for injury evi
 required markings, retained safety-termination obligations and advised minimizing traction loss. These describe
 historical 2011 permission, not verified current requirements or a safety guarantee.[^fhwa2011]
 
+The [Asbury Park delineated-lane pilot](/findings/design/asbury-park-right-turn-speeds.md) adds speed observations:
+about 21% lower average and 27.6% lower top right-turn speeds relative to no lane, with smaller paint-only
+associations. Unlike NYC's encroachment measures, these describe vehicle motion, but still do not measure crashes
+or injuries. [Other movements had smaller or null associations](/findings/design/asbury-park-directional-speed-comparisons.md),
+not one intersection-wide effect. Narrower lanes and sharper turns are the authors' proposed mechanisms, not
+isolated intervention effects.[^younes2024]
+
+The study's [within-vehicle speed percentile](/findings/design/asbury-park-speed-measurement-limits.md) is not an
+impact speed or an injury-risk denominator. Temporary cones are not vehicle-impact barriers. The authors infer
+possible benefits to pedestrians and cyclists from slower speeds, but this short single-site pilot cannot establish
+a crash-reduction percentage or substitute for the Montreal and Toronto–Vancouver injury comparisons.[^younes2024]
+
 ## Short conflict observations and perceived safety are not injury rates
 
 The [2014 Green Lane evaluation](/findings/safety/green-lanes-conflicts-and-risk-limits.md) found no collisions or
@@ -271,6 +286,9 @@ describes the Toronto–Vancouver case-crossover design and its injury-populatio
 
 [Lessons from the Green Lanes](/sources/2014-lessons-green-lanes.md) distinguishes post-installation video conflicts,
 perceived safety and comfort from long-term crash evidence.
+
+[^younes2024]: Younes et al. (2024), PDF pp. 12–18, speed definitions and Tables 3–6;
+    pp. 19–20, discussion, limitations and safety interpretation.
 
 [^ferenchak2019]: Ferenchak and Marshall (2019), methods pp. 138–141; Tables 2–5 pp. 141–142;
     conclusions and limitations pp. 143–144.

@@ -49,6 +49,9 @@
   six-city summary of 14 corridor evaluations, with favorable retail/food-service patterns, mixed and adverse results,
   and limited model detail.
 
+- [The Traffic Calming Effect of Delineated Bicycle Lanes](2024-rutgers-bike-lane-car-speed.md): Asbury Park pilot
+  with lower right-turn speeds, smaller or null directional associations, and speed-definition/reporting limits.
+
 - [Impact of 4-to-3 lane conversions on emergency response](2024-07-road-diets-ems.md): 2024 Iowa responder survey
   and Cedar Rapids incident analysis, with mixed perceptions, no significant adjusted rate change and reporting limitations.
 

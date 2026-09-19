@@ -17,4 +17,11 @@
 - [Green Lane resident support](green-lanes-resident-support.md): most surveyed neighbors favored more lanes; stated
   willingness to cycle is not observed adoption.
 
+- [Asbury Park right-turn speeds](asbury-park-right-turn-speeds.md): lower adjusted speeds with delineators and
+  smaller paint-only associations, not measured crash reductions.
+- [Asbury Park directional speed comparisons](asbury-park-directional-speed-comparisons.md): smaller through-movement
+  and null perpendicular results, including a paint-only top-speed result omitted from the abstract's summary.
+- [Asbury Park speed measurement limits](asbury-park-speed-measurement-limits.md): within-vehicle percentiles,
+  conflicting totals and temporary-treatment conditions.
+
 [All findings](../index.md) · [Bundle index](../../index.md).

@@ -13,16 +13,16 @@ active-transportation and real-estate profiles, FHWA's New Jersey road-diet emer
 responder survey and Cedar Rapids response-rate analysis, and Seville's
 citywide network, trip and collision-risk time series, plus Chicago's sharrow block-group injury comparison and a
 six-city summary of economic outcomes on 14 improved corridors and PeopleForBikes/Alliance business interviews and
-secondary economic research; it is not a comprehensive review.
+secondary economic research, plus an Asbury Park temporary-lane speed study; it is not a comprehensive review.
 
 ## Topics
 
 - [Interpreting cycling injury risk](topics/cycling-injury-risk.md): exposure, severity, crash mechanisms, behavioral
-  measures, short conflict observations, policy claims and limits on causal interpretation.
+  measures, local turning speeds, short conflict observations, policy claims and limits on causal interpretation.
 - [Evaluating street redesign outcomes](topics/street-redesign-outcomes.md): safety, business, bicycle volumes,
   comfort, mixed driving/walking experiences, emergency-access accounts, Iowa response evidence and six-city economic
   comparisons, without isolating bike-lane effects; customer spending, merchant perceptions and employer accounts remain
-  distinct measures.
+  distinct measures, as do local traffic calming and corridor travel times.
 - [Active transportation and real estate](topics/active-transportation-real-estate.md): property-value associations,
   development accounts and car-optional housing, without assuming causal premiums or affordability benefits.
 - [Topics index](topics/index.md).

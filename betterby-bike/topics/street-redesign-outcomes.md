@@ -6,6 +6,9 @@ description:
   attribution to individual treatments.
 tags: [street design, business, mobility, safety, measurement, emergency response]
 sources:
+  - id: younes2024
+    resource: /sources/2024-rutgers-bike-lane-car-speed.md
+    title: The Traffic Calming Effect of Delineated Bicycle Lanes
   - id: business
     resource: /sources/protected-bike-lanes-mean-business.md
     title: Protected Bike Lanes Mean Business
@@ -147,6 +150,24 @@ presentation repeats a 2013 economic report, does not detail matching or uncerta
 from the whole redesign. Ninth Avenue's 47% versus 43%/23% comparisons must remain distinct from the earlier “up to
 49% versus 3%” claim; these are not independent confirmations.[^nyc2014]
 
+## Local traffic calming is not corridor travel delay
+
+[Asbury Park's 2022 pilot](/findings/design/asbury-park-right-turn-speeds.md) associated temporary delineated lanes
+with about 21% lower average and 27.6% lower top right-turn speeds. This adds local vehicle-behavior evidence,
+not a contradiction of NYC's level taxi speeds or shorter corridor travel times: camera-view turning speeds and
+end-to-end journeys answer different questions. Slower turns need not mean proportionately longer trips.[^younes2024]
+
+[Other movements](/findings/design/asbury-park-directional-speed-comparisons.md) had smaller or null associations,
+so the right-turn headline should not describe all traffic. Paint-only right-turn reductions were smaller; Table 6
+also shows a significant paint-only top-speed reduction in one straight direction despite the abstract's narrower
+claim. These comparisons come from one intersection, not separate replications.[^younes2024]
+
+[Metric and sampling limits](/findings/design/asbury-park-speed-measurement-limits.md) matter: “top speed” is each
+vehicle's within-trajectory percentile, not a traffic-wide percentile; vehicle totals conflict. Narrower lanes,
+changed turning geometry, displaced cones and malfunctioning signals limit causal attribution. The authors'
+proposed safety benefit and preference for delineators are not measured crash reductions or proof about permanent
+protected lanes.[^younes2024]
+
 ## Six-city economic analysis adds controls but retains mixed results
 
 The National Street Improvements Study extends economic comparisons to 14 improved corridors and 14 controls across
@@ -229,6 +250,9 @@ curb-management examples.
 
 [Active transportation and real estate](/topics/active-transportation-real-estate.md) separates property appreciation,
 developer accounts and affordability from street-level sales and mobility outcomes.
+
+[^younes2024]: Younes et al. (2024), PDF pp. 7–12, methods; pp. 14–18, Tables 3–6;
+    pp. 19–20, discussion/conclusions; p. 26, sampling endnotes.
 
 [^business]: Andersen and Hall, recruitment pp. 16–19; health pp. 22–25; retail pp. 28–31; references p. 35.
 
