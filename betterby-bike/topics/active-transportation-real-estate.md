@@ -4,6 +4,9 @@ title: Active transportation and real estate
 description: Reported property-value associations and development examples support market interest, not a universal causal premium or affordability benefit.
 tags: [real estate, property values, trails, housing, affordability]
 sources:
+  - id: business
+    resource: /sources/protected-bike-lanes-mean-business.md
+    title: Protected Bike Lanes Mean Business
   - id: uli2016
     resource: /sources/2016-active-transportation-real-estate.md
     title: "Active Transportation and Real Estate: The Next Frontier"
@@ -13,8 +16,9 @@ sources:
 
 Walking and cycling access can be an amenity that developers market and help finance. ULI's 2016 report documents
 selected examples and summarizes favorable property-value research, but does not establish the rent premium, public
-return or affordability effect of installing infrastructure. Current coverage rests on this one publication and its
-secondary accounts, not independently reviewed underlying studies.[^uli2016]
+return or affordability effect of installing infrastructure. *Protected Bike Lanes Mean Business* adds business
+interviews and further secondary trail-value comparisons, not independently reviewed underlying property studies.
+Both publications document market interest rather than isolate infrastructure's financial contribution.[^uli2016][^business]
 
 ## Property-value measures answer different questions
 
@@ -30,6 +34,12 @@ secondary accounts, not independently reviewed underlying studies.[^uli2016]
 The cases are compatible with market demand for access, but cannot be pooled into a common premium. Repeated figures
 within ULI's overview and profiles are not additional confirmations.[^uli2016]
 
+*Protected Bike Lanes Mean Business* reports $510 higher median home value per quarter-mile nearer an off-street
+Minneapolis–St. Paul trail (citing Krizek, 2006), and an 11% sale-price difference for homes within half a mile of
+Indiana's Monon Trail versus similar homes farther away (Lindsey et al., 2004). These add distinct proximity
+comparisons, not post-installation appreciation or protected-lane premiums. The summary omits valuation periods,
+controls and uncertainty; the underlying studies remain unreviewed.[^business]
+
 ## Development accounts show arrangements, not isolated returns
 
 [MoZaic](../findings/business/mozaic-trail-access-and-leasing.md) supplies a concrete example of shared financing:
@@ -40,6 +50,13 @@ also mattered. The report does not price the trail's separate contribution.
 ULI's broader profiles describe secure bicycle storage, repair rooms, showers and direct trail access. Some report
 lease-up success, while others, including Bici Flats and 250 City Road, describe expected performance or planned
 features. Those expectations are not realized investment returns.[^uli2016]
+
+The business report's San Francisco and Washington property interviewees anticipate protected lanes improving
+values or tenant appeal, while Portland's NE Multnomah Street account describes a planned transformation toward
+more active retail frontage. These are expectations, not measured lease-up or value effects.
+[Employer location accounts](../findings/business/bike-access-employer-location-accounts.md) add a related demand
+mechanism: bicycle access can matter to selected employers alongside transit, downtown amenities and culture,
+without identifying a rent premium or recruitment benefit.[^business]
 
 ## Appreciation is not the same as affordability
 
@@ -65,6 +82,9 @@ returns, rather than more selected success stories.
 - [Evaluating street redesign outcomes](street-redesign-outcomes.md): sales, user responses and corridor counts require
   different interpretations.
 - [Source summary](../sources/2016-active-transportation-real-estate.md): publication scope, forecasts and limitations.
+
+[^business]: Andersen and Hall, property profiles/callouts pp. 10–12; employer accounts pp. 16–19;
+    references p. 35, items 1–2. See [Source summary](../sources/protected-bike-lanes-mean-business.md).
 
 [^uli2016]: ULI (2016), property/retail overview pp. 5–7; development selection/themes pp. 14–15; MoZaic pp. 26–27;
     Silver Moon Lodge pp. 30–31; infrastructure selection/themes pp. 36–37; forecasts pp. 44, 49; Bixi p. 56.

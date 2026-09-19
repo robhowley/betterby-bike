@@ -27,5 +27,14 @@
 - [Economic measurement limits](national-street-improvements-measurement.md): price versus volume, adjustment times
   and model choice prevent equating revenue and jobs with immediate consumer response.
 
+- [Portland customer spending](portland-bike-customer-spending.md): lower bicycle-trip spending but higher monthly
+  spending in secondary reporting, not a measured lane effect.
+- [Melbourne parking revenue](melbourne-parking-retail-revenue.md): retail revenue per space and time, with unit
+  notation limits and no measured parking-conversion return.
+- [Valencia merchant perceptions](valencia-merchant-business-perceptions.md): roughly two-thirds reported benefits
+  and 4% harm after a combined redesign, not audited sales.
+- [Employer location accounts](bike-access-employer-location-accounts.md): bicycle access as a stated recruitment
+  and location consideration, without measured hiring or retention effects.
+
 [Findings index](../index.md) · [Evaluating street redesign outcomes](../../topics/street-redesign-outcomes.md) ·
 [Active transportation and real estate](../../topics/active-transportation-real-estate.md).

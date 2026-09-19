@@ -46,4 +46,8 @@
   six-city summary of 14 corridor evaluations, with favorable retail/food-service patterns, mixed and adverse results,
   and limited model detail.
 
+- [Protected Bike Lanes Mean Business](protected-bike-lanes-mean-business.md): 15 business interviews and secondary
+  retail, property and health research, with merchant dissent and repeated NYC evidence distinguished; printed date
+  unstated, PDF metadata January 2014 despite the supplied 2023 filename.
+
 [Bundle index](../index.md).

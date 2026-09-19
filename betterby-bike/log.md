@@ -218,3 +218,25 @@ Read all five PDF pages as extracted text and visually checked results tables on
 filename and PDF metadata, not a printed date. The final technical report and underlying datasets remain unreviewed;
 effect sizes, uncertainty and full observation windows are absent from the summary. No bundle validation or
 bookkeeping-metadata changes were made.
+
+Ingested [Andersen and Hall, _Protected Bike Lanes Mean Business_](sources/protected-bike-lanes-mean-business.md):
+
+- [Portland spending](findings/business/portland-bike-customer-spending.md): lower bicycle-trip spending but higher
+  monthly spending, distinguished from a causal lane effect.
+- [Melbourne parking revenue](findings/business/melbourne-parking-retail-revenue.md): space/time-normalized retail
+  revenue, preserving the prose/graphic unit-notation discrepancy and absent conversion assumptions.
+- [Valencia merchant perceptions](findings/business/valencia-merchant-business-perceptions.md): favorable overall
+  responses with 4% reporting harm, not measured sales changes.
+- [Employer accounts](findings/business/bike-access-employer-location-accounts.md): recruitment/location preferences
+  and historical commuting estimates, without measured hiring or retention effects.
+- Updated [Ninth Avenue sales](findings/business/nyc-ninth-avenue-retail-sales.md) to identify the report's repetition
+  of NYCDOT's existing 2012 claim, not additional independent evidence.
+
+Revised [Evaluating street redesign outcomes](topics/street-redesign-outcomes.md) and
+[Active transportation and real estate](topics/active-transportation-real-estate.md) to distinguish customer spending,
+merchant perceptions, employer/developer expectations and secondary trail-value associations. The Source also retains
+healthcare-cost and ridership claims without treating them as measured protected-lane benefits.
+
+Read all 19 PDF pages as extracted text, including references, and visually checked printed pp. 28–31. The report has
+no printed date; January 2014 PDF metadata does not support treating the supplied 2023 filename as publication year.
+Underlying studies remain unreviewed. No bundle validation or bookkeeping-metadata changes were made.

@@ -6,6 +6,9 @@ description:
   attribution to individual treatments.
 tags: [street design, business, mobility, safety, measurement, emergency response]
 sources:
+  - id: business
+    resource: /sources/protected-bike-lanes-mean-business.md
+    title: Protected Bike Lanes Mean Business
   - id: national2020
     resource: /sources/2020-economic-impacts-street-improvements.md
     title: Economic Impacts of Bicycle and Pedestrian Street Improvements
@@ -107,6 +110,22 @@ favorable overall balance but negative balances among Chicago residents. They co
 NYC's retail-sales evidence: visit frequency and stated likelihood do not measure spending, profits or business survival.
 The Green Lane report deferred its proposed sales-tax analysis.[^monsere2014]
 
+## Customer spending and business interviews add different evidence
+
+*Protected Bike Lanes Mean Business* combines selected business interviews with secondary research, not another
+controlled corridor evaluation. Its [Portland spending comparison](/findings/business/portland-bike-customer-spending.md)
+reports lower spending per bicycle trip but higher monthly spending than for car arrivals. Its
+[Melbourne parking comparison](/findings/business/melbourne-parking-retail-revenue.md) instead divides retail revenue
+by parking area and time. Neither shows how much sales would change after installing a lane or converting parking;
+customer selection, visit frequency and space occupancy matter.[^business]
+
+[Valencia Street merchant responses](/findings/business/valencia-merchant-business-perceptions.md) are favorable
+for roughly two-thirds, with 4% reporting harm. Unlike sales records, these measure perceptions of a combined redesign.
+The report's Ninth Avenue 49%/3% headline repeats NYCDOT's 2012 claim, not independent evidence. Its
+[employer interviews](/findings/business/bike-access-employer-location-accounts.md) describe recruitment and location
+preferences but do not measure hiring or retention effects. General physical-activity benefits and workplace-incentive
+healthcare savings likewise cannot be assigned to protected-lane installation.[^business]
+
 ## Later NYC evidence adds comparisons, not isolated lane effects
 
 The 2014 Manhattan report gives [20% fewer total injuries but only 2% fewer cyclist injuries](/findings/safety/nyc-pbl-injury-changes.md).
@@ -192,6 +211,8 @@ curb-management examples.
 
 [Active transportation and real estate](/topics/active-transportation-real-estate.md) separates property appreciation,
 developer accounts and affordability from street-level sales and mobility outcomes.
+
+[^business]: Andersen and Hall, recruitment pp. 16–19; health pp. 22–25; retail pp. 28–31; references p. 35.
 
 [^national2020]: National Street Improvements Study summary, PDF p. 2, scope, methods and overview; pp. 3–4,
     corridor results; p. 4, replication guidance.
