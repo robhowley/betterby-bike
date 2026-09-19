@@ -73,4 +73,15 @@ These findings share one citywide study and its estimated bicycle-trip denominat
 - [Network and safety-in-numbers models](seville-network-risk-models.md): improved fit from a before/after indicator,
   without identifying connectivity's causal effect or the direction of the numbers–safety relationship.
 
+## Chicago shared-lane-marking comparison
+
+These findings share one block-group study comparing 2011–2012 with 2013–2014, not three independent studies.
+
+- [Total injury-rate changes](chicago-sharrow-injury-rate-changes.md): larger commuter-weighted increases in sharrow
+  groups than lane or no-new-treatment groups, without establishing causal harm.
+- [Dooring rates](chicago-sharrow-dooring-rates.md): sharrow increase and comparator decreases, all inconclusive at
+  the 5% level within groups.
+- [Exposure limits](chicago-sharrow-exposure-limits.md): resident commuters, spatial assignment and weighting do not
+  measure corridor risk; baseline total/component reporting discrepancies remain unresolved.
+
 [Findings index](../index.md) · [Interpreting cycling injury risk](../../topics/cycling-injury-risk.md).

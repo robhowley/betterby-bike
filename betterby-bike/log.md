@@ -187,3 +187,18 @@ comparisons and network interpretations from measured effects. Read the full man
 methods, tables, figure labels and discussion. Its publication date is unstated despite the 2016 filename; the KSI
 comparison has overlapping period labels. Underlying datasets and cited studies remain unreviewed. No bundle validation
 or bookkeeping-metadata changes were made.
+
+Ingested [Ferenchak and Marshall (2019), _Advancing healthy cities through safer cycling: An examination of shared
+lane markings_](sources/2019-chicago-shared-lane-markings.md):
+
+- [Total injury-rate changes](findings/safety/chicago-sharrow-injury-rate-changes.md): larger commuter-weighted
+  increases in sharrow groups, retaining different count-model results and within/between-group tests.
+- [Dooring rates](findings/safety/chicago-sharrow-dooring-rates.md): adverse sharrow direction and favorable
+  comparator directions, without claiming significant within-group changes at the 5% level.
+- [Exposure limits](findings/safety/chicago-sharrow-exposure-limits.md): resident-commuter growth, spatial assignment,
+  weighting and unexplained baseline total/component discrepancies in Table 4.
+
+Revised [Interpreting cycling injury risk](topics/cycling-injury-risk.md) to distinguish block-group evidence from
+within-trip route comparisons, measured injury outcomes from spacing hypotheses, and association from causal harm.
+All ten PDF pages were read as extracted text; Tables 3–5 were checked visually. Supplementary data and cited studies
+remain unreviewed. No bundle validation or bookkeeping-metadata changes were made.

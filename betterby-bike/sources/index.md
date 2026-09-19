@@ -38,4 +38,8 @@
   citywide trip growth, lower motor-vehicle collision rates and network/safety-in-numbers models with causal limits;
   supplied manuscript's publication date unstated.
 
+- [Advancing healthy cities through safer cycling: An examination of shared lane markings](2019-chicago-shared-lane-markings.md):
+  Chicago block-group injury comparisons, with adverse sharrow weighted-rate results, uncertain dooring changes and
+  resident-commuter exposure limits.
+
 [Bundle index](../index.md).

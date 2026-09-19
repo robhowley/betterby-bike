@@ -6,6 +6,9 @@ description:
   identify causes.
 tags: [safety, injuries, exposure]
 sources:
+  - id: ferenchak2019
+    resource: /sources/2019-chicago-shared-lane-markings.md
+    title: "Advancing healthy cities through safer cycling: An examination of shared lane markings"
   - id: seville
     resource: /sources/2016-seville-ridership.md
     title: On the effect of networks of cycle-tracks on the risk of cycling. The case of Seville
@@ -103,6 +106,27 @@ injury odds. This extends the prevention question beyond motor-vehicle collision
 crashes. However, post-injury site observations may misclassify temporary conditions, and exclusions of children, fatal
 cases and riders unable to recall their trip limit conclusions about those groups. Its aggregate inconclusive
 intersection association does not resolve individual intersection-design risks.[^teschke2012]
+
+## Sharrow comparisons depend on geography, exposure and weighting
+
+[Chicago block groups adding sharrows](/findings/safety/chicago-sharrow-injury-rate-changes.md) had larger increases
+in weighted annual injuries per 100 resident bicycle commuters than groups adding lanes or no treatments in
+2012–2013. The reported increase was 103.8%, versus 10.2% and 12.1%, comparing 2011–2012 with 2013–2014.
+Between-group tests gave p = 0.050 against lanes and p = 0.004 against no new treatment, while the sharrow
+within-group change had p = 0.085. This is adverse observational evidence, not proof that riding on a sharrow doubles
+injury risk or injury counts. The count models instead reported decreases for sharrow groups.[^ferenchak2019]
+
+[Dooring rates](/findings/safety/chicago-sharrow-dooring-rates.md) rose with sharrows and fell in the other groups,
+but none of the within-group dooring-rate changes reached p < 0.05. This matters when evaluating a marking intended
+partly to avoid parked-car doors: operational spacing benefits cannot substitute for measured injury benefits, but
+these uncertain component results do not prove a dooring harm either.[^ferenchak2019]
+
+Unlike Toronto–Vancouver's within-trip matching, Chicago's
+[resident-commuter denominator](/findings/safety/chicago-sharrow-exposure-limits.md) does not identify where people
+rode. Block-group aggregation, commuter weighting, pooled lane types and unexplained Table 4 baseline totals limit
+inference. The two studies' shared-lane results should neither be pooled nor treated as direct contradictions:
+Toronto–Vancouver grouped sharrows with other shared-lane designations, and its observational unit and comparison
+routes differ. Chicago's proposed false-sense-of-security mechanism was not measured.[^teschke2012][^ferenchak2019]
 
 ## Behavior is not an injury outcome
 
@@ -210,6 +234,9 @@ these interventions were not tested.[^teschke2012]
 
 ## Sources
 
+[The Chicago shared-lane-marking study](/sources/2019-chicago-shared-lane-markings.md) compares block-group injury
+counts and commuter-weighted rates, including uncertain dooring results.
+
 [The Seville network manuscript](/sources/2016-seville-ridership.md) describes the citywide time series, exposure
 estimation, model comparisons and limits on causal interpretation.
 
@@ -233,6 +260,9 @@ describes the Toronto–Vancouver case-crossover design and its injury-populatio
 
 [Lessons from the Green Lanes](/sources/2014-lessons-green-lanes.md) distinguishes post-installation video conflicts,
 perceived safety and comfort from long-term crash evidence.
+
+[^ferenchak2019]: Ferenchak and Marshall (2019), methods pp. 138–141; Tables 2–5 pp. 141–142;
+    conclusions and limitations pp. 143–144.
 
 [^seville]: Marqués and Hernández-Herrador, supplied manuscript, section 3 and Table 2; sections 4.1–4.3,
     Tables 4–7; section 5 and conclusions.

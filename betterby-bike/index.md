@@ -9,7 +9,8 @@ Zealand injury trends, a Montreal cycle-track comparison, NYC green-lane behavio
 attributed policy claims, NYCDOT's 2012 street-redesign case studies, a Toronto–Vancouver within-trip infrastructure
 study, a 2014 five-city U.S. protected-lane evaluation, NYCDOT's 2014 Manhattan protected-lane analysis and ULI's 2016
 active-transportation and real-estate profiles, FHWA's New Jersey road-diet emergency-access accounts and Seville's
-citywide network, trip and collision-risk time series; it is not a comprehensive review.
+citywide network, trip and collision-risk time series, plus Chicago's sharrow block-group injury comparison;
+it is not a comprehensive review.
 
 ## Topics
 
