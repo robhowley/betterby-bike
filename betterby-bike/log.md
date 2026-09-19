@@ -282,3 +282,12 @@ Revised [Evaluating street redesign outcomes](topics/street-redesign-outcomes.md
 travel time and measured injury reductions. Read all 27 printout pages as extracted text, including references and
 endnotes; visually checked Figure 2 and Table 6. Supplementary material and raw trajectories were not reviewed;
 vehicle totals remain unresolved. No bookkeeping metadata was changed.
+
+Ingested [MacPherson's June 3, 2024 Rutgers news article](sources/2024-rutgers-bike-lane-car-speed-news.md),
+_Traffic Speeds Decrease When Bike Lane is Present_. Linked it to the
+[already-ingested study](sources/2024-rutgers-bike-lane-car-speed.md) and its existing Findings rather than duplicating
+speed evidence. Preserved researcher interpretations and the unquantified rider-survey account; distinguished the
+article's broad straight-traffic and paint-only headlines from the primary paper's direction-specific results.
+Revised [Evaluating street redesign outcomes](topics/street-redesign-outcomes.md) to separate repeated reporting,
+rider attitudes and inferred safety benefits. Read all five printout pages as text and rechecked relevant primary-paper
+sections. No new Findings or bookkeeping-metadata changes; survey details and the study's vehicle totals remain unresolved.

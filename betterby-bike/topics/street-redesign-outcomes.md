@@ -6,6 +6,9 @@ description:
   attribution to individual treatments.
 tags: [street design, business, mobility, safety, measurement, emergency response]
 sources:
+  - id: rutgers2024
+    resource: /sources/2024-rutgers-bike-lane-car-speed-news.md
+    title: Traffic Speeds Decrease When Bike Lane is Present
   - id: younes2024
     resource: /sources/2024-rutgers-bike-lane-car-speed.md
     title: The Traffic Calming Effect of Delineated Bicycle Lanes
@@ -168,6 +171,12 @@ changed turning geometry, displaced cones and malfunctioning signals limit causa
 proposed safety benefit and preference for delineators are not measured crash reductions or proof about permanent
 protected lanes.[^younes2024]
 
+[Rutgers's news coverage](/sources/2024-rutgers-bike-lane-car-speed-news.md) repeats this pilot, not an independent
+confirmation. Its 8% straight-traffic headline compresses a direction-specific top-speed result, while the quoted
+life-saving claim is the researcher's interpretation. Its additional report that most surveyed lane users liked bike
+lanes has no sample size or percentage, so it adds a rider-attitude account, not a comparable support estimate or
+measured safety benefit.[^rutgers2024][^younes2024]
+
 ## Six-city economic analysis adds controls but retains mixed results
 
 The National Street Improvements Study extends economic comparisons to 14 improved corridors and 14 controls across
@@ -250,6 +259,8 @@ curb-management examples.
 
 [Active transportation and real estate](/topics/active-transportation-real-estate.md) separates property appreciation,
 developer accounts and affordability from street-level sales and mobility outcomes.
+
+[^rutgers2024]: MacPherson (2024), Rutgers news article, PDF pp. 1–2, researcher comments, speed summary and rider survey.
 
 [^younes2024]: Younes et al. (2024), PDF pp. 7–12, methods; pp. 14–18, Tables 3–6;
     pp. 19–20, discussion/conclusions; p. 26, sampling endnotes.

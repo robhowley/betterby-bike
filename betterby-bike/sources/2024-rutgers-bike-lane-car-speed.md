@@ -63,6 +63,8 @@ raw trajectories and cited studies were not reviewed. PDF locators below refer t
 
 ## Related
 
+- [Rutgers news coverage](/sources/2024-rutgers-bike-lane-car-speed-news.md): reports this study, adds researcher
+  comments and a brief rider-survey account, but is not independent speed evidence.
 - [Evaluating street redesign outcomes](/topics/street-redesign-outcomes.md): local speed versus corridor travel time.
 - [Interpreting cycling injury risk](/topics/cycling-injury-risk.md): measured behavior versus inferred safety benefits.
 
