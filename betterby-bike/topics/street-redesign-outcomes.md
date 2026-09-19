@@ -6,6 +6,9 @@ description:
   attribution to individual treatments.
 tags: [street design, business, mobility, safety, measurement, emergency response]
 sources:
+  - id: national2020
+    resource: /sources/2020-economic-impacts-street-improvements.md
+    title: Economic Impacts of Bicycle and Pedestrian Street Improvements
   - id: seville
     resource: /sources/2016-seville-ridership.md
     title: On the effect of networks of cycle-tracks on the risk of cycling. The case of Seville
@@ -122,6 +125,28 @@ presentation repeats a 2013 economic report, does not detail matching or uncerta
 from the whole redesign. Ninth Avenue's 47% versus 43%/23% comparisons must remain distinct from the earlier “up to
 49% versus 3%” claim; these are not independent confirmations.[^nyc2014]
 
+## Six-city economic analysis adds controls but retains mixed results
+
+The National Street Improvements Study extends economic comparisons to 14 improved corridors and 14 controls across
+six U.S. cities, using employment, wage and sales data with trend, difference-in-differences and interrupted time
+series analyses. Its [retail summary](/findings/business/national-street-improvements-retail.md) classifies nine cases
+as positive for sales and/or employment, two as no impact and three as mixed. That is neither a pooled effect size nor
+a national success rate. Memphis's Madison Avenue combines positive sales with potentially adverse employment;
+Seattle's Broadway retail growth may simply continue a prior trend.[^national2020]
+
+[Food-service results](/findings/business/national-street-improvements-food-service.md) are generally more favorable,
+including projects with parking or travel-lane removal, but San Francisco's 17th Street has negative or null results
+and Seattle's Second Avenue has no significant effect. These exceptions qualify the overview's broad
+positive-or-non-significant claim. The study does not isolate the economic effect of removing parking or adding a bike
+lane from the combined project.[^national2020]
+
+This adds economic records and explicit comparison methods beyond Green Lane visit surveys and the NYC presentation's
+limited methodological detail. It also makes [measurement differences](/findings/business/national-street-improvements-measurement.md)
+more important: prices can raise revenue without more purchases, and jobs/wages may not reflect immediate consumer
+responses. Multiple datasets and methods analyze the same corridors, not independent replications. The reviewed
+summary lacks coefficients, confidence intervals, detailed periods and matching diagnostics; the separate technical
+report remains unreviewed.[^national2020]
+
 ## ULI adds secondary comparisons, not a controlled evaluation
 
 The [Salt Lake City Broadway case](/findings/business/salt-lake-broadway-retail-sales.md) reports 8.8% sales growth
@@ -167,6 +192,9 @@ curb-management examples.
 
 [Active transportation and real estate](/topics/active-transportation-real-estate.md) separates property appreciation,
 developer accounts and affordability from street-level sales and mobility outcomes.
+
+[^national2020]: National Street Improvements Study summary, PDF p. 2, scope, methods and overview; pp. 3–4,
+    corridor results; p. 4, replication guidance.
 
 [^seville]: Marqués and Hernández-Herrador, supplied manuscript, section 3, Table 2; sections 4.1–4.2,
     Tables 4–7; section 5 and conclusions.

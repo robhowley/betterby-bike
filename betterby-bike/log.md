@@ -202,3 +202,19 @@ Revised [Interpreting cycling injury risk](topics/cycling-injury-risk.md) to dis
 within-trip route comparisons, measured injury outcomes from spacing hypotheses, and association from causal harm.
 All ten PDF pages were read as extracted text; Tables 3–5 were checked visually. Supplementary data and cited studies
 remain unreviewed. No bundle validation or bookkeeping-metadata changes were made.
+
+Ingested [National Street Improvements Study, _Economic Impacts of Bicycle and Pedestrian Street Improvements_](sources/2020-economic-impacts-street-improvements.md):
+
+- [Retail outcomes](findings/business/national-street-improvements-retail.md): preserved the nine positive, two null
+  and three mixed case tally, adverse Madison employment and explanations based on pre-existing or regional growth.
+- [Food-service outcomes](findings/business/national-street-improvements-food-service.md): favorable overall pattern
+  with negative/null 17th Street results, null Second Avenue effects and inconclusive Riverside attribution.
+- [Measurement limits](findings/business/national-street-improvements-measurement.md): separated revenue from purchase
+  volume, long-term jobs/wages from immediate consumer responses, and observed growth from estimated project effects.
+
+Revised [Evaluating street redesign outcomes](topics/street-redesign-outcomes.md) to integrate six-city economic
+comparisons without treating methods as independent studies or inferring isolated lane/parking-removal effects.
+Read all five PDF pages as extracted text and visually checked results tables on pp. 3–4. The 2020 year comes from the
+filename and PDF metadata, not a printed date. The final technical report and underlying datasets remain unreviewed;
+effect sizes, uncertainty and full observation windows are absent from the summary. No bundle validation or
+bookkeeping-metadata changes were made.

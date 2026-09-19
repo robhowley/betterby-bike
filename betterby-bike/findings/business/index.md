@@ -20,5 +20,12 @@
 - [MoZaic access and leasing](mozaic-trail-access-and-leasing.md): shared trail-connection financing and reported full
   occupancy, without an isolated financial return.
 
+- [Six-city retail results](national-street-improvements-retail.md): nine positive, two null and three mixed corridor
+  classifications, retaining adverse employment and pre-existing-trend explanations.
+- [Six-city food-service results](national-street-improvements-food-service.md): generally favorable findings with
+  negative/null San Francisco results and inconclusive or null outcomes elsewhere.
+- [Economic measurement limits](national-street-improvements-measurement.md): price versus volume, adjustment times
+  and model choice prevent equating revenue and jobs with immediate consumer response.
+
 [Findings index](../index.md) · [Evaluating street redesign outcomes](../../topics/street-redesign-outcomes.md) ·
 [Active transportation and real estate](../../topics/active-transportation-real-estate.md).

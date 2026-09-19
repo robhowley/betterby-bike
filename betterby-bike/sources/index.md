@@ -42,4 +42,8 @@
   Chicago block-group injury comparisons, with adverse sharrow weighted-rate results, uncertain dooring changes and
   resident-commuter exposure limits.
 
+- [Economic Impacts of Bicycle and Pedestrian Street Improvements](2020-economic-impacts-street-improvements.md):
+  six-city summary of 14 corridor evaluations, with favorable retail/food-service patterns, mixed and adverse results,
+  and limited model detail.
+
 [Bundle index](../index.md).
