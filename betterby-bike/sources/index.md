@@ -28,6 +28,9 @@
   CityLab's Portland survey coverage and Clifton interview, with category-specific spending comparisons and no measured
   lane effect.
 
+- [No, Bike Lanes Don't Hurt Retail Business](2013-citylab-bikes-biz.md): CityLab's two Seattle sales comparisons,
+  preserving Greenwood's similar-to-area result, 65th Street's percentage ambiguity and limits on no-harm claims.
+
 - [Lessons from the Green Lanes](2014-lessons-green-lanes.md): five-city U.S. protected-lane evaluation of counts,
   design, conflicts and resident/rider perceptions, with mixed operational and business responses and limited causal evidence.
 

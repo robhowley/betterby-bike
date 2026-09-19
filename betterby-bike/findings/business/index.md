@@ -3,6 +3,11 @@
 - [9th Avenue retail-sales growth](nyc-ninth-avenue-retail-sales.md): up to 49% versus 3% borough-wide in NYCDOT's 2012
   report, without a causal analysis.
 
+- [Seattle 65th Street sales](seattle-65th-street-retail-sales.md): large sales-index rise after parking removal,
+  with ambiguous 400% reporting and no causal estimate.
+- [Seattle Greenwood sales](seattle-greenwood-retail-sales.md): broadly similar-to-area performance after lane and
+  parking removal, not proof of zero harm.
+
 - [Green Lane business visits](green-lanes-business-visits.md): mostly unchanged survey responses, favorable overall
   balances and adverse Chicago balances, without measured sales effects.
 

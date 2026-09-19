@@ -6,6 +6,9 @@ description:
   attribution to individual treatments.
 tags: [street design, business, mobility, safety, measurement, emergency response]
 sources:
+  - id: citylab2013
+    resource: /sources/2013-citylab-bikes-biz.md
+    title: No, Bike Lanes Don't Hurt Retail Business
   - id: citylab2012
     resource: /sources/2012-citylab-pedestrians-bikes-spending.md
     title: Cyclists and Pedestrians Can End Up Spending More Each Month Than Drivers
@@ -145,6 +148,21 @@ The report's Ninth Avenue 49%/3% headline repeats NYCDOT's 2012 claim, not indep
 preferences but do not measure hiring or retention effects. General physical-activity benefits and workplace-incentive
 healthcare savings likewise cannot be assigned to protected-lane installation.[^business]
 
+## Seattle sales comparisons do not establish universal no-harm effects
+
+CityLab's coverage of Rowe's two Seattle cases adds taxable-sales records rather than customer surveys or merchant
+opinions. [NE 65th Street](/findings/business/seattle-65th-street-retail-sales.md) had a large 2012 sales-index rise
+after 12 parking spaces were replaced by a bicycle lane, while
+[Greenwood](/findings/business/seattle-greenwood-retail-sales.md) broadly tracked its comparison area after traffic-lane
+and parking removal. Greenwood also dipped around installation, so similar overall performance is not unchanged sales
+at every point. These are two cases in one study, reviewed through secondary reporting.[^citylab2013]
+
+The contrasting patterns do not establish a typical sales boost or prove no retailer was harmed. The 65th Street
+article's 400% wording also differs from a chart peaking near 400 on a baseline of 100; the precise percentage should
+not be reused without resolving that denominator. Neither comparison isolates lane effects or measures profits or
+customer numbers. Rowe's no-negative-impact conclusion and Jaffe's broad headline remain interpretations, not a
+universal guarantee.[^citylab2013]
+
 ## Later NYC evidence adds comparisons, not isolated lane effects
 
 The 2014 Manhattan report gives [20% fewer total injuries but only 2% fewer cyclist injuries](/findings/safety/nyc-pbl-injury-changes.md).
@@ -274,6 +292,8 @@ developer accounts and affordability from street-level sales and mobility outcom
 
 [^younes2024]: Younes et al. (2024), PDF pp. 7–12, methods; pp. 14–18, Tables 3–6;
     pp. 19–20, discussion/conclusions; p. 26, sampling endnotes.
+
+[^citylab2013]: Jaffe (2013), PDF pp. 2–4, Seattle comparison methods, both sales-index charts and interpretations.
 
 [^citylab2012]: Badger (2012), PDF pp. 2–5, survey scope, methods, category charts and green-dividend hypothesis.
 

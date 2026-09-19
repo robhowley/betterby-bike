@@ -300,3 +300,13 @@ Revised [Evaluating street redesign outcomes](topics/street-redesign-outcomes.md
 associations from lane effects and the untested car-cost savings hypothesis. Read all six PDF pages and visually
 checked all three charts. Linked the underlying OTREC draft without reviewing it; exact correspondence with the
 business report's Clifton citation remains unverified. No new Findings or bookkeeping-metadata changes.
+
+Ingested [Jaffe's September 10, 2013 CityLab article](sources/2013-citylab-bikes-biz.md),
+_No, Bike Lanes Don't Hurt Retail Business_. Added Findings for
+[NE 65th Street's sales-index rise](findings/business/seattle-65th-street-retail-sales.md) and
+[Greenwood's similar-to-area sales](findings/business/seattle-greenwood-retail-sales.md), preserving the latter's
+installation-period dip and distinguishing reported comparisons from proof of no harm. Revised
+[Evaluating street redesign outcomes](topics/street-redesign-outcomes.md) to integrate these cases without implying
+causal sales gains. Read all five PDF pages and visually reviewed both charts; 65th Street's 400% wording remains
+inconsistent with its approximately 400 index peak from a 100 baseline. Linked Rowe's study and blog account without
+reviewing them. No bookkeeping metadata was changed.
