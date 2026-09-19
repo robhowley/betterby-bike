@@ -34,6 +34,9 @@
 - [Lessons from the Green Lanes](2014-lessons-green-lanes.md): five-city U.S. protected-lane evaluation of counts,
   design, conflicts and resident/rider perceptions, with mixed operational and business responses and limited causal evidence.
 
+- [Tired of Cyclists Riding on the Sidewalk? Build More Bike Lanes](2014-citylab-riding-on-sidewalk.md): CityLab's
+  six selected corridor comparisons, with less reported sidewalk riding, more cycling and count-versus-share ambiguity.
+
 - [Protected Bicycle Lanes in NYC](2014-nyc-protected-bicycle-lanes.md): September 2014 Manhattan analysis of injuries,
   count-normalized cyclist risk, traffic performance and retail sales, preserving mixed corridor results and causal limits.
 

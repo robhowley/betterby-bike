@@ -2,6 +2,13 @@
 
 ## 2026-09-18
 
+Ingested [Jaffe's 2014 CityLab sidewalk-riding article](sources/2014-citylab-riding-on-sidewalk.md), adding a
+[six-corridor behavior Finding](findings/design/citylab-sidewalk-riding-comparisons.md) and updating
+[Evaluating street redesign outcomes](topics/street-redesign-outcomes.md). Reported sidewalk-riding declines
+accompanied cycling growth, but D.C. share wording conflicts with the chart's count legend. Preserved the small,
+advocate-selected sample and distinguished behavior from pedestrian safety and infrastructure-versus-enforcement
+opinion. All four PDF pages and the chart were reviewed; underlying reports remain unreviewed.
+
 Ingested [Tin Tin, Woodward and Ameratunga (2010)](sources/2010-nz-bike-injuries.md), _Injuries to pedal cyclists on New
 Zealand roads, 1988-2007_, adding historical national injury evidence and
 [Interpreting cycling injury risk](topics/cycling-injury-risk.md).

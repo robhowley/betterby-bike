@@ -6,6 +6,9 @@ description:
   attribution to individual treatments.
 tags: [street design, business, mobility, safety, measurement, emergency response]
 sources:
+  - id: citylab2014
+    resource: /sources/2014-citylab-riding-on-sidewalk.md
+    title: Tired of Cyclists Riding on the Sidewalk? Build More Bike Lanes
   - id: citylab2013
     resource: /sources/2013-citylab-bikes-biz.md
     title: No, Bike Lanes Don't Hurt Retail Business
@@ -112,6 +115,16 @@ including car commuters. Neither comfort nor stated willingness to cycle measure
 [Intersection observations](/findings/design/green-lanes-intersection-behavior.md) also show why perceived understanding
 cannot substitute for observing positioning and signal compliance. Designs differed in both behavior and traffic
 context, so the results do not establish a universal best treatment.[^monsere2014]
+
+## Sidewalk-riding changes are not pedestrian-safety estimates
+
+[CityLab's six-corridor comparison](/findings/design/citylab-sidewalk-riding-comparisons.md) reports less sidewalk
+riding alongside more cycling after lanes were installed. This adds secondary behavioral comparisons to the Green
+Lane residents' perceptions of fewer sidewalk cyclists, not a replication of that survey or proof of fewer pedestrian
+injuries. The small, advocate-selected sample lacks dates, baselines, controls and uncertainty. Its D.C. prose refers
+to sidewalk-riding shares while its chart refers to counts; with growing bicycle use, that difference matters.
+The reported pattern supports considering lanes as an alternative to sidewalk riding, but does not establish a
+typical effect or Jaffe's proposed safety advantage over enforcement campaigns.[^citylab2014]
 
 ## Preserve adverse experiences and distinguish economic measures
 
@@ -292,6 +305,8 @@ developer accounts and affordability from street-level sales and mobility outcom
 
 [^younes2024]: Younes et al. (2024), PDF pp. 7–12, methods; pp. 14–18, Tables 3–6;
     pp. 19–20, discussion/conclusions; p. 26, sampling endnotes.
+
+[^citylab2014]: Jaffe (2014), PDF pp. 2–3, corridor comparisons, chart and selection caveat; pp. 3–4, policy argument.
 
 [^citylab2013]: Jaffe (2013), PDF pp. 2–4, Seattle comparison methods, both sales-index charts and interpretations.
 

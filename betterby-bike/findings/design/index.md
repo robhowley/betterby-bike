@@ -24,4 +24,7 @@
 - [Asbury Park speed measurement limits](asbury-park-speed-measurement-limits.md): within-vehicle percentiles,
   conflicting totals and temporary-treatment conditions.
 
+- [CityLab sidewalk-riding comparisons](citylab-sidewalk-riding-comparisons.md): reported declines on six selected
+  corridors alongside cycling growth, with ambiguous counts versus shares and no measured pedestrian-safety effect.
+
 [All findings](../index.md) · [Bundle index](../../index.md).
