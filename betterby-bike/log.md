@@ -255,3 +255,14 @@ records from FHWA's descriptive accounts, without treating a null result as an e
 as a tested remedy. Read all 12 PDF pages as extracted text, including appendices and references; visually checked
 pp. 7, 8 and 11. Confidential incident data were unavailable for reanalysis. Reporting inconsistencies remain unresolved.
 No bundle validation or bookkeeping-metadata changes were made.
+
+Ingested [FHWA (15 April 2011), _MUTCD green-pavement interim approval (IA-14)_](sources/2011-mutcd-green-pavement-interim-approval.md):
+
+- [Approval conditions](findings/design/mutcd-green-pavement-approval-conditions.md): optional green pavement
+  supplemented required markings, with approval, safety and material conditions preserved as historical requirements.
+- [Evidence limits](findings/design/mutcd-green-pavement-evidence-limits.md): favorable federal operational assessment
+  and user impressions, without quantified injury effects or independent confirmation of NYC's observations.
+
+Revised [Interpreting cycling injury risk](topics/cycling-injury-risk.md) to distinguish conditional regulatory approval
+from measured injury outcomes. Read all five scanned pages visually. Current MUTCD requirements and underlying
+experimental reports were not reviewed. No bundle validation or bookkeeping-metadata changes were made.

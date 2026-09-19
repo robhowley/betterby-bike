@@ -6,7 +6,7 @@
 - [Networks](networks/index.md): bicycle volumes and limits on interpreting ridership growth.
 - [Operations](operations/index.md): travel times, emergency-access accounts, Iowa responder perceptions and response-rate
   estimates, measurement limits, driving/walking perceptions and combined street interventions.
-- [Design](design/index.md): behavior, comfort and public support around street treatments.
+- [Design](design/index.md): behavior, comfort, public support and historical green-pavement approval conditions.
 - [Safety](safety/index.md): collisions, injuries, short conflict observations and exposure-based risk.
 
 [Bundle index](../index.md).

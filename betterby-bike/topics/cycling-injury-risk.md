@@ -21,6 +21,9 @@ sources:
   - id: lusk2011
     resource: /sources/2011-montreal-cycle-track-injury-risk.md
     title: Risk of injury for bicycling on cycle tracks versus in the street
+  - id: fhwa2011
+    resource: /sources/2011-mutcd-green-pavement-interim-approval.md
+    title: MUTCD Interim Approval for Optional Use of Green Colored Pavement for Bike Lanes (IA-14)
   - id: nyc2011
     resource: /sources/2011-nyc-green-paint.md
     title: Evaluation of Solid Green Bicycle Lanes to Increase Compliance and Bicycle Safety
@@ -140,6 +143,14 @@ totals, differing curbside layouts and no treatment-specific injury analysis. Co
 falling injuries do not isolate green paint's effect; the report also could not separate its ridership contribution from
 network expansion. Thus, neither favorable behavior observations nor broad city trends should be substituted for matched
 injury and exposure measures.
+
+FHWA's [2011 green-pavement assessment](/findings/design/mutcd-green-pavement-evidence-limits.md) adds a federal
+review of experiments, not another independent injury study. It reported improved cyclist positioning, favorable user
+impressions and no notable negative operational effects, but no study-level effect sizes or injury rates. Its low-risk
+judgment and cyclists' reports of feeling safer cannot substitute for injury evidence. The
+[interim approval conditions](/findings/design/mutcd-green-pavement-approval-conditions.md) made green supplemental to
+required markings, retained safety-termination obligations and advised minimizing traction loss. These describe
+historical 2011 permission, not verified current requirements or a safety guarantee.[^fhwa2011]
 
 ## Short conflict observations and perceived safety are not injury rates
 
@@ -278,6 +289,8 @@ perceived safety and comfort from long-term crash evidence.
 [^nyc2012]: NYCDOT (2012), p. 4, 8th/9th Avenue project panel.
 
 [^wolfson2011]: Wolfson (2011), PDF p. 2, safety and pedestrian-death bullets.
+
+[^fhwa2011]: FHWA (15 April 2011), research and evaluation p. 2; approval conditions pp. 2–4.
 
 [^nyc2011]: NYCDOT (2011), Methods p. 5; Findings pp. 8–9; Conclusions p. 10; Chart 2 (PDF p. 12).
 

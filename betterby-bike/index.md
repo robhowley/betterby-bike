@@ -5,7 +5,8 @@ okf_version: "0.2"
 # Better by Bike
 
 Research summaries and findings for understanding cycling and street design. Current coverage includes historical New
-Zealand injury trends, a Montreal cycle-track comparison, NYC green-lane behavior observations, a NYC mayoral memo's
+Zealand injury trends, a Montreal cycle-track comparison, NYC green-lane behavior observations, FHWA's 2011 green-pavement
+interim approval, a NYC mayoral memo's
 attributed policy claims, NYCDOT's 2012 street-redesign case studies, a Toronto–Vancouver within-trip infrastructure
 study, a 2014 five-city U.S. protected-lane evaluation, NYCDOT's 2014 Manhattan protected-lane analysis and ULI's 2016
 active-transportation and real-estate profiles, FHWA's New Jersey road-diet emergency-access accounts, a 2024 Iowa

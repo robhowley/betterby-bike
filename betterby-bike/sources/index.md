@@ -14,6 +14,9 @@
 - [Bike Lanes: memorandum from Howard Wolfson](2011-nyc-wolfson-bike-lanes-memo.md): March 2011 NYC policy statement
   reporting safety, public-support and implementation figures without underlying analyses.
 
+- [MUTCD green-pavement interim approval (IA-14)](2011-mutcd-green-pavement-interim-approval.md): April 2011 FHWA
+  permission and design conditions, with a qualitative operational assessment rather than quantified injury effects.
+
 - [Measuring the Street: New Metrics for 21st Century Streets](2012-measuring-the-street.md): NYCDOT's 2012 safety,
   business and mobility case studies, with limited methods and no isolated bike-lane effects.
 
