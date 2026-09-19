@@ -6,6 +6,9 @@ description:
   attribution to individual treatments.
 tags: [street design, business, mobility, safety, measurement, emergency response]
 sources:
+  - id: citylab2012
+    resource: /sources/2012-citylab-pedestrians-bikes-spending.md
+    title: Cyclists and Pedestrians Can End Up Spending More Each Month Than Drivers
   - id: rutgers2024
     resource: /sources/2024-rutgers-bike-lane-car-speed-news.md
     title: Traffic Speeds Decrease When Bike Lane is Present
@@ -127,6 +130,13 @@ reports lower spending per bicycle trip but higher monthly spending than for car
 [Melbourne parking comparison](/findings/business/melbourne-parking-retail-revenue.md) instead divides retail revenue
 by parking area and time. Neither shows how much sales would change after installing a lane or converting parking;
 customer selection, visit frequency and space occupancy matter.[^business]
+
+[CityLab's Portland coverage](/sources/2012-citylab-pedestrians-bikes-spending.md) qualifies the spending pattern:
+bicycle customers' estimated monthly spending exceeded drivers' at bars, restaurants and convenience stores, but
+not supermarkets. Walking customers did not exceed drivers in every category either. Monthly estimates depend on
+self-reported visit frequency, not tracked purchases. This adds survey context from related Clifton research,
+not an independent replication or evidence that lane installation increases sales. The suggested local-spending
+benefit of saving on car ownership remains an untested hypothesis.[^citylab2012]
 
 [Valencia Street merchant responses](/findings/business/valencia-merchant-business-perceptions.md) are favorable
 for roughly two-thirds, with 4% reporting harm. Unlike sales records, these measure perceptions of a combined redesign.
@@ -264,6 +274,8 @@ developer accounts and affordability from street-level sales and mobility outcom
 
 [^younes2024]: Younes et al. (2024), PDF pp. 7–12, methods; pp. 14–18, Tables 3–6;
     pp. 19–20, discussion/conclusions; p. 26, sampling endnotes.
+
+[^citylab2012]: Badger (2012), PDF pp. 2–5, survey scope, methods, category charts and green-dividend hypothesis.
 
 [^business]: Andersen and Hall, recruitment pp. 16–19; health pp. 22–25; retail pp. 28–31; references p. 35.
 

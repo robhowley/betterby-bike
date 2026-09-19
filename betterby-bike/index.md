@@ -13,7 +13,8 @@ active-transportation and real-estate profiles, FHWA's New Jersey road-diet emer
 responder survey and Cedar Rapids response-rate analysis, and Seville's
 citywide network, trip and collision-risk time series, plus Chicago's sharrow block-group injury comparison and a
 six-city summary of economic outcomes on 14 improved corridors and PeopleForBikes/Alliance business interviews and
-secondary economic research, plus an Asbury Park temporary-lane speed study; it is not a comprehensive review.
+secondary economic research, CityLab's Portland customer-spending coverage, plus an Asbury Park temporary-lane speed
+study; it is not a comprehensive review.
 
 ## Topics
 

@@ -24,6 +24,10 @@
   Toronto–Vancouver case-crossover study of 14 route types, with lower cycle-track/local-street odds and higher odds
   around rail tracks, downhill grades and construction.
 
+- [Cyclists and Pedestrians Can End Up Spending More Each Month Than Drivers](2012-citylab-pedestrians-bikes-spending.md):
+  CityLab's Portland survey coverage and Clifton interview, with category-specific spending comparisons and no measured
+  lane effect.
+
 - [Lessons from the Green Lanes](2014-lessons-green-lanes.md): five-city U.S. protected-lane evaluation of counts,
   design, conflicts and resident/rider perceptions, with mixed operational and business responses and limited causal evidence.
 

@@ -28,7 +28,7 @@
   and model choice prevent equating revenue and jobs with immediate consumer response.
 
 - [Portland customer spending](portland-bike-customer-spending.md): lower bicycle-trip spending but higher monthly
-  spending in secondary reporting, not a measured lane effect.
+  spending in secondary reporting, with supermarket and walking-mode exceptions, not a measured lane effect.
 - [Melbourne parking revenue](melbourne-parking-retail-revenue.md): retail revenue per space and time, with unit
   notation limits and no measured parking-conversion return.
 - [Valencia merchant perceptions](valencia-merchant-business-perceptions.md): roughly two-thirds reported benefits

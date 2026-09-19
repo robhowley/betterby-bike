@@ -291,3 +291,12 @@ article's broad straight-traffic and paint-only headlines from the primary paper
 Revised [Evaluating street redesign outcomes](topics/street-redesign-outcomes.md) to separate repeated reporting,
 rider attitudes and inferred safety benefits. Read all five printout pages as text and rechecked relevant primary-paper
 sections. No new Findings or bookkeeping-metadata changes; survey details and the study's vehicle totals remain unresolved.
+
+Ingested [Badger's December 5, 2012 CityLab article](sources/2012-citylab-pedestrians-bikes-spending.md),
+_Cyclists and Pedestrians Can End Up Spending More Each Month Than Drivers_. Updated the existing
+[Portland customer-spending Finding](findings/business/portland-bike-customer-spending.md) with survey counts,
+collection periods, self-reported visit frequency, supermarkets' higher driver spending and walking-mode exceptions.
+Revised [Evaluating street redesign outcomes](topics/street-redesign-outcomes.md) to distinguish these category-specific
+associations from lane effects and the untested car-cost savings hypothesis. Read all six PDF pages and visually
+checked all three charts. Linked the underlying OTREC draft without reviewing it; exact correspondence with the
+business report's Clifton citation remains unverified. No new Findings or bookkeeping-metadata changes.
