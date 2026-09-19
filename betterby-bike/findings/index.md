@@ -1,9 +1,10 @@
 # Findings
 
-- [Access](access/index.md): income-restricted housing, bicycle access and low car-parking provision.
+- [Access](access/index.md): household-income and vehicle-availability commuting patterns, income-restricted
+  housing, bicycle access and low car-parking provision.
 - [Business](business/index.md): retail/food-service sales and employment, economic measurement limits, business-visit
   responses, customer spending, parking-space revenue, employer accounts, property values and development accounts.
-- [Networks](networks/index.md): bicycle volumes and limits on interpreting ridership growth.
+- [Networks](networks/index.md): bicycle volumes, limits on interpreting ridership growth and ACS commuting measures.
 - [Operations](operations/index.md): travel times, emergency-access accounts, Iowa responder perceptions and response-rate
   estimates, measurement limits, driving/walking perceptions and combined street interventions.
 - [Design](design/index.md): behavior, local traffic-calming speeds, comfort, public support and historical

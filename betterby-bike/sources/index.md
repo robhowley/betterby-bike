@@ -31,6 +31,9 @@
 - [No, Bike Lanes Don't Hurt Retail Business](2013-citylab-bikes-biz.md): CityLab's two Seattle sales comparisons,
   preserving Greenwood's similar-to-area result, 65th Street's percentage ambiguity and limits on no-harm claims.
 
+- [Low-Income Americans Walk and Bike to Work the Most](2014-streetsblog-income-biking.md): Streetsblog's Census
+  coverage of household income, vehicle availability and commuting, with work-only and single-mode measurement limits.
+
 - [Lessons from the Green Lanes](2014-lessons-green-lanes.md): five-city U.S. protected-lane evaluation of counts,
   design, conflicts and resident/rider perceptions, with mixed operational and business responses and limited causal evidence.
 

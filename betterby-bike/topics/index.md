@@ -17,4 +17,7 @@
   development financing, employer location preferences and car-optional housing, without assuming causal premiums
   or affordability benefits.
 
+- [Who walks and bikes to work?](active-commuting-and-access.md): household-income and vehicle-availability
+  associations in historical U.S. commuting data, distinguishing observed use from access quality and all-purpose travel.
+
 [Bundle index](../index.md).

@@ -2,6 +2,15 @@
 
 ## 2026-09-18
 
+Ingested [Snyder's 2014 Streetsblog Census coverage](sources/2014-streetsblog-income-biking.md), adding Findings on
+[household income](findings/access/us-household-income-active-commuting.md),
+[vehicle availability](findings/access/us-vehicle-availability-active-commuting.md) and
+[ACS measurement limits](findings/networks/acs-active-commuting-measurement-limits.md), plus
+[Who walks and bikes to work?](topics/active-commuting-and-access.md). Preserved the charts' household-income measure
+and 2008–2012 dates, the upturn at high incomes, and the distinction between commute shares and all active travel.
+These are secondary, unadjusted comparisons, not causal infrastructure effects or independent studies. All nine PDF
+pages were read as text and all three Census charts inspected visually; the underlying report remains unreviewed.
+
 Ingested [Jaffe's 2014 CityLab sidewalk-riding article](sources/2014-citylab-riding-on-sidewalk.md), adding a
 [six-corridor behavior Finding](findings/design/citylab-sidewalk-riding-comparisons.md) and updating
 [Evaluating street redesign outcomes](topics/street-redesign-outcomes.md). Reported sidewalk-riding declines

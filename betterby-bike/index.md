@@ -16,7 +16,8 @@ six-city summary of economic outcomes on 14 improved corridors and PeopleForBike
 secondary economic research, CityLab's Portland customer-spending, Seattle retail-sales and six-corridor sidewalk-riding
 coverage, plus an
 Asbury Park temporary-lane speed
-study; it is not a comprehensive review.
+study and Streetsblog's coverage of U.S. Census commuting patterns by household income and vehicle availability;
+it is not a comprehensive review.
 
 ## Topics
 
@@ -28,6 +29,8 @@ study; it is not a comprehensive review.
   distinct measures, as do local traffic calming and corridor travel times.
 - [Active transportation and real estate](topics/active-transportation-real-estate.md): property-value associations,
   development accounts and car-optional housing, without assuming causal premiums or affordability benefits.
+- [Who walks and bikes to work?](topics/active-commuting-and-access.md): historical household-income and
+  vehicle-availability patterns, with limits on measuring all active travel and access quality.
 - [Topics index](topics/index.md).
 
 ## Evidence
