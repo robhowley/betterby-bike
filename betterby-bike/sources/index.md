@@ -34,4 +34,8 @@
 - [Road Diets and Emergency Response: Friends, Not Foes](2016-fhwa-road-diet-response-times.md): FHWA's two New Jersey
   responder accounts and center-turn-lane access argument, without measured response-time effects; publication date unstated.
 
+- [On the effect of networks of cycle-tracks on the risk of cycling. The case of Seville](2016-seville-ridership.md):
+  citywide trip growth, lower motor-vehicle collision rates and network/safety-in-numbers models with causal limits;
+  supplied manuscript's publication date unstated.
+
 [Bundle index](../index.md).

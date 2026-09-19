@@ -6,6 +6,9 @@ description:
   identify causes.
 tags: [safety, injuries, exposure]
 sources:
+  - id: seville
+    resource: /sources/2016-seville-ridership.md
+    title: On the effect of networks of cycle-tracks on the risk of cycling. The case of Seville
   - id: nyc2014
     resource: /sources/2014-nyc-protected-bicycle-lanes.md
     title: Protected Bicycle Lanes in NYC
@@ -169,6 +172,21 @@ or an isolated installation effect. The citywide measure covers killed/severely 
 crashes and divides by a six-location cycling index; it cannot substitute for the corridor injury measure. Overlapping
 NYC locations also mean successive reports are not independent replications.[^nyc2014]
 
+## Citywide network trends add exposure, not causal identification
+
+[Seville's motor-vehicle collision rate](/findings/safety/seville-motor-vehicle-collision-risk.md) fell from 15.71 to
+6.12 per million estimated trips in 2006–2013, while recorded collision counts rose from 48 to 100. Unlike NYC's
+count-index proxy, this uses estimated citywide trips; unlike Montreal and Toronto–Vancouver, it compares years rather
+than routes or sites. It excludes non-motor-vehicle crashes from the main rate, so cannot establish changes in all
+cycling injuries. Rates also rose in some post-network years.[^seville]
+
+[Seville's models](/findings/safety/seville-network-risk-models.md) associate lower risk with track length and a
+before/after network indicator, and reproduce a safety-in-numbers-style relationship. They do not independently
+identify connectivity or prove that additional cyclists caused safety gains. Eight main-analysis annual observations,
+correlated predictors, estimated exposure and assumed stable police reporting limit inference; the longer analysis
+also assumes unchanged pre-2006 trips. The authors' network-first causal explanation and recommendations for traffic
+calming go beyond the fitted associations.[^seville]
+
 ## What remains unresolved
 
 The New Zealand study does not establish why cycling injury rates changed. Its safety-in-numbers discussion is a
@@ -192,6 +210,9 @@ these interventions were not tested.[^teschke2012]
 
 ## Sources
 
+[The Seville network manuscript](/sources/2016-seville-ridership.md) describes the citywide time series, exposure
+estimation, model comparisons and limits on causal interpretation.
+
 [Injuries to pedal cyclists on New Zealand roads, 1988-2007](/sources/2010-nz-bike-injuries.md) describes the study
 population, methods and limitations.
 
@@ -212,6 +233,9 @@ describes the Toronto–Vancouver case-crossover design and its injury-populatio
 
 [Lessons from the Green Lanes](/sources/2014-lessons-green-lanes.md) distinguishes post-installation video conflicts,
 perceived safety and comfort from long-term crash evidence.
+
+[^seville]: Marqués and Hernández-Herrador, supplied manuscript, section 3 and Table 2; sections 4.1–4.3,
+    Tables 4–7; section 5 and conclusions.
 
 [^nyc2014]: NYCDOT (2014), scope/design pp. 5–6, aggregate injuries p. 7, citywide indicator p. 8,
     corridor risk and method p. 9, corridor appendix pp. 20–31.

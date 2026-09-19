@@ -6,6 +6,9 @@ description:
   attribution to individual treatments.
 tags: [street design, business, mobility, safety, measurement, emergency response]
 sources:
+  - id: seville
+    resource: /sources/2016-seville-ridership.md
+    title: On the effect of networks of cycle-tracks on the risk of cycling. The case of Seville
   - id: fhwa
     resource: /sources/2016-fhwa-road-diet-response-times.md
     title: "Road Diets and Emergency Response: Friends, Not Foes"
@@ -65,6 +68,20 @@ routes summarized. Unlike NYC's volume headline, this study also asked riders ab
 responses indicated another bicycle route and 10% another mode. This supports considering both diversion and new
 cycling, not subtracting survey percentages from count increases to estimate a causal net gain. The surveys sampled
 current users, and the count comparisons lacked matched parallel-route controls.[^monsere2014]
+
+## Citywide trip estimates address a different scale
+
+[Seville's estimated bicycle trips](/findings/networks/seville-citywide-bicycle-trips.md) rose from 3.055 million in
+2006 to 16.333 million in 2013 alongside connected-network construction, though they peaked in 2011. Unlike route
+counts in NYC, the Green Lane study and Farum, these estimates aim to represent citywide cycling, not simply use of
+one corridor. But changing estimation methods, bike sharing and the lack of an untreated city comparison prevent
+attributing the increase solely to tracks or equating trips with new riders or former drivers.[^seville]
+
+[Collision rates fell while counts rose](/findings/safety/seville-motor-vehicle-collision-risk.md), showing why greater
+use and lower per-trip risk need not mean fewer total crashes. The
+[network model](/findings/safety/seville-network-risk-models.md) supports considering connectivity as a hypothesis,
+not a proven additional effect: its binary indicator represents all changes after 2006, not connectivity alone.
+These trip and safety findings share one city time series, rather than independently confirming an intervention effect.[^seville]
 
 ## Comfort, support and correct use are different outcomes
 
@@ -150,6 +167,9 @@ curb-management examples.
 
 [Active transportation and real estate](/topics/active-transportation-real-estate.md) separates property appreciation,
 developer accounts and affordability from street-level sales and mobility outcomes.
+
+[^seville]: Marqués and Hernández-Herrador, supplied manuscript, section 3, Table 2; sections 4.1–4.2,
+    Tables 4–7; section 5 and conclusions.
 
 [^fhwa]: FHWA, FHWA-SA-17-020, PDF p. 1 (center-lane mechanism and general claims); p. 2 (Ocean City and Woodbury accounts).
 

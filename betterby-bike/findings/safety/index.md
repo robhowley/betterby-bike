@@ -64,4 +64,13 @@ These results share one agency presentation and overlap earlier NYC project loca
 - [Green Lane conflicts and risk limits](green-lanes-conflicts-and-risk-limits.md): no collisions in a short 2013
   video sample, but low-level conflicts and separately self-reported collisions; not an injury-risk estimate.
 
+## Seville citywide network time series
+
+These findings share one citywide study and its estimated bicycle-trip denominator.
+
+- [Motor-vehicle collision risk](seville-motor-vehicle-collision-risk.md): lower rates per million trips alongside
+  higher collision counts and some annual rate increases.
+- [Network and safety-in-numbers models](seville-network-risk-models.md): improved fit from a before/after indicator,
+  without identifying connectivity's causal effect or the direction of the numbers–safety relationship.
+
 [Findings index](../index.md) · [Interpreting cycling injury risk](../../topics/cycling-injury-risk.md).

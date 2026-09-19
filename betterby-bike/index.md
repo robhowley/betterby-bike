@@ -8,8 +8,8 @@ Research summaries and findings for understanding cycling and street design. Cur
 Zealand injury trends, a Montreal cycle-track comparison, NYC green-lane behavior observations, a NYC mayoral memo's
 attributed policy claims, NYCDOT's 2012 street-redesign case studies, a Toronto–Vancouver within-trip infrastructure
 study, a 2014 five-city U.S. protected-lane evaluation, NYCDOT's 2014 Manhattan protected-lane analysis and ULI's 2016
-active-transportation and real-estate profiles, plus FHWA's New Jersey road-diet emergency-access accounts; it is not a
-comprehensive review.
+active-transportation and real-estate profiles, FHWA's New Jersey road-diet emergency-access accounts and Seville's
+citywide network, trip and collision-risk time series; it is not a comprehensive review.
 
 ## Topics
 

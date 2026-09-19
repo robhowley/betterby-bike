@@ -170,3 +170,20 @@ than its case evidence; its separate 19–47% crash-reduction citation is not a 
 Both PDF pages were read as extracted text. The publication date is unstated despite the local 2016 filename;
 PDF metadata spans December 2016 to March 2017. Underlying response records and the cited 2010 crash study were not
 reviewed. No bundle validation or bookkeeping-metadata changes were made.
+
+Ingested [Marqués and Hernández-Herrador, _On the effect of networks of cycle-tracks on the risk of cycling.
+The case of Seville_](sources/2016-seville-ridership.md):
+
+- [Citywide trips](findings/networks/seville-citywide-bicycle-trips.md): estimated 2006–2013 growth with a 2011 peak,
+  distinguishing citywide extrapolations from corridor counts and causal adoption.
+- [Motor-vehicle collision risk](findings/safety/seville-motor-vehicle-collision-risk.md): lower per-trip rates alongside
+  rising collision counts, retaining annual reversals and exclusion of other crash types.
+- [Risk models](findings/safety/seville-network-risk-models.md): better fit with a before/after network indicator and
+  a safety-in-numbers-style association, without claiming independently identified connectivity or causal direction.
+
+Revised [Interpreting cycling injury risk](topics/cycling-injury-risk.md) and
+[Evaluating street redesign outcomes](topics/street-redesign-outcomes.md) to distinguish citywide trends from route
+comparisons and network interpretations from measured effects. Read the full manuscript as extracted text, including
+methods, tables, figure labels and discussion. Its publication date is unstated despite the 2016 filename; the KSI
+comparison has overlapping period labels. Underlying datasets and cited studies remain unreviewed. No bundle validation
+or bookkeeping-metadata changes were made.
