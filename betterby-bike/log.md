@@ -155,3 +155,18 @@ cycle-track safety result is linked to the existing primary Source, not counted 
 Read all 65 PDF pages as extracted text. Underlying studies remain unreviewed; sparse methods, unclear Indianapolis
 valuation dates and absent displacement/affordability outcomes limit interpretation. No bundle validation or
 bookkeeping-metadata changes were made.
+
+Ingested [FHWA, _Road Diets and Emergency Response: Friends, Not Foes_](sources/2016-fhwa-road-diet-response-times.md),
+report FHWA-SA-17-020:
+
+- [Ocean City emergency access](findings/operations/ocean-city-road-diet-emergency-access.md): preserved reported easier
+  center-lane passage and perceived safety, without inventing measured time savings.
+- [Woodbury response times](findings/operations/woodbury-road-diet-response-times.md): retained the police chief's
+  report of unchanged response times alongside easier and safer travel.
+
+Revised [Evaluating street redesign outcomes](topics/street-redesign-outcomes.md) to distinguish responder accounts,
+ordinary traffic measurements and emergency response times. The fact sheet's general improvement claims are stronger
+than its case evidence; its separate 19–47% crash-reduction citation is not a response-time result.
+Both PDF pages were read as extracted text. The publication date is unstated despite the local 2016 filename;
+PDF metadata spans December 2016 to March 2017. Underlying response records and the cited 2010 crash study were not
+reviewed. No bundle validation or bookkeeping-metadata changes were made.

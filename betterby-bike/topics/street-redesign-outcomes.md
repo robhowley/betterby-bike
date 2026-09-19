@@ -4,8 +4,11 @@ title: Evaluating street redesign outcomes
 description:
   Street evaluations distinguish injuries, counts, perceptions and sales, with mixed local outcomes and limited
   attribution to individual treatments.
-tags: [street design, business, mobility, safety, measurement]
+tags: [street design, business, mobility, safety, measurement, emergency response]
 sources:
+  - id: fhwa
+    resource: /sources/2016-fhwa-road-diet-response-times.md
+    title: "Road Diets and Emergency Response: Friends, Not Foes"
   - id: uli2016
     resource: /sources/2016-active-transportation-real-estate.md
     title: "Active Transportation and Real Estate: The Next Frontier"
@@ -116,6 +119,20 @@ this cannot establish net new regional cycling. ULI's projected economic returns
 and London's new routes are forecasts, not observed outcomes. Its early London CS2 account also retains six cyclist
 deaths in 2011–15, rather than presenting every route branded a cycle superhighway as already safe.[^uli2016]
 
+## Emergency access accounts are not timed response evaluations
+
+FHWA's road-diet fact sheet adds a different operational question: can emergency vehicles pass ordinary traffic?
+Its [Ocean City case](/findings/operations/ocean-city-road-diet-emergency-access.md) describes easier passage using
+an added center turn lane and extra shoulder width. The
+[Woodbury account](/findings/operations/woodbury-road-diet-response-times.md) explicitly reports **unchanged response
+times**, despite responders feeling travel was easier and safer. These accounts suggest a useful design mechanism,
+not measured time savings. Neither case supplies timed trips, dates, controls or uncertainty.[^fhwa]
+
+This distinction matters alongside NYC's travel-time observations and Green Lane residents' perceptions: ordinary
+traffic speeds, responder ease of passage and dispatch-to-arrival times are different measures. The fact sheet's
+broad no-delay and improvement claims are not established by its two selected cases, and center-turn-lane road diets
+cannot stand in for all protected-lane designs.[^fhwa]
+
 ## What remains uncertain
 
 NYC's 2012 report illustrates selected favorable cases without detailed periods, baselines, uncertainty or controlled
@@ -133,6 +150,8 @@ curb-management examples.
 
 [Active transportation and real estate](/topics/active-transportation-real-estate.md) separates property appreciation,
 developer accounts and affordability from street-level sales and mobility outcomes.
+
+[^fhwa]: FHWA, FHWA-SA-17-020, PDF p. 1 (center-lane mechanism and general claims); p. 2 (Ocean City and Woodbury accounts).
 
 [^uli2016]: ULI (2016), Broadway p. 6; Farum and Copenhagen forecasts pp. 42–44; London deaths and forecasts pp. 47, 49.
 
