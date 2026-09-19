@@ -2,6 +2,14 @@
 
 ## 2026-09-18
 
+Ingested [Stromberg's 2014 Vox traffic article](sources/2014-vox-bike-lane-travel-times.md), linking the existing
+[NYCDOT Source](sources/2014-nyc-protected-bicycle-lanes.md) and traffic/safety Findings without creating duplicate
+Findings. Updated [Evaluating street redesign outcomes](topics/street-redesign-outcomes.md) to distinguish repeated
+reporting and design interpretations from independent evidence. Preserved Vox's small First Avenue speed decline and
+the reproduced adverse Broadway risk result; documented its CBD-boundary error and conflation of corridor injury risk
+with the citywide serious-injury indicator. Read all 15 printout pages as text, checked four graphics visually, and
+read the 31-page primary report as text; underlying datasets and intervening CityLab coverage remain unreviewed.
+
 Ingested [Snyder's 2014 Streetsblog Census coverage](sources/2014-streetsblog-income-biking.md), adding Findings on
 [household income](findings/access/us-household-income-active-commuting.md),
 [vehicle availability](findings/access/us-vehicle-availability-active-commuting.md) and

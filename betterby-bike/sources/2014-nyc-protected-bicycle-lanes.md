@@ -64,6 +64,8 @@ crash/count datasets and the separate 2013 economic report were not independentl
 
 ## Related
 
+- [Vox's September 2014 coverage](/sources/2014-vox-bike-lane-travel-times.md): repeats these traffic and safety results;
+  its design explanations and compressed metric definitions are not independent evidence.
 - [Interpreting cycling injury risk](/topics/cycling-injury-risk.md).
 - [Evaluating street redesign outcomes](/topics/street-redesign-outcomes.md).
 - [Measuring the Street (2012)](/sources/2012-measuring-the-street.md): earlier overlapping NYC cases.

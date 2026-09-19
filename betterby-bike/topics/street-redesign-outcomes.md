@@ -6,6 +6,9 @@ description:
   attribution to individual treatments.
 tags: [street design, business, mobility, safety, measurement, emergency response]
 sources:
+  - id: vox2014
+    resource: /sources/2014-vox-bike-lane-travel-times.md
+    title: Bike lanes have actually sped up car traffic in New York City
   - id: citylab2014
     resource: /sources/2014-citylab-riding-on-sidewalk.md
     title: Tired of Cyclists Riding on the Sidewalk? Build More Bike Lanes
@@ -188,6 +191,11 @@ average travel time fell 14%, Columbus's morning time fell 35%, and NYCDOT descr
 speeds. These measured windows complement Green Lane respondents' mixed experiences, not contradict them. Short samples,
 different seasons, routes and hours prevent extrapolating one percentage to all traffic.[^nyc2014]
 
+[Vox's coverage](/sources/2014-vox-bike-lane-travel-times.md) repeats these results, not an independent confirmation.
+Its narrower-lane/turn-pocket explanation is not a tested mechanism, and its broad no-delay conclusion exceeds the
+sampled windows. Use the primary report's CBD boundary (59th Street, not Vox's 86th) and keep corridor cyclist-injury
+risk separate from the citywide killed/severely-injured indicator that the article conflates with it.[^vox2014][^nyc2014]
+
 [Two-year retail-sales growth on Ninth and Columbus Avenues](/findings/business/nyc-pbl-retail-comparisons.md) exceeded
 named comparison corridors, a more local comparison than the 2012 brochure's borough-wide headline. But the 2014
 presentation repeats a 2013 economic report, does not detail matching or uncertainty, and does not isolate the lane
@@ -327,6 +335,7 @@ developer accounts and affordability from street-level sales and mobility outcom
 
 [^uli2016]: ULI (2016), Broadway p. 6; Farum and Copenhagen forecasts pp. 42–44; London deaths and forecasts pp. 47, 49.
 
+[^vox2014]: Stromberg, Vox (September 8, 2014), supplied PDF pp. 2–5 (traffic and design), 10 (risk interpretation).
 [^nyc2014]: NYCDOT (2014), safety pp. 7–9, mobility pp. 10–13, retail p. 14, corridor counts pp. 20–31.
 
 [^nyc2012]:

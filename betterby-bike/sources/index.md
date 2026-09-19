@@ -43,6 +43,9 @@
 - [Protected Bicycle Lanes in NYC](2014-nyc-protected-bicycle-lanes.md): September 2014 Manhattan analysis of injuries,
   count-normalized cyclist risk, traffic performance and retail sales, preserving mixed corridor results and causal limits.
 
+- [Bike lanes have actually sped up car traffic in New York City](2014-vox-bike-lane-travel-times.md): Vox's coverage
+  of the same NYCDOT evaluation, with design interpretations and traffic/risk-definition discrepancies, not new evidence.
+
 - [Active Transportation and Real Estate: The Next Frontier](2016-active-transportation-real-estate.md): ULI's 2016
   selected development/infrastructure profiles and secondary research, distinguishing property associations, developer
   accounts, affordable housing and forecasts.

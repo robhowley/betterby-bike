@@ -14,7 +14,7 @@ responder survey and Cedar Rapids response-rate analysis, and Seville's
 citywide network, trip and collision-risk time series, plus Chicago's sharrow block-group injury comparison and a
 six-city summary of economic outcomes on 14 improved corridors and PeopleForBikes/Alliance business interviews and
 secondary economic research, CityLab's Portland customer-spending, Seattle retail-sales and six-corridor sidewalk-riding
-coverage, plus an
+coverage, Vox's secondary account of NYCDOT's 2014 traffic and safety results, plus an
 Asbury Park temporary-lane speed
 study and Streetsblog's coverage of U.S. Census commuting patterns by household income and vehicle availability;
 it is not a comprehensive review.
