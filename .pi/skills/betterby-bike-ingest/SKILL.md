@@ -64,6 +64,16 @@ applicable, uncertainty, and limitations. Preserve numerical measures, units, an
 Source and give page, table, or section locators where available. Never invent missing detail or imply you read a
 primary source when you only read coverage of it.
 
+Start each Finding with `## In brief`: one to three short bullets stating what was found, where or for whom,
+compared with what, and the main magnitude when available. Explain the result in plain English rather than
+requiring readers to interpret statistical notation. Keep qualifications essential to understanding the result
+beside the claim; put detailed methods, secondary statistics, and extended limitations below.
+
+Use these bullets instead of an introductory paragraph repeating the same points. For measurement-limit Findings,
+summarize what cannot be concluded and why, and link to the related result where one exists.
+
+Check: can someone reading only `In brief` explain the finding and its main qualification?
+
 Extract what is useful, not every statistic. A Source may yield no new Findings. Preserve conflicting evidence and link
 related Findings rather than overwriting inconvenient results. Link Findings to relevant Topics, and keep corresponding
 Source and Topic links current.

@@ -1,5 +1,8 @@
 .idea
 .claude
 .dev
+/.pi/*
+!/.pi/skills/
+!/.pi/prompts/
 /site/search-documents.json
 __pycache__/
