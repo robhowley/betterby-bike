@@ -2,7 +2,7 @@
 type: Source
 title: More investment needed in Copenhagen cycling infrastructure, review suggests
 description: Copenhagen Post reporting on a municipal cycling review, finance-ministry economic values and a deputy mayor's infrastructure proposals.
-resource: /raw-sources/news/2018-cph-post-value-of-biking.pdf
+resource: ../../raw-sources/news/2018-cph-post-value-of-biking.pdf
 tags: [Copenhagen, commuting, economic valuation, infrastructure]
 sources:
   - id: gadd2018
