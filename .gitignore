@@ -1,3 +1,5 @@
 .idea
 .claude
 .dev
+/site/search-documents.json
+__pycache__/
