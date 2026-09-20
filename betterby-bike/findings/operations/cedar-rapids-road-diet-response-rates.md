@@ -11,11 +11,19 @@ sources:
 
 # Cedar Rapids road diets showed no significant adjusted emergency response-rate change
 
-Cedar Rapids Fire Department records from **2014–2020** showed no statistically significant adjusted change in
-emergency response rate after four 4-to-3 lane conversions. Table 7 reports a **before/after rate ratio of 1.024
-(Wald 95% CI 0.992–1.056)**, with after as reference. This compares **alarm-to-arrival minutes per inferred kilometre**,
-not call frequency or driving time alone. Lower rates indicate faster responses. The point estimate puts before
-2.4% higher than after; the interval includes no change, so it is not an established improvement.[^corcoran2024]
+## In brief
+
+- Cedar Rapids fire records from 2014–2020 showed no significant adjusted change after four 4-to-3 lane conversions
+  in alarm-to-arrival minutes per inferred kilometre, not driving time alone.[^corcoran2024]
+- The estimate put the before-conversion rate 2.4% above the after rate, but uncertainty included no change.
+  This is not an established improvement.[^corcoran2024]
+- Assumed routes, no untreated-road controls and [conflicting printed figures](cedar-rapids-response-measurement-limits.md)
+  limit interpretation. The result does not prove no delay.[^corcoran2024]
+
+## Measure and estimate
+
+Lower minutes-per-kilometre rates mean faster responses, not call frequency. Table 7 reports a **before/after rate
+ratio of 1.024 (Wald 95% CI 0.992–1.056)**, with after as reference.[^corcoran2024]
 
 ## Comparison and site variation
 

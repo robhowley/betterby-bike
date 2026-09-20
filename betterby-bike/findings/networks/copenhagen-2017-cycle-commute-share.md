@@ -11,14 +11,18 @@ sources:
 
 # Copenhagen's 2017 work-cycling share was reported as 43 percent
 
-Reporting on Copenhagen Municipality's annual cycling review, Stephen Gadd wrote that **43% cycled to and from
-work in 2017**, “up 2 percent since 2016.” The article does not clarify whether that increase means percentage
-points or relative percent, so it does not support reconstructing a precise 2016 share.[^gadd2018]
+## In brief
+
+- The Copenhagen Post reports a 43% work-cycling share for Copenhagen in 2017, citing a municipal review. It does
+  not define whose commuting is counted or whether it counts people or trips.[^gadd2018]
+- The reported “up 2 percent since 2016” could mean a relative increase or percentage points; a precise
+  2016 share cannot be reconstructed. The municipal review was not separately reviewed.[^gadd2018]
 
 ## Interpretation and limits
 
-The article supplies no denominator definition, sampling method, geographic coverage or uncertainty. It does not
-explain whether the measure describes residents, all commuters, people or trips. It is a historical work-cycling
+Stephen Gadd's account covers Copenhagen Municipality's annual cycling review. The article supplies no denominator
+definition, sampling method, geographic coverage or uncertainty. It does not explain whether the measure describes
+residents, all commuters, people or trips. It is a historical work-cycling
 figure, not an all-purpose trip share, a current rate or a demonstrated effect of infrastructure investment.
 The underlying municipal review has not been separately reviewed.
 

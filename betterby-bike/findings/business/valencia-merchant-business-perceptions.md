@@ -11,11 +11,18 @@ sources:
 
 # Valencia Street merchants mostly reported business benefits, with some adverse responses
 
-*Protected Bike Lanes Mean Business* reports that after San Francisco reduced car lanes and added bicycle lanes
-and wider sidewalks on Valencia Street, **two-thirds of merchants said increased bicycling and walking improved
-business**, while **4% said the changes hurt sales**. Its graphic labels the favorable share 66%. The source cited
-is Emily Drennen's 2003 San Francisco State University *Economic Effects of Traffic Calming on Urban Small
-Businesses*, not a new survey conducted for the advocacy report.[^business]
+## In brief
+
+- *Protected Bike Lanes Mean Business* reports that about two-thirds of San Francisco's Valencia Street merchants said
+  increased walking and cycling improved business after redesign; 4% said changes hurt sales.[^business]
+- These are merchant perceptions from research cited to 2003, not audited sales or an isolated bike-lane effect; the
+  summary omits sample size and response rate.
+
+## Evidence and limits
+
+The combined redesign reduced car lanes and added bicycle lanes and wider sidewalks. The business report's graphic
+labels the favorable share 66%. It cites Emily Drennen's 2003 San Francisco State University *Economic Effects of
+Traffic Calming on Urban Small Businesses*, not a new survey conducted for the advocacy report.[^business]
 
 These are merchant perceptions following a combined street redesign, not audited sales or an isolated protected-lane
 effect. The summary does not specify the merchant sample, response rate, survey dates, exact question or remaining

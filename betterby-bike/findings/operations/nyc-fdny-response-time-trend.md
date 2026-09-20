@@ -11,10 +11,18 @@ sources:
 
 # NYC fire-company response times rose without an identified bike-lane effect
 
-In September 2019, Streetsblog reported that NYC's average **fire-company response time to all emergencies** had
-reached **5 minutes 15 seconds**, **25 seconds (8.6%) longer than fiscal 2015** (July 2014–June 2015), citing the
-Mayor's Management Report. The measure includes **FDNY dispatch and travel time only**. It is not an ambulance-only
-statistic or a measure of the entire interval from a caller initiating a 911 call to arrival.[^cuba2019]
+## In brief
+
+- In September 2019, Streetsblog reported NYC's average fire-company response to all emergencies at 5 minutes
+  15 seconds, 25 seconds (8.6%) longer than fiscal 2015.[^cuba2019]
+- This counts FDNY dispatch and travel, not the full interval from initiating a 911 call.[^cuba2019]
+- The citywide trend cannot identify a bike-lane effect or prove zero bike-lane delay. The underlying management
+  report was not independently reviewed; this is the article's reporting.[^cuba2019]
+
+## Reporting basis and competing explanations
+
+Streetsblog cited the Mayor's Management Report; fiscal 2015 covers July 2014–June 2015. The fire-company measure
+is not an ambulance-only statistic.[^cuba2019]
 
 The report, as quoted, said travel-time increases “may be partly attributed” to continued population growth,
 more vehicles and construction. FDNY spokesman Myles Miller referred a direct bike-lane question back to that

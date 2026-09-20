@@ -13,9 +13,19 @@ sources:
 
 # NYC reported fewer all-user injuries on 8th and 9th Avenues
 
-NYCDOT's 2012 report gives a **35% decrease in injuries to all street users on 8th Avenue** and a **58% decrease on 9th
-Avenue**, Manhattan. The project panel identifies parking-protected bicycle lanes, pedestrian safety islands, left-turn
-bays and signal phases, and bicycle/left-turn mixing zones.[^nyc2012]
+## In brief
+
+- NYCDOT's 2012 report states that injuries to all street users fell 35% on Manhattan's 8th Avenue and 58% on 9th
+  Avenue after redesigns.[^nyc2012]
+- These are injury changes across road users, not cyclist risk per trip. Baseline counts, observation dates and a
+  controlled comparison are not supplied.[^nyc2012]
+- Projects combined protected bicycle lanes with pedestrian and turning treatments; the lane contribution cannot
+  be isolated.[^nyc2012]
+
+## Project scope and limits
+
+The project panel identifies parking-protected bicycle lanes, pedestrian safety islands, left-turn bays and signal
+phases, and bicycle/left-turn mixing zones.[^nyc2012]
 
 These are reported changes in injuries across road users, not injury-crash counts or cyclist injury rates per trip. The
 report supplies no baseline counts, observation dates, road-user breakdown, exposure denominator, uncertainty or

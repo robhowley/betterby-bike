@@ -11,10 +11,14 @@ sources:
 
 # Bloor Street surveys supported a predicted parking-conversion benefit, not an observed lane effect
 
-CityLab's 2015 roundup reports surveys of **61 merchants and 538 patrons on Toronto's Bloor Street**. Only **10% of
-patrons drove** to the shopping area, and people arriving on foot or bicycle spent the most per month. The quoted
-report authors concluded that converting street parking to a bicycle lane was unlikely to hurt business and would
-likely increase commercial activity.[^citylab2015]
+## In brief
+
+- CityLab reports that 10% of 538 surveyed Bloor Street patrons drove; walking and cycling patrons spent the most
+  monthly. The Toronto surveys also covered 61 merchants.[^citylab2015]
+- Report authors predicted that converting parking to a bicycle lane was unlikely to hurt business and would likely
+  help; this was not a measured post-conversion sales effect.[^citylab2015]
+
+## Evidence and limits
 
 The arrival/spending survey and the predicted effect are different claims. This entry reports no before/after
 conversion sales outcome; it cannot establish that parking removal subsequently raised sales. The article's prose

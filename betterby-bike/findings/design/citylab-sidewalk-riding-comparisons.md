@@ -11,10 +11,19 @@ sources:
 
 # CityLab reported less sidewalk riding alongside more cycling on six selected corridors
 
-Eric Jaffe's August 2014 CityLab article reports that sidewalk riding fell after bicycle lanes were created on six
-corridors in Washington, D.C., Denver and New York, while total cycling rose. It draws on Washington Post reporting
-and a PeopleForBikes/America Walks compilation, whose chart describes protected lanes. The underlying observations
-were not separately reviewed.[^citylab2014]
+## In brief
+
+- CityLab's 2014 coverage reported 27–81% less sidewalk riding after lanes were installed on six selected corridors
+  in Washington, D.C., Denver and New York, alongside more cycling.[^citylab2014]
+- The article mixes cyclist shares and bicycle counts. With cycling increasing, a smaller sidewalk share need not
+  mean fewer sidewalk riders; these are not verified count reductions.[^citylab2014]
+- This advocate-selected comparison supplies no pedestrian-injury results or controlled lane-effect estimate.
+  The underlying observations were not separately reviewed.[^citylab2014]
+
+## Reporting basis and corridor results
+
+Eric Jaffe's August 2014 article draws on Washington Post reporting and a PeopleForBikes/America Walks compilation,
+whose chart describes protected lanes.[^citylab2014]
 
 | Corridor as named in the article | Reported sidewalk-riding decrease | Reported total bicycle-use increase |
 | --- | --- | --- |

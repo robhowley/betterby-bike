@@ -11,10 +11,17 @@ sources:
 
 # Seattle's Greenwood sales broadly tracked the area after bicycle lanes
 
-CityLab's September 2013 article reports Kyle Rowe's comparison of taxable retail sales in Seattle's Greenwood district
-after the city removed **one traffic lane and some parking spaces** to install bicycle lanes. The article says the
-project corridor performed about as well as the surrounding area, rather than showing the large increase reported
-on 65th Street. Comparators were a similar retail strip and the neighborhood overall.[^citylab2013]
+## In brief
+
+- CityLab reports that Seattle's Greenwood taxable retail sales performed broadly like the surrounding area after one
+  traffic lane and some parking were removed for bicycle lanes.[^citylab2013]
+- The 2009–2012 chart includes a dip around installation and later recovery; similar overall performance does not
+  establish a zero lane effect or no harm to individual businesses.[^citylab2013]
+
+## Evidence and limits
+
+CityLab's September 2013 article reports Kyle Rowe's comparison with a similar retail strip and the neighborhood
+overall. Greenwood did not show the large increase reported on 65th Street.[^citylab2013]
 
 The chart spans **Q4 2009–Q4 2012**, with installation shading around Q4 2010. Greenwood's index falls around that
 quarter, recovers and subsequently fluctuates broadly alongside the comparison series. Thus similar overall performance

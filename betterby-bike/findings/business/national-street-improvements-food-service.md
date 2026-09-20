@@ -11,11 +11,20 @@ sources:
 
 # Food-service gains after street improvements were common but not universal
 
-The National Street Improvements Study summary describes **food service as the sector benefiting most** across
-14 improved corridors in six U.S. cities. Its before/after analyses used control corridors, multiple employment,
-wage and sales datasets, and trend, difference-in-differences and interrupted time series (ITS) methods. The authors
-say food sales and employment tended to rise even where projects removed travel lanes or parking; they do not provide
-a pooled effect size or isolate removal itself as the cause.[^national2020]
+## In brief
+
+- A six-city U.S. study summary reports generally favorable food-service sales and employment results across 14 improved
+  corridors, compared over time and with control corridors; it gives no pooled gain.[^national2020]
+- Results varied: San Francisco's 17th Street was generally negative or null; Seattle's Second Avenue had no
+  statistically significant effect; Minneapolis's Riverside growth was not clearly attributable to
+  redesign.[^national2020]
+- These combined street projects do not isolate bike lanes or parking removal, or establish gains for every business.
+
+## Evidence and limits
+
+The National Street Improvements Study authors describe **food service as the sector benefiting most**, including
+where projects removed travel lanes or parking. Analyses used multiple employment, wage and sales datasets, and
+trend, difference-in-differences and interrupted time series (ITS) methods.[^national2020]
 
 The corridor table reports favorable results including:
 

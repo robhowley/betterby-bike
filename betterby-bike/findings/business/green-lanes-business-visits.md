@@ -12,8 +12,15 @@ sources:
 
 # Green Lane business-visit responses were mostly unchanged and varied by city
 
-Monsere et al.'s five-city evaluation asked riders and nearby residents in 2013 about shops along newly protected
-bicycle routes. Most reported no change, while the overall balance favored more visits:[^monsere2014]
+## In brief
+
+- In a 2013 five-city survey around new protected routes, most riders and nearby residents reported no change in
+  business visits; 19% of 1,005 intercepted bicyclists stopped more often and 1% less often.[^monsere2014]
+- Of 1,771 residents answering the general business question, 12% were more likely to visit and 9% less likely;
+  Chicago's Dearborn and Milwaukee corridors had unfavorable balances.[^monsere2014]
+- These were self-reported visits or intentions, not sales, with no before survey or matched control group.
+
+## Evidence and limits
 
 | Respondent group and measure | Increased/more likely | Decreased/less likely | Reported n |
 | --- | ---: | ---: | ---: |

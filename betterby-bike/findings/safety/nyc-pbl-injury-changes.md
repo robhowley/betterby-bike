@@ -11,6 +11,17 @@ sources:
 
 # NYC protected-lane corridors reported fewer injuries overall, with little cyclist-count change
 
+## In brief
+
+- NYCDOT's 2014 comparison of 12 Manhattan protected-lane projects reported 20% fewer injuries overall and 17%
+  fewer injury crashes after redesign.[^nyc2014]
+- Cyclist injuries changed little, from 100 to 98 (2% fewer); most improvement was in pedestrian and motor-vehicle
+  occupant injuries.[^nyc2014]
+- Counts are not clearly annual averages or period totals. They neither measure cyclist risk per trip nor isolate
+  protected lanes from other redesign elements and trends.[^nyc2014]
+
+## Projects and reported values
+
 NYCDOT's September 2014 report pools treated portions of 12 Manhattan projects on six avenues (seven miles), installed
 in 2007–2011 and eligible because at least three years of after data existed. Its NYPD AIS/TAMS before/after chart gives:
 

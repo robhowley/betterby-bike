@@ -13,16 +13,20 @@ sources:
 
 # New Zealand's cycling brain-injury decline does not identify a helmet-law effect
 
-Rates of traumatic brain injury per million cycling hours were lower in 1996–99 and 2003–07 than in 1988–91 among New
-Zealand cyclists aged five or older who died or received inpatient treatment after road crashes. In contrast, rates of
-injury to other body regions generally increased over the study period.[^nz2010]
+## In brief
 
-New Zealand introduced its mandatory all-age cycle helmet law in January 1994, between the first two comparison periods.
-The authors explicitly state that they could not determine whether the brain-injury decline reflected that law or the
-general decline in road injuries during the same period. This result establishes neither that the law caused the decline
-nor that it had no effect.[^nz2010]
+- Among New Zealand road cyclists aged five or older, traumatic brain injuries resulting in death or inpatient
+  treatment per million cycling hours were lower in 1996–99 and 2003–07 than in 1988–91.[^nz2010]
+- The study could not separate a 1994 helmet-law effect from wider road-injury trends. It establishes neither that
+  the law caused the decline nor that it had no effect.[^nz2010]
+- Brain-injury declines do not mean all injuries fell: [overall cycling injury rates](nz-cycling-injury-rates-1988-2007.md)
+  rose after 1996–99.[^nz2010]
 
 ## Scope and limits
+
+Rates of injury to other body regions generally increased over the study period. New Zealand introduced its mandatory
+all-age cycle helmet law in January 1994, between the
+first two comparison periods.[^nz2010]
 
 The analysis combined national death records and first public-hospital injury admissions of at least one day with
 travel-survey exposure estimates. Figure 3 reports body-region rates, with a separate serious-injury analysis using

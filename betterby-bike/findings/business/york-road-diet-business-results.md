@@ -11,10 +11,19 @@ sources:
 
 # Los Angeles York road diet reportedly had little business effect despite higher treated-section receipts
 
+## In brief
+
+- CityLab reports little business, property-value or shopping-pattern effect after Los Angeles's York road diet;
+  sales-tax revenue rose in both treated and untreated sections.[^citylab2015]
+- Reported receipts were $1,116,745 in the section with the new lane versus $574,778 without it. These are revenue
+  levels, not gains caused by the project.[^citylab2015]
+- Missing baselines, comparable business counts and detailed methods prevent inferring either a causal benefit or a
+  proven zero effect.
+
+## Evidence and limits
+
 CityLab's 2015 roundup describes before/after business data for a Los Angeles York road diet that replaced car lanes
-with bicycle lanes. It quotes the study as finding **little effect on surrounding businesses, property values and
-customer shopping patterns**. Reported sales-tax revenue was **$1,116,745 in the section with the new lane versus
-$574,778 in the section without it**, but revenue rose after the road diet in both sections.[^citylab2015]
+with bicycle lanes.[^citylab2015]
 
 These are revenue levels, not treatment-induced gains. Without baseline levels, comparable business counts, periods
 and an adjusted contrast, the larger treated-section total cannot show a bike-lane benefit. Sales-tax receipts are

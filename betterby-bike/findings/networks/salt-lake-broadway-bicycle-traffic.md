@@ -11,9 +11,16 @@ sources:
 
 # Salt Lake City reported 30% more bicycle traffic after Broadway's redesign
 
-Streetsblog's October 2015 article attributes to Salt Lake City a **30% increase in bicycle traffic after bike-lane
-installation** on 300 South (Broadway). The project provided nine blocks of protected lanes alongside parking changes,
-a partial road diet and streetscape improvements.[^streetsblog2015]
+## In brief
+
+- Streetsblog's October 2015 article reports Salt Lake City's finding of 30% more bicycle traffic on 300 South
+  (Broadway) after a redesign with nine blocks of protected lanes.[^streetsblog2015]
+- The project also changed parking and included a partial road diet and streetscape improvements. Baseline counts,
+  observation dates and counting methods are not given.[^streetsblog2015]
+- This does not establish citywide cycling growth, new customers or an isolated bike-lane effect; riders changing
+  routes could contribute.[^streetsblog2015]
+
+## Details
 
 The article gives no baseline volumes, observation dates, counting locations, sampling protocol, comparison route or
 uncertainty. This is a secondary report of corridor traffic growth, not evidence of 30% more cycling citywide or

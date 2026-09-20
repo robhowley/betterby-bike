@@ -13,9 +13,18 @@ sources:
 
 # NYC's green-paint evaluation cannot isolate safety or ridership effects
 
-NYCDOT's 2011 evaluation compared behavior on green and unpainted lanes during September 2010 afternoon peak periods. It
-did not estimate a treatment-specific collision or injury rate, and explicitly could not separate paint's influence on
-cycling from wider network expansion and citywide growth.[^nyc2011]
+## In brief
+
+- NYCDOT's 2011 evaluation cannot establish that green paint reduced injuries or increased cycling. It measured
+  behavior, while network expansion and citywide growth could not be separated from paint's influence.[^nyc2011]
+- Conflicting site totals and clear/obstructed percentages prevent precise pooled estimates without missing raw event counts.[^nyc2011]
+- The [driver-behavior comparisons](nyc-green-paint-driver-behavior.md) remain descriptive, including mixed site
+  results and similar standing/parking, not isolated paint effects.[^nyc2011]
+
+## Comparison timing and cycling counts
+
+The green-versus-unpainted behavioral comparison covered September 2010 afternoon peak periods. It did not estimate
+a treatment-specific collision or injury rate.[^nyc2011]
 
 The report cites a 58% increase in Clinton Street, Brooklyn, cycling counts between September 2007 and September 2010.
 Its footnotes say the earlier count was one block from the later count at unpainted location 8. This is not a matched

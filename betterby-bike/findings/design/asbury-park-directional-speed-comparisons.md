@@ -11,9 +11,18 @@ sources:
 
 # Asbury Park speed associations differed by traffic direction
 
-The March–April 2022 Asbury Park pilot modeled six movements separately, comparing temporary delineated or
-paint-only bicycle lanes with no lane. Beyond the strongest right-turn association, **delineated lanes had smaller
-speed reductions for straight movements to/from Cookman Avenue**, where the new lane ran on both sides.[^younes2024]
+## In brief
+
+- In Asbury Park's March–April 2022 pilot, temporary delineated lanes were associated with roughly 4–5% lower average
+  speeds for Cookman through traffic than no lane. Perpendicular Asbury traffic showed no significant reductions.[^younes2024]
+- Paint alone was associated with about 5.1% lower top speeds for Kingsley-to-Cookman through traffic, an exception to
+  the abstract's right-turn-only summary. “Top” means each vehicle's 95th-percentile speed in camera view.[^younes2024]
+- This nonrandomized intersection comparison cannot isolate lane effects or measure crashes or whole-trip delay.[^younes2024]
+
+## Movement comparisons
+
+The pilot modeled six movements separately; the new lane ran on both sides of Cookman Avenue. The
+[right-turn association](asbury-park-right-turn-speeds.md) was strongest.[^younes2024]
 
 | Movement | Model observations | Delineated: log average-speed coefficient (SE) | Delineated: log top-speed coefficient (SE) |
 | --- | --- | --- | --- |

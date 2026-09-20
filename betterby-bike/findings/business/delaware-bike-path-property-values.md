@@ -11,10 +11,21 @@ sources:
 
 # CBC reports higher values near Delaware bike paths alongside positive-or-null review results
 
-CBC's 2019 article cites a **2006 University of Delaware paper** reviewing U.S. research: most studies found bike
-paths/trails slightly increased property values and ease of sale **or had no effect**. It also reports that Delaware
-properties **within 50 metres of bike paths** had values **at least $8,800 higher** than those farther away, and a
-larger difference when controlling for unspecified variables.[^cbc2019]
+## In brief
+
+- CBC reports that Delaware properties within 50 metres of bike paths were valued at least $8,800 higher than properties
+  farther away, citing a 2006 paper.[^cbc2019]
+- The paper's U.S. research review reportedly found mostly positive or no property-value effects, not uniformly positive
+  results.[^cbc2019]
+- The Delaware difference is an association, not appreciation caused by construction; CBC omits the valuation period,
+  currency basis and uncertainty.
+
+## Evidence and limits
+
+CBC's 2019 article cites a **2006 University of Delaware paper** reviewing U.S. research. Most studies reportedly
+found slight improvements in property values and ease of sale, or no effect. CBC reports a larger Delaware
+property-value difference
+when controlling for unspecified variables.[^cbc2019]
 
 The [linked paper](http://128.175.63.72/projects/DOCUMENTS/bikepathfinal.pdf) was not separately reviewed. CBC does
 not identify the valuation period, sample, precise adjusted estimate, currency basis or statistical uncertainty.

@@ -11,9 +11,18 @@ sources:
 
 # NYC cyclist-risk proxy declined on seven corridors but increased on one
 
-NYCDOT's 2014 evaluation reports changes in cyclist injuries normalized by bicycle counts for eight Manhattan
-protected-lane corridors. It compares three-year before and after injury periods using representative April–October
-12-hour facility counts, not total bicycle trips or distance travelled.[^nyc2014]
+## In brief
+
+- NYCDOT's 2014 Manhattan evaluation reported lower cyclist injuries relative to bicycle counts on seven of eight
+  protected-lane corridors. Across all eight, changes ranged from a 64.9% decrease to an 11.2% increase.[^nyc2014]
+- Broadway (18th–23rd) worsened by this measure; Eighth Avenue (23rd–34th) changed little, down 2.4%.[^nyc2014]
+- Short 12-hour counts stand in for cycling across three-year injury periods. Without an untreated safety
+  comparison, these results neither give absolute trip risk nor isolate lane effects.[^nyc2014]
+
+## Corridor estimates and measurement
+
+Three-year before and after injury periods were normalized using representative April–October 12-hour facility
+counts, not total bicycle trips or distance travelled.[^nyc2014]
 
 | Corridor | Cyclist-risk change | Bicycle-volume change |
 | --- | ---: | ---: |

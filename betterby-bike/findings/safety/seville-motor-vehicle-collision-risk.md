@@ -11,10 +11,19 @@ sources:
 
 # Seville's motor-vehicle collision rate fell while collision counts rose
 
-Across Seville, police-recorded bicycle–motor-vehicle collisions per million estimated bicycle trips fell from
-**15.71 in 2006** to **7.40 in 2007**, when a connected cycle-track network was built, and **6.12 in 2013**.
-The 2006–2013 decline is about **61%**, calculated from the reported rates. Actual recorded motor-vehicle collision
-counts rose from **48 to 100** over those endpoints, while estimated trips rose from 3.055 to 16.333 million.[^seville]
+## In brief
+
+- Across Seville, police-recorded bicycle–motor-vehicle collisions fell from 15.71 to 6.12 per million estimated
+  bicycle trips in 2006–2013, about 61%, while collision counts rose from 48 to 100.[^seville]
+- The rate fell sharply when the connected network was built in 2007, but not every year afterward; it rose from
+  4.24 in 2012 to 6.12 in 2013.[^seville]
+- This citywide before/after comparison neither isolates a network effect nor measures all cycling injuries.
+  Trip totals are estimated and stable police reporting is assumed.[^seville]
+
+## Annual rates and counts
+
+The motor-vehicle collision rate was 7.40 per million estimated bicycle trips in 2007. Estimated trips rose from
+3.055 million in 2006 to 16.333 million in 2013.[^seville]
 
 Rates did not decline every year: they rose to **8.37 in 2009** and from **4.24 in 2012 to 6.12 in 2013**.
 All recorded bicycle crashes rose from **56 in 2006 to 126 in 2013**. Collisions with pedestrians rose from 2 to 7,

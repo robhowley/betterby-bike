@@ -13,9 +13,17 @@ sources:
 
 # NYC reported up to 177% higher bicycle volumes on First and Second Avenues
 
-NYCDOT's 2012 report gives an **up to 177% increase in bicycle volumes** for First and Second Avenues in Manhattan. The
-corridor project combined protected green bicycle lanes, offset bus lanes, pedestrian refuges, separated left-turn lanes
-and dedicated signal phases.[^nyc2012]
+## In brief
+
+- NYCDOT's 2012 report gives up to 177% higher bicycle volumes on Manhattan's First and Second Avenues after a
+  combined bus, bicycle and pedestrian corridor redesign.[^nyc2012]
+- “Up to” is not established as an average across both avenues; count sites and comparison periods are missing.
+  The result cannot separate new cycling from route switching or isolate the bicycle lanes' effect.
+
+## Details
+
+The corridor project combined protected green bicycle lanes, offset bus lanes, pedestrian refuges, separated
+left-turn lanes and dedicated signal phases.[^nyc2012]
 
 The same panel reports 18% higher bus speeds, 12% higher bus ridership, 37% fewer injury crashes and 47% fewer
 commercial vacancies (versus 2% more borough-wide). These are accompanying project outcomes, not independent

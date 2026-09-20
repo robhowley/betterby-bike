@@ -11,10 +11,17 @@ sources:
 
 # Davis bicycle customers had higher estimated monthly spending on Target-type downtown goods
 
+## In brief
+
+- CityLab reports estimated monthly spending of roughly $250 for bicycle customers versus $180 for drivers on
+  Target-type downtown goods in Davis, excluding food and services.[^citylab2015]
+- Monthly totals were extrapolated from spending and visit frequency, not tracked purchases or a measured bike-lane effect.
+
+## Evidence and limits
+
 CityLab's 2015 roundup reports Natalie Popovich and Susan Handy's analysis of **nearly 1,900 shopping trips to
 downtown Davis after a new Target store opened**. Bicycle customers reportedly made slightly more trips and spent
-more per trip than drivers, yielding estimated monthly spending of **roughly $250 versus $180**, respectively.
-The comparison covers goods available at Target, not food or services.[^citylab2015]
+more per trip than drivers.[^citylab2015]
 
 The quoted study passage describes extrapolated visit frequencies and per-trip spending, not a month of directly
 tracked purchases. Trip count is not a count of unique shoppers. The article's prose supplies no sampling dates,

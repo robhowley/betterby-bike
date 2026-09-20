@@ -13,16 +13,25 @@ sources:
 
 # Chicago dooring rates rose in sharrow groups but changes were uncertain
 
-In Chicago's 2011–2012 versus 2013–2014 comparison, block groups adding only sharrows in 2012–2013 had a higher
-commuter-weighted dooring injury rate afterward. Groups adding bicycle lanes or no treatments had lower rates.
-None of these within-group changes reached p < 0.05; the authors describe the lane-group decrease as significant at
-90% confidence.[^ferenchak2019]
+## In brief
+
+- Chicago's weighted dooring injury rate rose 215.7% in sharrow-only groups, versus falls of 61.0% with new lanes and
+  22.5% with no new treatment, comparing 2011–2012 with 2013–2014.[^ferenchak2019]
+- Rates count injuries per year per 100 resident bicycle commuters, not per trip. None of the changes met the 5%
+  statistical significance threshold; they do not establish sharrow harm.[^ferenchak2019]
+- Separate models estimated fewer dooring injuries in all three groups. Those count results are a different measure.[^ferenchak2019]
+
+## Reported rates
 
 | Treatment added | Block groups | Before | After | Reported change % | Within-group p |
 | --- | ---: | ---: | ---: | ---: | ---: |
 | None | 1,948 | 1.82 | 1.40 | −22.5% | 0.192 |
 | Sharrows only | 42 | 1.34 | 4.23 | +215.7% | 0.124 |
 | Bicycle lanes only | 149 | 2.00 | 0.78 | −61.0% | 0.053 |
+
+## Measurement and uncertainty
+
+Installations occurred in 2012–2013. The authors describe the lane-group decrease as significant at 90% confidence.[^ferenchak2019]
 
 Rates are weighted police-recorded dooring injuries per year per 100 bicycle commuters, not direct trip risks.
 Percent changes are as published, rather than recalculated from rounded rates. The no-new-treatment group's

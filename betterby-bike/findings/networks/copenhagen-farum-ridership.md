@@ -11,12 +11,21 @@ sources:
 
 # Copenhagen's Farum route had higher cyclist counts after its upgrade
 
-ULI reports **52% growth in cyclists along the Farum route between 2012 and 2014**, spanning its **2013 opening** as
-one of Copenhagen's upgraded cycle superhighways. The **13-mile (21 km)** route linked central Copenhagen with Farum.
-Among route commuters, **21% were reported as new to bike commuting** and **14% said they used the route more often
-after improvements**.[^uli2016]
+## In brief
 
-These are distinct denominators: corridor count growth is not the share of commuters new to cycling, and the survey
+- ULI reports 52% growth in cyclist counts on Copenhagen's Farum route from 2012 to 2014, spanning its 2013 opening
+  as an upgraded cycle superhighway.[^uli2016]
+- Separately, 21% of route commuters were reported as new to bike commuting and 14% said they used the route more
+  often after improvements. These survey shares are not portions of the count increase.[^uli2016]
+- Route switching may explain some growth; new bike commuters were not all established as former drivers. This
+  does not establish net regional mode shift or an isolated upgrade effect.
+
+## Details
+
+The 13-mile (21 km) route linked central Copenhagen with Farum.[^uli2016]
+
+Counts and survey results have distinct denominators: corridor count growth is not the share of commuters new to
+cycling, and the survey
 shares cannot be subtracted from the count change to calculate diversion. ULI does not supply counting dates, baseline
 counts, survey sample sizes, response rates or a control route. New commuters are not all established as former drivers;
 route switching and other changes could contribute to counts.

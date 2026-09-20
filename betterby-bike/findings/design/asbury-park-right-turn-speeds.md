@@ -11,10 +11,19 @@ sources:
 
 # Asbury Park delineated lanes were associated with lower right-turn speeds
 
-Across ten sampled dates in March–April 2022, **2,655 vehicles turning right from Cookman onto Asbury Avenue**
-in Asbury Park, New Jersey, supplied the right-turn models. Relative to no bicycle lane, a temporary striped lane
-with cones and plastic delineators was associated with about **21% lower average speed and 27.6% lower top speed**.
-Paint alone was associated with about **11% and 14.3% reductions**, respectively.[^younes2024]
+## In brief
+
+- For 2,655 right-turning vehicles in Asbury Park's 2022 pilot, delineated lanes were associated with about 21%
+  lower average speeds and 27.6% lower top speeds than no lane.[^younes2024]
+- Paint-only reductions were smaller: about 11% and 14.3%, respectively. Both comparisons are against no lane,
+  not a direct test of delineators against paint.[^younes2024]
+- “Top” means each vehicle's 95th-percentile speed in camera view. The nonrandomized pilot also changed lane
+  width and turning geometry, so it cannot isolate delineators or establish injury reductions.[^younes2024]
+
+## Sampling and adjusted results
+
+Vehicles turned right from Cookman onto Asbury Avenue in Asbury Park, New Jersey, across ten sampled dates in
+March–April 2022. The temporary delineated treatment was a striped lane with cones and plastic delineators.[^younes2024]
 
 | Condition versus no lane | Log average-speed coefficient (SE) | Log top-speed coefficient (SE) |
 | --- | --- | --- |

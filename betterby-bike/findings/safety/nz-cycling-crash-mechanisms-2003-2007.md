@@ -13,9 +13,18 @@ sources:
 
 # Non-collision crashes accounted for two-fifths of New Zealand cycling death and inpatient cases in 2003–07
 
-Among cyclists aged five or older who died or had a first public-hospital injury admission lasting at least one day
-after a crash on New Zealand public roads in 2003–07, non-collision crashes accounted for 40.35% of cases. Cars, pick-up
-trucks and vans accounted for 25.51% of all cases, but 38.49% of serious cases.[^nz2010]
+## In brief
+
+- Among New Zealand road cyclists aged five or older who died or were admitted as inpatients in 2003–07, 40.35%
+  of cases involved no collision.[^nz2010]
+- Cars, pick-up trucks or vans were involved in 25.51% of all cases but 38.49% of serious cases. The latter is not
+  the share for all motor vehicles.[^nz2010]
+- These are shares of recorded cases, not injury probabilities per crash or cycling hour. Unspecified mechanisms
+  and excluded less-severe injuries limit the picture.[^nz2010]
+
+## Case definitions and shares
+
+Cases were deaths or first public-hospital injury admissions lasting at least one day after crashes on public roads.[^nz2010]
 
 | Mechanism                                          | Share of all cases | Share of serious cases |
 | -------------------------------------------------- | ------------------ | ---------------------- |

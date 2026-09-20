@@ -13,10 +13,17 @@ sources:
 
 # Green pavement supplemented required markings under IA-14
 
-FHWA's 15 April 2011 interim approval permitted optional green pavement in marked bicycle lanes and specified lane
-extensions to make them more conspicuous. It did not mandate green pavement or allow it to replace required
-longitudinal lines, words, symbols or arrows. Within lanes, green could cover all or part of the length, or form a
-rectangular background behind markings.[^memo]
+## In brief
+
+- FHWA's April 2011 interim approval allowed optional green pavement in marked bicycle lanes and specified
+  extensions, not as a replacement for required lines, words, symbols or arrows.[^memo]
+- Use required FHWA approval and compliance with conditions, including action on attributable safety concerns.
+  These are historical terms, not verified current requirements or evidence of fewer collisions.[^memo]
+
+## Permitted coverage
+
+The 15 April 2011 approval aimed to make lanes more conspicuous. Within lanes, green could cover all or part of
+the length, or form a rectangular background behind markings; required longitudinal lines remained necessary.[^memo]
 
 For extensions across intersections, driveways, ramps and the beginning of turn bays, green could supplement a pair of
 dotted boundary lines, not replace them. It could cover all or part of the extension or follow the dotted pattern,

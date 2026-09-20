@@ -20,11 +20,20 @@ sources:
 
 # Portland bicycle customers reportedly spent less per trip but more per month
 
-*Protected Bike Lanes Mean Business* reports Portland average spending of **$10.66 per trip for bicycle arrivals
-versus $13.70 for car arrivals**, but **$75.66 per month versus $61.03**, respectively. The report describes bicycle
-customers as visiting more frequently and spending **24% more monthly**. Its reference 12 cites Clifton, Morrissey
-and Ritter's 2012 *Business Cycles: Catering to the Bicycling Market*, alongside separate Toronto and New Zealand
-research said to show similar trends.[^business]
+## In brief
+
+- *Protected Bike Lanes Mean Business* reports Portland bicycle customers spending an average $10.66 per trip versus
+  $13.70 for drivers, but $75.66 versus $61.03 monthly, a reported 24% monthly advantage.[^business]
+- CityLab's related coverage reports higher estimated monthly bicycle spending at bars, restaurants and convenience
+  stores, but higher driver spending at supermarkets.[^citylab2012]
+- Monthly spending was estimated, not tracked. These customer comparisons do not measure lane effects; exact sample and
+  aggregation correspondence between reports remains unverified.
+
+## Evidence and limits
+
+The business report describes bicycle customers as visiting more frequently. Its reference 12 cites Clifton,
+Morrissey and Ritter's 2012 *Business Cycles: Catering to the Bicycling Market*, alongside separate Toronto and
+New Zealand research said to show similar trends.[^business]
 
 CityLab's December 2012 coverage of Clifton's team's OTREC draft adds category-specific context: bicycle customers
 had higher estimated monthly spending than drivers at **bars, restaurants and convenience stores**, but **drivers

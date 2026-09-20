@@ -11,11 +11,17 @@ sources:
 
 # Iowa emergency responders reported mixed road-diet experiences
 
-A retrospective survey of emergency responders around **14 Iowa 4-to-3 lane conversions in ten cities** found mixed
-experiences. The road conversions occurred between 2015 and spring 2020. Among **163 response-time answers**,
-**51%** perceived times as unchanged, **33%** slower and **16%** faster. These are recollections, not timed trips.
-The study analyzed
-**167 eligible responses from 239 submissions**; the abstract's 170 conflicts with the main results.[^corcoran2024]
+## In brief
+
+- Around 14 Iowa 4-to-3 lane conversions in ten cities, 51% of 163 response-time answers recalled unchanged
+  times, 33% slower and 16% faster.[^corcoran2024]
+- Responders described both blocked center lanes and easier passage through added space. These voluntary,
+  retrospective accounts are not timed trips or measured frequencies of obstruction.[^corcoran2024]
+
+## Survey basis
+
+Conversions occurred between 2015 and spring 2020. The emergency-responder survey analyzed **167 eligible responses
+from 239 submissions**; the abstract's 170 conflicts with the main results.[^corcoran2024]
 
 ## Different questions measure different experiences
 

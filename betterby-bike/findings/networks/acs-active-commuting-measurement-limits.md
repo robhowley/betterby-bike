@@ -11,15 +11,29 @@ sources:
 
 # ACS main-mode commuting shares do not measure all walking or cycling
 
-In its May 2014 coverage of Census walking and cycling results, Streetsblog explains that the American Community
-Survey asks how workers **usually got to work in the previous week**. If multiple modes were used, only the mode
-covering the **greatest distance** is recorded. A shorter bicycle or walking leg to a train therefore disappears
-from the reported active-commuting share.[^streetsblog2014]
+## In brief
+
+- The ACS commute shares described by Streetsblog exclude non-work travel and count only the mode covering the
+  greatest distance, omitting shorter walking or cycling legs.[^streetsblog2014]
+- The related [household-income](/findings/access/us-household-income-active-commuting.md) and
+  [vehicle-availability](/findings/access/us-vehicle-availability-active-commuting.md) results describe usual
+  commuting, not all active travel or adequate transport choices.
+- City and metropolitan shares describe different populations, not change over time. Streetsblog reports bicycle
+  commuting at 4.1% in Minneapolis city versus 0.9% in its metropolitan area; the Census report was not separately
+  reviewed.[^streetsblog2014]
+
+## Survey scope
+
+In its May 2014 coverage, Streetsblog explains that the American Community Survey asks how workers usually got
+to work in the previous week. A shorter bicycle or walking leg to a train disappears from the reported
+active-commuting share when another mode covers the greatest distance.[^streetsblog2014]
 
 The measure also excludes non-work purposes. The article says work journeys account for **less than 20% of all
 trips**, while noting their importance to peak-hour policy. That contextual proportion is not a correction factor
 for estimating total active travel from commute shares. The article supplies no estimate of the omitted walking
 or cycling trips.[^streetsblog2014]
+
+## Geographic comparisons
 
 Geographic boundaries also matter. Quoting Census report author Brian McKenzie, the article reports **4.1% bicycle
 commuting in Minneapolis city versus 0.9% in the Minneapolis–St. Paul–Bloomington metropolitan area**, and **12.1%

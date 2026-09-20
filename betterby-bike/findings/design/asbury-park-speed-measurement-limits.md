@@ -11,9 +11,19 @@ sources:
 
 # Asbury Park speed measures and vehicle totals need qualification
 
-Younes et al.'s March–April 2022 Asbury Park pilot estimates **each vehicle's mean and 95th-percentile speed across
-its observed trajectory**. Calling the second measure “maximum” or “top” speed does not make it an absolute maximum,
-a percentile across drivers, an impact speed or a whole-trip travel-time measure.[^younes2024]
+## In brief
+
+- Asbury Park's 2022 pilot measured speeds within camera view. “Top speed” means each vehicle's 95th percentile,
+  not the fastest driver, impact speed or whole-trip travel time.[^younes2024]
+- Vehicle totals conflict. Use the separate movement-model sample sizes rather than choosing one overall total.[^younes2024]
+- The [right-turn](asbury-park-right-turn-speeds.md) and [directional](asbury-park-directional-speed-comparisons.md)
+  results cannot establish crash reductions or permanent-lane effects: the short pilot also changed lane width and
+  turning geometry.[^younes2024]
+
+## Speed measurement
+
+Younes et al.'s March–April 2022 pilot estimated each vehicle's mean and 95th-percentile speed across its observed
+trajectory. The latter, called “maximum” or “top,” is neither an absolute maximum nor a percentile across drivers.[^younes2024]
 
 Video at 12 frames/second was mapped to LiDAR-calibrated 3D trajectories; frame-to-frame distances produced speeds,
 smoothed with a Gaussian filter. The algorithm classified a vehicle as stopping/restarting if speed was below

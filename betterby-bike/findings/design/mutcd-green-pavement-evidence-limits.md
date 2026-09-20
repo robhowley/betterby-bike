@@ -13,6 +13,15 @@ sources:
 
 # FHWA's favorable assessment did not quantify injury effects
 
+## In brief
+
+- FHWA's 2011 green-pavement memo reports favorable positioning and user impressions, but no study-level
+  effect sizes or crash/injury rates. It cannot quantify an injury benefit.[^memo]
+- No reported notable operational harm is not proof of no harm. The memo also cannot independently confirm
+  [NYC's driver-behavior results](nyc-green-paint-driver-behavior.md): it does not identify which studies support each conclusion.[^memo]
+
+## What FHWA reported
+
 In its 15 April 2011 IA-14 memorandum, FHWA said its review of available experimental green-pavement data found the
 tested bicycle applications satisfactorily successful. It reported more accurate cyclist positioning across
 intersections and conflict areas and no notable negative operational effects observed in the experiments. Cyclists

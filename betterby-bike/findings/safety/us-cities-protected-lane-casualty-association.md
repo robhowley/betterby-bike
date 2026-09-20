@@ -11,11 +11,20 @@ sources:
 
 # Streetsblog reports lower all-user casualties in cities with separated bike lanes
 
-Aaron Short's May 29, 2019 Streetsblog article reports that a study of **12 large U.S. cities**, analyzing
-**17,000 fatalities and 77,000 severe injuries in 2000–2012**, estimated **44% fewer deaths and 50% fewer serious
-injuries** with protected/separated bicycle facilities than in an **“average city.”** The reported association
-concerns **all road users**, not a cyclist-only risk per trip or kilometre. New York was excluded, according to
-interviewed co-author Wesley Marshall.[^short2019]
+## In brief
+
+- Streetsblog reported that a 12-city U.S. study (2000–2012) associated separated bicycle facilities with 44% fewer
+  deaths and 50% fewer serious injuries among all road users than an undefined “average city.”[^short2019]
+- This is secondary reporting, not a reviewed primary analysis. Missing denominators, adjustments and uncertainty
+  prevent treating the percentages as proven installation effects.[^short2019]
+- Painted lanes reportedly showed no improvement, but no estimate or precision was supplied. Gentrification-related
+  disparities also leave equal benefits across groups unestablished.[^short2019]
+
+## Reporting basis
+
+Aaron Short's May 29, 2019 Streetsblog article describes 12 large U.S. cities, analyzing 17,000 fatalities and
+77,000 severe injuries in 2000–2012. The association is not cyclist-only risk per trip or kilometre. New York was
+excluded, according to interviewed co-author Wesley Marshall.[^short2019]
 
 The article contrasts this favorable association with a reported **lack of road-safety improvement for painted lanes**.
 It says infrastructure, rather than simply more cyclists, explained the favorable results, but does not provide

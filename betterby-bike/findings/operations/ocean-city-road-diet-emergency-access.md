@@ -11,10 +11,19 @@ sources:
 
 # Ocean City responders reported easier emergency passage after a road diet
 
-FHWA reports that emergency responders on **West Avenue in Ocean City, New Jersey**, found passage easier after a
-four-lane road with parallel parking was converted to **one travel lane each way and a center two-way left-turn lane**.
-The road was a main emergency thoroughfare with heavy bicycle and pedestrian use in a tourist community whose peak-season
-population approached 150,000. The fact sheet gives no installation or observation dates.[^fhwa]
+## In brief
+
+- FHWA reports easier emergency passage on Ocean City's West Avenue after four lanes became one each way plus
+  a center turn lane. Drivers could pull into shoulder space while responders used the center lane.[^fhwa]
+- This is a responder account, not a measured response-time or safety improvement. No timed trips or comparison
+  road are supplied; access depends on usable center-lane and shoulder space.[^fhwa]
+
+## Case details and responder account
+
+West Avenue in Ocean City, New Jersey, had four lanes with parallel parking before conversion to one travel lane
+each way and a center two-way left-turn lane. It was a main emergency thoroughfare with heavy bicycle and pedestrian
+use in a tourist community whose peak-season population approached 150,000. The fact sheet gives no installation or
+observation dates.[^fhwa]
 
 According to the case account, drivers could pull into the extra shoulder width and emergency vehicles could use the
 center lane, reducing the need to predict driver behavior or wait for a through lane to clear. Police Traffic Sergeant

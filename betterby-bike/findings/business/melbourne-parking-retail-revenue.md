@@ -14,8 +14,18 @@ sources:
 
 # Melbourne bicycle parking reportedly supported more retail revenue per space and time
 
-*Protected Bike Lanes Mean Business* reports **69 cents in retail revenue per hour per square foot of bicycle
-parking**, compared with **19 cents for on-street car parking**, labeling the result Melbourne, Australia, 2008.
+## In brief
+
+- *Protected Bike Lanes Mean Business* reports Melbourne retail revenue of 69 cents per hour per square foot of bicycle
+  parking versus 19 cents for on-street car parking.[^business]
+- These values follow the report's prose, not its inconsistent graphic notation. Currency, occupancy assumptions and the
+  original unit conversion remain unresolved.
+- This is spending associated with parking space, not parking fees or measured gains from converting spaces. CityLab's
+  related calculation also estimates capacity, not an observed conversion return.[^citylab2015]
+
+## Evidence and limits
+
+The business report labels the result Melbourne, Australia, 2008.
 It cites Allison Lee's 2008 University of Melbourne master's thesis, *What is the Economic Contribution of Cyclists
 Compared to Car Drivers in Inner Suburban Melbourne's Shopping Strips?* The accompanying prose describes a full
 bicycle corral as about four times as lucrative per unit of space and time as full car parking.[^business]

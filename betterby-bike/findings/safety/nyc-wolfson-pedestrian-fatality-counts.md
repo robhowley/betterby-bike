@@ -13,9 +13,16 @@ sources:
 
 # NYC's 2011 memo reported four then three pedestrian deaths in bike collisions
 
-The NYC mayor's office reported four pedestrians killed in bike–pedestrian accidents during 2001–05 and three during
-2006–10 in Howard Wolfson's 21 March 2011 bike-lane memo. It pairs these counts with a statement that city cycling
-doubled.[^wolfson2011]
+## In brief
+
+- A 2011 NYC mayoral memo reported four pedestrian deaths in bike–pedestrian collisions in 2001–05 and three in
+  2006–10, citywide totals for two five-year periods.[^wolfson2011]
+- The one-death difference does not establish lower pedestrian risk or a bike-lane effect. Comparable exposure,
+  case-identification methods and nonfatal injury counts were not supplied.[^wolfson2011]
+
+## Reporting basis and limits
+
+Howard Wolfson's 21 March 2011 bike-lane memo pairs the counts with a statement that city cycling doubled.[^wolfson2011]
 
 These are reported citywide fatality totals for two five-year periods, not bike-lane-specific results. The memo provides
 no crash-data source, case-identification method, pedestrian exposure, cycling exposure series or nonfatal injury

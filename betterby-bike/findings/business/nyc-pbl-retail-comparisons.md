@@ -11,8 +11,19 @@ sources:
 
 # Ninth and Columbus Avenue retail sales grew faster than named comparison corridors
 
-NYCDOT's September 2014 presentation reproduces **combined retail-sales growth before versus two years after
-construction**, attributed to its December 2013 *The Economic Benefits of Sustainable Streets* report:[^nyc2014]
+## In brief
+
+- NYCDOT's 2014 presentation reports sales growth from before construction to two years after: 47% on a Ninth Avenue
+  segment, versus 43% on Tenth and 23% on Seventh.[^nyc2014]
+- A Columbus Avenue segment grew 20%, versus 12% on Amsterdam and 9% on another Columbus segment; exact boundaries
+  appear below.[^nyc2014]
+- These repeat a 2013 analysis, not a new study; missing comparison methods and other local changes prevent isolating
+  protected-lane effects.
+
+## Evidence and limits
+
+NYCDOT's September 2014 presentation attributes these combined retail-sales comparisons to its December 2013
+*The Economic Benefits of Sustainable Streets* report:[^nyc2014]
 
 | Project corridor | Project sales growth | Comparison site 1 | Comparison site 2 |
 | --- | ---: | --- | --- |

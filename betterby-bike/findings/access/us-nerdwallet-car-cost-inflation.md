@@ -11,10 +11,18 @@ sources:
 
 # NerdWallet reported 38% car-cost inflation since April 2019
 
-NerdWallet's June 14, 2024 article reports that its Vehicle Ownership Costs Index showed **11% annual inflation in
-May** and **38% cumulative growth since April 2019**. The prose says annual growth was double-digit in every month
-from April 2021 through November 2022, then slowed overall. Its listed costs include gas, repairs and maintenance,
-parking, insurance and licensing.[^nerdwallet2024]
+## In brief
+
+- NerdWallet's June 14, 2024 article reports 38% growth since April 2019 in its U.S. vehicle-cost index and 11%
+  annual inflation in May. These are different comparisons, not two annual rates.[^nerdwallet2024]
+- The prose does not specify May's year or a separate endpoint for the 38% increase. These are historical price
+  changes, not a household dollar budget or measured cycling savings.[^nerdwallet2024]
+
+## Details
+
+The article calls its measure the Vehicle Ownership Costs Index. The prose says annual growth was double-digit in
+every month from April 2021 through November 2022, then slowed overall. Its listed costs include gas, repairs and
+maintenance, parking, insurance and licensing.[^nerdwallet2024]
 
 The index uses U.S. Bureau of Labor Statistics CPI pricing and Consumer Expenditure Survey data. The chart caption
 labels values as 12-month changes; the 38% figure instead describes cumulative change from April 2019. The prose

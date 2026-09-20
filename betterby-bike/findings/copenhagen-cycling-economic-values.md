@@ -14,9 +14,16 @@ sources:
 
 # Copenhagen cycling economic values were reported as 4.80 or 10.09 kroner per kilometre
 
-In June 2018, *The Copenhagen Post* attributed to finance-ministry figures an economic gain of **4.80 Danish kroner
-for each kilometre cycled in Copenhagen**, rising to **10.09 kroner per kilometre if the ride replaces an equivalent
-car journey**. These are alternative reported values under different travel assumptions, not amounts to add together.[^gadd2018]
+## In brief
+
+- The Copenhagen Post's June 2018 account attributes to finance-ministry figures an economic gain of 4.80 Danish
+  kroner per kilometre cycled in Copenhagen, or 10.09 kroner if it replaces an equivalent car journey.[^gadd2018]
+- These are alternative values, not amounts to add or measured cash savings. WEF repeats the figures, not an
+  independent valuation study.[^fleming2018][^gadd2018]
+- The methods and baseline for the lower value are unspecified. Neither figure measures the return from a
+  particular cycle path.[^gadd2018]
+
+## Valuation scenario
 
 WEF's October 2018 account repeats these values and multiplies them by 1.4 million daily bicycle kilometres to
 report a potential **US$1.05m–2.17m daily benefit**. That is a valuation scenario, not observed savings; its upper

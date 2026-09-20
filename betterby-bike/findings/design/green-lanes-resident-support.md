@@ -12,10 +12,18 @@ sources:
 
 # Most surveyed Green Lane neighbors supported more protected lanes
 
-Among nearby residents responding to a 2013 survey in Austin, Chicago, Portland, San Francisco and Washington, D.C.,
-75% supported building more protected lanes elsewhere and 21% disagreed. Support included 69% of primary car/truck
-commuters. Overall, 91% supported separating bikes from cars, a broader proposition than a specific lane design.
-Table 9-2 reports a total n=2,277, including 920 car/truck commuters.[^monsere2014]
+## In brief
+
+- In a 2013 five-city survey, 75% of nearby residents supported more protected lanes and 21% disagreed
+  (2,277 responses). Support included 69% of 920 primary car/truck commuters.[^monsere2014]
+- Overall, 62% said a barrier separating them from traffic would make them more likely to ride. This is stated
+  willingness, not observed new cycling.[^monsere2014]
+- Only 23% of deliverable surveys received responses. Selected-neighborhood results do not represent citywide opinion.[^monsere2014]
+
+## Support and neighborhood perceptions
+
+The survey covered Austin, Chicago, Portland, San Francisco and Washington, D.C. Table 9-2 supplies the support
+sample above. Overall, 91% supported separating bikes from cars, a broader proposition than a specific lane design.[^monsere2014]
 
 Support varied: 64% of Chicago respondents supported more protected lanes, versus 76–80% in the other cities.
 Neighborhood desirability reportedly increased for 43% and decreased for 14%; remaining responses were no change

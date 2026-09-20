@@ -11,9 +11,17 @@ sources:
 
 # Copenhagen cycling shares differed by trip purpose and population in WEF's 2018 account
 
-Fleming's October 2018 article reports bicycle shares of **29% of all journeys across Copenhagen**, **41% of
-commutes to work or study**, and **62% for people both living and working or studying in Copenhagen**. These
-figures describe different trip purposes and populations, not three estimates of the same rate.[^fleming2018]
+## In brief
+
+- WEF's October 2018 account reports cycling for 29% of all journeys across Copenhagen and 41% of work or study
+  commutes.[^fleming2018]
+- It reports 62% for people both living and working or studying in Copenhagen. These shares concern different
+  trip purposes and populations, not competing estimates of one rate.[^fleming2018]
+- Observation dates and methods are unspecified. These shares cannot establish a trend against the
+  [separately reported 43% work-cycling share for 2017](copenhagen-2017-cycle-commute-share.md), whose denominator
+  is less explicit.
+
+## Details
 
 The same passage reports **1.4 million km cycled daily in 2016**, up **22% since 2006**. It does not explicitly
 date the three shares or supply survey methods, geographic boundaries, mode-assignment rules or uncertainty.

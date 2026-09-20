@@ -11,10 +11,17 @@ sources:
 
 # Woodbury's police account reports unchanged emergency response times after a road diet
 
-In FHWA's case study of a **mile-long road diet on South Broad Street in Woodbury, New Jersey**, retired Police Chief
-Reed Merinuk states: “The Road Diet did not affect emergency vehicle response times. Responders feel it is now easier
-and safer to reach their destination.” This preserves a reported **null time change** alongside perceived operational
-improvement, rather than interpreting both as faster response.[^fhwa]
+## In brief
+
+- In FHWA's account of Woodbury, New Jersey's mile-long South Broad Street road diet, a retired police chief
+  reported unchanged emergency response times but easier, safer passage.[^fhwa]
+- No timed trips or before/after values are supplied. This is not evidence of faster responses or statistical
+  proof of no delay, and it does not establish protected-bike-lane effects.[^fhwa]
+
+## Case details and responder account
+
+Retired Police Chief Reed Merinuk states: “The Road Diet did not affect emergency vehicle response times.
+Responders feel it is now easier and safer to reach their destination.”[^fhwa]
 
 The street had been a two-way, four-lane road with speeding, turning, parking and pedestrian-crossing concerns. Police
 initially opposed the road diet over response-time concerns. FHWA reports that after installation emergency vehicles

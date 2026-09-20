@@ -11,10 +11,21 @@ sources:
 
 # San Francisco median sales fell in both bicycle-treatment groups and comparison shops
 
+## In brief
+
+- Business Insider reports median sales declines in the year after installation of $27,921 on San Francisco painted-lane
+  streets and $19,390 on signed shared streets, versus $25,296 among similar shops without a bike lane.[^rogers2024]
+- Some sectors gained despite negative medians. These are not adjusted lane effects; the comparison group's time
+  alignment is unclear.[^rogers2024]
+- Neither treatment was a physically protected lane. The primary study was not reviewed and uncertainty estimates were
+  not supplied.
+
+## Evidence and limits
+
 Business Insider's account of a [2019 San Francisco study involving Joseph Poirier](https://doi.org/10.1177/0361198119850465)
 compares businesses directly adjacent to Class II painted bicycle lanes and Class III signed shared streets.
-Blocks receiving infrastructure reportedly lost an average of three parking spaces. In the year after installation,
-the article reports these median sales losses:[^rogers2024]
+Blocks receiving infrastructure reportedly lost an average of three parking spaces. The article reports the
+following median sales losses in the year after installation:[^rogers2024]
 
 | Business group | Reported median sales decline |
 | --- | ---: |

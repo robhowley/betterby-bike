@@ -11,6 +11,14 @@ sources:
 
 # Selected employers described bicycle access as a recruitment and location consideration
 
+## In brief
+
+- Selected urban employers described bicycle access as a recruitment or location consideration in *Protected Bike Lanes
+  Mean Business* interviews.[^business]
+- These accounts do not show better hiring or retention: the interviews had no comparison group or supplied sampling frame.
+
+## Evidence and limits
+
 In *Protected Bike Lanes Mean Business*, Portland advertising agency Pollinate's Ben Waldron describes bicycle
 access as a recruiting asset. He estimates **20 of 30 employees regularly biked to work**, reports negotiating
 bicycle access into the lease, and plans lockers and showers for a future location. Austin's Mutual Mobile
@@ -19,8 +27,7 @@ co-founder Ed Ireson says a suburban move would disrupt bicycle, bus and walking
 
 Chicago's Signal founder Jeff Judge describes researching Boston's bicycle network when considering relocation.
 Austin's Capital Factory co-founder Fred Schmidt describes seeking central, transit-oriented, walkable and bikeable
-locations. These historical interview accounts identify considerations in employer decisions; they do not measure
-changes in hiring success, retention, wages or productivity caused by protected lanes.[^business]
+locations.[^business] These accounts do not measure changes in wages or productivity caused by protected lanes.
 
 The report's broader set of 15 business interviews across five cities has no supplied sampling frame or comparison
 group. Individual commuting estimates are not representative workforce statistics. Downtown amenities, transit,

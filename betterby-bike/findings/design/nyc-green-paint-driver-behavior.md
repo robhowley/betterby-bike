@@ -13,9 +13,17 @@ sources:
 
 # NYC green lanes had less reported motorist encroachment, but not less standing
 
-NYCDOT's September 2010 observations, conducted from 4–6 pm on Manhattan and Brooklyn streets, reported lower motorist
-encroachment on solid-green curbside bicycle lanes than on unpainted lanes. Neither group had physical protection; two
-of three controls were not curbside.[^nyc2011]
+## In brief
+
+- NYCDOT's September 2010 Manhattan/Brooklyn observations reported less driving on green lanes than unpainted
+  lanes: 7% versus 16% on the boundary line, and 4% versus 7% inside the lane.[^nyc2011]
+- Standing in the lane was 1% in both groups, and site-level results were mixed.[^nyc2011]
+- [Counting discrepancies](nyc-green-paint-measurement-limits.md) remain unresolved. Neither group had physical
+  protection; different street layouts prevent isolating paint's effect, and injuries were not measured.[^nyc2011]
+
+## Comparison and reported aggregates
+
+Observations ran from 4–6 pm. Green lanes were curbside; two of three unpainted controls were not.[^nyc2011]
 
 | Reported aggregate measure                          | Green | Unpainted |
 | --------------------------------------------------- | ----- | --------- |

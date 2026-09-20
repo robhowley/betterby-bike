@@ -11,14 +11,18 @@ sources:
 
 # Lower-income U.S. households had the highest walking and bicycle commute rates in 2008–2012
 
-In Streetsblog's coverage of U.S. Census ACS results, **1.5% of workers in households with annual income below
-$10,000 commuted by bicycle and 8.2% walked**. These are commute-mode shares within the income group, not that
-group's share of all cyclists or pedestrians. The reproduced Census Figure 11 identifies **household income** and
-**2008–2012**, despite the article's looser wording about what individuals make.[^streetsblog2014]
+## In brief
 
-The article describes rates in the $25,000–$34,999 group as roughly half those in the lowest-income group. Rates
-fall through much of the income range but turn upward at the highest incomes, so this is not a uniformly decreasing
-relationship. No exact intermediate values are inferred from the chart's unlabeled bars.[^streetsblog2014]
+- In 2008–2012 U.S. Census results reported by Streetsblog, workers in households earning below $10,000 annually
+  had the highest cycling (1.5%) and walking (8.2%) commute rates.[^streetsblog2014]
+- These are shares within the income group, not its share of all cyclists or walkers. Rates in the $25,000–$34,999
+  group were roughly half as high, but rose again at the highest incomes.[^streetsblog2014]
+- These associations do not establish an income effect or workers' preferred travel choices.
+
+## Details
+
+The reproduced Census Figure 11 measures household income, despite the article's looser wording about what
+individuals make. No exact intermediate values are inferred from the chart's unlabeled bars.[^streetsblog2014]
 
 These historical, unadjusted associations do not establish that income causes mode choice, that workers prefer
 walking or cycling over unavailable alternatives, or how infrastructure benefits would be distributed. The article

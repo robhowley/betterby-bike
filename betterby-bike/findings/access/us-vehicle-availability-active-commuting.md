@@ -11,9 +11,16 @@ sources:
 
 # U.S. workers without an available vehicle walked and biked to work at higher rates
 
-Streetsblog's account of U.S. Census ACS results reports that workers with **no available vehicle** walked to work
-at **four times** and bicycled at **three-and-a-half times** the rates of workers with **one available vehicle**.
-The reproduced Census Figure 13 identifies **2008–2012** data. Reported commute rates declined as vehicle
+## In brief
+
+- In 2008–2012 U.S. Census results reported by Streetsblog, workers with no available vehicle walked to work at
+  four times, and cycled at 3.5 times, the rates of workers with one available vehicle.[^streetsblog2014]
+- These are shares of workers, not trip counts or individual car ownership. The association does not show that
+  removing a vehicle causes active commuting or that workers have adequate transport choices.
+
+## Details
+
+The reproduced Census Figure 13 identifies 2008–2012 data. Reported commute rates declined as vehicle
 availability increased across the chart's zero, one, two and three-or-more categories.[^streetsblog2014]
 
 These ratios compare the percentages of workers using each commute mode, not their trip frequency, distance or

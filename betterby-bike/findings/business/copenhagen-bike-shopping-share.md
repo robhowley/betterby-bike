@@ -11,9 +11,17 @@ sources:
 
 # Bicycle arrivals accounted for a reported 32% of Copenhagen high-street and supermarket spending
 
-In its Copenhagen account, WEF's October 2018 article cites the Cycling Embassy of Denmark when reporting that
-**32% of all high-street and supermarket spending** comes from people who travelled to shops by bicycle.
-It says this effect is stronger in local shopping areas with cycle-friendly infrastructure, but gives no
+## In brief
+
+- WEF's 2018 article reports that bicycle arrivals accounted for 32% of all Copenhagen high-street and supermarket
+  spending, citing the Cycling Embassy of Denmark.[^fleming2018]
+- This is a spending share, not extra sales caused by cycling infrastructure; the article gives no observation year,
+  sampling method or uncertainty.
+
+## Evidence and limits
+
+WEF's October 2018 article says this effect is stronger in local shopping areas with cycle-friendly infrastructure, but
+gives no
 separate estimate or comparison supporting that claim.[^fleming2018]
 
 The article does not supply the observation year, sampling frame, exact geographic coverage, spending-record

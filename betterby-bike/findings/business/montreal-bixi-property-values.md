@@ -11,10 +11,18 @@ sources:
 
 # Montreal repeat-sales study linked nearby Bixi stations with higher multifamily values
 
-ULI summarizes a McGill University study of Montreal housing units **sold multiple times between 1996 and 2012**.
-The reported association was **CA$709 per additional Bixi station within a half-mile (800 m)** of a unit. ULI reports
-**2.7% higher multifamily housing-unit values** for neighborhoods with 12 nearby stations. It gives a mean of **12.2
-stations** in the coverage area and an associated **CA$8,650** value difference.[^uli2016]
+## In brief
+
+- ULI reports CA$709 higher Montreal housing-unit value per additional Bixi station within about 800 metres, using
+  repeat sales from 1996–2012.[^uli2016]
+- The same study reported 2.7% higher multifamily-unit values in neighborhoods with 12 nearby stations, not an
+  independent confirmation.[^uli2016]
+- ULI omits model details and uncertainty; this association does not establish that adding stations causes those gains.
+
+## Evidence and limits
+
+ULI summarizes a McGill University study of housing units sold multiple times. It gives a mean of **12.2 stations**
+in the coverage area and an associated **CA$8,650** value difference.[^uli2016]
 
 These are Canadian dollars, not U.S. dollars. The mean-station calculation and percentage summarize the same study,
 not independent confirmations. ULI describes the distance as a half-mile “area” without reproducing the spatial method.

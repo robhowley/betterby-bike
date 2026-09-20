@@ -11,8 +11,15 @@ sources:
 
 # Copenhagen cyclists' reported sense of safety rose from 53% to 76%
 
-WEF's 2018 article reports an increase in Copenhagen cyclists' **sense of safety from 53% in 2006 to 76% in
-2016**. The city council wanted this to reach **90% by 2025**, a future target at publication, not an observed
+## In brief
+
+- WEF's 2018 article reported that Copenhagen cyclists' sense of safety rose from 53% in 2006 to 76% in 2016.[^fleming2018]
+- Survey methods and comparability are unknown. These reported perceptions do not establish fewer injuries or
+  an isolated infrastructure effect.[^fleming2018]
+
+## Target and interpretation limits
+
+The city council wanted perceived safety to reach **90% by 2025**, a future target at publication, not an observed
 outcome.[^fleming2018]
 
 The article provides no sample, question wording, response categories or uncertainty. It does not show whether

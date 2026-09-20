@@ -12,9 +12,19 @@ sources:
 
 # Green Lane neighbors reported mixed driving and walking experiences
 
-The five-city Green Lane evaluation asked nearby residents in 2013 about driving and walking on recently redesigned
-streets. These are recalled experiences and attributed changes, **not timed journeys, parking-occupancy measurements
-or pedestrian-injury estimates**.[^monsere2014]
+## In brief
+
+- In the 2013 five-city Green Lane resident survey, 59% of driving responses reported unchanged travel times,
+  31% longer and 10% shorter; 44% reported worse parking availability.[^monsere2014]
+- Walking satisfaction increased in 36% of responses and decreased in 15%. Crossing safety perceptions worsened
+  more often than they improved near Chicago's Dearborn and Milwaukee lanes.[^monsere2014]
+- These are recalled experiences, not measured delays or injuries. Questions depended on route use and applicability;
+  some residents answered for multiple streets, so percentages have no single unique-person denominator.[^monsere2014]
+
+## Survey basis
+
+Nearby residents described experiences and attributed changes on recently redesigned streets. The survey did not
+measure parking occupancy.[^monsere2014]
 
 ## Driving and parking
 

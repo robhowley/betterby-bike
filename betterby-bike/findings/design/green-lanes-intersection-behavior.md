@@ -12,9 +12,19 @@ sources:
 
 # Green Lane intersection designs differed in observed positioning and compliance
 
+## In brief
+
+- In 2013, intended lane use at D.C.'s L Street sites was 87% for turning drivers and 91% for through cyclists.
+  At Portland's Multnomah/9th, only 63% of cyclists used the intended space when a car was present.[^monsere2014]
+- Separate signals did not eliminate violations at Chicago's Dearborn sites. Bicycle compliance was 77–93% and
+  driver left-turn compliance 84–92%, but different denominators prevent a fair driver-versus-cyclist ranking.[^monsere2014]
+- These site comparisons cannot isolate design effects or establish injury reductions.[^monsere2014]
+
+## Designs compared
+
 Monsere et al.'s 2013 video and survey evaluation distinguished **mixing zones**, where bicycles and turning vehicles
 share space, from **turning zones**, where vehicles cross into a turn lane beside a marked through bicycle lane, and
-intersections with separate bicycle/turn signal phases. Observed behavior varied substantially by design and site.[^monsere2014]
+intersections with separate bicycle/turn signal phases.[^monsere2014]
 
 ## Positioning did not always match stated understanding
 

@@ -11,9 +11,12 @@ sources:
 
 # Boston South Huntington fall bicycle counts
 
-On South Huntington Avenue in Jamaica Plain, where Boston added bike lanes in 2023, the Globe reports average
-daily fall bicycle counts rising from **228 in 2022 to 301 in 2023**. This remained below the location's reported
-record high of **369 in 2017**. The recent increase should not be presented as unprecedented local use.[^dolven2024]
+## In brief
+
+- The Boston Globe reports that South Huntington Avenue in Jamaica Plain averaged 301 bicycles per day in fall
+  2023, up from 228 in 2022 but below its reported high of 369 in 2017.[^dolven2024]
+- Boston added bike lanes there in 2023, but these short fall counts do not establish a causal lane effect or
+  new cycling. They are not annual daily averages.[^dolven2024]
 
 ## Interpretation and limits
 

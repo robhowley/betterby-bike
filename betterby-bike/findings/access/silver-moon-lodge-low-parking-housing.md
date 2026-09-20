@@ -11,9 +11,18 @@ sources:
 
 # Silver Moon Lodge reported high occupancy with few car spaces and bicycle amenities
 
-ULI's 2016 profile describes **Silver Moon Lodge**, an Albuquerque development opened in **November 2014**, with
-**154 studio and one-bedroom workforce housing units** and **23 on-site car spaces**. Its property manager reported
-**over 95% occupancy** and said parking had not been an issue because many residents relied on bicycles.[^uli2016]
+## In brief
+
+- ULI's 2016 profile reports over 95% occupancy at Albuquerque's Silver Moon Lodge, an income-restricted development
+  with 154 apartments and 23 on-site car spaces.[^uli2016]
+- Its manager said parking had not been an issue because many residents relied on bicycles. This is an account,
+  not a parking-use or household-cost study.[^uli2016]
+- Bicycle amenities were part of a tax-credit-funded project; the profile does not show that they made rents
+  affordable or reduced residents' costs.
+
+## Details
+
+Silver Moon Lodge opened in November 2014 with studio and one-bedroom workforce housing units.[^uli2016]
 
 The project used New Mexico Mortgage Finance Authority tax credits. At reporting, eligible annual incomes were capped
 at **$26,460 for one person** or **$30,240 for two**, and listed monthly apartment rents were **$661–$708**. Bicycle

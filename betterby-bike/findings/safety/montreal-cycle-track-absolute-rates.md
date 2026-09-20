@@ -13,10 +13,18 @@ sources:
 
 # Montreal cycle-track injury and crash rates relied on estimated cycling distance
 
-Six Montreal two-way cycle tracks had pooled rates of 8.5 emergency-medical-response-recorded injuries and 10.5
-police-recorded bicycle–motor vehicle crashes per million estimated bicycle-kilometres. Injury records covered cycling
-seasons from April 1999 to July 2008; crash records covered the 2002–06 seasons. The measures overlap, cover different
-periods and must not be added or interpreted as a crash-to-injury conversion ratio.[^lusk2011]
+## In brief
+
+- Six Montreal two-way cycle tracks had 8.5 emergency-response-recorded injuries and 10.5 police-recorded
+  bicycle–motor-vehicle crashes per million estimated bicycle-kilometres.[^lusk2011]
+- Injuries cover 1999–July 2008 cycling seasons; crashes cover 2002–06. These overlapping measures must not be added
+  or used to estimate how often crashes cause injuries.[^lusk2011]
+- Rates depend on estimated cycling distance, omit unrecorded injuries and provide no injury-severity comparison.[^lusk2011]
+
+## Rates and distance estimates
+
+Emergency medical response injury records covered cycling seasons from April 1999 to July 2008; police crash records
+covered the 2002–06 seasons.[^lusk2011]
 
 | Cycle track       | Injuries per million bicycle-km | Motor-vehicle crashes per million bicycle-km |
 | ----------------- | ------------------------------- | -------------------------------------------- |

@@ -11,9 +11,14 @@ sources:
 
 # Pittsburgh staff reported lane connectivity increasing from 40% to 80%
 
-Urban Institute's February 2022 article reports that Pittsburgh city staff described new cycling infrastructure as
-connecting a previously fragmented network. **40% of lanes had previously been linked with one another**, rising to
-**80% after recent investments**, according to the article's account.[^urban2022]
+## In brief
+
+- Urban Institute's February 2022 article reports Pittsburgh staff's account that the share of lanes linked to
+  one another rose from 40% to 80% after recent investments.[^urban2022]
+- Comparison dates, the definition of a link and whether both shares use the same network denominator are
+  unspecified. This is not a measured doubling in cycling, accessible destinations or safe journeys.
+
+## Details
 
 This is an attributed before/after network description, not a measured doubling in bicycle use, accessible
 destinations or safe journeys. The article does not specify the comparison dates, underlying lane counts or lengths,

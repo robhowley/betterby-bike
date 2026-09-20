@@ -11,9 +11,16 @@ sources:
 
 # Fewer than one-fifth of Los Angeles libraries were near protected cycling infrastructure
 
-Urban Institute's February 2022 article reports that **fewer than one-fifth of Los Angeles libraries** were within
-**a quarter mile of protected cycling infrastructure**. It uses this example to illustrate remaining gaps in
-access to libraries and their community resources.[^urban2022]
+## In brief
+
+- Urban Institute's February 2022 article reports that fewer than one-fifth of Los Angeles libraries were within
+  a quarter mile of protected cycling infrastructure.[^urban2022]
+- This measures library proximity, not residents' access or continuous protected routes. Missing observation dates
+  and distance-calculation methods limit what it shows about usable or equitable access.
+
+## Details
+
+The authors use this example to illustrate remaining gaps in access to libraries and their community resources.[^urban2022]
 
 The denominator is libraries, not residents, cyclists or library trips. The article does not give the number of
 libraries, observation date, infrastructure inventory, distance-calculation method or route-quality assessment.

@@ -11,15 +11,24 @@ sources:
 
 # Broadway merchant responses included support, opposition and reported sales declines
 
-Streetsblog's October 2015 account reports that Salt Lake City's business ombudsman conducted door-to-door surveys
-with managers on 300 South (Broadway) after its combined protected-lane, parking and streetscape redesign. The street
-had **90 retail, restaurant and service storefronts**, and **90% were reached**. The article says responses were
-recorded conservatively to avoid overstating support.[^streetsblog2015]
+## In brief
 
-The reproduced opinion chart shows a majority supportive, with smaller neutral and unsupportive groups. A separate
-chart asks how sales changed since the redesign: its categories are **“up,” “good” and “down.”** Most responses fall
-in “good,” with smaller “up” and “down” groups. “Good” is not defined and must not be recoded as unchanged sales.
-The charts do not print exact segment percentages, so none are inferred here.[^streetsblog2015]
+- Streetsblog reports that most surveyed Broadway managers supported Salt Lake City's combined street redesign, with
+  smaller neutral and unsupportive groups.[^streetsblog2015]
+- Most sales responses were “good,” with smaller “up” and “down” groups. “Good” was undefined, not necessarily unchanged
+  sales; exact chart percentages were not supplied.[^streetsblog2015]
+- Surveyors reached 90% of 90 storefronts, but per-question response counts were missing. These manager reports are not
+  audited revenue or an isolated bike-lane effect.
+
+## Evidence and limits
+
+Streetsblog's October 2015 account reports that Salt Lake City's business ombudsman conducted door-to-door surveys
+with managers on 300 South (Broadway) after its combined protected-lane, parking and streetscape redesign. The
+storefronts covered retail, restaurant and service businesses. The article says responses were recorded
+conservatively to avoid overstating support.[^streetsblog2015]
+
+The article reproduces separate charts for opinions and sales changes since the redesign. No exact segment
+percentages are inferred here.[^streetsblog2015]
 
 The [existing Broadway Finding](salt-lake-broadway-retail-sales.md) retains ULI's numerical support/opposition
 summary of the same municipal case. That later coverage is not another independent survey. Streetsblog identifies

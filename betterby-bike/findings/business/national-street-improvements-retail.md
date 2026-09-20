@@ -11,11 +11,20 @@ sources:
 
 # Six-city street study reported retail gains alongside mixed employment results
 
-The National Street Improvements Study summary classifies retail results on **14 improved corridors in six U.S.
-cities** as **nine positive for sales and/or employment, two with no impact and three mixed**. The study compared
-before/after activity with control corridors using trend analysis, difference-in-differences and interrupted time
-series (ITS); car-oriented businesses were excluded. The 9/14 tally is the authors' case classification, not a pooled
-percentage gain, a count of universally positive metrics or a national probability of success.[^national2020]
+## In brief
+
+- A six-city U.S. study summary classified 14 improved corridors as nine with positive retail sales and/or employment
+  results, two with no impact and three mixed.[^national2020]
+- Sales and jobs sometimes diverged, and some gains reflected existing trends. The tally is not a percentage sales gain
+  or national success rate.
+- The study excluded car-oriented businesses. Its combined street projects do not isolate bike-lane effects, and the
+  summary gives no effect sizes.
+
+## Evidence and limits
+
+The National Street Improvements Study compared before/after activity with control corridors using trend analysis,
+difference-in-differences and interrupted time series (ITS). The 9/14 tally is the authors' case classification,
+not a count of universally positive metrics.[^national2020]
 
 Selected results show why sales and jobs must remain distinct:
 

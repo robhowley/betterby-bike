@@ -11,19 +11,25 @@ sources:
 
 # NYC DOT reported 18.1% fewer serious casualties overall and 39% fewer among senior pedestrians with protected lanes
 
-In its September 21, 2023 East New York project announcement, NYC DOT says protected-lane designs have reduced
-**deaths and serious injuries for all road users by 18.1%**, and **traffic deaths and serious injuries among senior
-pedestrians by 39%** where installed. These are two population-specific claims about combined fatal/serious harm,
-not separate estimates for deaths alone or for all pedestrian injuries.[^nycdot2023]
+## In brief
+
+- NYC DOT's September 2023 release reported 18.1% fewer deaths and serious injuries combined for all road users,
+  and 39% fewer among senior pedestrians, where protected-lane designs were installed.[^nycdot2023]
+- These are agency claims, not measured outcomes of the newly announced East New York lanes. Missing sites,
+  periods, comparators and supporting analysis prevent assessing causal effects.[^nycdot2023]
+- The percentages are not deaths alone, all-pedestrian benefits or per-trip risk reductions.[^nycdot2023]
+
+## Reporting basis and limits
+
+The September 21, 2023 release announced the Cozine and Wortman Avenue lanes in East New York.[^nycdot2023]
 
 The release does not name the analysis, sites, time periods, baseline casualties or comparator. It supplies no
 exposure denominator, uncertainty, adjustment methods or age threshold for “senior.” Its causal wording cannot be
 assessed from this account. DOT proposes shorter crossings and lower vehicle speeds as mechanisms, without
 presenting measurements testing them.[^nycdot2023]
 
-The figures describe protected-lane designs generally, **not measured outcomes of the newly announced Cozine and
-Wortman Avenue lanes**. They do not establish a 39% reduction for every pedestrian, a cyclist-specific risk reduction,
-or a benefit per trip. Independence from earlier NYC injury analyses is unknown.[^nycdot2023]
+The figures do not establish a cyclist-specific risk reduction. Independence from earlier NYC injury analyses is
+unknown.[^nycdot2023]
 
 ## Related
 

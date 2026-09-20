@@ -11,12 +11,17 @@ sources:
 
 # Boston Cambridge Street fall bicycle counts
 
-On Cambridge Street in Allston, where Boston added bike lanes between Harvard Avenue and Soldiers Field Road in
-summer 2022, the Globe reports that the average fall bicycle count increased **12% to 414 bikes per day in 2022**,
-then **dipped slightly in 2023**. The article supplies neither the exact 2023 value nor the baseline count/year for
-the 12% comparison. This is not a sustained year-on-year growth result.[^dolven2024]
+## In brief
+
+- The Boston Globe reports that Cambridge Street in Allston averaged 414 bicycles per day in fall 2022, a 12%
+  increase, then dipped slightly in 2023.[^dolven2024]
+- The baseline count/year and exact 2023 count are missing. These short fall counts are not annual daily averages
+  or evidence of new cycling or a causal lane effect.[^dolven2024]
 
 ## Interpretation and limits
+
+Boston added the lanes between Harvard Avenue and Soldiers Field Road in summer 2022. The reported counts do not
+show sustained year-on-year growth.[^dolven2024]
 
 These are the Globe's comparisons of municipal counts, not an independently reviewed dataset. Boston counts over a
 few days four times a year; these figures use fall observations, not annual average daily traffic. The article gives

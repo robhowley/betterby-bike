@@ -11,10 +11,18 @@ sources:
 
 # NYC reported a 75% decline in its citywide cycling-risk indicator in 2001–2013
 
-NYCDOT's September 2014 protected-lane report states a **75% decrease from 2001 to 2013** in its citywide indicator of
-cyclist serious-injury risk. The slide defines the indicator as bicyclists killed or severely injured in motor-vehicle
-traffic crashes, divided by the NYC In-Season Cycling Indicator, multiplied by 100. Results were preliminary as of
-14 August 2014 and subject to change.[^nyc2014]
+## In brief
+
+- NYCDOT reported a preliminary 75% decline from 2001 to 2013 in its citywide cycling-risk indicator: cyclists killed
+  or severely injured in motor-vehicle crashes divided by a cycling-count index.[^nyc2014]
+- The index uses six counting locations, not all citywide trips. This is not a 75% fall in casualty counts, an
+  individual injury probability or a measured protected-lane effect.[^nyc2014]
+
+## Indicator definition and limits
+
+NYCDOT's September 2014 protected-lane report defines the indicator as bicyclists killed or severely injured in
+motor-vehicle traffic crashes, divided by the NYC In-Season Cycling Indicator, multiplied by 100. Results were
+preliminary as of 14 August 2014 and subject to change.[^nyc2014]
 
 The denominator is an index relative to 2000, based on weekday 12-hour April–October counts at six key cycling
 locations. It is not total citywide trips, hours or kilometres. Fatalities come from NYCDOT–NYPD reconciled records;

@@ -11,8 +11,16 @@ sources:
 
 # CBC reports more local jobs per million dollars for cycling projects than road-only projects
 
-CBC reports that a **2011 U.S. study of 58 projects in 11 cities** found **11.4 local jobs per million dollars spent
-on cycling infrastructure**, compared with **7.8 for road-only projects**. It links the
+## In brief
+
+- CBC reports 11.4 local jobs per million dollars spent on cycling infrastructure versus 7.8 for road-only projects,
+  citing a 2011 U.S. study of 58 projects in 11 cities.[^cbc2019]
+- This compares jobs per project dollar, not permanent or net economy-wide employment. CBC does not define jobs as
+  positions or job-years; the primary study was not reviewed.
+
+## Evidence and limits
+
+CBC links the
 [2011 PERI study](http://www.peri.umass.edu/fileadmin/pdf/published_study/PERI_ABikes_June2011.pdf), not independently
 reviewed here. CBC attributes the difference to more labor-intensive planning, design and construction and less
 material use, presenting this as the study's explanation.[^cbc2019]

@@ -12,12 +12,17 @@ sources:
 
 # No collisions in the Green Lane video sample does not establish injury risk
 
-Monsere et al. reported **no collisions or near collisions in 144 hours of intersection safety video covering nearly
-12,900 bicycles** in 2013. The observations covered protected-lane intersections in Chicago, Portland, San Francisco
-and Washington, D.C., not the Austin facilities included elsewhere in the five-city study. No major or substantial
-conflicts involving emergency maneuvers were identified.[^monsere2014]
+## In brief
+
+- No collisions or near collisions appeared in 144 hours of 2013 protected-lane intersection video covering nearly
+  12,900 bicycles in Chicago, Portland, San Francisco and Washington, D.C.[^monsere2014]
+- This short sample cannot establish zero injury risk or a before/after reduction. Low-level conflicts occurred,
+  and riders separately reported collisions outside the video window.[^monsere2014]
 
 ## Low-level conflicts still occurred
+
+The video observations excluded the Austin facilities included elsewhere in the five-city study. No major or substantial
+conflicts involving emergency maneuvers were identified.[^monsere2014]
 
 The study treated conflicts as surrogate safety measures because recent installations lacked enough crash history.
 “Minor” conflicts involved precautionary braking or a direction change; “precautionary” conflicts were lower-risk

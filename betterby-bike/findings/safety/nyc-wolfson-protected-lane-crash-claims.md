@@ -13,9 +13,17 @@ sources:
 
 # NYC's 2011 memo reported protected-lane crash reductions without supporting methods
 
-Howard Wolfson's 21 March 2011 NYC mayoral memo says injury crashes for all road users (drivers, pedestrians and
-cyclists) “typically drop by 40 percent” when protected bike lanes are installed, and by more than 50% in some
-locations.[^wolfson2011]
+## In brief
+
+- Howard Wolfson's March 2011 NYC mayoral memo claimed that all-road-user injury crashes typically fell 40% after
+  protected-lane installation, and more than 50% at some locations.[^wolfson2011]
+- Missing sites, periods, baseline counts and comparison methods prevent treating these claims as a causal lane
+  effect or cyclist risk per trip.[^wolfson2011]
+
+## Reporting basis and limits
+
+The 21 March 2011 memo's claim that injury crashes “typically drop by 40 percent” covers drivers, pedestrians and
+cyclists.[^wolfson2011]
 
 This is an attributed administration claim, not a documented effect estimate. The memo identifies no locations,
 observation periods, baseline crash counts, control streets, exposure measures or uncertainty. It does not explain how

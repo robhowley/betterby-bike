@@ -11,10 +11,18 @@ sources:
 
 # ULI reports 148% parcel-value growth near the Indianapolis Cultural Trail
 
-ULI's 2016 report attributes to a **2014 Indiana University Public Policy Institute study** a **148% increase in
-property values** near Indianapolis's eight-mile (13 km) Cultural Trail. It describes nearly **1,800 parcels within
-500 feet (152 m)** increasing in total value by **more than $1.01 billion**. ULI contrasts this with the trail's
-**$62.5 million construction cost**.[^uli2016]
+## In brief
+
+- ULI reports 148% aggregate property-value growth, more than $1.01 billion, across nearly 1,800 parcels within 500 feet
+  of Indianapolis's Cultural Trail, citing a 2014 study.[^uli2016]
+- The valuation window is unclear. New development and wider market changes could contribute, so this is not an isolated
+  trail premium or public return on investment.
+
+## Evidence and limits
+
+ULI's 2016 report attributes the result to a **2014 Indiana University Public Policy Institute study**. The Cultural
+Trail is eight miles (13 km) long; the reported proximity boundary is 500 feet (152 m). ULI contrasts the value
+growth with the trail's **$62.5 million construction cost**.[^uli2016]
 
 ULI calls the proximity area “within a block” before giving the 500-foot boundary and describes the increase as since
 the trail's opening in 2008. It does not supply a clear valuation start/end window, valuation definition, comparison

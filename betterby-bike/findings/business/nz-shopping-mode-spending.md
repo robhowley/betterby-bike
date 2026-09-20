@@ -11,10 +11,19 @@ sources:
 
 # New Zealand shopping surveys found higher driver spending per trip, not measured monthly non-driver gains
 
-CityLab's March 2015 roundup describes a survey of **1,744 shoppers and 144 retailers in nine shopping areas in
-Auckland, Christchurch and Wellington**. Drivers spent **$47 per trip versus $34 for non-drivers**. In central-city
-locations, the driver–cyclist comparison was **$47 versus $43 per trip**, a $4 gap. Non-drivers also reportedly spent
-more time in shopping areas.[^citylab2015]
+## In brief
+
+- CityLab reports spending of $47 per driver trip versus $34 for non-drivers across nine shopping areas in Auckland,
+  Christchurch and Wellington.[^citylab2015]
+- In central-city locations, drivers spent $47 per trip versus $43 for cyclists. Non-drivers in the wider comparison are
+  not all cyclists.[^citylab2015]
+- Higher longer-term spending by sustainable-transport users was suggested, not measured; the article gives no dollar
+  denomination or measured parking-conversion benefit.
+
+## Evidence and limits
+
+CityLab's March 2015 roundup describes a survey of **1,744 shoppers and 144 retailers**. The central-city
+driver–cyclist spending gap was $4 per trip. Non-drivers also reportedly spent more time in shopping areas.[^citylab2015]
 
 The article quotes the suggestion that longer-term spending by sustainable-transport users is likely higher and
 that encouraging such trips can outweigh space-reallocation costs. These are interpretations, not a reported

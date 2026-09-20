@@ -11,6 +11,17 @@ sources:
 
 # Seville's network and safety-in-numbers models fit risk trends without identifying causality
 
+## In brief
+
+- Seville's models cannot establish that connectivity caused the [lower collision rate per estimated trip](seville-motor-vehicle-collision-risk.md):
+  the main 2006–2013 analysis has one pre-network year and no untreated comparison.[^seville]
+- Adding a before/after network marker improved the model's fit to annual collision rates, but did not directly
+  measure connectivity and could reflect other changes.[^seville]
+- More cycling alongside lower rates cannot show which caused which: safer conditions could attract cyclists,
+  or both could reflect infrastructure and other changes.[^seville]
+
+## Model results
+
 For **eight annual observations in 2006–2013**, Seville's regression of police-recorded bicycle–motor-vehicle collisions
 per million estimated trips on cycle-track length had **R² 0.847**. Adding a binary indicator (0 in 2006, 1 thereafter)
 raised **R² to 0.930**, an increment of 0.083 (reported F for the increment 5.966). The authors describe improvement

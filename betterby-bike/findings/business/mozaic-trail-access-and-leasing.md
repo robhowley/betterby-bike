@@ -11,12 +11,21 @@ sources:
 
 # MoZaic combined a jointly funded trail connection with reported full occupancy
 
+## In brief
+
+- ULI reports 100% occupancy in 2016 at Minneapolis's MoZaic development, which opened in 2012 with a $370,000 jointly
+  funded connection to the Midtown Greenway.[^uli2016]
+- The developer linked premium rents to access, including the trail, but supplied no numerical premium or comparison
+  property. The trail's contribution and investment return remain unknown.
+
+## Evidence and limits
+
 ULI's 2016 profile describes **MoZaic**, a **77,000-square-foot (7,200 sq m)** office, retail and parking development
 that opened in Minneapolis's Uptown neighborhood in **2012**. A pedestrian/bicycle bridge and ramp connected it to the
 Midtown Greenway. The connection cost **$370,000**, comprising **$265,000 from Hennepin County's Transit-Oriented
 Development program** and **$105,000 from Ackerberg Group and neighboring developer Greco**.[^uli2016]
 
-ULI reports **100% occupancy as of 2016**. Ackerberg's chief executive attributed premium rents to ease of access,
+Ackerberg's chief executive attributed premium rents to ease of access,
 including the Greenway, while also citing car, bus and pedestrian access. No numerical rent premium or comparison
 property is supplied. The profile notes the neighborhood's limited supply of Class A office space when MoZaic opened,
 another relevant market condition.[^uli2016]

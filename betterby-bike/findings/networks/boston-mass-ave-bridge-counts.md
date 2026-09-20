@@ -11,11 +11,17 @@ sources:
 
 # Boston Mass Ave. bridge fall bicycle counts
 
-On the Boston side of the Mass Ave. bridge, the Globe reports that average daily bicycle counts over a few fall
-days increased each year after MassDOT installed bike lanes in 2021. The fall 2023 average was **6,160 bikes per
-day, 51% above 2021**. The article does not establish whether the 2021 counting window preceded installation.[^dolven2024]
+## In brief
+
+- On the Boston side of the Mass Ave. bridge, the Boston Globe reports an average of 6,160 bicycles per day over
+  a few fall days in 2023, 51% above fall 2021.[^dolven2024]
+- These are not annual daily averages or evidence of a causal lane effect. The 2021 counts may not precede lane
+  installation; growth could include riders changing routes.[^dolven2024]
 
 ## Interpretation and limits
+
+The Globe reports that counts increased each year after MassDOT installed bike lanes in 2021, but does not
+establish whether that year's counting window preceded installation.[^dolven2024]
 
 These are the Globe's comparisons of municipal counts, not an independently reviewed dataset. Boston counts over a
 few days four times a year; these figures use fall observations, not annual average daily traffic. The article gives

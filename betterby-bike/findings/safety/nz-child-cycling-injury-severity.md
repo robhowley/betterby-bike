@@ -13,16 +13,18 @@ sources:
 
 # New Zealand children's elevated cycling injury rate did not extend to the same serious-injury pattern
 
-In a national comparison of cycling deaths and inpatient injuries per million cycling hours across 1988–91, 1996–99 and
-2003–07, ages 5–14 had the highest overall injury rate. This age group had a pronounced increase between 1996–99 and
-2003–07 in crashes not involving a motor vehicle. The authors report that the same pattern was not observed when
-analysis was restricted to serious injuries.[^nz2010]
+## In brief
 
-Figure 1 separates motor-vehicle collisions from all other crashes, not non-collision crashes alone. The distinction
-matters: the finding should not be retold as evidence that children had the highest life-threatening injury risk or that
-every additional case was a fall without a collision.
+- Across New Zealand's 1988–91, 1996–99 and 2003–07 comparisons, cyclists aged 5–14 had the highest death/inpatient
+  injury rate per million cycling hours among the studied ages (five and older).[^nz2010]
+- Their rate rose particularly for crashes without motor vehicles after 1996–99, but the same pattern did not hold
+  for serious injuries.[^nz2010]
+- This does not show that children had the highest life-threatening injury risk. Crashes without motor vehicles
+  include more than falls or other non-collision events.[^nz2010]
 
 ## Scope and limits
+
+Figure 1 separates motor-vehicle collisions from all other crashes, not non-collision crashes alone.
 
 Cases were road deaths and first public-hospital injury admissions lasting at least one day; children younger than five
 were excluded. Serious injuries were estimated from diagnostic categories as consistent with Abbreviated Injury Scale

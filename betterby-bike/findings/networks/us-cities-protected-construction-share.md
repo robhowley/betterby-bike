@@ -11,13 +11,20 @@ sources:
 
 # Thirteen U.S. cities increased the protected share of new cycling infrastructure
 
-Urban Institute's February 2022 explainer reports that, across **13 U.S. cities** examined using municipal data,
-the average share of **new cycling infrastructure** classified as protected rose from **57% in 2016 to 78% in 2020**.
-This is a 21-percentage-point change in the reported average, not the share of the entire existing network or a
-national estimate.[^urban2022]
+## In brief
 
-The pattern was uneven. Austin, New Orleans, Portland and Seattle focused about **90% or more** of new cycling
-investment, excluding bicycle boulevards, on secure projects such as off-street trails. Most new lanes in Atlanta,
+- Across 13 U.S. cities, Urban Institute reports that the average share of new cycling infrastructure classified
+  as protected rose from 57% in 2016 to 78% in 2020, a 21-percentage-point increase.[^urban2022]
+- This is not the protected share of the whole network or a national estimate. The article includes buffered
+  lanes, so “protected” cannot be assumed to mean only physically separated routes.[^urban2022]
+- Cities differed substantially; averaging weights and full coding rules are missing. Construction shares do not
+  establish changes in cycling, injuries or equitable access.
+
+## City comparisons
+
+Urban Institute's February 2022 explainer used municipal data. The pattern was uneven. Austin, New Orleans,
+Portland and Seattle focused about **90% or more** of new cycling investment, excluding bicycle boulevards, on
+secure projects such as off-street trails. Most new lanes in Atlanta,
 Kansas City, Los Angeles and Nashville were unprotected. Denver reportedly built approximately **5 miles protected
 and 18 miles regular lanes in 2016**, versus **16 and 19 miles in 2021**. That example uses a later endpoint than
 the aggregate trend.[^urban2022]

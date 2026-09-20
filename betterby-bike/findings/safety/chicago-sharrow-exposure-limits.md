@@ -13,14 +13,21 @@ sources:
 
 # Resident-commuter weighting limits Chicago sharrow risk comparisons
 
-The Chicago sharrow study uses ACS five-year estimates of resident bicycle commuters to approximate exposure when
-comparing 2011–2012 and 2013–2014 injuries. It lacks counts of cyclists on treated streets. A commuter's residence
-identifies neither the route nor destination of the trip and excludes noncommuting riding; a resident may barely
-ride within the home block group.[^ferenchak2019]
+## In brief
+
+- Chicago's [weighted injury rates](chicago-sharrow-injury-rate-changes.md) cannot establish risk on sharrow streets:
+  they use resident bicycle commuters, not counts of cyclists using those streets.[^ferenchak2019]
+- More resident commuters do not establish that sharrows attracted cycling. Home locations miss routes and
+  noncommuting trips; injuries were assigned to whole block groups.[^ferenchak2019]
+- Published baseline totals do not equal the displayed dooring plus non-dooring rates. The discrepancy remains
+  unresolved; reported values should not be silently recomputed.[^ferenchak2019]
 
 ## What the denominator measures
 
-Mean resident bicycle commuters per block group changed as follows, grouped by installations in 2012–2013:[^ferenchak2019]
+The study uses ACS five-year estimates of resident bicycle commuters to approximate exposure. A residence identifies
+neither the trip's route nor destination; a resident may barely ride within the home block group.
+Mean resident bicycle commuters per block group changed as follows between 2011–2012 and 2013–2014, grouped by
+installations in 2012–2013:[^ferenchak2019]
 
 | Treatment added | Block groups | Before | After | Change % | Paired-test p |
 | --- | ---: | ---: | ---: | ---: | ---: |

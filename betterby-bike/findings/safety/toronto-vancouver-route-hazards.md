@@ -13,9 +13,20 @@ sources:
 
 # Rail tracks, downhill grades and construction were associated with higher cycling injury odds
 
-In 690 adult cycling injury trips in Toronto and Vancouver, May 2008–November 2009, three site characteristics were
-associated with higher emergency-department injury odds. Each injury site was compared with a randomly selected point
-along the same trip. The conditional logistic model included route type and all three features below.[^teschke2012]
+## In brief
+
+- In 690 adult injury trips in Toronto and Vancouver in 2008–09, cycling injury odds were about three times as high
+  with rail tracks versus none, 2.3 times downhill versus flat, and 1.9 times with construction versus none.[^teschke2012]
+- Comparisons adjusted for route type and these features using sites from the same trip. They do not show how
+  much removing a feature would reduce injuries.[^teschke2012]
+- Rail tracks at an injury site do not mean the crash involved hitting a rail. Children and fatal cases were
+  excluded.[^teschke2012]
+
+## Site comparisons
+
+Participants were recruited after emergency-department-treated cycling injuries in May 2008–November 2009. Each injury
+site was compared with a randomly selected point along the same trip. The conditional logistic model included route
+type and all three features below.[^teschke2012]
 
 | Site characteristic and comparator | Injury/control sites with feature | Adjusted OR (95% CI) |
 | --- | --- | --- |

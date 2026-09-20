@@ -13,9 +13,17 @@ sources:
 
 # NYC reported improved northbound travel times at Hoyt Avenue
 
-NYCDOT's 2012 report gives a **“51% improvement in northbound travel times”** for Hoyt Avenue at the RFK Bridge in
-Queens, alongside **21% fewer crashes** and **37% higher weekend bicycle volumes**. The project included bicycle lanes,
-new signals and modified timings, pedestrian refuges and crosswalks, and peak-hour turn bans.[^nyc2012]
+## In brief
+
+- NYCDOT's 2012 report claimed a “51% improvement in northbound travel times” at Hoyt Avenue by Queens' RFK
+  Bridge, without defining the calculation or providing times in minutes.[^nyc2012]
+- The project combined bicycle lanes, signals, timing changes and turn bans. The result cannot be attributed to
+  lanes alone or converted into a defined speed increase; it does not measure emergency response.[^nyc2012]
+
+## Project context and limits
+
+The report also gives **21% fewer crashes** and **37% higher weekend bicycle volumes**. Alongside bicycle lanes,
+new signals and modified timings, the project included pedestrian refuges and crosswalks and peak-hour turn bans.[^nyc2012]
 
 The report does not define the percentage calculation or provide travel times in minutes, observation dates, measured
 trip limits, sampling methods, baseline crash/bicycle counts, a comparison corridor or uncertainty. Preserve

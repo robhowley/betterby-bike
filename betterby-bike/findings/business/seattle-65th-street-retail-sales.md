@@ -11,16 +11,23 @@ sources:
 
 # Seattle's 65th Street sales index rose after a bike lane, but the reported percentage is ambiguous
 
-CityLab's September 2013 coverage of Kyle Rowe's Seattle case study reports a large taxable-retail-sales increase on
-NE 65th Street after the city removed **12 parking spaces** and striped a bicycle lane. Rowe compared city sales data
-with a similar unchanged retail corridor and the neighborhood overall. The article's chart spans **Q1 2010–Q4 2012**,
-with installation shading around Q2–Q3 2011.[^citylab2013]
+## In brief
 
-The project corridor's index starts at 100, dips below 100 in Q4 2011, then rises to roughly 350–400 during 2012,
-while comparison series remain near 100. These are approximate chart readings, not a supplied data table. Jaffe's
-prose says the index increased **400%**, but a peak near 400 relative to a baseline of 100 represents approximately
-four times the baseline, or a 300% increase. The article does not reconcile the wording or specify another denominator;
-do not quote 400% as a verified growth estimate.[^citylab2013]
+- CityLab's Seattle NE 65th Street chart shows a taxable-sales index rising from 100 to roughly 350–400 in 2012 after
+  lane installation; comparison series stayed near 100.[^citylab2013]
+- These are approximate chart readings. The article's “400% increase” conflicts with an index near 400, which means
+  about a 300% rise from 100.[^citylab2013]
+- The comparison does not establish that the lane caused the increase; the underlying study was not reviewed.
+
+## Evidence and limits
+
+CityLab's September 2013 coverage of Kyle Rowe's Seattle case study describes removal of **12 parking spaces** and
+striping of a bicycle lane. Rowe compared city sales data with a similar unchanged retail corridor and the
+neighborhood overall. The chart spans **Q1 2010–Q4 2012**, with installation shading around Q2–Q3 2011.[^citylab2013]
+
+The project index dips below 100 in Q4 2011 before its later rise. The article supplies no data table and does not
+reconcile its percentage wording or specify another denominator. A peak near 400 is approximately four times the
+baseline, not a verified 400% growth estimate.[^citylab2013]
 
 ## Interpretation and limits
 

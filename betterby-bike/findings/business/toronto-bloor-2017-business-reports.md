@@ -11,9 +11,17 @@ sources:
 
 # CBC reports a positive or neutral 2017 Bloor Street business assessment
 
-CBC's June 2019 roundup describes **2017 research on Toronto's Bloor Street protected lanes** as finding a
-“positive or at least neutral” impact on local merchants, with **most merchants reporting more customers after
-installation**. CBC links the [2017 Bloor economic-impact report](https://www.tcat.ca/wp-content/uploads/2017/12/Bloor-Economic-Impact-Study-Full-Report-10-11-2017.pdf),
+## In brief
+
+- CBC describes 2017 research on Toronto's Bloor Street protected lanes as positive or neutral for local merchants; most
+  merchants reported more customers after installation.[^cbc2019]
+- CBC gives no customer-count changes, sales estimates or comparison-street results. Unlike the [earlier conversion
+  prediction](toronto-bloor-customer-spending.md), this concerns installed lanes, but does not establish that lanes
+  caused growth.
+
+## Evidence and limits
+
+CBC's June 2019 roundup links the [2017 Bloor economic-impact report](https://www.tcat.ca/wp-content/uploads/2017/12/Bloor-Economic-Impact-Study-Full-Report-10-11-2017.pdf),
 which was not independently reviewed for this ingestion.[^cbc2019]
 
 This is a later post-installation account, not the same result as the

@@ -13,9 +13,20 @@ sources:
 
 # New Zealand cycling injury rates rose after 1996–99 while other travel-mode rates fell
 
-Among New Zealand road users aged five or older, cycling deaths and first public-hospital injury admissions lasting at
-least one day fell per hour travelled from 1988–91 to 1996–99, then rose in 2003–07. Rates for drivers, passengers,
-motorcyclists and pedestrians declined across all three periods.[^nz2010]
+## In brief
+
+- Among New Zealand road users aged five or older, cycling deaths and inpatient injuries rose from 21.38 to 30.74
+  per million cycling hours between 1996–99 and 2003–07; other studied travel-mode rates fell.[^nz2010]
+- Serious cycling cases also rose, from 4.86 to 6.24 per million hours, but remained below 1988–91 levels. Annual
+  cycling case counts likewise remained below that earliest period.[^nz2010]
+- These historical death/inpatient rates exclude injuries treated outside inpatient care. They do not explain why
+  risk rose or measure present-day risk.[^nz2010]
+
+## Rates and case definitions
+
+Cases combine deaths with first public-hospital injury admissions lasting at least one day. Overall cycling rates fell
+from 1988–91 to 1996–99 before rising in 2003–07. Rates for drivers, passengers, motorcyclists and pedestrians declined
+across all three periods.[^nz2010]
 
 | Cycling measure                                  | 1988–91             | 1996–99             | 2003–07             |
 | ------------------------------------------------ | ------------------- | ------------------- | ------------------- |

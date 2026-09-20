@@ -11,8 +11,14 @@ sources:
 
 # Dublin and Bristol merchant estimates overstated customers' car arrivals
 
-CityLab's 2015 roundup reports two separate comparisons showing why merchant beliefs cannot substitute for customer
-travel surveys:[^citylab2015]
+## In brief
+
+- CityLab reports Dublin merchants' car-arrival estimates of 13% on Grafton Street and 19% on Henry Street, versus
+  reported customer shares of 10% and 9%, respectively.[^citylab2015]
+- In Bristol, merchants estimated 41% versus a reported 22% customer share; the survey included 126 merchants and 840 customers.[^citylab2015]
+- These separate local comparisons do not measure the sales effect of removing parking; primary reports were not reviewed.
+
+## Evidence and limits
 
 | Setting | Merchant estimate of car arrivals | Reported customer car-arrival share | Scope supplied in prose |
 | --- | --- | --- | --- |

@@ -11,7 +11,16 @@ sources:
 
 # Selected Manhattan traffic measures stayed level or improved alongside protected lanes
 
-NYCDOT's 2014 report describes maintained or improved motor-vehicle performance, not a universal congestion effect:
+## In brief
+
+- NYCDOT reported shorter trips alongside protected-lane redesigns: Columbus Avenue morning times fell from 4:38
+  to 3:00 (labelled 35% lower); Eighth Avenue daily averages fell from 4:20 to 3:43 (14% lower). Times are minutes:seconds.[^nyc2014]
+- The report described level weekday taxi speeds on First Avenue and steady taxi speeds across Manhattan's
+  central business district. Routes and observation windows differed.[^nyc2014]
+- Short before/after windows, seasonal differences and no untreated travel-time controls prevent attributing
+  faster trips to lanes alone or ruling out delays elsewhere.[^nyc2014]
+
+## Routes and observation windows
 
 - **Columbus Avenue, 96th–77th:** morning travel time (7–10 a.m.) fell from 4 minutes 38 seconds to 3 minutes, labelled
   −35%. Surveys were July 25, 2010 and July 19, 2011, two runs per hour. Separately, NYCDOT describes maintained vehicle

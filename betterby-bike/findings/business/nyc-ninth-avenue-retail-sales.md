@@ -16,9 +16,17 @@ sources:
 
 # NYC reported up to 49% retail-sales growth on a 9th Avenue segment
 
-NYCDOT's 2012 report gives **up to 49% growth in retail sales at locally based businesses on Manhattan's 9th Avenue
-between 23rd and 31st Streets**, compared with **3% borough-wide**. The result appears in the 8th/9th Avenue
-protected-lane redesign panel, alongside pedestrian islands, turn bays and signal changes.[^nyc2012]
+## In brief
+
+- NYCDOT's 2012 report gives up to 49% retail-sales growth for locally based businesses on Manhattan's Ninth Avenue
+  between 23rd and 31st Streets, versus 3% borough-wide.[^nyc2012]
+- “Up to” is not a reported average. Missing dates and methods, and an unmatched borough comparison, prevent attributing
+  the growth to the protected lane.
+
+## Evidence and limits
+
+The result appears in the report's 8th/9th Avenue protected-lane redesign panel, alongside pedestrian islands,
+turn bays and signal changes.[^nyc2012]
 
 This is a sales result for a specified business group and segment, not all Manhattan businesses, business profits or
 spending by cyclists. Retain “up to”: the report does not define how that value was selected or establish it as an

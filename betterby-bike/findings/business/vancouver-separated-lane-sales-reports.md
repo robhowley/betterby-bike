@@ -11,9 +11,14 @@ sources:
 
 # Vancouver merchants reported sales declines after separated lanes, with uncertain magnitude
 
-CityLab's March 2015 roundup reports that a downtown Vancouver business study found a **net decrease in sales after
-implementation of a separated bicycle lane**. The analysis relied on business surveys; the limited sales records
-received indicated losses smaller than those reported in the surveys.[^citylab2015]
+## In brief
+
+- CityLab's March 2015 roundup reports a net sales decrease in downtown Vancouver business surveys after a separated
+  bicycle lane was installed; limited sales records suggested smaller losses than merchants reported.[^citylab2015]
+- Possible response bias and missing sample and comparison details leave the decline's size and cause uncertain. That
+  uncertainty does not establish no harm.[^citylab2015]
+
+## Evidence and limits
 
 The article raises possible response bias toward merchants experiencing larger losses and quotes the study's concern
 about the randomness of responses despite telephone follow-up. This weakens confidence in the magnitude but does not

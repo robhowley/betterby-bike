@@ -11,10 +11,18 @@ sources:
 
 # Properties near the Radnor Trail had higher reported values than those farther away
 
-ULI reports that properties within **a quarter-mile (0.4 km)** of the Radnor Trail in Radnor Township, Pennsylvania,
-were valued **$69,139 higher on average** than other area properties farther away. It attributes this to a **2011
-GreenSpace Alliance and Delaware Valley Regional Planning Commission study**. Its later Circuit profile rounds the
-same result to $69,000; that is a repetition, not another study.[^uli2016]
+## In brief
+
+- ULI reports that properties within a quarter-mile (0.4 km) of Pennsylvania's Radnor Trail were valued $69,139 higher
+  on average than area properties farther away, citing a 2011 study.[^uli2016]
+- This is a proximity association, not a measured gain after trail construction; ULI provides no sample, model
+  adjustments or uncertainty.
+
+## Evidence and limits
+
+The trail is in Radnor Township. ULI attributes the result to a **2011 GreenSpace Alliance and Delaware Valley
+Regional Planning Commission study**. Its later Circuit profile rounds the same result to $69,000; that is a
+repetition, not another study.[^uli2016]
 
 The report does not reproduce the sample, property characteristics, valuation dates, model adjustments or uncertainty.
 The result is a reported proximity association, not a measured $69,139 increase for each home following trail

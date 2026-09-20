@@ -11,9 +11,16 @@ sources:
 
 # AAA's reported 2023 new-car ownership cost exceeded $1,000 monthly
 
-NerdWallet reports AAA's 2023 average new-vehicle ownership cost as **$12,182 a year, or $1,015 a month**, for
-15,000 miles of annual driving. The article's methodology describes AAA estimates as based on a new vehicle owned
-for five years. The total includes loan interest, depreciation, fuel, insurance, maintenance and fees.[^nerdwallet2024]
+## In brief
+
+- NerdWallet reports AAA's average 2023 U.S. new-vehicle ownership cost as $12,182 a year, or $1,015 a month, for
+  five years of ownership and 15,000 miles of annual driving.[^nerdwallet2024]
+- This includes depreciation, not just cash expenses. It is not an all-car average or measured savings from
+  cycling or giving up a car; AAA's underlying study was not separately reviewed.[^nerdwallet2024]
+
+## Details
+
+The total includes loan interest, depreciation, fuel, insurance, maintenance and fees.[^nerdwallet2024]
 
 This is U.S. new-car cost context, not an average across all vehicles or a household affordability measure. AAA's
 underlying study was not separately reviewed; vehicle selection, weighting and uncertainty are not provided here.

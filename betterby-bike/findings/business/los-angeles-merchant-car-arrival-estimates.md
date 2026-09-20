@@ -11,9 +11,17 @@ sources:
 
 # Los Angeles merchants' majority-driver belief contrasted with a reported 15% customer share
 
-Business Insider cites a [Los Angeles shopping-corridor study published in 2012](https://nacto.org/docs/usdg/yorkblvd_mccormick.pdf):
-more than half of store owners on the bike-laned portion thought most customers drove, whereas the article reports
-that **15% of customers** did. The embedded link identifies the York Boulevard report underlying the account.[^rogers2024]
+## In brief
+
+- Business Insider reports that over half of merchants on the bike-laned part of Los Angeles's York Boulevard thought
+  most customers drove; only 15% of customers reportedly did.[^rogers2024]
+- One figure counts merchants holding a belief, the other customers arriving by car. They cannot be subtracted to
+  calculate an estimation error, and neither measures a sales effect.
+
+## Evidence and limits
+
+Business Insider cites a [Los Angeles shopping-corridor study published in 2012](https://nacto.org/docs/usdg/yorkblvd_mccormick.pdf).
+The embedded link identifies the York Boulevard report underlying the account.[^rogers2024]
 
 The first proportion is a share of merchants holding a belief, not their average estimate of customer car arrivals.
 The 15% is a customer mode share. These denominators cannot be subtracted to calculate a percentage-point estimation

@@ -11,9 +11,14 @@ sources:
 
 # Cedar Rapids response rates use inferred routes and alarm-to-arrival times
 
-The Cedar Rapids **2014–2020** road-diet analysis measures **alarm-to-arrival minutes per inferred kilometre**, not
-observed driving time on converted streets. Its [null adjusted result](cedar-rapids-road-diet-response-rates.md)
-therefore depends on route and timing assumptions, and cannot guarantee that no individual emergency trip was delayed.[^corcoran2024]
+## In brief
+
+- Cedar Rapids' 2014–2020 analysis cannot determine driving delay on converted streets. It measures alarm-to-arrival
+  minutes per inferred kilometre, assumes station origins and includes time before departure.[^corcoran2024]
+- Converted streets made up about one-fifth of inferred trip distance. The [null adjusted result](cedar-rapids-road-diet-response-rates.md)
+  for whole trips could miss segment delays and does not prove no emergency trip was delayed.[^corcoran2024]
+- Printed trip totals and confidence bounds conflict. Keep table-specific attribution rather than treating one
+  version as independently verified.[^corcoran2024]
 
 ## What was measured and assumed
 

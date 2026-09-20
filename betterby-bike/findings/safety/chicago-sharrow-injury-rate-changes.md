@@ -13,9 +13,18 @@ sources:
 
 # Chicago sharrow groups had larger weighted injury-rate increases
 
-Chicago block groups adding only sharrows in 2012–2013 had larger increases in commuter-weighted total bicyclist
-injury rates than groups adding bicycle lanes or no treatments. The study compares 2011–2012 with 2013–2014;
-injuries include police-recorded dooring and non-dooring cases.[^ferenchak2019]
+## In brief
+
+- Chicago's weighted injury rate rose 103.8% in sharrow-only groups, versus 10.2% with new lanes and 12.1% with no
+  new treatment, comparing 2011–2012 with 2013–2014.[^ferenchak2019]
+- The sharrow increase differed from no new treatment; the lane comparison was at the authors' 5% significance
+  threshold. The sharrow increase alone did not meet that threshold.[^ferenchak2019]
+- Rates measure injuries per year per 100 resident bicycle commuters, not a doubling of injury counts or proof of
+  sharrow harm. Separate models estimated falling total injury counts in sharrow groups.[^ferenchak2019]
+
+## Measurement
+
+Installations occurred in 2012–2013. Injuries include police-recorded dooring and non-dooring cases.[^ferenchak2019]
 
 | Treatment added | Block groups | Before | After | Change | Change % | Within-group p |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: |

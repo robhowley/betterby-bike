@@ -13,10 +13,20 @@ sources:
 
 # Cycle tracks had the lowest adjusted injury odds in a Toronto–Vancouver study
 
-Among 690 adults treated in five Toronto and Vancouver emergency departments after cycling injuries in 2008–09,
-cycle tracks had the lowest adjusted injury odds of 14 route types: **OR 0.11 (95% CI 0.02–0.54)** versus major streets
-with parked cars on the cyclist's side and no bicycle infrastructure. Cycle tracks were paved cyclist paths alongside
-major streets with a physical barrier such as a curb or bollards, distinct from sidewalks and multiuse paths.[^teschke2012]
+## In brief
+
+- Among 690 adults injured cycling in Toronto and Vancouver in 2008–09, cycle tracks had the lowest adjusted injury
+  odds: about 89% lower than major streets with parked cars and no bicycle infrastructure.[^teschke2012]
+- Only two cycle-track injury sites and ten comparison sites supported the estimate, so its size is uncertain.[^teschke2012]
+- Sites were compared within the same trips. This is an association, not an 89% installation benefit; children and
+  fatal cases were excluded.[^teschke2012]
+
+## Study comparison
+
+Adults were recruited from five emergency departments. Among 14 route types, the cycle-track estimate was
+**OR 0.11 (95% CI 0.02–0.54)** versus major streets with parked cars on the cyclist's side and no bicycle infrastructure.
+Cycle tracks were paved cyclist paths alongside major streets with a physical barrier such as a curb or bollards,
+distinct from sidewalks and multiuse paths.[^teschke2012]
 
 The case-crossover study compared each injury site with a random point along the same trip, selected in proportion to
 route length. Conditional logistic regression matched the rider and stable trip conditions and adjusted for grade,

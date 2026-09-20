@@ -12,8 +12,18 @@ sources:
 
 # Six Montreal cycle tracks had lower pooled injury risk than reference streets
 
-Across six Montreal two-way cycle tracks, pooled emergency-medical-response-recorded injury risk was 28% lower than on
-nearby reference streets without bicycle facilities: relative risk (RR) 0.72, 95% CI 0.60–0.85. Injuries covered the
+## In brief
+
+- Across six Montreal two-way cycle tracks, pooled emergency-response-recorded injury risk was 28% lower than on
+  nearby streets without bicycle facilities.[^lusk2011]
+- Only three tracks showed statistically clear reductions; the other three comparisons allowed both lower and
+  higher risk.[^lusk2011]
+- This is a route association, not an installation effect: 1999–July 2008 injuries were compared using short 2009
+  cyclist counts, and underlying traffic danger differed between routes.[^lusk2011]
+
+## Route estimates
+
+Pooled emergency-medical-response injury relative risk (RR) was 0.72, 95% CI 0.60–0.85. Injuries covered the
 April–November cycling seasons from 1 April 1999 through 31 July 2008; exposure came from simultaneous two-hour
 commuting counts in mild weather in 2009.[^lusk2011]
 

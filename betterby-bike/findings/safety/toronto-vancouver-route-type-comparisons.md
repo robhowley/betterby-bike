@@ -13,10 +13,21 @@ sources:
 
 # Local streets had lower injury odds, while several other route comparisons were inconclusive
 
-A case-crossover study of 690 adults injured while cycling in Toronto and Vancouver in 2008–09 compared emergency-
-department injury sites with randomly selected sites from the same trips. The common reference was **major streets with
-parked cars and no bicycle infrastructure**. Estimates below adjust for grade, streetcar/train tracks and construction,
-while matching rider and stable trip characteristics.[^teschke2012]
+## In brief
+
+- Among 690 adults injured cycling in Toronto and Vancouver in 2008–09, local streets without bicycle infrastructure
+  or designated as bike routes without the traffic-calming classification had about half the adjusted injury odds
+  of major streets with parked cars and no bicycle infrastructure.[^teschke2012]
+- Major streets without parking or bicycle infrastructure had 37% lower odds. Painted lanes, shared lanes,
+  traffic-calmed local routes and the listed paths had inconclusive comparisons.[^teschke2012]
+- These within-trip associations do not test street changes. Inconclusive comparisons do not establish that
+  treatments have no benefit.[^teschke2012]
+
+## Route comparisons
+
+The case-crossover study compared emergency-department injury sites with randomly selected sites from the same trips.
+The common reference was **major streets with parked cars and no bicycle infrastructure**. Estimates below adjust for
+grade, streetcar/train tracks and construction, while matching rider and stable trip characteristics.[^teschke2012]
 
 | Route type | Adjusted injury OR (95% CI) |
 | --- | --- |

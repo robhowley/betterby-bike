@@ -11,9 +11,18 @@ sources:
 
 # Street-level revenue and employment changes do not measure the same economic response
 
+## In brief
+
+- In the six-city street study, higher revenue need not mean more purchases: prices could rise. Jobs and wages adjust on
+  different timescales, limiting their usefulness for measuring immediate customer responses.[^national2020]
+- Growth after a redesign need not be a project effect: some apparent gains reflected earlier or regional trends.[^national2020]
+- These limits qualify the [retail](national-street-improvements-retail.md) and [food-service
+  results](national-street-improvements-food-service.md); they do not prove gains or losses were absent.
+
+## Evidence and limits
+
 The National Street Improvements Study used LEHD employment, QCEW employment/wages, NETS employment/sales and retail
-sales tax data to examine 14 improved corridors and 14 control corridors in six U.S. cities. Its summary gives two
-specific reasons not to equate all economic indicators with customer activity:[^national2020]
+sales tax data to examine 14 improved corridors and 14 control corridors in six U.S. cities.[^national2020]
 
 - **Revenue can rise through volume or prices.** More purchases can increase sales, but so can higher prices,
   potentially responding to rising lease costs. Revenue growth alone cannot distinguish these mechanisms; the report

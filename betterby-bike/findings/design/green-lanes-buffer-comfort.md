@@ -12,10 +12,18 @@ sources:
 
 # Green Lane riders rated vertical buffers more comfortable than paint alone
 
-In a 2013 intercept survey along protected lanes in Austin, Chicago, Portland, San Francisco and Washington, D.C.,
-respondents rated generic diagrams with buffers more comfortably than a standard striped lane. On a six-point scale,
-more than 80% selected 4–6 (the comfortable half) for each buffer design. Planters, flexposts and raised curbs received
-the highest shares in the top two categories; vertical separation rated above paint-only buffers.[^monsere2014]
+## In brief
+
+- In a 2013 five-city survey of protected-lane riders, vertical buffers rated more comfortable than paint alone.
+  More than 80% rated each generic buffer design in the comfortable half of a six-point scale.[^monsere2014]
+- Comfort ratings do not measure injury protection. Actual-site comparisons mix buffer materials, street
+  conditions and rider populations, so they cannot isolate buffer effects.[^monsere2014]
+
+## Generic designs and actual facilities
+
+The intercept survey covered Austin, Chicago, Portland, San Francisco and Washington, D.C. Respondents rated
+buffer diagrams more comfortably than a standard striped lane. Comfortable ratings were 4–6 on the six-point scale;
+planters, flexposts and raised curbs received the highest shares in the top two categories.[^monsere2014]
 
 Ratings of actual facilities likewise favored separation. On a different four-point agreement scale for whether the
 buffer “makes me feel safe,” Table 8-5 reports 3.60 for Dearborn's parked-car buffer, 3.58 for Oak/Fell flexposts,

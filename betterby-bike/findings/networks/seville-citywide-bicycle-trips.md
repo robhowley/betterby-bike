@@ -11,9 +11,19 @@ sources:
 
 # Seville's estimated citywide bicycle trips rose sharply after network construction
 
-Seville's estimated annual bicycle trips increased from **3.055 million in 2006** to **6.486 million in 2007** and
-**16.333 million in 2013**, about **5.35 times** the 2006 estimate (calculated from Table 2). Growth was not continuous:
-trips peaked at **17.038 million in 2011**, then slipped to 16.967 million in 2012 and 16.333 million in 2013.[^seville]
+## In brief
+
+- Seville's estimated annual bicycle trips rose from 3.055 million in 2006 to 16.333 million in 2013, about 5.35
+  times as many, alongside cycle-track construction and bike sharing.[^seville]
+- Growth was not continuous: trips peaked at 17.038 million in 2011 before declining. These are citywide trip
+  estimates, not unique cyclists or measured switches from driving.[^seville]
+- Estimation methods changed from 2011, with no untreated-city comparison or uncertainty interval. The growth
+  does not isolate infrastructure's effect.[^seville]
+
+## Details
+
+Table 2 also estimates 6.486 million annual trips in 2007 and 16.967 million in 2012. The 5.35-fold comparison is
+calculated from that table's 2006 and 2013 estimates.[^seville]
 
 The city had 12 km of disconnected cycle tracks before 2007. Adding 65 km during 2007 produced a connected 77 km
 network; track length reached 152 km in 2013. The reported 164 km total for 2013 includes an additional 12 km of shared

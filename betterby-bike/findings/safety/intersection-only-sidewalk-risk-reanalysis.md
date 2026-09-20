@@ -13,6 +13,16 @@ sources:
 
 # Adding assumed non-intersection crashes changed a sidewalk-bikeway risk comparison
 
+## In brief
+
+- An intersection-only Palo Alto comparison cannot establish whole-route sidewalk-bikeway versus roadway crash
+  risk: it omits non-intersection roadway crashes.[^lusk2011]
+- Lusk and colleagues' reanalysis changed estimated sidewalk risk from 76% higher to 7% higher, with no statistically
+  clear difference, by adding assumed roadway crashes rather than observed cases.[^lusk2011]
+- The assumed allocation is uncertain. The original Palo Alto paper was not reviewed for this finding.[^lusk2011]
+
+## Reanalysis and crash coverage
+
 Lusk and colleagues (2011) reanalysed published data from Wachtel and Lewiston (1994), a Palo Alto comparison of
 bicycle–motor vehicle crashes on sidewalks designated as bikeways versus adjacent roadways. As reported by Lusk et al.,
 the original comparison included only intersection crashes, omitting roadway hazards such as overtaking, sideswipes and

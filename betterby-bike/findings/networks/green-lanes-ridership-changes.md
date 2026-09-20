@@ -12,9 +12,20 @@ sources:
 
 # Green Lane route counts rose, but growth included route substitution
 
-Monsere et al.'s 2014 evaluation compared city before counts with 2013 city/video after counts on recently installed
-protected lanes in five U.S. cities. Table 6-1 reports the following facility-level increases, combining city and video
-estimates where both existed. These are changes in bicycles counted on routes, not citywide cycling or unique riders.[^monsere2014]
+## In brief
+
+- A 2014 five-city U.S. protected-lane evaluation reported summary route-count increases of 21–171% over
+  before-installation counts. These are bicycles counted on routes, not citywide growth or unique riders.[^monsere2014]
+- Asked how they would have made the trip before the lanes, current users gave another bicycle route in 24% of
+  responses and another mode in 10%. Some people supplied two route responses.[^monsere2014]
+- Short, varying count windows and recalled alternatives cannot establish how much new cycling the lanes caused.
+  The 21–171% range covers summary estimates, not every individual count comparison.[^monsere2014]
+
+## Route counts
+
+Monsere et al.'s evaluation compared city before counts with 2013 city/video after counts on recently installed
+protected lanes. Table 6-1 reports the following facility-level increases, combining city and video estimates where
+both existed.[^monsere2014]
 
 | Route | Reported count increase |
 | --- | ---: |
