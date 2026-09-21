@@ -10,3 +10,4 @@ repos:
       - id: markdownlint
         args:
           - "--fix"
+        exclude: ^betterby-bike/CHANGELOG\.md$
