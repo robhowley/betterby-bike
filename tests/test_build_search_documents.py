@@ -29,6 +29,8 @@ class BuildSearchDocumentsTests(unittest.TestCase):
         self.write_file("z.md", "z")
         self.write_file("nested/a.md", "a")
         self.write_file("nested/deeper/middle.md", "middle")
+        self.write_file("CHANGELOG.md", "ignored")
+        self.write_file("nested/CHANGELOG.md", "ignored")
         self.write_file("index.md", "ignored")
         self.write_file("nested/index.md", "ignored")
         self.write_file("log.md", "ignored")

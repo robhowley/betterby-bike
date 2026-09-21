@@ -10,7 +10,7 @@ from pathlib import Path
 from urllib.parse import quote, unquote, urlsplit
 
 
-EXCLUDED_BASENAMES = frozenset({"index.md", "log.md"})
+EXCLUDED_BASENAMES = frozenset({"CHANGELOG.md", "index.md", "log.md"})
 RAW_PDF_BASE_URL = "https://raw.githubusercontent.com/robhowley/betterby-bike/main/raw-sources/"
 REPOSITORY_ROOT = Path(__file__).resolve().parent.parent
 SOURCE_ROOT = REPOSITORY_ROOT / "betterby-bike"
