@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta
+      name="description"
+      content="A clickable preview of Better by Bike research search results."
+    >
+    <title>Better by Bike | Search preview</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+      href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=Sora:wght@600&display=swap"
+      rel="stylesheet"
+    >
+    <link rel="stylesheet" href="./results-preview.css">
+    <script src="./results-preview.js" defer></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#results-view">Skip to results</a>
+
+    <div class="site-frame">
+      <header class="site-header">
+        <div class="brand-row">
+          <a class="brand-link" href="./results-preview.html" aria-label="Better by Bike search preview">
+            <span class="wordmark">better by bike</span>
+            <span class="route-mark" aria-hidden="true"><span></span></span>
+          </a>
+          <span class="preview-label">Search preview</span>
+        </div>
+
+        <p class="site-intro">Research on safer streets, in plain language.</p>
+
+        <form id="search-form" class="search-form" role="search" aria-label="Search the Better by Bike preview">
+          <label class="visually-hidden" for="search-input">Search the sample research</label>
+          <div class="search-box">
+            <input
+              id="search-input"
+              class="search-input"
+              name="q"
+              type="search"
+              placeholder="Search the sample research"
+              autocomplete="off"
+              spellcheck="false"
+            >
+            <button id="search-clear" class="clear-button" type="button" aria-label="Clear search" hidden>
+              <svg viewBox="0 0 24 24" aria-hidden="true">
+                <path d="M7 7l10 10M17 7L7 17"></path>
+              </svg>
+            </button>
+            <button class="submit-button" type="submit">
+              <span>Search</span>
+              <svg viewBox="0 0 24 24" aria-hidden="true">
+                <circle cx="10.8" cy="10.8" r="6.3"></circle>
+                <path d="m16 16 4.2 4.2"></path>
+              </svg>
+            </button>
+          </div>
+        </form>
+      </header>
+
+      <main>
+        <section id="results-view" class="results-view" aria-labelledby="results-heading">
+          <div class="results-heading-row">
+            <div>
+              <p class="eyebrow">Sample results</p>
+              <h1 id="results-heading">Results for “injury”</h1>
+            </div>
+            <p id="result-count" class="result-count" aria-live="polite"></p>
+          </div>
+
+          <p class="preview-note">
+            Preview only: four curated documents from the Better by Bike corpus, not a production search connection.
+          </p>
+
+          <p id="search-status" class="search-status" role="status" aria-live="polite"></p>
+          <div id="search-results" class="search-results" role="list"></div>
+
+          <div id="no-results" class="no-results" hidden>
+            <h2>No sample documents matched that search.</h2>
+            <p>Try <button class="inline-search" type="button" data-query="injury">injury</button>, Montreal, route, or cycle track.</p>
+          </div>
+        </section>
+
+        <section id="reading-view" class="reading-view" aria-labelledby="reading-title" hidden>
+          <a id="back-link" class="back-link" href="?q=injury#results-view">← Back to results</a>
+          <article id="reading-article" class="reading-article">
+            <p id="reading-kicker" class="reading-kicker"></p>
+            <h1 id="reading-title" tabindex="-1"></h1>
+            <p id="reading-deck" class="reading-deck"></p>
+
+            <div class="reading-layout">
+              <div id="reading-content" class="reading-content"></div>
+              <aside class="reading-aside" aria-label="Document source">
+                <p class="aside-label">Source</p>
+                <div id="reading-sources" class="source-links"></div>
+                <p class="aside-note">This reading view is a short, curated rendering of one corpus document.</p>
+              </aside>
+            </div>
+          </article>
+        </section>
+      </main>
+
+      <footer class="site-footer">
+        <span>Better by Bike</span>
+        <span>Four-document interface preview</span>
+      </footer>
+    </div>
+  </body>
+</html>

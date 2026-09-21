@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="A quiet Better by Bike search for research and reporting.">
+    <title>Better by Bike | Search</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&amp;family=Sora:wght@600&amp;display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./styles.css?v=11ef9e0644a1">
+    <script src="https://cdn.jsdelivr.net/npm/okf-minisearch@2.3.0" defer></script>
+    <script src="https://cdn.jsdelivr.net/npm/markdown-it@14.1.0/dist/markdown-it.min.js" defer></script>
+    <script src="https://cdn.jsdelivr.net/npm/markdown-it-footnote@4.0.0/dist/markdown-it-footnote.min.js" defer></script>
+    <script src="https://cdn.jsdelivr.net/npm/dompurify@3.4.15/dist/purify.min.js" defer></script>
+    <script src="./reader.js?v=d44cef772eea" defer></script>
+    <script src="./search.js?v=b658b4bb5974" defer></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#search-results">Skip to results</a>
+    <main class="page-shell">
+      <div class="search-stage">
+        <div class="brand-lockup">
+          <h1 class="wordmark" id="site-title">better by bike</h1>
+          <div class="route-trace" aria-hidden="true"></div>
+        </div>
+
+        <p class="site-intro">Search research and reporting on safer streets and transportation.</p>
+
+        <form id="search-form" class="search-form" role="search" aria-label="Search Better by Bike research and reporting">
+          <label class="visually-hidden" for="search-input">Search Better by Bike research and reporting</label>
+          <div class="search-box">
+            <input
+              id="search-input"
+              class="search-input"
+              name="q"
+              type="search"
+              placeholder="Search research and reporting"
+              autocomplete="off"
+              spellcheck="false"
+            >
+            <button id="search-clear" class="search-clear" type="button" aria-label="Clear search">
+              <svg viewBox="0 0 24 24" aria-hidden="true">
+                <path d="M7 7l10 10M17 7L7 17"></path>
+              </svg>
+            </button>
+            <button class="search-submit" type="submit" aria-label="Search">
+              <svg viewBox="0 0 24 24" aria-hidden="true">
+                <circle cx="10.8" cy="10.8" r="6.3"></circle>
+                <path d="m16 16 4.2 4.2"></path>
+              </svg>
+            </button>
+          </div>
+        </form>
+
+        <p id="search-status" class="search-status" role="status" aria-live="polite"></p>
+        <section id="results-view" class="results-view" hidden>
+          <p class="eyebrow">RESEARCH &amp; REPORTING</p>
+          <h2 id="results-heading"></h2>
+          <section id="search-results" class="search-results" aria-label="Search results" tabindex="-1"></section>
+        </section>
+        <section id="reading-view" class="reading-view" aria-label="Document reader" hidden>
+          <a id="back-to-results" class="back-link" href="?">← Back to results</a>
+          <article class="reading-article">
+            <p id="reading-kicker" class="reading-kicker"></p>
+            <div id="reading-content" class="reading-content"></div>
+          </article>
+        </section>
+      </div>
+    </main>
+  </body>
+</html>
