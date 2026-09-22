@@ -13,6 +13,16 @@ These findings come from one study, not independent replications.
 - [Brain injuries and helmet-law inference](nz-brain-injury-trends-helmet-law.md): the observed decline does not
   identify a causal policy effect.
 
+## 2012 helmet-law evaluation
+
+These findings come from Clarke's secondary review. Its injury table repeats Tin Tin et al.'s national study rather
+than supplying independent evidence.
+
+- [Cyclist-to-pedestrian fatality ratio](nz-cyclist-pedestrian-fatality-ratio-1989-2009.md): an unadjusted activity-hour
+  calculation with an unresolved 2006–09 count discrepancy.
+- [53-premature-death estimate](nz-helmet-law-premature-death-estimate.md): an assumption-based counterfactual, not a
+  measured mortality effect.
+
 ## Cycle tracks and route comparisons
 
 The first two findings describe one Montreal study; the third is that publication's reanalysis of earlier Palo Alto

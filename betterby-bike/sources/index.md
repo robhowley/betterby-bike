@@ -3,6 +3,9 @@
 - [Injuries to pedal cyclists on New Zealand roads, 1988-2007](2010-nz-bike-injuries.md): national mortality, hospital
   and travel-survey analysis of cycling injury rates and profiles, published in 2010.
 
+- [Evaluation of New Zealand's bicycle helmet law](2012-evaluation-nz-bike-helmet.md): a 2012 secondary review of
+  cycling activity, fatalities and injury trends, with broad causal and policy claims.
+
 - [Risk of injury for bicycling on cycle tracks versus in the street](2011-montreal-cycle-track-injury-risk.md): six
   Montreal two-way tracks compared with nearby streets, plus a reanalysis of published sidewalk-bikeway crash data;
   published in 2011.

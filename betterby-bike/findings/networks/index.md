@@ -1,5 +1,8 @@
 # Network findings
 
+- [New Zealand cycling-time decline](nz-cycling-activity-decline-1989-2009.md): survey data report a 51% fall in average
+  cycling time per person from 1989–90 to 2006–09, without identifying a helmet-law effect.
+
 - [ACS active-commuting measurement limits](acs-active-commuting-measurement-limits.md): work-only and
   greatest-distance mode reporting omit other active travel; city and metro boundaries yield different shares.
 
