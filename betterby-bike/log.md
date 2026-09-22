@@ -1,5 +1,20 @@
 # Ingestion history
 
+## 2026-09-21
+
+Ingested [Clarke’s 2012 evaluation of New Zealand’s bicycle helmet law](sources/2012-evaluation-nz-bike-helmet.md).
+Reviewed and corrected partial drafts. Added Findings on
+[cycling-time decline](findings/networks/nz-cycling-activity-decline-1989-2009.md),
+[cyclist/pedestrian fatality ratios](findings/safety/nz-cyclist-pedestrian-fatality-ratio-1989-2009.md) and the
+[53-premature-death estimate](findings/safety/nz-helmet-law-premature-death-estimate.md). Revised
+[cycling injury risk](topics/cycling-injury-risk.md) to separate observed trends from law-attributable effects and
+assumed health losses. Linked existing Tin Tin et al. Findings instead of duplicating the underlying injury study;
+retained both higher overall and lower serious injury rates relative to 1988–91. Recorded conflicting fatality totals,
+unweighted child activity averages and missing inputs for the mortality estimate. Read all ten PDF pages, including
+methods, assessments, Tables 1–5 and references; visually checked all five tables. External cited reports were not
+separately reviewed. Updated affected indexes; left raw sources and metadata unchanged. Checks were limited to these
+ingestion edits, not bundle-wide validation.
+
 ## 2026-09-19
 
 Ingested [NerdWallet's June 2024 car-cost explainer](sources/2024-nerd-wallet-cost-car-ownership.md).

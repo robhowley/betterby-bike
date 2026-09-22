@@ -1,12 +1,13 @@
 # Topics
 
 - [Interpreting cycling injury risk](cycling-injury-risk.md): how exposure, severity, crash coverage and route selection
-  affect New Zealand injury trends, Montreal cycle-track comparisons and Toronto–Vancouver within-trip infrastructure
-  estimates; why NYC claims, all-user injury changes and short U.S. conflict observations do not establish cyclist risk
-  reductions; how Seville's citywide collision rates and network models differ from causal effects, and why Asbury
-  Park's lower turning speeds do not measure injury reductions; reported 12-city all-user casualty associations
-  lack the detail needed to establish installation effects or equally distributed benefits; NYC DOT's 2023 serious-casualty
-  claims are not measured outcomes of the newly announced East New York lanes.
+  affect New Zealand injury trends, and how Clarke's secondary helmet-law review reuses those data without identifying
+  a causal effect; Montreal cycle-track comparisons and Toronto–Vancouver within-trip infrastructure estimates; why NYC
+  claims, all-user injury changes and short U.S. conflict observations do not establish cyclist risk reductions; how
+  Seville's citywide collision rates and network models differ from causal effects, and why Asbury Park's lower turning
+  speeds do not measure injury reductions; reported 12-city all-user casualty associations lack the detail needed to
+  establish installation effects or equally distributed benefits; NYC DOT's 2023 serious-casualty claims are not
+  measured outcomes of the newly announced East New York lanes.
 
 - [Evaluating street redesign outcomes](street-redesign-outcomes.md): NYC project metrics and five-city protected-lane
   counts, comfort, mixed resident responses, FHWA emergency-access accounts, Iowa emergency-response evidence

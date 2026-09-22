@@ -27,6 +27,9 @@ sources:
   - id: nz2010
     resource: /sources/2010-nz-bike-injuries.md
     title: Injuries to pedal cyclists on New Zealand roads, 1988-2007
+  - id: clarke2012
+    resource: /sources/2012-evaluation-nz-bike-helmet.md
+    title: Evaluation of New Zealand’s bicycle helmet law
   - id: lusk2011
     resource: /sources/2011-montreal-cycle-track-injury-risk.md
     title: Risk of injury for bicycling on cycle tracks versus in the street
@@ -268,6 +271,17 @@ confirmation, and does not resolve that study's rate/count differences.[^short20
 
 ## What remains unresolved
 
+Clarke’s 2012 secondary review adds a
+[51% fall in average cycling hours per person](/findings/networks/nz-cycling-activity-decline-1989-2009.md) from
+1989–90 to 2006–09 and a
+[cyclist-to-pedestrian fatality ratio rising from 1.24 to 2.44](/findings/safety/nz-cyclist-pedestrian-fatality-ratio-1989-2009.md).
+The latter has inconsistent source counts and does not mean cyclists’ absolute fatality rate doubled. Neither
+calculation isolates the 1994 helmet law from other changes. The
+[estimate of 53 premature deaths per year](/findings/safety/nz-helmet-law-premature-death-estimate.md) assumes lost
+cycling is attributable to the law and cites a WHO health-assessment method without enough inputs to reproduce the
+result. It is not observed mortality caused by the law. Table 4 repeats Tin Tin et al.’s mixed results (higher overall
+injury rates but lower serious injury rates than 1988–91), not independent confirmation.[^clarke2012]
+
 The New Zealand study does not establish why cycling injury rates changed. Its safety-in-numbers discussion is a
 possible explanation, not a measured causal effect. Likewise, the
 [decline in traumatic brain injury](/findings/safety/nz-brain-injury-trends-helmet-law.md) does not isolate an effect of
@@ -296,7 +310,8 @@ counts and commuter-weighted rates, including uncertain dooring results.
 estimation, model comparisons and limits on causal interpretation.
 
 [Injuries to pedal cyclists on New Zealand roads, 1988-2007](/sources/2010-nz-bike-injuries.md) describes the study
-population, methods and limitations.
+population, methods and limitations. [Clarke’s helmet-law evaluation](/sources/2012-evaluation-nz-bike-helmet.md)
+reuses those injury rates and adds survey, fatality and assumption-based health calculations.
 
 [Risk of injury for bicycling on cycle tracks versus in the street](/sources/2011-montreal-cycle-track-injury-risk.md)
 describes the Montreal comparison and the separate Palo Alto reanalysis.
@@ -350,3 +365,6 @@ perceived safety and comfort from long-term crash evidence.
 [^lusk2011]: Lusk et al. (2011), Methods pp. 131–132, Tables 1–3 pp. 132–133, Table 4 and Discussion pp. 133–134.
 
 [^nz2010]: Tin Tin et al. (2010), Tables 1–3 pp. 4–5, Figures 1 and 3 pp. 5 and 7, and Discussion pp. 4, 6 and 8–9.
+
+[^clarke2012]: Clarke (2012), Tables 1–3 pp. 2–3; Tables 4–5 p. 4; health assessment pp. 5–6.
+    Its fatality totals conflict between Table 2, Table 3 and the compensation discussion p. 6.
