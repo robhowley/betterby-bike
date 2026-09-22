@@ -6,3 +6,5 @@
 !/.pi/prompts/
 /site/search-documents.json
 __pycache__/
+/raw-sources/media/
+.playwright-browsers/
