@@ -1,5 +1,22 @@
 # Design findings
 
+- [Jersey City quick-build installation limits](jersey-city-quick-build-installation-limits.md): reported lane miles
+  and treatment counts are not dated current totals or measured safety, cost or delivery-time benefits.
+
+- [Boston two-stage queue-box use limits](boston-two-stage-queue-box-use-limits.md): abstract reports noncompliance
+  at three intersections with eight boxes, without usage rates, a compliance definition or measured safety effects.
+
+- [PBIC youth-focused design guidance](pbic-youth-design-guidance-limits.md): simpler crossings, separation,
+  accessibility and adult accompaniment, not a measured complete-network or equity benefit.
+
+- [NYC bike-lane violation extrapolation](nyc-bike-lane-violation-extrapolation-limits.md): 13-camera reporting
+  scaled to annual violations and potential citations, not measured enforcement or safety benefits.
+
+- [NJDOT traffic-calming guidance limits](njdot-traffic-calming-guidance-limits.md): geometric changes versus
+  supporting visual treatments, with no study-level effect estimates in the reviewed chapter.
+- [NJDOT bicycle-space and merge instructions](njdot-traffic-calming-bicycle-space.md): historical guidance avoids
+  intrusion at some devices but ends lanes at roundabouts and median tapers, without comparative outcome evidence.
+
 - [MUTCD green-pavement approval conditions](mutcd-green-pavement-approval-conditions.md): historical 2011 optional
   use, supplemental markings, safety obligations and material guidance.
 - [MUTCD green-pavement evidence limits](mutcd-green-pavement-evidence-limits.md): FHWA's favorable operational

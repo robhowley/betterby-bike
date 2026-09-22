@@ -1,5 +1,26 @@
 # Network findings
 
+- [NJTPA trip-potential score limits](njtpa-trip-potential-score-limits.md): 0–100 spatial planning scores and
+  different walking/cycling buffers do not measure trips, usable routes or equitable benefits.
+
+- [London's 2022 cycling recovery](london-2022-cycling-recovery-measurement.md): weekday distance 18% above 2019,
+  versus 14% trip growth; revised absolute levels and unrepresentative pandemic counts limit comparisons.
+
+- [NABSA's 2021 ridership recovery](nabsa-2021-ridership-recovery.md): 128 million estimated trips remained below
+  2019 despite a larger fleet; annual totals and selected-system monthly trends have different coverage.
+- [NABSA's mode-replacement surveys](nabsa-mode-replacement-survey-limits.md): car and walking replacement both
+  reported at 37%, from mixed-year survey averages, not measured traffic reduction.
+
+- [London's 2017 cycling indicators](london-2017-cycling-indicator-differences.md): trips fell 0.3% while daily
+  cycle-kilometres rose 4.3%; area counts, cordons and vehicle shares have different denominators.
+- [Mini-Holland active travel](london-mini-holland-active-travel.md): adjusted resident-panel associations of
+  41 and 44 extra weekly walking/cycling minutes, with mixed participation, driving and investment-attitude results.
+
+- [King County travel-mile estimation](king-county-travel-mile-estimation.md): survey, count-expansion and model
+  results vary widely for the Puget Lowlands portion of the county; demonstrations are not actual-travel baselines.
+- [Washington count-expansion limits](washington-count-expansion-limits.md): nonrandom sites, rural gaps and
+  one bridge's bicycle adjustment factors prevent reliable statewide travel totals.
+
 - [New Zealand cycling-time decline](nz-cycling-activity-decline-1989-2009.md): survey data report a 51% fall in average
   cycling time per person from 1989–90 to 2006–09, without identifying a helmet-law effect.
 
