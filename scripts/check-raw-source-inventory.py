@@ -60,6 +60,13 @@ def _key_value(line: str) -> tuple[str, str | None] | None:
 def resource_references(markdown: str) -> list[str]:
     """Return top-level and nested sources[].resource values from frontmatter."""
     references: list[str] = []
+
+    def append_resource(parsed: tuple[str, str | None] | None) -> None:
+        if parsed is not None:
+            key, value = parsed
+            if key == "resource" and value is not None:
+                references.append(value)
+
     in_sources = False
     source_entry_indent: int | None = None
 
@@ -75,9 +82,8 @@ def resource_references(markdown: str) -> list[str]:
                 in_sources = False
                 source_entry_indent = None
                 continue
-            key, value = parsed
-            if key == "resource" and value is not None:
-                references.append(value)
+            append_resource(parsed)
+            key = parsed[0]
             in_sources = key == "sources"
             source_entry_indent = None
             continue
@@ -86,20 +92,12 @@ def resource_references(markdown: str) -> list[str]:
             continue
         if content == "-" or content.startswith("- "):
             source_entry_indent = indent
-            parsed = _key_value(content[1:].strip())
-            if parsed is not None:
-                key, value = parsed
-                if key == "resource" and value is not None:
-                    references.append(value)
+            append_resource(_key_value(content[1:].strip()))
             continue
         if source_entry_indent is None or indent != source_entry_indent + 2:
             continue
 
-        parsed = _key_value(content)
-        if parsed is not None:
-            key, value = parsed
-            if key == "resource" and value is not None:
-                references.append(value)
+        append_resource(_key_value(content))
 
     return references
 
@@ -171,15 +169,12 @@ def build_inventory(
 
     for summary_path in find_source_summaries(source_root):
         markdown = summary_path.read_text(encoding="utf-8")
-        referenced_paths: set[Path] = set()
         for resource in resource_references(markdown):
             resolved_path = resolve_local_resource(
                 resource, summary_path, raw_sources_root
             )
             if resolved_path in matches:
-                referenced_paths.add(resolved_path)
-        for raw_path in referenced_paths:
-            matches[raw_path].add(summary_path)
+                matches[resolved_path].add(summary_path)
 
     return {
         raw_path: tuple(sorted(summary_paths, key=lambda path: path.as_posix()))
@@ -208,6 +203,8 @@ def format_inventory(
         if unmatched_only and summary_paths:
             continue
         lines.append(_display_path(raw_path, repository_root))
+        if unmatched_only:
+            continue
         if summary_paths:
             lines.append("  referenced by Source summary:")
             lines.extend(

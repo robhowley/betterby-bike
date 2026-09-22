@@ -133,8 +133,8 @@ sources:
         self.assertIn("Totals: 1 raw PDFs, 1 referenced by Source summary, 0 no matching summary.", report)
 
     def test_unmatched_filter_keeps_totals_and_hides_matches(self) -> None:
-        matched_pdf = self.add_pdf("research/matched.pdf")
-        unmatched_pdf = self.add_pdf("research/unmatched.pdf")
+        self.add_pdf("research/matched.pdf")
+        self.add_pdf("research/unmatched.pdf")
         self.write_summary(
             "matched.md",
             """---
@@ -151,13 +151,11 @@ resource: ../../raw-sources/research/matched.pdf
                 exit_code = inventory_script.main(["--unmatched"])
 
         self.assertEqual(exit_code, 0)
-        report = output.getvalue()
-        self.assertIn("raw-sources/research/unmatched.pdf", report)
-        self.assertNotIn("raw-sources/research/matched.pdf", report)
-        self.assertIn("no matching summary", report)
-        self.assertIn("Totals: 2 raw PDFs, 1 referenced by Source summary, 1 no matching summary.", report)
-        self.assertNotIn(str(matched_pdf.relative_to(self.repository)), report)
-        self.assertIn(str(unmatched_pdf.relative_to(self.repository)), report)
+        self.assertEqual(
+            output.getvalue(),
+            "raw-sources/research/unmatched.pdf\n"
+            "Totals: 2 raw PDFs, 1 referenced by Source summary, 1 no matching summary.\n",
+        )
 
 
 if __name__ == "__main__":
