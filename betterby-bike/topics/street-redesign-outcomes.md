@@ -6,6 +6,48 @@ description:
   attribution to individual treatments.
 tags: [street design, business, mobility, safety, measurement, emergency response]
 sources:
+  - id: wheels
+    resource: /sources/wheels-to-meals-micromobility-restaurant-demand.md
+    title: "Wheels to Meals: Measuring the Impact of Micromobility on Restaurant Demand"
+  - id: nonexhaust
+    resource: /sources/traffic-related-non-exhaust-particulate-emissions-literature-review.md
+    title: Traffic-related non-exhaust particulate emissions (review executive-summary excerpt)
+  - id: budapesthighlights
+    resource: /sources/induced-road-traffic-and-capacity-change-highlights.md
+    title: Budapest bridge capacity and induced traffic (unidentified study highlights)
+  - id: carmageddon
+    resource: /sources/carmageddon.md
+    title: Carmageddon, partial excerpts
+  - id: inducedexcerpt
+    resource: /sources/induced-road-traffic-and-capacity-change-article-excerpt.md
+    title: Induced road traffic and capacity change (unidentified article excerpt)
+  - id: urbantech
+    resource: /sources/impact-urban-technology-deployments-local-commercial-activity.md
+    title: Impact Of Urban Technology Deployments On Local Commercial Activity
+  - id: greenline
+    resource: /sources/green-line-lrt-adjacent-road-traffic-analysis.md
+    title: Green Line LRT adjacent-road traffic analysis (conclusion excerpt)
+  - id: dashdamirov2026
+    resource: /sources/2026-bus-lane-implementation-expediency-different-lane-numbers.md
+    title: Evaluation of Bus Lane Implementation Expediency on Streets with Different Lane Numbers
+  - id: litman
+    resource: /sources/2023-vtpi-smart-congestion-relief.md
+    title: Smart Congestion Relief
+  - id: openplans
+    resource: /sources/2023-curb-the-chaos-solutions-for-cities-at-the-curb.md
+    title: "Curb the Chaos: Solutions for Cities at the Curb"
+  - id: njdot
+    resource: /sources/2015-njdot-roadway-design-manual.md
+    title: NJDOT Roadway Design Manual 2015
+  - id: kruse
+    resource: /sources/1998-remove-it-and-they-will-disappear.md
+    title: Remove It and They Will Disappear
+  - id: gomez2021
+    resource: /sources/2021-northjersey-pedestrian-safety-nj.md
+    title: We gathered 10 years of data on pedestrian fatalities in North Jersey. Here’s what we found
+  - id: morel2021
+    resource: /sources/2021-northjersey-pedestrian-safety-programs.md
+    title: NJ faces ‘a real problem’ of pedestrian safety. Here’s what towns are doing to improve it
   - id: rogers2024
     resource: /sources/2024-business-insider-bikes-good-for-business.md
     title: Bike lanes are good for business
@@ -14,7 +56,8 @@ sources:
     title: More Bostonians are biking as bike lanes boom, but barriers remain
   - id: nycdot2023
     resource: /sources/2023-nycdot-bike-lanes-pedestrians.md
-    title: NYC DOT Completes East New York’s Longest Protected Bike Lane Project, Delivering Much-Needed Safety Near Schools
+    title: >-
+      NYC DOT Completes East New York’s Longest Protected Bike Lane Project, Delivering Much-Needed Safety Near Schools
   - id: cuba2019
     resource: /sources/2019-streetsblog-fdny-traffic-is-the-problem.md
     title: "FDNY: Traffic, Not Bike Lanes, is to Blame for Increased Response Times"
@@ -98,6 +141,23 @@ are not independent replications. Successive NYC reports also cover overlapping 
   accompanied bicycle lanes, signals and turn changes. It shows a reported improvement alongside bicycle provision, not
   that bicycle lanes alone reduced delay.
 
+## Pollution source shares are not measured redesign benefits
+
+Traffic pollution includes wear and resuspended material, not only exhaust. A cropped review summary reports
+[near-equal exhaust/non-exhaust contributions to traffic-related PM10](/findings/non-exhaust-pm10-review-share-limits.md)
+and markedly different brake-wear shares in urban and freeway settings. This qualifies any assumption that exhaust
+alone describes traffic particulate emissions, but supplies no evaluated street intervention. It is secondary
+synthesis with unknown study identities, not another primary measurement.[^nonexhaust]
+
+Unlike the traffic-volume and modeled travel-time evidence below, these figures describe pollutant source shares.
+None can substitute for measured changes in emissions, concentrations or exposure after a redesign. A growing
+non-exhaust share as exhaust declines need not mean growing absolute non-exhaust emissions. The excerpt lacks the
+methods, fleet composition, dates and supporting tables needed to transfer its estimates to a local project or
+compare electric and combustion vehicles.
+
+[^nonexhaust]: Supplied non-exhaust review PDF p. 1, cropped “EXECUTIVE SUMMARY”; only the visible image was read,
+    not the full review or underlying studies.
+
 ## Announced infrastructure is not a measured safety outcome
 
 [NYC DOT's September 2023 East New York release](/sources/2023-nycdot-bike-lanes-pedestrians.md) reports substantial
@@ -108,6 +168,46 @@ refer to protected-lane designs generally, not a before/after evaluation of this
 corridor evaluations, the announcement supplies no local injury outcomes. School proximity, outreach and equity-based
 project prioritization describe intended beneficiaries and implementation, not measured school-travel safety or an
 equitable distribution of benefits.[^nycdot2023]
+
+The [Jersey City quick-build excerpt](/findings/design/jersey-city-quick-build-installation-limits.md) likewise
+reports delivery rather than evaluated benefits: 20 miles of protected lanes and several other installation counts
+for unspecified “recent years.” Unlike proposed targets, these are presented as completed installations, but the
+crop supplies no dated baseline or safety, cost or delivery-time comparison. Its endorsement of paint, temporary
+materials and repaving opportunities is a strategy rationale, not proof that quick-build projects outperform
+conventional construction. Missing publication details and references also prevent verification of the totals.
+
+## Local counts and campaign accounts need coverage and exposure checks
+
+NorthJersey.com's [2010–2020 police-records reporting](/findings/safety/north-jersey-pedestrian-death-counts.md)
+adds historical pedestrian deaths, not a redesign comparison: 296 collected deaths exclude some Essex municipalities,
+including Newark. Its 33 deaths in 2019 versus 32 in 2020 cannot establish safer walking without exposure, and
+incomplete county totals cannot rank pedestrian risk. These differ from NYC's project-specific injury counts in
+both coverage and comparison basis.[^gomez2021]
+
+The companion [Street Smart reporting](/findings/safety/north-jersey-street-smart-effect-limits.md) also limits
+claims about alternatives to physical redesign. Newton and Morristown police described favorable behavioral or
+crash changes, but Fair Lawn attributed its post-launch crash decline likely to pandemic reductions in driving
+and walking. No controlled or numerical program effect is supplied. These accounts neither prove education and
+enforcement effective nor establish infrastructure's superiority; implementation, police impressions and crash
+exposure are different evidence. Both articles belong to one news series, not independent evaluations of a
+common intervention.[^morel2021]
+
+## Youth needs change targeting, not the meaning of an evaluated benefit
+
+PBIC's [Philadelphia account](/findings/safety/philadelphia-youth-crash-network-coverage.md) reports 61% of youth
+pedestrian injury crashes outside the city's high-injury network in a five-year analysis of under-18s. Unlike a
+before/after project result, this describes where recorded crashes occurred. The youth injury-crash denominator
+also differs from the fatal/serious-crash emphasis used to define high-injury networks. Without exposure, case
+counts or exact years, it cannot rank off-network risk or demonstrate failure of a network intervention.
+Police underreporting, particularly for children, adds a separate limit to crash-based targeting.
+
+PBIC's [youth-focused design guidance](/findings/design/pbic-youth-design-guidance-limits.md) recommends shorter
+and staged crossings, separation, lower speeds and improved visibility to account for developing judgment and
+shorter sight lines. Like NJDOT's guidance, these recommendations are not independent evaluations of the cited
+treatments. PBIC calls for accessibility compliance, attention to road crossings on separated paths and continued
+adult accompaniment for young children. Neither school proximity nor recommended design establishes safe
+independent travel or equitable benefits. Its engagement examples document participation, not measured outcomes;
+its secondary camera-program speeding reductions cannot stand in for youth injury effects from bicycle lanes.
 
 ## Treat the whole project as the observed intervention
 
@@ -172,6 +272,14 @@ including car commuters. Neither comfort nor stated willingness to cycle measure
 [Intersection observations](/findings/design/green-lanes-intersection-behavior.md) also show why perceived understanding
 cannot substitute for observing positioning and signal compliance. Designs differed in both behavior and traffic
 context, so the results do not establish a universal best treatment.[^monsere2014]
+
+The [Boston two-stage turn queue-box abstract](/findings/design/boston-two-stage-queue-box-use-limits.md) adds
+reported noncompliance from video at three intersections containing eight boxes, but no usage rates or definition
+of noncompliance. Unlike the Green Lane evaluation, the available abstract cannot quantify intended use or support
+comparisons between designs. Its separate inventory of 81 boxes is not the behavioral sample. Both studies caution
+against assuming intended positioning from installed infrastructure, but this abstract reports no safety or comfort
+outcomes, and its proposed design/education applications are not tested remedies. The full Boston study and its
+claimed contrast with earlier studies remain unreviewed.
 
 [Boston's interviewed riders](/sources/2024-boston-globe-bike-boom.md) describe more comfortable everyday trips,
 but all three were experienced cyclists, not evidence of adoption among beginners. One still mostly drove to day
@@ -314,6 +422,207 @@ presentation repeats a 2013 economic report, does not detail matching or uncerta
 from the whole redesign. Ninth Avenue's 47% versus 43%/23% comparisons must remain distinct from the earlier “up to
 49% versus 3%” claim; these are not independent confirmations.[^nyc2014]
 
+## Resident panels can distinguish activity changes from route counts
+
+TfL's [London cycling indicators](/findings/networks/london-2017-cycling-indicator-differences.md) reinforce the
+limits of corridor growth: 2017 cycle trips fell slightly while distance rose, and area counts rose while strategic
+cordon counts fell. A busy new route is not sufficient evidence of net new cycling across a city.
+
+The [Mini-Holland resident panel](/findings/networks/london-mini-holland-active-travel.md) adds a stronger comparison
+than route counts alone. TfL reports 41 and 44 additional past-week walking/cycling minutes in substantially
+implemented areas in 2017 and 2018, relative to baseline and outer-London controls, with demographic adjustment.
+Yet walking increased more than cycling, cycling participation reached significance only in the first follow-up,
+and the general proximity-related driving-time decline was nonsignificant. More favorable results in modally
+filtered neighborhoods concern a narrower exposure group, not a universal driving reduction.
+
+This nonrandomized panel evaluates a package of routes, filtering, public space and supporting measures, not a
+bike-lane-only effect. It has substantial sample loss and demographic underrepresentation; repeated waves and
+papers are not independent confirmations. Improved cycling-environment perceptions also coexisted with a rise
+from 27% to 36% saying too much was invested in cycling, and no consistent improvement in non-cycling environment
+items. Behavioral change, perceived conditions and political support remain separate outcomes.
+
+## Capacity reduction can change travel, but disappearance percentages need boundaries
+
+[Kruse's historical secondary account](/sources/1998-remove-it-and-they-will-disappear.md) broadens the question
+beyond NYC corridor travel times: people may change travel rather than simply divert to adjacent roads. Its
+[reported 25% average across a 60-case review](/findings/operations/kruse-capacity-reduction-traffic.md) lacks a
+defined denominator and calculation method. Nürnberg's nearly 80% displaced-traffic account versus 7% overall
+reduction, and the West Side Highway's local versus overall percentages, show why missing traffic on a closed
+route is not a citywide percentage reduction. These cases share one secondary account, not independent review
+replications.[^kruse]
+
+The [Hammersmith survey](/findings/operations/hammersmith-bridge-reported-commute-change.md) reportedly found
+21% of former bridge car commuters no longer drove to work shortly after closure. That adds individual adaptation,
+not measured cycling growth or a quantified congestion effect. Kruse also acknowledges possible absence of
+measurable traffic reduction and dependence on network conditions and travel alternatives. The evidence challenges
+inevitable-gridlock assumptions without guaranteeing no delay or a standard reduction for every project. Its
+waterfront-revival examples and economic advocacy do not independently estimate closure-induced jobs or sales.[^kruse]
+
+An [unidentified article excerpt's expansion ranges](/findings/operations/induced-traffic-excerpt-reported-ranges.md)
+add a different claim: 10% more metropolitan lane miles reportedly accompanies 3%–6% more traffic in the first
+few years and 6%–10% in the “following five to ten years.” Unlike the named reduction review above, neither the
+article nor its underlying studies can be identified from the crop. The traffic measure and methods are absent,
+so these ranges are not a local forecast or measured congestion effect. Its unquantified Hungarian reverse-response
+claim does not establish symmetric expansion/reduction effects; unknown study overlap also prevents treating this
+as independent confirmation of the other accounts.[^inducedexcerpt]
+
+[Budapest bridge study highlights](/findings/operations/budapest-bridge-capacity-traffic-highlights.md) report a
+more specific result: an average five-year traffic elasticity of 0.5 across eight major capacity changes,
+characterized as relatively stable over 55 years. They explicitly claim similarly strong reduction and expansion
+effects, but provide no separate estimates or methods with which to assess symmetry or causality. This does not
+resolve the traffic-boundary problem above or measure congestion relief. The highlights may concern the article's
+unnamed Hungarian study; that connection is unconfirmed, so the accounts are not independent confirmations and
+the Budapest estimate should not be pooled with the metropolitan ranges.[^budapesthighlights]
+
+*Carmageddon* adds a further [denominator distinction](/findings/operations/carmageddon-induced-demand-denominators.md):
+its tentative 2% more overall driving per 10% more capacity differs from urban estimates of up to 40% of added
+capacity used after six months and 100% after four years. The latter are not 40%/100% growth in all driving.
+Whole-network and urban settings also differ; unnamed studies and missing methods prevent pooling these estimates
+with the article's ranges or claiming independent confirmation. The author's congestion-rebound explanation is
+not a measured universal timetable, and the book explicitly says induced demand is not inherently bad.[^carmageddon]
+
+Its West Side Highway narrative repeats Kruse's historical case rather than adding an independent closure test.
+The cropped chapter opening's assertion that the collapse proved a weak link between congestion and road space
+supplies no measurements; that broad interpretation should not replace the qualified case evidence.
+It retains the severe initial jam and admits uncertainty about where cars went afterward, despite reporting no
+subsequent predicted disaster. Increased total travel into the southern business district with fewer car arrivals
+is unquantified secondary reporting, not measured cycling substitution or proof of zero delay.[^carmageddon]
+
+Page 120 repeats the Manhattan access claim without adding a study. Its recommendation to reserve road space
+for trips without practical alternatives or charge its market value is a policy argument, not a measured
+congestion benefit. Similarly, unquantified Underground fare/ridership and transit-adjacent housing claims cannot
+establish affordability or property-price effects; the assertion that most vehicles are stationary 95% of the time
+cannot determine how much parking a redesign needs. These broaden the author's rationale, not the evaluated
+outcomes available for comparing projects.[^carmageddon]
+
+Pages 118–119 add a critique of speed-based congestion costs and an argument for tolls before widening. The
+book's reported INRIX dollar/pound totals lack estimate years and valuation methods; its Kentucky bridge and
+M6 Toll references are unquantified on those pages. Pages 116–117 now supply
+[Louisville crossing counts and a $2 toll](/findings/operations/louisville-tolled-bridge-reported-traffic.md), but
+possible diversion to an untolled bridge means the reported decline cannot establish regional traffic disappearance.
+Capacity and pricing changed together, and neither delay nor net benefits were measured. The additional
+[M6 counts and forecasting claims](/findings/operations/carmageddon-toll-road-forecast-limits.md) concern forecast
+shortfalls, not an isolated toll effect; missing horizons and study denominators prevent a transferable error
+estimate. Toll avoidance still does not quantify productivity loss or prove additional capacity unnecessary. The
+author's affordability condition and
+proposal to fund public transport are recommendations, not demonstrated access protection or congestion
+reductions. This complements the measurement questions below without independently validating Litman's results
+or supplying a toll-versus-widening evaluation.[^carmageddon]
+
+[^carmageddon]: Supplied induced-demand PDF p. 1, printed pp. 114–115, West Side Highway narrative and
+    induced-demand discussion; supplied road-space PDF p. 1, printed p. 120, mobility and transport-value arguments.
+    Supplied tolls-and-induced-demand PDF p. 1, printed pp. 118–119, cost estimates and pricing arguments;
+    supplied tolls PDF p. 1, printed pp. 116–117, Louisville, M6 and forecasting accounts.
+    Supplied West Side Highway PDF p. 1, cropped chapter opening, first two paragraphs (no visible page number).
+    Only the visible excerpts reviewed, not underlying studies or the full book.
+
+[^budapesthighlights]: ScienceDirect highlights screenshot, supplied PDF p. 1, all three bullets. Only highlights
+    accessed; publication identity, methods and underlying data unavailable.
+
+[^inducedexcerpt]: Unidentified article, supplied PDF p. 1, complete visible cropped passage. Full article and
+    linked studies not accessed; see Source for access and identity limits.
+
+## Congestion intensity, commuter burden and policy recommendations differ
+
+[Litman's 2023 congestion synthesis](/sources/2023-vtpi-smart-congestion-relief.md) explains why corridor speed
+alone cannot evaluate a multimodal redesign. Its [historical city comparison](/findings/operations/vtpi-congestion-measurement-limits.md)
+ranks New York slightly worse than Houston by congestion intensity but better by delay per commuter after weighting
+by auto commute share. This illustrates a denominator choice, not a causal benefit of cycling or a complete measure
+of all travelers' delay. Unlike NYC's timed corridors, it compares regions using mixed-year inputs.[^litman]
+
+The report's [Capital Bikeshare account](/findings/operations/dc-capital-bikeshare-reported-congestion.md) adds a
+reported 4% or greater reduction against estimated congestion without stations, but no primary methods or uncertainty
+sufficient to reassess it. It is neither a bicycle-lane effect nor a citywide vehicle-volume reduction. The DC result
+is separate from NABSA's mode-replacement surveys; Litman's retelling is not another independent study.[^litman]
+
+Litman recommends evaluating person-delay, access, induced travel and co-benefits, and combining alternatives with
+pricing and demand management. His ratings and assumed cost scenarios are not measured returns. The synthesis
+retains possible cycling delays where faster vehicles cannot pass, contested transit results, approximately neutral
+congestion-cost effects of density alone, and modeled transit projects whose congestion savings do not cover direct
+costs. These qualifications argue against a universal no-delay claim. They do not negate measured local improvements,
+but require distinguishing an investment's wider benefits from its effect on remaining drivers.[^litman]
+
+[^litman]: Litman (6 October 2023), pp. 8–9, Tables 1–2; pp. 15–21, 27–35 (evaluation methods);
+    p. 51 (cycling); pp. 53–55 (transit evidence and disputes); pp. 60–64, Table 23 (density, modeling and
+    recommendations). Primary studies not independently read; see Source for table inconsistencies and access scope.
+
+## Adjacent-road volume is not travel delay or network-wide driving
+
+The [Green Line LRT conclusion excerpt](/findings/operations/green-line-lrt-reported-traffic-reduction.md) adds a
+reported controlled before/after comparison of adjacent-road annual average daily traffic in the Twin Cities:
+18% lower adjusted volume, with reductions weakening from 22% in the first two operating years to 16% in the
+next two. Unlike NYC's timed journeys or Litman's congestion indicators, this measures local vehicle volume.
+It cannot establish a corresponding reduction in delay, regional driving or a bicycle-lane effect.[^greenline]
+
+The reported design adjusts for road classification, land use and transit supply, but conclusion-only access
+prevents checking sample selection, control comparability, uncertainty or supporting tables. Suggested development
+and route/mode switching explanations remain interpretations; continued weakening is explicitly a hypothesis.
+This qualifies expectations of lasting traffic reduction without proving that transit benefits disappear.
+The two time-period estimates belong to one study, distinct from the protected-bicycle-lane Green Lane evaluation.[^greenline]
+
+[^greenline]: Supplied Green Line PDF p. 1, “Chapter 5: Conclusion,” methods paragraph and three visible bullets;
+    full publication identity, detailed methods and supporting tables unavailable.
+
+## Bus-lane simulations are screening scenarios, not observed redesign effects
+
+The Baku-informed [two-lane bus-lane examples](/findings/operations/baku-bus-lane-modeled-time-comparisons.md)
+add a modeled trade-off to NYC's observed corridor times and Litman's congestion-measurement discussion.
+The authors report aggregate time decreasing from 58.6 to 57.909 hours under one demand scenario but increasing
+from 36.4 to 39.7 hours under another. These are simulated hourly cohorts, not timed trips after lane installation;
+they neither replicate NYC's gains nor contradict them. Changing passenger volume, vehicle volume and bus frequency
+together does not identify a transferable threshold.[^dashdamirov2026]
+
+The [accounting and model limits](/findings/operations/baku-bus-lane-model-measurement-limits.md) also qualify the
+person-throughput framing: the calculation adds bus passenger-hours to other vehicle-hours, without accounting for
+car occupancy or subtracting free-flow time. The adverse example lies below the stated bus-frequency range, and
+above-limit speeds and conflicting polynomial trends remain unresolved. The authors' recommendation to test
+hour-specific or temporary lanes is a planning proposal, not an evaluated alternative. Safety, reliability,
+emissions, mode shift and network diversion cannot be inferred from these calculations.[^dashdamirov2026]
+
+[^dashdamirov2026]: Dashdamirov and Verdiyev, D4–D10, methods, Tables 3–5, Equations 5–14 and discussion.
+
+## Design guidance is not an outcome evaluation
+
+[NJDOT's historical traffic-calming guidance](/findings/design/njdot-traffic-calming-guidance-limits.md) distinguishes
+physical lane narrowing/removal from supporting visual treatments. It says bicycle lanes may calm traffic, but
+warns against relying on color/texture alone or mid-block curb extensions specifically to reduce speed. These
+are agency guidance statements without study-level estimates in the reviewed chapter, not an independent
+replication or a universal null result to substitute for Asbury Park's measured, movement-specific comparisons.[^njdot]
+
+The manual's [bicycle-space instructions](/findings/design/njdot-traffic-calming-bicycle-space.md) also distinguish
+keeping curb extensions and rumble markings outside cyclists' operating space from ending lanes and directing
+merges at roundabouts and mid-block median tapers. Thus, stated bicycle accommodation is not necessarily
+continuous separation, and neither design intent nor compliance establishes measured comfort or safety.
+The supplied file includes post-2015 revisions; current requirements and the rest of the manual were not reviewed.[^njdot]
+
+[^njdot]: NJDOT, supplied Roadway Design Manual, §15.3.3, printed pp. 15-13–15-15, and §15.3.4,
+    pp. 15-19–15-20; see the Source for the partial-review and revision scope.
+
+## Curb-management strategies, observations and effects are different evidence
+
+[Open Plans' 2023 curb report](/sources/2023-curb-the-chaos-solutions-for-cities-at-the-curb.md) adds interviews and
+implementation cases rather than another controlled redesign evaluation. Seattle's land-use hierarchy, San
+Francisco's strategy and Omaha's digital inventory describe how cities organize curb uses. They do not measure
+the benefits of renaming a parking lane or adopting a data standard. The report recommends planning loading access
+alongside bicycle lanes, rather than displacing a loading zone without considering where loading will occur.
+It also says physical improvements need not await a completed digital inventory.[^openplans]
+
+The [reported 73% reduction in double parking at some NYC loading-zone sites](/findings/operations/nyc-loading-zone-double-parking-report.md)
+is a bounded secondary observation, not a citywide average or measured cyclist-safety gain. Separately,
+[Vade's extrapolated bike-lane violations](/findings/design/nyc-bike-lane-violation-extrapolation-limits.md) estimate
+an obstruction burden from 13 Manhattan cameras, without testing automated enforcement. Citation value cannot
+stand in for improved safety or net revenue. These differ from timed corridor travel and injury outcomes in
+municipal redesign evaluations, and do not independently replicate them.[^openplans]
+
+Smart-loading-zone pilots use different billing, reservation and enforcement arrangements (Figure 2), with no
+comparative outcome table in this report. Its recommendations retain enforcement, maintenance, procurement,
+privacy and equitable-placement constraints. Favorable bus-enforcement examples do not establish that all
+loading-zone technologies work, while interviewees' preference for automated enforcement is not a measured equity
+result. The recommendation tables' impact ratings are judgments, not effect estimates.[^openplans]
+
+[^openplans]: Open Plans, printed pp. 8–9, 24, 38–43, 46–57 (including Figures 1–2), 60–61 and 68–75;
+    cited primary evaluations and vendor analyses not independently read.
+
 ## Local traffic calming is not corridor travel delay
 
 [Asbury Park's 2022 pilot](/findings/design/asbury-park-right-turn-speeds.md) associated temporary delineated lanes
@@ -337,6 +646,55 @@ confirmation. Its 8% straight-traffic headline compresses a direction-specific t
 life-saving claim is the researcher's interpretation. Its additional report that most surveyed lane users liked bike
 lanes has no sample size or percentage, so it adds a rider-attitude account, not a comparable support estimate or
 measured safety benefit.[^rutgers2024][^younes2024]
+
+## Bikeshare commercial proxies add local associations, not net sales gains
+
+Sobolevsky et al.'s [Jersey City comparison](/findings/business/jersey-city-citi-bike-commercial-activity.md)
+adds original station-deployment evidence: five available blocks near Grove Street and Journal Square had
+estimated eating-place sales growth of 3.624%, versus −0.894% in controls, and transaction growth of 2.723%
+versus 0.257%. The controlled tests were significant, but the measures are transformed Mastercard rankings,
+not tax receipts, spending by cyclists or protected-lane effects.[^urbantech]
+
+[Brooklyn's comparisons](/findings/business/brooklyn-citi-bike-commercial-activity.md) qualify a uniform benefit:
+ZIP-code transaction growth did not reach the conventional 5% significance threshold, sales did not confirm
+the pattern, and the separate all-business proximity gradient was not statistically validated. These analyses
+share one publication and data tool, not independent replications of a common effect. The paper's favorable
+LinkNYC association concerns kiosks, not additional cycling evidence.[^urbantech]
+
+[Measurement and attribution limits](/findings/business/urban-deployment-commercial-proxy-limits.md) differ from
+ordinary sales records: score transformation, suppression and rank saturation constrain magnitude and coverage.
+Nonrandom placement at transit hubs leaves local confounding despite prior-year comparisons; growth near stations
+may redistribute rather than add citywide spending. These results complement the six-city study's economic
+records without establishing a typical station benefit or a universal no-harm result. Caption-date errors and
+unclear Table 3 variability notation further limit precise reuse.[^urbantech]
+
+[^urbantech]: Sobolevsky et al., pp. 4–14, Tables 1–6; supplied undated manuscript, not independently accessed
+    business records. See Source for access scope and reporting discrepancies.
+
+## Scooter-user spending is not a citywide or bicycle-lane effect
+
+Kim and McCarthy's [matched card-panel estimate](/findings/business/scooter-entry-rider-restaurant-spending.md)
+adds a different economic comparison from local commercial scores and corridor sales: the authors estimate about
+5.2% higher restaurant spending among eventual scooter users after entry in 49 U.S. cities, relative to controls
+in 49 non-entry cities. Individual purchases are observed, but effects are model-based and concern a selected
+rider population. They do not imply 5.2% growth for all residents or an effect of bicycle-lane installation.[^wheels]
+
+Larger, lower-order-value companies have stronger estimates; the smallest-company subgroup is nonsignificant.
+Thus, the favorable overall result does not establish gains for every restaurant. City matching, individual
+matching, fixed effects and robustness checks address more confounding than simple before/after sales, without
+ruling out time-varying differences or identifying which trips caused spending. This is distinct from the Citi
+Bike study. NABSA's earlier Kim–McCarthy coverage is repeated reporting, not another independent confirmation.
+
+The [non-restaurant null result](/findings/business/scooter-entry-local-spending-null.md) does not prove zero
+displacement: a positive but imprecise coefficient leaves losses possible, and pooled sectors can conceal local
+harm. Likewise, [population and fleet scaling](/findings/business/scooter-restaurant-spending-extrapolation.md)
+turns panel estimates into conditional dollar illustrations, not observed city receipts. The $179.1 annual ratio
+uses permitted scooters in 32 cities, not active devices or a marginal device effect. Dallas tax/profit calculations
+and fees cannot establish municipal payback or social net benefits. These distinctions reinforce the need to keep
+sales, profits, geographic redistribution and program costs separate.[^wheels]
+
+[^wheels]: Kim and McCarthy, supplied manuscript with May 2023 appendix, main pp. 9–27, Tables 2–6,
+    Figure 4; Appendices B–E and G–J. Full extracted text reviewed; see Source for access and version scope.
 
 ## Six-city economic analysis adds controls but retains mixed results
 
@@ -462,12 +820,21 @@ curb-management examples.
 [Active transportation and real estate](/topics/active-transportation-real-estate.md) separates property appreciation,
 developer accounts and affordability from street-level sales and mobility outcomes.
 
+[^kruse]: Kruse, supplied PDF pp. 1–4 (review, survey and differently scoped traffic percentages);
+    pp. 4–5 (economic accounts, network conditions and possible lack of measurable reduction). Primary review not read.
+
+[^gomez2021]: Gomez (2021), supplied PDF pp. 2–4, records coverage, annual counts and Essex exclusions.
+
+[^morel2021]: Morel (2021), same PDF pp. 15–19, program activities, police accounts and pandemic caveat.
+
 [^rogers2024]: Rogers (2024), PDF p. 3, Los Angeles; pp. 4–8, repeated evidence and San Francisco comparisons;
     pp. 10–12, individual losses, compensation proposal and interview interpretations.
 
-[^dolven2024]: Dolven (2024), PDF p. 3 (counting basis), pp. 5–9 (rider accounts), pp. 8–10 (corridor and regional trends).
+[^dolven2024]: Dolven (2024), PDF p. 3 (counting basis), pp. 5–9 (rider accounts), pp. 8–10 (corridor and regional
+    trends).
 
-[^rutgers2024]: MacPherson (2024), Rutgers news article, PDF pp. 1–2, researcher comments, speed summary and rider survey.
+[^rutgers2024]: MacPherson (2024), Rutgers news article, PDF pp. 1–2, researcher comments, speed summary and rider
+    survey.
 
 [^younes2024]: Younes et al. (2024), PDF pp. 7–12, methods; pp. 14–18, Tables 3–6;
     pp. 19–20, discussion/conclusions; p. 26, sampling endnotes.
@@ -500,7 +867,8 @@ developer accounts and affordability from street-level sales and mobility outcom
 [^cuba2019]: Cuba (2019), PDF pp. 2–3, tentative explanation and response-time definition; pp. 4–5, opposing
     accounts; pp. 6–7, mayor's radio comments. Underlying management report not independently reviewed.
 
-[^fhwa]: FHWA, FHWA-SA-17-020, PDF p. 1 (center-lane mechanism and general claims); p. 2 (Ocean City and Woodbury accounts).
+[^fhwa]: FHWA, FHWA-SA-17-020, PDF p. 1 (center-lane mechanism and general claims); p. 2 (Ocean City and Woodbury
+    accounts).
 
 [^streetsblog2015]: Andersen (2015), PDF pp. 1–3, redesign and sales comparison; pp. 3–4, survey and charts;
     pp. 5–6, bicycle traffic and local interpretations.

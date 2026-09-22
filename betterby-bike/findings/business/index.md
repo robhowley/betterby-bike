@@ -1,5 +1,25 @@
 # Business findings
 
+## Scooter entry and restaurant spending
+
+- [Rider restaurant-spending estimate](scooter-entry-rider-restaurant-spending.md): about 5.2% in a matched
+  98-city model, not all-resident growth; stronger fast-food effects and nonsignificant smallest-company results.
+- [Non-restaurant spending uncertainty](scooter-entry-local-spending-null.md): no significant displacement
+  detected, not proof of zero displacement or net benefit.
+- [Population and fleet extrapolation](scooter-restaurant-spending-extrapolation.md): modeled annual dollars
+  and permitted-device ratios, not observed receipts, marginal scooter returns or audited fiscal payback.
+
+## Citi Bike commercial-activity proxies
+
+- [Jersey City eating-place activity](jersey-city-citi-bike-commercial-activity.md): positive controlled
+  associations near two transit hubs, using approximate sales/transaction scores, not observed receipts.
+- [Brooklyn comparisons](brooklyn-citi-bike-commercial-activity.md): weak ZIP-code transaction evidence,
+  unconfirmed sales growth and a statistically unvalidated proximity gradient.
+- [Commercial-proxy limits](urban-deployment-commercial-proxy-limits.md): transformed rankings, selective
+  coverage and nonrandom placement cannot establish net citywide economic gains.
+
+## Other business evidence
+
 - [9th Avenue retail-sales growth](nyc-ninth-avenue-retail-sales.md): up to 49% versus 3% borough-wide in NYCDOT's 2012
   report, without a causal analysis.
 

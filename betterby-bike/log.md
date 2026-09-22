@@ -1,6 +1,554 @@
 # Ingestion history
 
+## 2026-09-22
+
+- Ingested only `raw-sources/research/why-you-cant-beat-traffic-west-side-highway.pdf`, visually reading all
+  visible substantive text after empty extraction. Consolidated the cropped chapter opening into the existing
+  [Carmageddon Source](sources/carmageddon.md), clarified the [existing capacity-reduction Finding](findings/operations/kruse-capacity-reduction-traffic.md)
+  and [street-redesign synthesis](topics/street-redesign-outcomes.md), and updated navigation. Same-heading,
+  publication and case searches confirmed existing book/closure coverage, not an independent study. Added
+  secondary historical context and distinguished the author's broad congestion assertion from measured results;
+  no new Finding was warranted. Page number, ending, full bibliographic identity and original historical/traffic
+  records remain unavailable. Earlier PDFs were not reopened; no inventory rerun or bundle validation.
+
+- Ingested only `raw-sources/research/why-you-cant-beat-traffic-tolls-pages-116-117.pdf`, visually reading all
+  substantive text in the single image-only spread after empty text extraction. Consolidated into the existing
+  [Carmageddon Source](sources/carmageddon.md#toll-road-cases-and-forecasts-pages-116117), adding Findings on
+  [Louisville crossing counts](findings/operations/louisville-tolled-bridge-reported-traffic.md) and
+  [toll-road forecast limits](findings/operations/carmageddon-toll-road-forecast-limits.md), and updating
+  [street-redesign synthesis](topics/street-redesign-outcomes.md) and navigation. Same-book and case/study searches
+  found no separate matching study account. Preserved possible untolled-route diversion, unspecified follow-up
+  dates and forecast denominators, secondary chronology, and the distinction between author judgments and measured
+  outcomes. Full bibliographic identity, underlying City Observatory/forecasting studies and continuation text
+  remain unavailable. Earlier PDFs were not re-ingested; no inventory rerun or bundle validation.
+
+- Ingested only `raw-sources/research/why-you-cant-beat-traffic-tolls-and-induced-demand-pages-118-119.pdf`,
+  reading all visible substantive text in its single image-only spread. Consolidated into the existing
+  [Carmageddon Source](sources/carmageddon.md#congestion-costs-and-tolling-arguments-pages-118119) and revised
+  [street-redesign synthesis](topics/street-redesign-outcomes.md) and navigation. Preserved secondary INRIX cost
+  estimates and TomTom coverage separately from the author's willingness-to-pay, tolling and induced-demand
+  arguments. Publication/case/figure searches confirmed the same book but found no matching underlying study;
+  no new Finding was warranted by undated estimates or unquantified toll cases. Opening/final continuations,
+  referenced Kentucky/M6 context, bibliographic details and underlying reports remain unavailable. Handwritten
+  annotations were excluded; earlier PDFs were not re-ingested. No inventory rerun or bundle validation.
+
+- Ingested only `raw-sources/research/why-you-cant-beat-traffic-road-space-page-120.pdf`, reading all visible
+  substantive text in its single image-only page. Consolidated it into the existing
+  [Carmageddon Source](sources/carmageddon.md), supplemented the
+  [West Side Highway Finding](findings/operations/kruse-capacity-reduction-traffic.md), and revised
+  [street-redesign synthesis](topics/street-redesign-outcomes.md) and affected navigation. Publication/case searches
+  confirmed same-book and same-closure overlap, not an independent study. Retained road-space/pricing advocacy,
+  unquantified Underground and housing assertions, and the unsupported 95%-stationary-time claim as qualified
+  Source content, without new Findings or inferred effects. Opening context, full bibliographic identity, endnotes
+  and underlying studies remain unavailable; handwriting was excluded as evidence. Earlier excerpts were retained,
+  not re-ingested. No inventory rerun or bundle validation.
+
+- Ingested only `raw-sources/research/why-you-cant-beat-traffic-induced-demand-pages-114-115.pdf`, visually reading
+  all substantive text in its single image-only spread at two sizes. Consolidated it with the existing
+  [Carmageddon Source](sources/carmageddon.md), retaining the prior page-148 summary without re-ingesting that PDF.
+  Added [induced-demand denominator limits](findings/operations/carmageddon-induced-demand-denominators.md),
+  supplemented the [existing West Side Highway case](findings/operations/kruse-capacity-reduction-traffic.md), and
+  revised [street-redesign synthesis](topics/street-redesign-outcomes.md#capacity-reduction-can-change-travel-but-disappearance-percentages-need-boundaries)
+  and affected navigation. Preserved tentative 2% driving growth per 10% more capacity versus up to 40%/100% of
+  added capacity used at six months/four years, disputed context, initial closure delay and secondary reporting.
+  Publication/case/numerical searches confirmed same-book and same-closure overlap; unnamed expansion studies
+  prevent establishing independence. Full bibliographic identity, endnotes, primary methods and studies remain
+  unavailable. No inventory rerun or bundle validation.
+
+- Ingested only [Wheels to Meals](sources/wheels-to-meals-micromobility-restaurant-demand.md) from the supplied
+  research PDF, reading all 62 pages as extracted text, including methods, limitations, main/appendix tables,
+  and visually checking Figure 4. Added Findings on [rider restaurant spending](findings/business/scooter-entry-rider-restaurant-spending.md),
+  [non-restaurant uncertainty](findings/business/scooter-entry-local-spending-null.md) and
+  [population/fleet extrapolation](findings/business/scooter-restaurant-spending-extrapolation.md); revised
+  [street-redesign synthesis](topics/street-redesign-outcomes.md#scooter-user-spending-is-not-a-citywide-or-bicycle-lane-effect)
+  and navigation. Publication/study searches found only related earlier-version coverage in
+  [NABSA's report](sources/2021-shared-micromobility-state-of-the-industry-report.md), now linked without treating
+  it as independent confirmation. Preserved rider-only scope, 54 qualifying versus 49 matched entry cities,
+  log(spending + $1), null results and permitted-device denominators. External versions and original datasets
+  remain unreviewed. No inventory rerun or bundle validation.
+
+- Ingested only the [DC pedestrian/bicycle crash abstract](sources/washington-dc-pedestrian-bicycle-crash-analysis.md),
+  reading its complete single-page image. Added [crash-composition limits](findings/safety/dc-2012-2014-crash-composition-limits.md)
+  and revised [cycling injury risk](topics/cycling-injury-risk.md#crash-composition-is-not-exposure-based-intersection-risk)
+  plus navigation. Preserved the 2012–2014 period, combined 68% intersection share, leading crash types and
+  unquantified severity associations without inferring exposure-based risk or countermeasure effects. Publication/study
+  searches found no match; missing identity prevents definitive duplicate exclusion. Full methods, limitations,
+  tables and original publication URL are absent. No inventory rerun or bundle validation.
+
+- Ingested the [non-exhaust particulate review excerpt](sources/traffic-related-non-exhaust-particulate-emissions-literature-review.md)
+  from its sole cropped executive-summary image. Added [PM10 share limits](findings/non-exhaust-pm10-review-share-limits.md)
+  and revised [street redesign outcomes](topics/street-redesign-outcomes.md#pollution-source-shares-are-not-measured-redesign-benefits)
+  to distinguish secondary pollutant shares from project effects. No bundle duplicate was found; publication identity,
+  underlying study overlap and supporting methods/tables remain unavailable.
+
+- Ingested only the [right-turn-on-red crash excerpt](sources/right-turn-on-red-crash-analysis.md), reading all
+  visible content in the single image-only PDF page. Added a [classification/denominator Finding](findings/safety/right-turn-on-red-classification-limits.md)
+  and revised [cycling injury risk](topics/cycling-injury-risk.md#right-turn-permission-does-not-identify-the-signal-during-a-crash)
+  plus affected indexes. Preserved the 1982–1992 FARS signal-state warning, fatal-crash versus fatality units,
+  uncertain involvement-share label and separate four-state 0.05% crash share. Publication/result searches found
+  no match; missing identity prevents definitive duplicate exclusion. Full methods, tables, state identities and
+  original publication URL remain unavailable. No inventory rerun or bundle validation.
+
+- Ingested the [Jersey City quick-build strategy excerpt](sources/jersey-city-vision-zero-quick-build-strategy.md)
+  from its single image-only crop. Added a [delivery-count Finding](findings/design/jersey-city-quick-build-installation-limits.md)
+  and updated [street redesign outcomes](topics/street-redesign-outcomes.md#announced-infrastructure-is-not-a-measured-safety-outcome)
+  to separate reported installations from recommended strategy and unmeasured safety, cost and speed benefits.
+  Preserved unknown publication/date, missing references 8–9 and partly obscured final bullet labels; no matching
+  publication or totals were found in the bundle, but underlying-reference overlap remains unverifiable.
+
+Ingested only the [Budapest bridge capacity highlights](sources/induced-road-traffic-and-capacity-change-highlights.md)
+from `raw-sources/research/induced-road-traffic-and-capacity-change-highlights.pdf`. Visually read all three
+highlights on the single image-only page. Added a [traffic-elasticity Finding](findings/operations/budapest-bridge-capacity-traffic-highlights.md),
+revised the [street-redesign Topic](topics/street-redesign-outcomes.md#capacity-reduction-can-change-travel-but-disappearance-percentages-need-boundaries)
+and affected indexes. Preserved the reported 0.5 five-year elasticity across eight major Budapest bridge changes,
+55-year analysis span, and attributed stability and reduction/expansion claims without inferring causal or
+congestion effects. Place, numerical and induced-traffic searches found no confirmed duplicate publication;
+possible overlap with the existing article's unnamed Hungarian study remains unresolved, not independent evidence.
+Publication identity, original article URL, methods, separate directional estimates and uncertainty remain
+unavailable. No full paper accessed, inventory rerun or bundle validation.
+
+Ingested only the [unidentified induced-traffic article excerpt](sources/induced-road-traffic-and-capacity-change-article-excerpt.md)
+from `raw-sources/research/induced-road-traffic-and-capacity-change-article-excerpt.pdf`. Read the entire visible
+one-page crop visually after empty text extraction. Added a [reported-ranges Finding](findings/operations/induced-traffic-excerpt-reported-ranges.md),
+revised the [street-redesign Topic](topics/street-redesign-outcomes.md#capacity-reduction-can-change-travel-but-disappearance-percentages-need-boundaries)
+and affected indexes. Preserved 3%–6% initial and 6%–10% later traffic growth per 10% more metropolitan lane miles,
+without treating ranges as additive, causal, annualized or measured congestion effects. Bundle phrase, place,
+capacity and numerical searches found no confirmed duplicate publication; unnamed studies prevent resolving
+underlying overlap with existing capacity/congestion accounts. Article identity, link targets, traffic definition
+and methods remain unavailable; no full article or primary study was read. No inventory rerun or bundle validation.
+
+Ingested only [Impact Of Urban Technology Deployments On Local Commercial Activity](sources/impact-urban-technology-deployments-local-commercial-activity.md)
+from `raw-sources/research/impact-urban-technology-deployments-local-commercial-activity.pdf`. Read the complete
+23-page extracted text, including methods, Tables 1–6, limitations and appendix captions; visually checked
+Tables 2–3 and Figure A4. Title, author, intervention, location and numerical searches found no represented
+publication or original study; cited background research was not counted as new evidence. Added Findings for
+[Jersey City](findings/business/jersey-city-citi-bike-commercial-activity.md),
+[Brooklyn](findings/business/brooklyn-citi-bike-commercial-activity.md) and
+[proxy limitations](findings/business/urban-deployment-commercial-proxy-limits.md), revised the
+[street-redesign synthesis](topics/street-redesign-outcomes.md#bikeshare-commercial-proxies-add-local-associations-not-net-sales-gains)
+and affected indexes. Preserved positive, weak/null and adverse local results, score-versus-receipt distinctions,
+nonrandom-placement and spending-redistribution limits. Recorded Table 2 date errors, LinkNYC placebo discrepancies
+and unclear Table 3 variability notation. Publication venue/date and underlying data remain unverified; other
+map details and cited studies were not independently reviewed. No inventory rerun or bundle validation.
+
+Ingested only the [Hoboken Green Infrastructure Strategic Plan excerpt](sources/hoboken-green-infrastructure-strategic-plan.md)
+from `raw-sources/research/hoboken-green-infrastructure-strategic-plan.pdf`. The supplied image-only PDF contains
+printed page 7, “Demographics,” not the full plan; read the whole page visually after empty text extraction.
+Title, Hoboken, housing-community and numerical searches found no matching publication or demographic finding;
+existing Hoboken safety accounts are different evidence, and underlying demographic dataset overlap is unresolved.
+Added a [carless-household Finding](findings/access/hoboken-carless-household-comparison.md), revised the
+[access synthesis](topics/active-commuting-and-access.md) and affected indexes. Preserved 15.7%/13.7%/12.5% as
+reported household percentages, not travel shares; green-infrastructure targeting and anticipated benefits remain
+planning judgments. Publication date, data years, methods and full-plan content remain unavailable in the supplied
+excerpt. No inventory rerun or bundle validation.
+
+Ingested only the [Green Line LRT conclusion excerpt](sources/green-line-lrt-adjacent-road-traffic-analysis.md)
+from `raw-sources/research/green-line-lrt-adjacent-road-traffic-analysis.pdf`. Read the entire one-page image after
+empty text extraction, including reported methods and all three result/caution bullets. Bundle searches by
+Green Line/LRT, Twin Cities, AADT wording and numerical results found no matching publication or study;
+missing authors, full title and date leave definitive publication identity unresolved. Added one
+[traffic-volume Finding](findings/operations/green-line-lrt-reported-traffic-reduction.md), revised the
+[street-redesign synthesis](topics/street-redesign-outcomes.md#adjacent-road-volume-is-not-travel-delay-or-network-wide-driving)
+and affected indexes. Preserved reported adjusted 18% lower adjacent-road AADT and attenuation from 22% to 16%,
+not travel-delay or network-wide effects; proposed mechanisms and future attenuation remain interpretations.
+No detailed methods, limitations section, tables, uncertainty or PNR results are available in this excerpt.
+No inventory rerun or bundle validation.
+
+Ingested only [Carmageddon's partial page 148](sources/carmageddon.md) from
+`raw-sources/research/carmageddon-suv-sales-and-road-space-page-148.pdf`. Read the entire supplied crop visually
+at two render sizes after empty text extraction. Publication-name, author-name, IHS Markit and numerical searches
+found no duplicate publication or matching sales estimate in the bundle. Added one Source and navigation entries;
+no Finding or Topic change was warranted. Preserved 47%/72% as undated reported sales shares and 78% by 2025 as an
+attributed forecast, not a verified outcome. The city observation is cut off; no road-space result is readable.
+Author, edition, publication year, baseline year, category definitions and underlying research remain unverified.
+No inventory rerun or bundle validation.
+
+Ingested only [Ahammed et al.'s two-stage turn queue-box abstract](sources/bicyclist-behavior-two-stage-turn-queue-boxes.md)
+from `raw-sources/research/bicyclist-behavior-two-stage-turn-queue-boxes.pdf`. Read the entire one-page image visually
+(text extraction was empty), including authors, identifiers and abstract methods/results. Title, author, identifier
+and treatment searches found no duplicate publication or study representation. Added
+[Boston queue-box use limits](findings/design/boston-two-stage-queue-box-use-limits.md), revised the
+[street-redesign synthesis](topics/street-redesign-outcomes.md) and affected indexes. Distinguished the 81-box inventory
+from video at three intersections with eight boxes; retained reported noncompliance without inventing rates,
+legal violations or safety effects. No full paper, tables, figures, detailed methods/limitations or references
+were included; publication date and original webpage URL remain unverified. No inventory rerun or bundle validation.
+
+Ingested only [Dashdamirov and Verdiyev's bus-lane simulation paper](sources/2026-bus-lane-implementation-expediency-different-lane-numbers.md)
+from `raw-sources/research/2026-bus-lane-implementation-expediency-different-lane-numbers.pdf` (2026 issue,
+online December 2025). No duplicate publication/study found by title, DOI, authors or Baku searches. Read all
+12 pages' extracted text, including methods, Tables 1–5, limitations/discussion and references; visually checked
+D8–D9's Table 5 and equations/examples. Added [mixed modeled comparisons](findings/operations/baku-bus-lane-modeled-time-comparisons.md)
+and [accounting/model limits](findings/operations/baku-bus-lane-model-measurement-limits.md), and revised
+[street-redesign synthesis](topics/street-redesign-outcomes.md) and affected indexes. Retained favorable and
+adverse examples as modeled, not observed; flagged mixed passenger/vehicle weights, out-of-range bus frequency,
+above-limit speeds, conflicting polynomial trends and absent independent validation. Recalculation approximately
+reproduced both examples, with a small first after-total discrepancy. No inventory rerun, bundle validation,
+raw-source/bookkeeping changes or commits.
+
+Ingested only [Epstein et al.'s 2025 forward blind-zone study](sources/2025-longitudinal-forward-blind-zones.md)
+from `raw-sources/research/2025-longitudinal-analysis-forward-blind-zone-changes-popular-vehicle-models.pdf`.
+Read all 12 image-only pages visually, including methods, Table 1, Figures 1–7, discussion/future work and
+references. Publication/DOI/author/model searches found no duplicate publication or representation of the
+17-vehicle study; existing Road to Zero visibility material is related secondary evidence, not replication.
+Added Findings on [vehicle-generation visibility changes](findings/safety/vehicle-generation-forward-visibility.md)
+and [ground-plane inference limits](findings/safety/ground-plane-visibility-inference-limits.md), revised
+[cycling injury risk](topics/cycling-injury-risk.md) and affected navigation. Preserved uncertain small sedan
+changes, Grand Cherokee's intermediate improvement, mixed 10–20 m results and the absence of a crash effect.
+External references/software and author-available 15 m numerical results were not reviewed. No inventory rerun
+or bundle validation.
+
+Ingested only [Burford et al.'s 2024 U.S. micromobility injury study](sources/2024-united-states-micromobility-injury-burden-2019-2022.md)
+from `raw-sources/research/2024-united-states-micromobility-injury-burden-2019-2022.pdf`. Read all ten pages as
+text, including methods, limitations, Tables 1–2 and references; visually checked Table 2 and Figure 2.
+Added Findings on [resident-based injury trends](findings/safety/us-micromobility-population-injury-trends.md),
+[mixed diagnostic profiles](findings/safety/us-micromobility-ed-injury-profiles.md) and
+[clinical-note measurement limits](findings/safety/us-micromobility-narrative-measurement-limits.md); revised
+[cycling injury risk](topics/cycling-injury-risk.md) and navigation. Publication/author/DOI searches found no
+duplicate; underlying-study checks identified shared NEISS years with CPSC, not independent replication.
+Preserved declining hoverboard trends, limited admission differences, sparse burn estimates and missing exposure.
+The separate online appendix and Zenodo data/code remain unreviewed; a candidate supplement request returned
+403. Main-text trend percentages are attributed as such, not independently checked against appendix estimates.
+No inventory rerun or bundle validation.
+
+Ingested only [Road to Zero's October 2024 Massive Hazards](sources/2024-road-to-zero-massive-hazards-light-trucks.md)
+from `raw-sources/research/2024-road-to-zero-massive-hazards-light-trucks.pdf`. Read extracted text across all
+54 pages, including research summaries, footnotes, outstanding questions and recommendations; visually checked
+printed p. 22's front-end graphic and p. 31's compatibility chart. Added
+[front-end profile severity](findings/safety/rtz-front-end-profile-pedestrian-fatality.md),
+[turning-crash denominator limits](findings/safety/rtz-turning-crash-denominator.md) and
+[mixed compatibility evidence](findings/safety/rtz-vehicle-compatibility-mixed-evidence.md); revised
+[cycling injury risk](topics/cycling-injury-risk.md) and navigation. Publication and underlying-study searches found
+no duplicate report, but identified repeated Economist analysis and overlapping historical weight-study citations.
+Preserved similar-risk profile categories, SUV improvement versus persistent pickup disadvantage and non-adverse
+EV barrier-test reporting. No primary papers were independently reviewed; methods and precision are incompletely
+reported, other illustrations were not visually reviewed, and policy recommendations remain unevaluated.
+No inventory rerun or bundle validation.
+
+Ingested only [New Jersey's 2024 Bicycle Friendly State Report Card](sources/2024-new-jersey-bicycle-friendly-state-report-card.md)
+from `raw-sources/research/2024-new-jersey-bicycle-friendly-state-report-card.pdf`. Read the complete one-page
+PDF as text and visually, including all action, federal-data and category tables and the survey-methods note.
+Publication/program and underlying-assessment searches found no matching bundle Source or Finding. Added
+[commuter-denominator safety limits](findings/safety/new-jersey-report-card-safety-denominator.md) and revised
+[cycling injury risk](topics/cycling-injury-risk.md) and affected navigation. Preserved mixed policy/funding
+assessments, the spending-reporting caveat and attributed recommendations, without equating rank, rubric points
+or fatalities per commuter with travel risk. Separate use guide, survey responses and underlying federal data
+remain unreviewed; the card omits data years and detailed scoring methods. No inventory rerun or bundle validation.
+
+Ingested only [PBIC's 2024 young-pedestrian network brief](sources/2024-creating-accessible-equitable-safe-complete-networks-young-pedestrians.md)
+from `raw-sources/research/2024-creating-accessible-equitable-safe-complete-networks-young-pedestrians.pdf`.
+Read all extracted text of the 16-page PDF, including substantive guidance, secondary results and references;
+visually checked p. 8's crash account and pp. 10 and 12's design diagrams. No quantitative tables or separate
+methods/limitations sections are present; cited primary studies and other illustrations remain independently
+unreviewed. Publication/author and underlying-study searches found no matching Source or Finding. Added
+[Philadelphia youth crash-network coverage](findings/safety/philadelphia-youth-crash-network-coverage.md) and
+[youth design guidance limits](findings/design/pbic-youth-design-guidance-limits.md). Revised
+[street-redesign](topics/street-redesign-outcomes.md) and [active-travel/access](topics/active-commuting-and-access.md)
+syntheses and navigation. Distinguished secondary crash-location shares from exposure-based risk, and participation,
+accessibility and developmental recommendations from measured equity or intervention benefits. Preserved adult
+accompaniment, at-grade crossing and police-underreporting cautions; flagged missing crash years and the School
+Streets reference-number mismatch. No inventory rerun or bundle validation.
+
+Ingested only [Litman's Smart Congestion Relief](sources/2023-vtpi-smart-congestion-relief.md) from
+`raw-sources/research/2023-vtpi-smart-congestion-relief.pdf`, dated October 6, 2023. Read all extracted text
+of the 80-page report, including methods, substantive tables, caveats and references; visually checked pp. 8,
+29, 51 and 63. Other image-only material and cited primary studies were not independently reviewed.
+Publication/version and underlying-result searches found no duplicate. Added
+[congestion measurement limits](findings/operations/vtpi-congestion-measurement-limits.md) and a
+[secondary Capital Bikeshare result](findings/operations/dc-capital-bikeshare-reported-congestion.md), and revised
+[street-redesign synthesis](topics/street-redesign-outcomes.md) and navigation. Distinguished historical commuter
+burden from congestion intensity, and author recommendations/assumed scenarios from independent measured evidence.
+Retained potential cycling delays, contested transit results, density-only null reporting and insufficient
+congestion-only modeled returns; flagged table arithmetic/sign and attribution inconsistencies.
+No inventory rerun or bundle validation.
+
+Ingested only [NJTPA's Trip Potential Analysis](sources/2023-njtpa-trip-potential-analysis.md) from
+`raw-sources/research/2023-njtpa-trip-potential-analysis.pdf`, an August 2022 memo revised June 16, 2023.
+Read all extracted text, including the substantive memo, Tables 1–2, equations and appendix captions; visually
+checked the equations and Figures 1–3. Appendix variable-map images and underlying GIS/cited studies remain
+unreviewed. Publication and underlying-analysis searches found no duplicate. Added
+[trip-potential score limits](findings/networks/njtpa-trip-potential-score-limits.md) and revised
+[active-travel/access synthesis](topics/active-commuting-and-access.md) plus navigation. Distinguished weighted
+0–100 planning scores and buffer-dependent coverage from observed trips, route usability and equitable benefits;
+retained small-town exceptions, absent predictive validation and the memo's conflicting weight descriptions.
+No inventory rerun or bundle validation.
+
+Ingested only [Open Plans' June 2023 Curb the Chaos](sources/2023-curb-the-chaos-solutions-for-cities-at-the-curb.md)
+from `raw-sources/research/2023-curb-the-chaos-solutions-for-cities-at-the-curb.pdf`. Read the complete extracted
+text of the 86-page PDF, including methods, curb-use tables, case studies, recommendation tables, Figures 1–3,
+interviewees and references; visually checked printed pp. 55–56. Publication and underlying-result searches
+found no duplicate summary or matching Findings. Added [loading-zone result limits](findings/operations/nyc-loading-zone-double-parking-report.md)
+and [bike-lane violation extrapolation limits](findings/design/nyc-bike-lane-violation-extrapolation-limits.md).
+Revised [street-redesign synthesis](topics/street-redesign-outcomes.md) and navigation to distinguish interview
+recommendations, implementation cases, secondary outcomes and untested enforcement benefits. Retained maintenance,
+privacy, equity and loading-access conflicts; flagged the unexplained camera-day basis and selected-site denominator.
+Cited primary studies, municipal reports and vendor analyses remain unreviewed. No inventory rerun or bundle validation.
+
+Ingested only [CPSC's September 2023 micromobility report](sources/2023-cpsc-micromobility-deaths-injuries-hazard-patterns.md)
+from `raw-sources/research/2023-cpsc-micromobility-deaths-injuries-hazard-patterns.pdf`. Read all 42 pages,
+including methods, supporting tables, updated 2021 survey results and questionnaire; visually checked pp. 20 and 34.
+Publication/study searches found no duplicate; the report extends earlier CPSC surveillance, not independent evidence.
+Added Findings on [ED injury trends](findings/safety/cpsc-micromobility-ed-injury-trends.md),
+[reported fatalities](findings/safety/cpsc-micromobility-reported-fatalities.md),
+[scooter follow-up limits](findings/safety/cpsc-scooter-follow-up-limits.md) and
+[selected product hazards](findings/safety/cpsc-micromobility-investigated-hazards.md).
+Revised [injury-risk synthesis](topics/cycling-injury-risk.md) and navigation to separate national ED burden from
+incomplete death reports and nonrepresentative investigations. Preserved adverse, mixed and non-rider outcomes,
+missing exposure, survey nonresponse and overlap; flagged internal surface, sample-total and fatality-breakdown
+conflicts rather than silently correcting them. Underlying records and prior annual reports were not reviewed.
+No inventory rerun or bundle validation.
+
+Ingested only [TfL's Travel in London, Report 15](sources/2022-tfl-travel-in-london-report-15.md) from
+`raw-sources/research/2022-tfl-travel-in-london-report-15.pdf`. Partial review: contents, opening overview,
+pp. 57–61, LTDS methods on p. 77 and chapter 4 (pp. 97–114), including supporting tables and limitations;
+visually checked Figure 4.6 and Table 4.1. Publication/result searches found no duplicate; Report 11 shares
+monitoring systems, not an independent replication. Added Findings on
+[cycling recovery and revised measurement](findings/networks/london-2022-cycling-recovery-measurement.md),
+[weekly versus annual cyclist measures](findings/access/london-2021-cycling-profile-denominators.md) and
+[adverse 2021 cyclist casualty counts](findings/safety/london-2021-cyclist-casualty-counts.md). Revised
+[active commuting/access](topics/active-commuting-and-access.md), [injury-risk synthesis](topics/cycling-injury-risk.md)
+and navigation. Retained method revisions, unrepresentative pandemic counts, changed survey interviewing,
+null annual ethnicity comparison and unmatched exposure years. Remaining chapters and underlying studies/data
+were not independently reviewed. No inventory rerun or bundle validation.
+
+Ingested [Cicchino et al.'s DC scooter–bicycle comparison](sources/2021-washington-dc-e-scooter-bicycle-injuries.md)
+from only `raw-sources/research/2021-washington-dc-e-scooter-bicycle-injuries.pdf`. Read the full article and appended
+supplement (19 PDF pages), including methods, limitations, Tables 1–5/A1–A5 and Figures A1–A3. Publication/DOI
+searches found no existing summary; cohort checks identified overlap with the
+[existing scooter severity paper](sources/2021-e-scooter-rider-injury-severity-trip-characteristics.md) and reuse of
+cyclists from the 2020 multisite infrastructure study. Added Findings on
+[mode-level ED mileage rates](findings/safety/dc-scooter-bicycle-ed-mileage-rates.md),
+[incident circumstances](findings/safety/dc-scooter-bicycle-incident-comparison.md) and
+[injury profiles](findings/safety/dc-scooter-bicycle-injury-profiles.md); revised
+[injury-risk synthesis](topics/cycling-injury-risk.md), the related Source link and navigation. Preserved modeled
+exposure, broader rate versus interview numerators, null severity/admission comparisons, small concussion counts,
+different years and single-ED coverage. Noted the inconsistent moving-vehicle percentage and Figure A3 year label.
+Underlying data/cited publications were not independently reviewed; no inventory rerun or bundle validation.
+
+Ingested only [NABSA's 2021 Shared Micromobility State of the Industry Report](sources/2021-shared-micromobility-state-of-the-industry-report.md),
+published in 2022, from the supplied research PDF. Read all 23 pages, including methods and supporting charts;
+visually checked the mode-replacement chart. Title, DOI, association and underlying-study searches found no duplicate.
+Added Findings on [ridership recovery](findings/networks/nabsa-2021-ridership-recovery.md),
+[mode replacement](findings/networks/nabsa-mode-replacement-survey-limits.md),
+[user representation](findings/access/nabsa-user-representation-gaps.md) and
+[emissions accounting](findings/nabsa-2021-emissions-accounting-limits.md), and revised
+[travel/access synthesis](topics/active-commuting-and-access.md) and navigation. Retained mixed survey years/samples,
+missing smaller-system data, city-versus-system distinctions, noncausal equity evidence and exclusion of operations
+and lifecycle effects from modeled emissions. Underlying studies and survey data remain unreviewed.
+
+Ingested only [National Transportation Statistics 2021](sources/2021-national-transportation-statistics.md) from
+`raw-sources/research/2021-national-transportation-statistics.pdf`. Title, DOI, publisher and data-system searches
+found no duplicate publication or matching national pedalcyclist finding. Partial review covers Tables 2-1/2-2,
+supporting Table 2-19, fatality/injury definitions and relevant Appendix E/F methods and sources, not the full
+587-page compendium. Visually checked both principal table rows and year alignment. Added Findings on
+[traffic fatalities](findings/safety/us-pedalcyclist-fatalities-2010-2020.md) and
+[injury-estimate limits](findings/safety/us-pedalcyclist-injury-estimate-limits.md), revised
+[injury-risk synthesis](topics/cycling-injury-risk.md) and affected indexes. Retained the early-estimate status
+of 2020 fatalities, motor-vehicle/public-road coverage, absent cycling exposure, unavailable 2020 injuries,
+2016 sampling break and 2018 reporting change. Underlying NHTSA publications and data remain unreviewed.
+No inventory rerun, bundle validation, raw-source/bookkeeping edits or commit.
+
+Ingested only [Cicchino et al.'s e-scooter injury-severity study](sources/2021-e-scooter-rider-injury-severity-trip-characteristics.md)
+from `raw-sources/research/2021-e-scooter-rider-injury-severity-trip-characteristics.pdf`. Title, author, DOI and
+study-setting searches found no existing duplicate publication or bounded result. Read all six pages, including
+methods, limitations and Tables 1–5; visually checked Tables 4–5. Added Findings on
+[severity associations](findings/safety/dc-e-scooter-injury-severity-associations.md),
+[incident mechanisms and non-rider harm](findings/safety/dc-e-scooter-incident-mechanisms.md) and
+[exposure/selection limits](findings/safety/dc-e-scooter-exposure-and-selection-limits.md); updated
+[injury-risk synthesis](topics/cycling-injury-risk.md) and affected indexes. Preserved conditional severity,
+inconclusive comparisons, missing exposure, recruitment exclusions and coding differences; noted inconsistent
+recruitment and uncapped-scooter counts. Actual speed mechanisms and safest-facility claims remain unestablished.
+No inventory rerun, bundle validation, raw-source/bookkeeping edits or commit.
+
+Ingested only [TfL's Travel in London, Report 11](sources/2018-tfl-travel-in-london-report-11.md) from
+`raw-sources/research/2018-tfl-travel-in-london-report-11.pdf`. Publication/title, Mini-Holland, borough and
+Aldred DOI searches found no existing duplicate publication or bounded result. Partial review covers sections
+5.1–5.3 and 5.5, Table 2.1/trip definitions and LTDS methods, not the whole 247-page report. Visually checked
+Tables 5.1–5.2 and Figure 5.29. Added Findings on [diverging cycling indicators](findings/networks/london-2017-cycling-indicator-differences.md),
+[differing survey profiles](findings/access/london-cycling-survey-profile-limits.md) and
+[Mini-Holland active travel](findings/networks/london-mini-holland-active-travel.md); revised
+[active commuting/access](topics/active-commuting-and-access.md), [redesign outcomes](topics/street-redesign-outcomes.md)
+and affected indexes. Retained seasonal and denominator limits, survey disagreement, panel attrition and
+underrepresentation, nonsignificant results and increased opposition to cycling investment. Underlying panel
+publications and data remain unreviewed. No inventory rerun, bundle validation, raw-source/bookkeeping edits or commit.
+
+Ingested only [Estimating Walking and Bicycling at the State Level](sources/2017-estimating-walking-bicycling-state-level.md)
+from `raw-sources/research/2017-estimating-walking-and-bicycling-at-the-state-level.pdf`. Title, author, report-number
+and related-study searches found no duplicate publication or bounded result. Read the full report text, methods,
+limitations, supporting tables and references; visually checked Tables 5.4–5.5 on printed p. 58 (PDF p. 63).
+Added Findings on [King County method-dependent mileage](findings/networks/king-county-travel-mile-estimation.md)
+and [count-expansion limitations](findings/networks/washington-count-expansion-limits.md), and revised
+[active travel measurement synthesis](topics/active-commuting-and-access.md) and affected indexes. Preserved
+Puget Lowlands-only county scope, method-specific intervals, pedestrian model null results, NHTS recreational-trip
+inclusion and the explicit warning against baseline use. Underlying datasets and cited studies remain unreviewed.
+No inventory rerun, bundle validation, raw-source/bookkeeping edits or commit.
+
+Ingested only [NJDOT's Roadway Design Manual 2015](sources/2015-njdot-roadway-design-manual.md) from
+`raw-sources/research/2015-njdot-roadway-design-manual.pdf`. Publication/title and bounded-claim searches found
+no duplicate in the bundle. Reviewed the introduction and Section 15 prose, with a visual check of printed
+p. 15-19; other chapters, diagram dimensions and cited underlying publications remain unreviewed. Recorded later
+revision markers and 2022 PDF metadata rather than treating the 447-page file as an unchanged 2015 edition.
+Added Findings on [speed-control guidance limits](findings/design/njdot-traffic-calming-guidance-limits.md) and
+[bicycle-space/merge instructions](findings/design/njdot-traffic-calming-bicycle-space.md), and revised
+[street redesign outcomes](topics/street-redesign-outcomes.md) and affected indexes. Preserved cautions about
+mid-block curb extensions and visual treatments, and distinguished attributed guidance from measured effects
+and verified current requirements. No inventory rerun, bundle validation, raw-source/bookkeeping edits or commit.
+
+Ingested only [Kruse's Remove It and They Will Disappear](sources/1998-remove-it-and-they-will-disappear.md)
+from `raw-sources/research/1998-remove-it-and-they-will-disappear.pdf`. Read all nine pages, including methods
+as reported, conditional lessons and references; visually checked the central case-results page. No supporting
+tables or figures are present. Publication, author, underlying-review and case-name searches found no duplicate.
+Added Findings on [traffic-disappearance denominators](findings/operations/kruse-capacity-reduction-traffic.md)
+and [Hammersmith commute adaptation](findings/operations/hammersmith-bridge-reported-commute-change.md), and updated
+[street redesign outcomes](topics/street-redesign-outcomes.md) and affected indexes. Preserved local versus overall
+percentages, possible absence of measurable reduction, missing survey methods and secondary attribution. The
+1998 filename date is not an explicit publication date; primary reports remain unreviewed. No inventory rerun,
+bundle validation, raw-source/bookkeeping edits or commit.
+
+Ingested only [Who's Hurting Whom?](sources/streetsblog-whos-hurting-whom.md) from
+`raw-sources/news/whos-hurting-whom-pedestrian-injuries.pdf`. Read the complete one-page chart visually after empty
+text extraction. Title, NYPD, vehicle-category and exact-count searches found no duplicate publication or matching
+bounded result. Added a [pedestrian injury-count Finding](findings/safety/nyc-2024-streetsblog-pedestrian-injury-counts.md),
+updated [cycling injury risk](topics/cycling-injury-risk.md) and affected indexes. Preserved 9,610 car/truck injuries
+out of 9,647 in reported 2024 NYPD data; marked 37 e-bike injuries as a calculated remainder, not a visible label.
+Retained missing exposure, coding, severity and coverage definitions; publication date and original article/data URLs
+remain unknown. Primary NYPD records and surrounding article were not reviewed. No inventory rerun, bundle validation,
+raw-source/bookkeeping edits or commit.
+
+Ingested only [Reuters's pickup/sedan profitability excerpt](sources/reuters-pickup-sedan-profitability.md) from
+`raw-sources/news/reuters-pickup-sedan-profitability.pdf`. Read the entire single-page screenshot visually after
+empty text extraction. Bundle searches for Reuters, GM, Detroit Three, pickup/sedan profitability and the $17,000
+figure found no duplicate publication or bounded claim. Added a Source and navigation links, preserving the
+at-least-$17,000 pretax-profit-per-large-GM-pickup claim as reporting of investor disclosures, alongside the
+qualitative sedan-discontinuation contrast. No Finding or Topic change: the excerpt lacks a dated accounting basis
+and measures no fleet or safety effect. Headline, author, date and original article URL remain unidentified;
+the full article and primary disclosures were not reviewed. No inventory rerun, bundle validation,
+raw-source/bookkeeping edits or commit.
+
+Ingested only [NJ Crashes: A Mid-Year Report](sources/2025-nj-crashes-mid-year-report.md) from
+`raw-sources/news/nj-crashes-mid-year-report.pdf`. Read the entire one-page image, chart and caption after
+empty text extraction; headline, named-person, chart-credit and count searches found no duplicate publication.
+Added a [2025 snapshot/projection Finding](findings/safety/new-jersey-2025-death-snapshot-projection.md), revised
+[cycling injury risk](topics/cycling-injury-risk.md) and updated affected indexes. Distinguished 350 reported deaths
+through August 18 from a 648-death annual forecast containing 298 projected deaths, without a stated forecast
+method or exposure denominator. Preserved attributed fatal-crash and memorial accounts in the Source. Publisher,
+publication date and original URL remain unidentified; linked reporting and police data were not reviewed.
+
+Ingested only [Gothamist's undated NYC urban-heat post](sources/gothamist-nyc-urban-heat-island-9-7-degrees.md)
+from `raw-sources/news/gothamist-nyc-urban-heat-island-9-7-degrees.pdf`. Read the entire one-page screenshot
+visually after empty text extraction; bundle searches for the outlet, reporter, heat-island terminology and
+9.7-degree claim found no duplicate publication or represented underlying study. Added a Source and navigation
+links, preserving the average-resident increment and national ranking as secondary reporting, with missing units,
+baseline, date, study identity and methods. No Finding or Topic change: the screenshot does not establish an
+intervention effect, and its quantitative claim lacks essential detail. Other carousel slides, any associated
+article, map and underlying study were not reviewed. No inventory rerun, validation, raw-source/bookkeeping edits
+or commit.
+
+Ingested only [Gothamist's undated MTA toll-fine post](sources/gothamist-mta-toll-evader-fines.md) from
+`raw-sources/news/gothamist-mta-toll-evader-fines.pdf`. Read the entire one-page screenshot visually after empty
+text extraction; bundle searches for the outlet, headline, named speakers and toll-evasion claims found no duplicate.
+Added a Source and navigation links, preserving the $100-to-$50 headline, Flores's alignment explanation,
+Moretti's speculative payment rationale and Hochul's more-than-$12.5-million unpaid-toll/late-fee statement.
+No Finding or Topic change: no measured collection, safety or cycling result is supplied. Publication date,
+original URL, full-post completeness and primary policy remain unverified. No inventory rerun, validation,
+raw-source/bookkeeping edits or commit.
+
+Ingested only [Epstein's August 2026 rideshare opinion](sources/2026-new-jersey-uber-lyft-liability-accidents.md)
+from `raw-sources/news/2026-new-jersey-uber-lyft-liability-accidents.pdf`. Read substantive text across all five
+pages and searched the bundle for matching publication, author, case and insurance coverage; no duplicate found.
+Added one [bounded pedestrian PIP Finding](findings/access/new-jersey-boone-pedestrian-pip.md) and revised the
+[access Topic](topics/active-commuting-and-access.md) to distinguish post-crash benefits from travel eligibility
+and measured access outcomes; updated affected indexes. Preserved the uninsured-pedestrian/passenger-carrying
+Lyft facts, opinion status and unreviewed primary-law limits. Recovered the embedded court-opinion URL, not the
+full original article URL; no ruling, statutes or actual treatment/payment outcomes independently checked.
+No inventory rerun, validation, raw-source/bookkeeping edits or commit.
+
+Ingested only [Wallace's June 2025 New Jersey e-bike explainer](sources/2025-northjersey-e-bike-laws.md) from
+`raw-sources/news/2025-e-bike-laws-new-jersey-classifications-license-registration.pdf`. Read substantive text on
+all three pages; no matching publication or bounded legal Finding was found in the bundle. Added one
+[historical requirements Finding](findings/access/new-jersey-2025-e-bike-requirements.md) distinguishing low-speed
+exemptions, Class 3 requirements, helmet rules and municipal restrictions. Revised the
+[access Topic](topics/active-commuting-and-access.md) to distinguish legal eligibility from affordability, usable
+routes and measured access benefits; updated affected indexes. Preserved June 2025 scope, simplified speed-band
+ambiguity and unreviewed primary-law/local-rule limitations. No current-law verification, inventory rerun,
+validation, raw-source/bookkeeping edits or commit.
+
+Ingested only [New Jersey traffic-deaths excerpt 3](sources/2024-new-jersey-traffic-deaths-roundup.md) from
+`raw-sources/news/2024-new-jersey-state-police-traffic-enforcement-crashes-excerpt-3.pdf`. Visually read the
+entire one-page image after empty text extraction; the PDF page has no link annotations. Added a distinct
+[traffic-death Finding](findings/safety/new-jersey-national-traffic-death-trends.md) preserving the reported 23%
+New Jersey increase versus 3% national decline and unspecified year/baseline. Revised the
+[risk Topic](topics/cycling-injury-risk.md) to distinguish mortality from crash occurrence and explain why the
+national contrast does not identify an enforcement effect. Duplicate-publication checks found the same underlying
+Times story, now visibly credited to Tracey Tully, but no identifiable shared surrounding publication; retained
+one provisional Source for this roundup rather than asserting that separate unidentified crops are one publication.
+Updated relationship notes in [excerpt 1's Source](sources/2024-new-jersey-state-police-traffic-enforcement-crashes.md),
+[excerpt 2's Source](sources/2024-new-jersey-enforcement-investigation-commentary.md) and the
+[existing crash Finding](findings/safety/new-jersey-enforcement-crash-trends.md), plus affected indexes.
+Full publications, underlying records and the AG report remain unreviewed. No inventory rerun, validation,
+raw-source/bookkeeping edits or commit.
+
 ## 2026-09-21
+
+Ingested only [New Jersey enforcement investigation commentary](sources/2024-new-jersey-enforcement-investigation-commentary.md)
+from `raw-sources/news/2024-new-jersey-state-police-traffic-enforcement-crashes-excerpt-2.pdf`. Read the entire
+single-page image after empty text extraction; PDF link inspection exposed no targets. Duplicate checks found the
+same Times reporting in [excerpt 1's Source](sources/2024-new-jersey-state-police-traffic-enforcement-crashes.md),
+but neither crop identifies its surrounding publication, so shared publication identity remains unconfirmed.
+Kept the unidentified commentary separately and revised the [existing Finding](findings/safety/new-jersey-enforcement-crash-trends.md)
+and [risk Topic](topics/cycling-injury-risk.md), without adding an independent result. Preserved the discrepancy
+between excerpt 2's eight-month description of the 81% decline and excerpt 1's August year-on-year statement,
+and distinguished investigation allegations, attributed statements and opinion from established motive or causal
+effects. Updated the earlier Source's relationship note and affected navigation. Full publications, underlying
+records, AG report and union memo remain unreviewed; excerpt 3 was not ingested. No inventory rerun, validation,
+raw-source/bookkeeping edits or commit.
+
+Ingested only [New Jersey enforcement/crash excerpt 1](sources/2024-new-jersey-state-police-traffic-enforcement-crashes.md)
+from `raw-sources/news/2024-new-jersey-state-police-traffic-enforcement-crashes-excerpt-1.pdf`. No matching Source or
+bounded result was found in the bundle. Added one [Finding](findings/safety/new-jersey-enforcement-crash-trends.md)
+and revised [cycling injury risk](topics/cycling-injury-risk.md) to distinguish reported citation/crash changes
+from an exposure-based risk or causal effect. Read the complete single-page image visually after empty text
+extraction. Retained the 81% year-on-year citation decline, 27% crash increase with unspecified comparison, and
+duration claims; distinguished the roundup, cropped Times reporting and Komanoff's speculative mortality claim.
+Full publication identity/URL, underlying records and the rest of the Times article remain unavailable in this crop.
+Excerpts 2 and 3 were not reviewed or ingested; same-publication identity remains unverified rather than inferred
+from filenames. Updated affected indexes and preserved prior edits. No inventory rerun, validation, raw-source or
+bookkeeping edits, or commit.
+
+Ingested only [The Economist's August 2024 big-cars article](sources/2024-economist-big-cars-killing.md) from
+`raw-sources/news/2024-economist-big-cars-killing.pdf`. No matching publication or underlying analysis was found
+in the bundle. Added Findings on [own/partner-vehicle fatalities](findings/safety/us-vehicle-weight-crash-fatalities.md)
+and the [fleet-downsizing estimate](findings/safety/us-heavy-vehicle-downsizing-estimate.md); revised
+[cycling injury risk](topics/cycling-injury-risk.md) to distinguish crash-conditional occupant severity from cyclist
+exposure-based risk and assumed policy benefits. Preserved occupant protection, historical downsizing qualifications,
+manufacturer responses and the estimate's multi-car denominator. Read all 12 pages as text, recovered the original URL,
+and visually checked p. 7's regression and counterfactual paragraphs. The printed interactive overlays some prose;
+weight-group figures were recovered as text, not digitized from the chart. Underlying records, code and cited studies
+remain unreviewed; uncertainty intervals and full model details are absent. Updated affected indexes and preserved
+prior edits. No inventory rerun, validation, raw-source/bookkeeping edits or commit.
+
+Ingested only `raw-sources/news/2021-northjersey-pedestrian-safety-nj.pdf`. Added separate Sources for
+[Gomez's fatality-records article](sources/2021-northjersey-pedestrian-safety-nj.md) and
+[Morel's safety-program article](sources/2021-northjersey-pedestrian-safety-programs.md), both present in this PDF.
+No existing publication matched; Gomez's repeated pages were not treated as another publication. Added Findings on
+[incomplete death counts](findings/safety/north-jersey-pedestrian-death-counts.md) and
+[Street Smart effect limits](findings/safety/north-jersey-street-smart-effect-limits.md), and revised
+[street-redesign outcomes](topics/street-redesign-outcomes.md) to distinguish counts, police impressions and program
+implementation from exposure-based risk or causal safety gains. Preserved missing Essex records, the stated
+2010–2020 endpoints despite the ten-year label, deaths versus crashes, favorable police accounts and Fair Lawn's
+pandemic caveat. Read all 34 pages as text, recovered both article URLs and visually checked p. 3's road-list and
+Essex-exclusion note. Grounded retained numbers in article prose; underlying records, program evaluations and
+embedded videos remain unreviewed. Updated affected navigation and preserved prior edits. The named ingest-okf-doc
+prompt was not found; followed both repository skills without the local prompt's validation/commit/push steps.
+No inventory rerun, bundle validation, raw-source edits, bookkeeping edits or commit.
+
+Ingested [Car Crashes Take 2 More Lives](sources/1944-car-crashes-take-two-more-lives.md), *The News-Palladium*,
+January 4, 1944, front page. No existing publication or event coverage matched. Added a Source summary of the
+readable motoring-death reporting and distinguished the printed masthead from the archive's Herald-Palladium label.
+The PDF is a photograph of a partial on-screen page: text extraction was empty, and visual review of the page and
+enlarged original-image crops recovered only portions of the article. Preserved blur, cutoff and unrecovered URL
+limitations. Added no Findings or Topic revisions because this account does not establish cycling risk or a redesign
+effect. Updated Source and root navigation; checked retained claims against the image. No inventory rerun, bundle
+validation, bookkeeping edits or commit.
 
 Ingested [Clarke’s 2012 evaluation of New Zealand’s bicycle helmet law](sources/2012-evaluation-nz-bike-helmet.md).
 Reviewed and corrected partial drafts. Added Findings on
@@ -189,8 +737,8 @@ accompanied cycling growth, but D.C. share wording conflicts with the chart's co
 advocate-selected sample and distinguished behavior from pedestrian safety and infrastructure-versus-enforcement
 opinion. All four PDF pages and the chart were reviewed; underlying reports remain unreviewed.
 
-Ingested [Tin Tin, Woodward and Ameratunga (2010)](sources/2010-nz-bike-injuries.md), _Injuries to pedal cyclists on New
-Zealand roads, 1988-2007_, adding historical national injury evidence and
+Ingested [Tin Tin, Woodward and Ameratunga (2010)](sources/2010-nz-bike-injuries.md), *Injuries to pedal cyclists on New
+Zealand roads, 1988-2007*, adding historical national injury evidence and
 [Interpreting cycling injury risk](topics/cycling-injury-risk.md).
 
 - [Injury rates](findings/safety/nz-cycling-injury-rates-1988-2007.md): preserved the post-1996–99 increase alongside
@@ -204,8 +752,8 @@ Zealand roads, 1988-2007_, adding historical national injury evidence and
 
 This adds one observational study, not evidence of infrastructure or helmet-law effectiveness.
 
-Ingested [Lusk et al. (2011)](sources/2011-montreal-cycle-track-injury-risk.md), _Risk of injury for bicycling on cycle
-tracks versus in the street_, adding a Montreal infrastructure comparison and a separate reanalysis of published
+Ingested [Lusk et al. (2011)](sources/2011-montreal-cycle-track-injury-risk.md), *Risk of injury for bicycling on cycle
+tracks versus in the street*, adding a Montreal infrastructure comparison and a separate reanalysis of published
 sidewalk-bikeway data:
 
 - [Relative injury risk](findings/safety/montreal-cycle-track-relative-injury-risk.md): lower pooled risk on six
@@ -219,7 +767,7 @@ Revised [Interpreting cycling injury risk](topics/cycling-injury-risk.md) to dis
 from causal effects and kilometre-based EMR rates from hour-based inpatient/death rates.
 
 Ingested
-[NYCDOT (2011), _Evaluation of Solid Green Bicycle Lanes to Increase Compliance and Bicycle Safety_](sources/2011-nyc-green-paint.md)
+[NYCDOT (2011), *Evaluation of Solid Green Bicycle Lanes to Increase Compliance and Bicycle Safety*](sources/2011-nyc-green-paint.md)
 adding evidence on motorist compliance rather than a measured injury or ridership effect:
 
 - [Driver behavior](findings/design/nyc-green-paint-driver-behavior.md): retained lower reported encroachment,
@@ -230,7 +778,7 @@ adding evidence on motorist compliance rather than a measured injury or ridershi
 Revised [Interpreting cycling injury risk](topics/cycling-injury-risk.md) to distinguish behavioral measures from injury
 outcomes. Source reporting discrepancies remain unresolved.
 
-Ingested [Wolfson (2011), _Bike Lanes_ memorandum](sources/2011-nyc-wolfson-bike-lanes-memo.md), preserving the mayoral
+Ingested [Wolfson (2011), *Bike Lanes* memorandum](sources/2011-nyc-wolfson-bike-lanes-memo.md), preserving the mayoral
 office's policy claims rather than treating the memo as a research study:
 
 - [Protected-lane crash claims](findings/safety/nyc-wolfson-protected-lane-crash-claims.md): retained the reported
@@ -244,7 +792,7 @@ comparisons. The Source also preserves polling, consultation, lane-removal and s
 read; underlying poll and crash analyses remain unreviewed.
 
 Ingested
-[NYCDOT (2012), _Measuring the Street: New Metrics for 21st Century Streets_](sources/2012-measuring-the-street.md),
+[NYCDOT (2012), *Measuring the Street: New Metrics for 21st Century Streets*](sources/2012-measuring-the-street.md),
 adding selected project-level outcomes without treating them as isolated bike-lane effects:
 
 - [8th/9th Avenue injuries](findings/safety/nyc-eighth-ninth-injury-changes.md): retained 35% and 58% all-user injury
@@ -261,8 +809,8 @@ Added [Evaluating street redesign outcomes](topics/street-redesign-outcomes.md) 
 curb-management results. All 16 PDF pages were read as extracted text; pp. 4, 9 and 10 were checked visually. Missing
 evaluation periods, baselines and methods remain unresolved; underlying evaluations were not independently reviewed.
 
-Ingested [Teschke et al. (2012)](sources/2012-route-infrastructure-bicyclist-risk.md), _Route Infrastructure and the Risk
-of Injuries to Bicyclists: A Case-Crossover Study_, adding independent Toronto–Vancouver within-trip evidence:
+Ingested [Teschke et al. (2012)](sources/2012-route-infrastructure-bicyclist-risk.md), *Route Infrastructure and the Risk
+of Injuries to Bicyclists: A Case-Crossover Study*, adding independent Toronto–Vancouver within-trip evidence:
 
 - [Cycle tracks](findings/safety/toronto-vancouver-cycle-track-injury-odds.md): adjusted OR 0.11 (0.02–0.54), retaining
   the sparse two-injury/ten-control-site basis and avoiding causal installation claims.
@@ -275,7 +823,7 @@ Revised [Interpreting cycling injury risk](topics/cycling-injury-risk.md) to com
 route comparisons without pooling distinct measures. All eight paper pages, including Tables 1–4 and Figure 1, were
 reviewed as extracted text. Supplementary materials and the separate preference survey were not independently reviewed.
 
-Ingested [Monsere et al. (2014), _Lessons from the Green Lanes_](sources/2014-lessons-green-lanes.md), adding a
+Ingested [Monsere et al. (2014), *Lessons from the Green Lanes*](sources/2014-lessons-green-lanes.md), adding a
 five-city U.S. protected-lane evaluation:
 
 - [Ridership](findings/networks/green-lanes-ridership-changes.md): retained 21–171% summary route-count growth,
@@ -299,7 +847,7 @@ outcomes. Reviewed methods, relevant results/tables and conclusions as extracted
 and 119 for inconsistent summary totals. Separate appendices and underlying datasets remain unreviewed. Reporting
 discrepancies are documented, not silently corrected. No bundle validation or bookkeeping-metadata changes were made.
 
-Ingested [NYCDOT (September 2014), _Protected Bicycle Lanes in NYC_](sources/2014-nyc-protected-bicycle-lanes.md):
+Ingested [NYCDOT (September 2014), *Protected Bicycle Lanes in NYC*](sources/2014-nyc-protected-bicycle-lanes.md):
 
 - [Aggregate injuries](findings/safety/nyc-pbl-injury-changes.md): 17% fewer injury crashes and 20% fewer injuries,
   distinguished from the nearly unchanged cyclist count; chart aggregation remains unspecified.
@@ -319,7 +867,7 @@ without treating overlapping corridors or repeated economic results as independe
 extracted text and visually checked pp. 7 and 14. Underlying datasets and the separate economic report remain
 unreviewed. No bundle validation or bookkeeping-metadata changes were made.
 
-Ingested [ULI (March 2016), _Active Transportation and Real Estate: The Next Frontier_](sources/2016-active-transportation-real-estate.md):
+Ingested [ULI (March 2016), *Active Transportation and Real Estate: The Next Frontier*](sources/2016-active-transportation-real-estate.md):
 
 - [Indianapolis](findings/business/indianapolis-cultural-trail-property-values.md),
   [Radnor](findings/business/radnor-trail-property-values.md) and
@@ -343,7 +891,7 @@ Read all 65 PDF pages as extracted text. Underlying studies remain unreviewed; s
 valuation dates and absent displacement/affordability outcomes limit interpretation. No bundle validation or
 bookkeeping-metadata changes were made.
 
-Ingested [FHWA, _Road Diets and Emergency Response: Friends, Not Foes_](sources/2016-fhwa-road-diet-response-times.md),
+Ingested [FHWA, *Road Diets and Emergency Response: Friends, Not Foes*](sources/2016-fhwa-road-diet-response-times.md),
 report FHWA-SA-17-020:
 
 - [Ocean City emergency access](findings/operations/ocean-city-road-diet-emergency-access.md): preserved reported easier
@@ -358,8 +906,8 @@ Both PDF pages were read as extracted text. The publication date is unstated des
 PDF metadata spans December 2016 to March 2017. Underlying response records and the cited 2010 crash study were not
 reviewed. No bundle validation or bookkeeping-metadata changes were made.
 
-Ingested [Marqués and Hernández-Herrador, _On the effect of networks of cycle-tracks on the risk of cycling.
-The case of Seville_](sources/2016-seville-ridership.md):
+Ingested [Marqués and Hernández-Herrador, *On the effect of networks of cycle-tracks on the risk of cycling.
+The case of Seville*](sources/2016-seville-ridership.md):
 
 - [Citywide trips](findings/networks/seville-citywide-bicycle-trips.md): estimated 2006–2013 growth with a 2011 peak,
   distinguishing citywide extrapolations from corridor counts and causal adoption.
@@ -375,8 +923,8 @@ methods, tables, figure labels and discussion. Its publication date is unstated 
 comparison has overlapping period labels. Underlying datasets and cited studies remain unreviewed. No bundle validation
 or bookkeeping-metadata changes were made.
 
-Ingested [Ferenchak and Marshall (2019), _Advancing healthy cities through safer cycling: An examination of shared
-lane markings_](sources/2019-chicago-shared-lane-markings.md):
+Ingested [Ferenchak and Marshall (2019), *Advancing healthy cities through safer cycling: An examination of shared
+lane markings*](sources/2019-chicago-shared-lane-markings.md):
 
 - [Total injury-rate changes](findings/safety/chicago-sharrow-injury-rate-changes.md): larger commuter-weighted
   increases in sharrow groups, retaining different count-model results and within/between-group tests.
@@ -390,7 +938,7 @@ within-trip route comparisons, measured injury outcomes from spacing hypotheses,
 All ten PDF pages were read as extracted text; Tables 3–5 were checked visually. Supplementary data and cited studies
 remain unreviewed. No bundle validation or bookkeeping-metadata changes were made.
 
-Ingested [National Street Improvements Study, _Economic Impacts of Bicycle and Pedestrian Street Improvements_](sources/2020-economic-impacts-street-improvements.md):
+Ingested [National Street Improvements Study, *Economic Impacts of Bicycle and Pedestrian Street Improvements*](sources/2020-economic-impacts-street-improvements.md):
 
 - [Retail outcomes](findings/business/national-street-improvements-retail.md): preserved the nine positive, two null
   and three mixed case tally, adverse Madison employment and explanations based on pre-existing or regional growth.
@@ -406,7 +954,7 @@ filename and PDF metadata, not a printed date. The final technical report and un
 effect sizes, uncertainty and full observation windows are absent from the summary. No bundle validation or
 bookkeeping-metadata changes were made.
 
-Ingested [Andersen and Hall, _Protected Bike Lanes Mean Business_](sources/protected-bike-lanes-mean-business.md):
+Ingested [Andersen and Hall, *Protected Bike Lanes Mean Business*](sources/protected-bike-lanes-mean-business.md):
 
 - [Portland spending](findings/business/portland-bike-customer-spending.md): lower bicycle-trip spending but higher
   monthly spending, distinguished from a causal lane effect.
@@ -428,7 +976,7 @@ Read all 19 PDF pages as extracted text, including references, and visually chec
 no printed date; January 2014 PDF metadata does not support treating the supplied 2023 filename as publication year.
 Underlying studies remain unreviewed. No bundle validation or bookkeeping-metadata changes were made.
 
-Ingested [Corcoran et al. (2024), _Impact of 4-to-3 lane conversions on emergency response_](sources/2024-07-road-diets-ems.md):
+Ingested [Corcoran et al. (2024), *Impact of 4-to-3 lane conversions on emergency response*](sources/2024-07-road-diets-ems.md):
 
 - [Cedar Rapids response rates](findings/operations/cedar-rapids-road-diet-response-rates.md): no significant adjusted
   before/after change, preserving the Table 7 ratio of 1.024 (95% CI 0.992–1.056), site imbalance and causal limits.
@@ -443,7 +991,7 @@ as a tested remedy. Read all 12 PDF pages as extracted text, including appendice
 pp. 7, 8 and 11. Confidential incident data were unavailable for reanalysis. Reporting inconsistencies remain unresolved.
 No bundle validation or bookkeeping-metadata changes were made.
 
-Ingested [FHWA (15 April 2011), _MUTCD green-pavement interim approval (IA-14)_](sources/2011-mutcd-green-pavement-interim-approval.md):
+Ingested [FHWA (15 April 2011), *MUTCD green-pavement interim approval (IA-14)*](sources/2011-mutcd-green-pavement-interim-approval.md):
 
 - [Approval conditions](findings/design/mutcd-green-pavement-approval-conditions.md): optional green pavement
   supplemented required markings, with approval, safety and material conditions preserved as historical requirements.
@@ -454,7 +1002,7 @@ Revised [Interpreting cycling injury risk](topics/cycling-injury-risk.md) to dis
 from measured injury outcomes. Read all five scanned pages visually. Current MUTCD requirements and underlying
 experimental reports were not reviewed. No bundle validation or bookkeeping-metadata changes were made.
 
-Ingested [Younes et al. (2024), _The Traffic Calming Effect of Delineated Bicycle Lanes_](sources/2024-rutgers-bike-lane-car-speed.md):
+Ingested [Younes et al. (2024), *The Traffic Calming Effect of Delineated Bicycle Lanes*](sources/2024-rutgers-bike-lane-car-speed.md):
 
 - [Right-turn speeds](findings/design/asbury-park-right-turn-speeds.md): lower adjusted average/top speeds with
   delineators and smaller paint-only associations; the stopped subgroup's unadjusted paint-only average rose slightly.
@@ -471,7 +1019,7 @@ endnotes; visually checked Figure 2 and Table 6. Supplementary material and raw 
 vehicle totals remain unresolved. No bookkeeping metadata was changed.
 
 Ingested [MacPherson's June 3, 2024 Rutgers news article](sources/2024-rutgers-bike-lane-car-speed-news.md),
-_Traffic Speeds Decrease When Bike Lane is Present_. Linked it to the
+*Traffic Speeds Decrease When Bike Lane is Present*. Linked it to the
 [already-ingested study](sources/2024-rutgers-bike-lane-car-speed.md) and its existing Findings rather than duplicating
 speed evidence. Preserved researcher interpretations and the unquantified rider-survey account; distinguished the
 article's broad straight-traffic and paint-only headlines from the primary paper's direction-specific results.
@@ -480,7 +1028,7 @@ rider attitudes and inferred safety benefits. Read all five printout pages as te
 sections. No new Findings or bookkeeping-metadata changes; survey details and the study's vehicle totals remain unresolved.
 
 Ingested [Badger's December 5, 2012 CityLab article](sources/2012-citylab-pedestrians-bikes-spending.md),
-_Cyclists and Pedestrians Can End Up Spending More Each Month Than Drivers_. Updated the existing
+*Cyclists and Pedestrians Can End Up Spending More Each Month Than Drivers*. Updated the existing
 [Portland customer-spending Finding](findings/business/portland-bike-customer-spending.md) with survey counts,
 collection periods, self-reported visit frequency, supermarkets' higher driver spending and walking-mode exceptions.
 Revised [Evaluating street redesign outcomes](topics/street-redesign-outcomes.md) to distinguish these category-specific
@@ -489,7 +1037,7 @@ checked all three charts. Linked the underlying OTREC draft without reviewing it
 business report's Clifton citation remains unverified. No new Findings or bookkeeping-metadata changes.
 
 Ingested [Jaffe's September 10, 2013 CityLab article](sources/2013-citylab-bikes-biz.md),
-_No, Bike Lanes Don't Hurt Retail Business_. Added Findings for
+*No, Bike Lanes Don't Hurt Retail Business*. Added Findings for
 [NE 65th Street's sales-index rise](findings/business/seattle-65th-street-retail-sales.md) and
 [Greenwood's similar-to-area sales](findings/business/seattle-greenwood-retail-sales.md), preserving the latter's
 installation-period dip and distinguishing reported comparisons from proof of no harm. Revised

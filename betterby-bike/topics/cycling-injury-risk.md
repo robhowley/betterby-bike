@@ -6,6 +6,51 @@ description:
   identify causes.
 tags: [safety, injuries, exposure]
 sources:
+  - id: dcabstract
+    resource: /sources/washington-dc-pedestrian-bicycle-crash-analysis.md
+    title: Washington, DC pedestrian and bicycle crash analysis (unidentified abstract)
+  - id: rtor
+    resource: /sources/right-turn-on-red-crash-analysis.md
+    title: Right-turn-on-red crash analysis (unidentified results excerpt)
+  - id: epstein2025
+    resource: /sources/2025-longitudinal-forward-blind-zones.md
+    title: "Longitudinal Analysis of Forward Blind Zone Changes in Popular Vehicle Models (1997–2023)"
+  - id: burford2024
+    resource: /sources/2024-united-states-micromobility-injury-burden-2019-2022.md
+    title: "U.S. micromobility injury burden, 2019–2022"
+  - id: rtz2024
+    resource: /sources/2024-road-to-zero-massive-hazards-light-trucks.md
+    title: "Massive Hazards: How Bigger, Heavier Light Trucks Endanger Lives on American Roads"
+  - id: njcard2024
+    resource: /sources/2024-new-jersey-bicycle-friendly-state-report-card.md
+    title: "2024 Bicycle Friendly State Report Card: New Jersey"
+  - id: cpsc2023
+    resource: /sources/2023-cpsc-micromobility-deaths-injuries-hazard-patterns.md
+    title: "Micromobility Products-Related Deaths, Injuries, and Hazard Patterns: 2017–2022"
+  - id: nts2021
+    resource: /sources/2021-national-transportation-statistics.md
+    title: "National Transportation Statistics 2021: 50th Anniversary Edition"
+  - id: dccomparison2021
+    resource: /sources/2021-washington-dc-e-scooter-bicycle-injuries.md
+    title: Injuries related to electric scooter and bicycle use in a Washington, DC, emergency department
+  - id: cicchino2021
+    resource: /sources/2021-e-scooter-rider-injury-severity-trip-characteristics.md
+    title: Severity of e-scooter rider injuries associated with trip characteristics
+  - id: njmidyear
+    resource: /sources/2025-nj-crashes-mid-year-report.md
+    title: "NJ Crashes: A Mid-Year Report"
+  - id: njexcerpt3
+    resource: /sources/2024-new-jersey-traffic-deaths-roundup.md
+    title: New Jersey traffic deaths and State Police (unidentified roundup excerpt)
+  - id: njexcerpt2
+    resource: /sources/2024-new-jersey-enforcement-investigation-commentary.md
+    title: New Jersey enforcement investigation (unidentified commentary excerpt)
+  - id: nj2024
+    resource: /sources/2024-new-jersey-state-police-traffic-enforcement-crashes.md
+    title: New Jersey State Police enforcement slowdown and crashes (unidentified news excerpt)
+  - id: economist2024
+    resource: /sources/2024-economist-big-cars-killing.md
+    title: Americans’ love affair with big cars is killing them
   - id: nycdot2023
     resource: /sources/2023-nycdot-bike-lanes-pedestrians.md
     title: NYC DOT Completes East New York’s Longest Protected Bike Lane Project, Delivering Much-Needed Safety Near Schools
@@ -55,6 +100,15 @@ sources:
 
 # Interpreting cycling injury risk
 
+State report-card indicators require another denominator distinction. [New Jersey's 2024 League card](/findings/safety/new-jersey-report-card-safety-denominator.md)
+reports 14.1 fatalities per 10,000 bike commuters (28/50 states), but gives neither observation years nor
+precise fatality coverage. Bike commuters are not trips or miles, and the card does not establish that the
+fatalities occurred during commuting. Its separate Safety rubric score, 48% of available points (27/50),
+and overall rank of 26/50 do not measure death probabilities or isolate policy effects. These indicators
+cannot establish safer travel than another state or a change in risk since the previous card.[^njcard2024]
+
+[^njcard2024]: Report card p. 1, “Federal Data on Biking,” “Categories,” ranking heading and survey-methods note; separate use guide and underlying datasets unreviewed.
+
 Injury counts, rates per hour or kilometre, and life-threatening injury rates answer different questions. This bundle
 contains a historical New Zealand population study and a Montreal comparison of six two-way cycle tracks with streets
 without bicycle facilities, plus a Toronto–Vancouver within-trip infrastructure study. It also includes a New York City
@@ -78,6 +132,128 @@ Severity also changes subgroup comparisons.
 [Children aged 5–14 had the highest overall rate](/findings/safety/nz-child-cycling-injury-severity.md), especially in
 crashes without motor vehicles, but the same pattern did not hold for serious injuries. A broad injury measure should
 not be presented as a measure of life-threatening harm.
+
+## National traffic statistics exclude some cycling injuries
+
+BTS's 2021 compendium adds [U.S. pedalcyclist traffic fatalities](/findings/safety/us-pedalcyclist-fatalities-2010-2020.md):
+623 in 2010 and 846 in 2019, with intervening declines as well as increases. Its 891 figure for 2020 is an
+**early estimate**, not a final count. Unlike the New Zealand death/inpatient study, this motor-vehicle traffic
+measure excludes bicycle-only falls; it also has no cycling exposure denominator. A rising count cannot establish
+rising risk per ride or an infrastructure effect.[^nts2021]
+
+The separate [U.S. injury estimates](/findings/safety/us-pedalcyclist-injury-estimate-limits.md) illustrate why a
+change in measurement can look like a change in harm: 45,000 injured pedalcyclists in 2015 versus 64,000 in 2016
+straddles the GES-to-CRSS sampling redesign and is explicitly noncomparable. The 2019 estimate is 49,000;
+2020 is unavailable. These police-report-based figures include possible injuries, exclude unreported crashes
+and are not directly comparable to hospital-based injury severity or all-cycling injury surveillance. The injury
+sampling break should not be mistaken for a break in the separate fatality counts.[^nts2021]
+
+## London cycling recovery did not mean fewer cyclist casualties
+
+TfL's [2021 London casualty counts](/findings/safety/london-2021-cyclist-casualty-counts.md) show 999 cyclists
+killed or seriously injured, 33% above the 2017–2019 average, even though all-user KSI was 9% below that
+baseline and total road fatalities fell. Cyclist deaths rose from six in 2020 to ten in 2021. All-user improvement
+therefore cannot stand in for cyclist outcomes, and these adverse counts belong alongside the
+[cycling recovery evidence](/findings/networks/london-2022-cycling-recovery-measurement.md).
+
+Unlike the exposure-based New Zealand rates, these police-reported counts do not establish risk per ride.
+TfL's long-term journey-growth context ends in 2020, a year before the casualty numerator, and its 2021 area
+counts are explicitly unrepresentative of the whole year. Combining them with spring 2022 distance growth would
+create another mismatch. Pandemic changes in activity and mode mix prevent attributing the casualty increase to
+lanes or treating cycling growth alone as an explanation.
+
+## National micromobility surveillance measures several different burdens
+
+CPSC's [national ED estimates](/findings/safety/cpsc-micromobility-ed-injury-trends.md) add U.S. e-scooters,
+hoverboards and low-speed e-bikes, not all cycling: 93,100 estimated injuries in 2022 versus 34,000 in 2017.
+The combined increase masks a declining hoverboard trend; annual 2018–2021 e-bike estimates fail reliability
+criteria. Unlike traffic-only police statistics, these hospital estimates cover non-collision injuries, but
+neither series supplies riding exposure. Scooter coding and follow-up classification also changed.[^cpsc2023]
+
+The [233 reported fatalities](/findings/safety/cpsc-micromobility-reported-fatalities.md) are incomplete reports,
+not a national mortality estimate. Motor vehicles dominate reported scooter/e-bike deaths, unlike the predominantly
+non-collision injuries in the DC patient studies below. This is a difference in severity and ascertainment,
+not a contradiction. Ten pedestrian deaths and 19 fire deaths show why rider collisions alone do not capture
+all harm. [Selected hazard investigations](/findings/safety/cpsc-micromobility-investigated-hazards.md) further
+identify charging fires, brakes and structural failures, but their large fire share cannot be generalized to all
+incidents; eight investigated fatalities overlap the death series.[^cpsc2023]
+
+CPSC's [scooter follow-up survey](/findings/safety/cpsc-scooter-follow-up-limits.md) estimates 37% rental-related
+injuries and 13% helmet use among injury cases, not relative risks. Low in-scope completion, residual nonresponse
+and conflicting surface tabulations limit interpretation. Darkness and distraction questions describe conditions,
+not demonstrated causes. Neither these injury shares nor the national counts rank riding facilities or establish
+protective-equipment effects. This annual report extends earlier CPSC surveillance rather than independently
+replicating it.[^cpsc2023]
+
+[^cpsc2023]: Tark (2023), pp. 8–11, Tables 2.1–2.9 pp. 18–22, Tables 3.1–3.4 pp. 23–25,
+    section IV/Table 4.1 pp. 26–28, Appendices A–C pp. 30–37 and questionnaire pp. 38–42.
+
+### Overlapping NEISS analysis adds diagnoses, not independent replication
+
+Burford et al.'s [2019–2022 population-based trends](/findings/safety/us-micromobility-population-injury-trends.md)
+report 293.0% growth for e-bike injury rates and 88.0% for powered scooters, versus a 26.2% hoverboard decline.
+Unlike per-trip comparisons, the denominator is residents; the study cannot separate increased use from increased
+risk while riding. It draws on the same NEISS surveillance as CPSC, adds conventional bicycles and uses its own
+classification, so the estimates must not be added or treated as independent confirmation. The main text reports
+these trend percentages, but its separate supporting appendix was not accessed.[^burford2024]
+
+Its [diagnostic comparisons](/findings/safety/us-micromobility-ed-injury-profiles.md) also resist one device-safety
+ranking. E-bike ED cases had more internal injuries than bicycle cases, but their admission prevalence was
+significantly higher only against hoverboards, not bicycles or powered scooters. Hoverboards had more fractures
+and concussions despite fewer admissions. These conditional outcomes concern differently composed patient groups,
+not injury incidence or a causal effect of motorization, speed or weight.[^burford2024]
+
+[Clinical-note missingness](/findings/safety/us-micromobility-narrative-measurement-limits.md) prevents treating
+helmet-use shares as all-rider behavior or inferring helmet effectiveness. Only 20.3% of cases had identifiable
+helmet status; positive-only alcohol fields and text-derived vehicle mentions also lack reliable negative categories.
+These measures differ from CPSC's follow-up interviews and the DC patient interviews below. Infrastructure and
+protective-equipment recommendations remain proposed responses, not tested effects.[^burford2024]
+
+[^burford2024]: Burford et al. (2024), methods pp. 1366–1367; Tables 1–2 pp. 1368–1369, 1371;
+    trend and diagnostic results p. 1369; discussion/limitations pp. 1372–1373. Online appendix unreviewed.
+
+## Scooter injury severity is not injury risk per ride
+
+A separate 2019 Washington, DC hospital study found
+[greater moderate-or-worse injury severity among road and weekly scooter riders](/findings/safety/dc-e-scooter-injury-severity-associations.md).
+Road cases had 58% AIS ≥2 injuries versus 32% elsewhere, with adjusted RR 1.96 (95% CI 1.23–2.36).
+This compares already-injured patients, unlike the exposure-based bicycle studies below. It neither establishes twice
+the injury risk per road trip nor identifies a safer bicycle facility. Age, sex, motor-vehicle collision and the
+unadjusted speed-cap comparison were inconclusive; speed was a proposed explanation, not measured.[^cicchino2021]
+
+[Missing exposure and interview-based selection](/findings/safety/dc-e-scooter-exposure-and-selection-limits.md)
+prevent ranking sidewalks, roads and bike lanes by overall scooter safety. Eight bike-lane versus 60 sidewalk cases
+could reflect availability and use rather than risk, and 37% first-ride cases do not establish a first-trip rate.
+The sample omitted some overnight and very severely injured patients. It cannot support a conclusion that the mostly
+minor observed vehicle-collision injuries represent fatal-crash patterns.[^cicchino2021]
+
+[Most rider incidents were falls without another road user involved](/findings/safety/dc-e-scooter-incident-mechanisms.md),
+while six non-rider cases included four encounters with parked scooters. This broadens the mechanisms to consider
+beyond moving-vehicle collisions without measuring maintenance, parking or separated-facility benefits. The authors'
+recommendation to consider separated space remains conditional on injury incidence and harm to other users, not severity
+alone.[^cicchino2021]
+
+### An overlapping publication adds a bicycle comparison, not replication
+
+A [second publication from overlapping DC recruitment](/sources/2021-washington-dc-e-scooter-bicycle-injuries.md)
+compared 99 scooter patients in 2019 with 337 cyclists in 2015–2017. Its
+[estimated single-ED visits per citywide mile](/findings/safety/dc-scooter-bicycle-ed-mileage-rates.md) were higher
+for scooters (20.7 versus 5.5 per million miles; ratio 3.76, 95% CI 3.08–4.59). Unlike the severity-only analysis,
+this does estimate exposure, but operator counts, commuter extrapolations and injured riders' trip lengths
+supply imperfect denominators. Broader screened numerators include some non-interviewed patients; neither rate
+captures all city EDs or overnight presentations. Tested assumptions preserve the ordering without resolving
+geographic catchment bias or establishing a facility-specific rate.[^dccomparison2021]
+
+[Injury profiles](/findings/safety/dc-scooter-bicycle-injury-profiles.md) also differ without a significant overall
+severity difference: scooter patients had more distal lower-limb injuries and loss-of-consciousness concussions,
+but similar head/neck injury and admission shares. [Incident comparisons](/findings/safety/dc-scooter-bicycle-incident-comparison.md)
+show fewer moving-vehicle and more surface/infrastructure incidents among scooter cases. Together these qualify
+transferring bicycle countermeasures wholesale to scooters, not demonstrate that separated lanes or maintenance
+work less well. Years, selection, trip purposes and injury definitions differ; the overlapping scooter cohort
+must not be counted as a second independent confirmation.[^dccomparison2021]
+
+[^dccomparison2021]: Cicchino et al. (2021), *Traffic Injury Prevention*, Tables 1–5 pp. 403–405,
+    limitations p. 405; supplement methods A1–A3, Tables A1–A5 and Figures A1–A3.
 
 ## Route comparisons need matched measures
 
@@ -190,6 +366,16 @@ safety gains may help explain route appeal, but are not injury outcomes. Its
 and signal violations even where conflicting movements were separated by signals. These are useful design observations,
 not independent estimates of injury reduction or proof of one universally safest intersection design.[^monsere2014]
 
+## Pedestrian injury burden is not risk per encounter
+
+[Streetsblog's chart of reported 2024 NYPD pedestrian injuries](/findings/safety/nyc-2024-streetsblog-pedestrian-injury-counts.md)
+shows 9,610 car/truck injuries out of 9,647 total, implying 37 e-bike injuries from its two-category legend.
+This supports a much larger reported car/truck injury burden in the chart, not a comparison at equal exposure.
+The supplied image lacks data definitions, severity thresholds and explicit coverage; the primary records were
+not reviewed. Its nonzero e-bike slice does not support either zero harm or a per-trip risk ratio. These injury
+counts cannot be joined to the earlier mayoral memo's bicycle-related pedestrian fatalities as a trend: periods,
+vehicle categories and severity measures differ.
+
 ## Policy claims need supporting analyses
 
 [NYC's March 2011 mayoral memo](/findings/safety/nyc-wolfson-protected-lane-crash-claims.md) reports that protected
@@ -269,6 +455,108 @@ differ. Marshall's speed explanation and warning about parking between bollards 
 mechanisms in this account. Its separate sharrow criticism repeats the Chicago study above, not another independent
 confirmation, and does not resolve that study's rate/count differences.[^short2019]
 
+## Vehicle-occupant crash severity is not cyclist risk
+
+[The Economist's vehicle-weight analysis](/findings/safety/us-vehicle-weight-crash-fatalities.md) adds a different
+safety comparison: deaths conditional on a recorded two-vehicle crash, using about 7.5 million crashes across
+14 U.S. states in 2013–2023. Heavier vehicles generally protected their occupants while being associated with more
+deaths in the other vehicle. A collision partner 1,000 lb heavier was associated with a 0.06-percentage-point higher
+fatality probability after adjustment, about 66% of the reported average. Unlike the cycling studies above, these
+are vehicle-occupant outcomes, not cyclist injuries per trip, hour or kilometre. They neither quantify harm to
+cyclists/pedestrians nor measure crash frequency or bike-lane effects.[^economist2024]
+
+The article's [12% multi-car fatality reduction estimate](/findings/safety/us-heavy-vehicle-downsizing-estimate.md)
+assumes the heaviest fleet decile is downsized to the next weight class. Like other counterfactual health and safety
+calculations, it is not an observed intervention effect. Higher own-vehicle death rates in the lightest vehicles and
+the article's historical downsizing discussion also rule out summarizing its evidence as “lighter is always safer.”
+Missing uncertainty intervals and model detail limit causal interpretation; the article's own analysis should not be
+confused with independent review of the older studies it cites.[^economist2024]
+
+## Crash composition is not exposure-based intersection risk
+
+A [DC 2012–2014 crash-analysis abstract](../findings/safety/dc-2012-2014-crash-composition-limits.md)
+reports 68% of pedestrian/bicycle crashes at intersections, with left-turn parallel-path collisions the leading
+pedestrian type and door opening the leading bicycle type. Unlike exposure-matched route comparisons, these
+results describe the analyzed crashes, not danger per encounter; the intersection percentage is not a
+bicycle-specific rate. Missing counts and type shares also prevent interpreting “leading” as a majority.
+The abstract's construction-zone and bicycle-only severity associations do not establish crash probability,
+and its listed countermeasures were not evaluated. Only the abstract was available, so classification,
+police-form limitations and model reliability cannot be checked against full methods or tables.[^dcabstract]
+
+## Right-turn permission does not identify the signal during a crash
+
+The [historical RTOR excerpt](/findings/safety/right-turn-on-red-classification-limits.md) adds a classification
+problem to the exposure problem: about 84 annual fatal crashes in 1982–1992 involved right-turning vehicles where
+turning on red was permitted, but the reported FARS data did not identify whether the light was red. Its subsequent
+pedestrian/bicyclist involvement shares should not be treated as confirmed on-red crash shares. Separately, the
+reported 0.05% RTOR share of all crashes in four unnamed states is a burden measure, not risk per turn. Unlike a
+comparison of policies, neither result estimates what an RTOR ban would prevent. Only a cropped results page was
+available, without methods, supporting tables or a verified publication identity.[^rtor]
+
+## Vehicle geometry, visibility and compatibility measure different hazards
+
+[Road to Zero's 2024 synthesis](/sources/2024-road-to-zero-massive-hazards-light-trucks.md) extends the occupant-weight
+comparison to pedestrian severity and cyclist injury mechanisms. It reports worse cyclist outcomes with SUVs than
+sedans, including ground impacts, but gives no cyclist effect size or detailed methods. Its
+[front-end profile comparison](/findings/safety/rtz-front-end-profile-pedestrian-fatality.md) reports roughly 44–45%
+higher pedestrian fatality risk for tall fronts than low/sloped fronts in recorded crashes. Low/blunt and medium/sloped
+profiles were labeled similar risk, so not every shape change had the same association. Neither comparison measures
+risk per bicycle trip or establishes a benefit from a proposed height cap.[^rtz2024]
+
+The [turning-crash result](/findings/safety/rtz-turning-crash-denominator.md) has a different denominator again:
+higher turning-versus-straight odds among fatal pedestrian crashes, not deaths per turn. Blind zones are a plausible
+explanation, not a mechanism established by those odds. Heavy-truck direct-vision response tests cannot supply
+light-truck reaction-time estimates. These distinctions matter when selecting street treatments: the coalition's
+turn-calming, protected-infrastructure and fleet-design recommendations are not an evaluated combined intervention.[^rtz2024]
+
+[Compatibility evidence](/findings/safety/rtz-vehicle-compatibility-mixed-evidence.md) also resists a single
+“bigger vehicles are equally harmful” conclusion: historical car-driver fatality disadvantages narrowed for SUVs
+but persisted for pickups. The report warns about EV weight and stiffness while acknowledging a barrier-test
+analysis finding no evidence of greater EV aggressivity. Actual mixed-fleet injury effects remain uncertain.
+Its repeated Economist analysis and earlier weight-study citations must not be counted as independent confirmations;
+all other primary results here remain secondary evidence, not independently reviewed studies.[^rtz2024]
+
+Epstein et al.'s [17-vehicle measurement study](/findings/safety/vehicle-generation-forward-visibility.md)
+adds direct geometry evidence, distinct from those secondary crash studies: all six nameplates had less visible
+ground within 10 m in the latest versus earliest sampled models. CR-V and Suburban losses were about 58% and
+51%, but sedan losses of 7–8% may be measurement error. Grand Cherokee improved at its last sampled redesign,
+and the 10–20 m band showed both gains and losses. This is not evidence that every redesign reduces visibility.
+The [ground-plane measurement limits](/findings/safety/ground-plane-visibility-inference-limits.md) also prevent
+converting lost visible area into whole-person invisibility or cyclist injury risk: one static male eyepoint,
+selected model years and no crash/exposure linkage were used. The study adds measurements relevant to the
+coalition's visibility concerns, but does not resolve the causal mechanism or test countermeasure benefits.[^epstein2025]
+
+[^epstein2025]: Epstein et al., printed pp. 71–73, methods and Table 1; pp. 75–76, results, causal qualifications
+    and future work. Full supplied paper reviewed; external background studies not independently reviewed.
+
+## Enforcement trends are not an isolated safety effect
+
+[New Jersey's reported enforcement and crash trends](/findings/safety/new-jersey-enforcement-crash-trends.md)
+add a temporal association, not an infrastructure comparison: a partial news excerpt reports 81% fewer state-trooper
+citations in August 2023 than the year before and a 27% main-highway crash increase with no stated baseline or
+precise comparison period. Unlike Seville's trip-based rates, these figures lack exposure; unlike the vehicle-weight
+analysis, they concern crash occurrence rather than fatality conditional on a crash. The visible reporting cannot
+identify an enforcement effect, cyclist risk or a preventable death toll. The roundup and embedded Times passage
+are repeated reporting, not independent confirmation, and the full article remains unreviewed.[^nj2024]
+A second commentary repeats the Times account but attaches the 81% decline to an eight-month period beginning
+in July 2023, rather than August's year-on-year comparison. This unresolved period discrepancy is a reason to
+retain the specific attribution, not another supporting estimate. Its account of an investigation into whether
+the slowdown was intentional does not establish motive or causation.[^njexcerpt2]
+
+A third roundup adds a [23% New Jersey traffic-death increase versus a 3% national decline](/findings/safety/new-jersey-national-traffic-death-trends.md)
+for “the first six months of the year,” without an explicit year or baseline. Death totals are a different outcome
+from main-highway crashes; they cannot be combined into a fatality rate. The contrasting national trend does not
+control for other local changes, and all three excerpts repeat the same Times story rather than supplying independent
+studies. This leaves an enforcement effect unresolved, not disproved.[^njexcerpt3]
+
+## Partial-year counts are not full-year forecasts
+
+A [2025 New Jersey snapshot](/findings/safety/new-jersey-2025-death-snapshot-projection.md) reports 350 traffic
+deaths through August 18, but its 648-death annual figure includes 298 projected deaths. Unlike the historical
+counts above, that latest chart total is partly a forecast with no stated method or uncertainty. It cannot establish
+a completed annual change, cyclist exposure-based risk or an enforcement effect. Its explicit 2025 date also does
+not resolve the missing year and baseline in the separate Times-derived comparison.[^njmidyear]
+
 ## What remains unresolved
 
 Clarke’s 2012 secondary review adds a
@@ -330,6 +618,34 @@ describes the Toronto–Vancouver case-crossover design and its injury-populatio
 
 [Lessons from the Green Lanes](/sources/2014-lessons-green-lanes.md) distinguishes post-installation video conflicts,
 perceived safety and comfort from long-term crash evidence.
+
+[^dcabstract]: Supplied PDF p. 1, complete visible “16. Abstract,” covering 2012–2014 DC crashes; full report unavailable.
+
+[^rtor]: Supplied one-page results excerpt, both FARS bullets and the single visible four-state crash-file bullet;
+    full publication and methods unavailable.
+
+[^rtz2024]: Road to Zero (October 2024), printed p. 12, repeated Economist analysis; pp. 17–24, severity and
+    geometry; pp. 25–29, visibility and turning; pp. 30–33, compatibility and EV uncertainty; pp. 36–53,
+    countermeasures and recommendations. Primary papers not independently reviewed.
+
+[^nts2021]: BTS (2021), Tables 2-1 and 2-2 with notes, pp. 111–115; glossary pp. 345, 347;
+    Appendix E pp. 424–426; Appendix F pp. 505–506. Partial review of the supplied 2021 edition.
+
+[^cicchino2021]: Cicchino et al. (2021), methods p. 257; Tables 1–3 pp. 258–259; Tables 4–5 p. 260;
+    non-rider results pp. 258–259 and discussion pp. 259–260.
+
+[^njmidyear]: “NJ Crashes: A Mid-Year Report,” supplied PDF p. 1, opening paragraph and 2025 chart column; police records and forecast method unreviewed.
+
+[^njexcerpt3]: Supplied New Jersey excerpt 3, PDF p. 1, “State Police” item and closing first-six-month mortality quotation; full Times article and underlying records unreviewed.
+
+[^njexcerpt2]: Supplied New Jersey excerpt 2, PDF p. 1, opening investigation and “According to the Times” paragraphs;
+    unidentified commentary repeating Times reporting, not independent review of the newspaper's records.
+
+[^nj2024]: Supplied New Jersey excerpt 1, PDF p. 1, news bullet and embedded Times passage; full publication identity,
+    crash comparison details and underlying records unavailable in the reviewed crop.
+
+[^economist2024]: The Economist (August 31, 2024), PDF pp. 2–3, historical research and original dataset;
+    p. 7, own/partner-vehicle deaths, adjusted association and back-of-the-envelope downsizing estimate.
 
 [^nycdot2023]: NYC DOT (September 21, 2023), PDF p. 1, opening announcement and paragraph beginning
     “By shortening crossing times for pedestrians.”
