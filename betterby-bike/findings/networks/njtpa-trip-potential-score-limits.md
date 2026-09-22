@@ -64,4 +64,5 @@ environmental-justice data as a starting point for a conceptual network, without
   measure that cannot establish connected routes.
 
 [^njtpa]: [Source summary](/sources/2023-njtpa-trip-potential-analysis.md), PDF pp. 1–4, Tables 1–2 and equations 1–2;
-    pp. 4–8, spatial results and Figures 1–3; p. 9, Next Steps. Composite maps were visually reviewed; appendix variable maps were not.
+    pp. 4–8, spatial results and Figures 1–3; p. 9, Next Steps. Composite maps were
+    visually reviewed; appendix variable maps were not.

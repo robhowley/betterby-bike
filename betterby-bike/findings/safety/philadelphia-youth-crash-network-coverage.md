@@ -49,4 +49,5 @@ See [street-redesign outcomes](/topics/street-redesign-outcomes.md) and
 [active travel and access](/topics/active-commuting-and-access.md).
 
 [^brief]: PBIC (2024), p. 8, “Crashes and crash risk”; p. 15, reference 30. Result accessed only through the
-    [brief](/sources/2024-creating-accessible-equitable-safe-complete-networks-young-pedestrians.md), not the cited primary analysis.
+    [brief](/sources/2024-creating-accessible-equitable-safe-complete-networks-young-pedestrians.md), not the cited
+    primary analysis.

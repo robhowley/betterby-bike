@@ -56,7 +56,9 @@ and surrounding retelling, along with excerpt 2's commentary, are one reporting 
   risk and causal effects.
 
 [^njexcerpt2]: Supplied excerpt 2, PDF p. 1, opening investigation paragraph and “According to the Times” paragraph;
-    see the [commentary Source](/sources/2024-new-jersey-enforcement-investigation-commentary.md) for attribution and access limits.
+    see the [commentary Source](/sources/2024-new-jersey-enforcement-investigation-commentary.md) for
+    attribution and access limits.
 
 [^nj2024]: Supplied excerpt 1, PDF p. 1, top news bullet and embedded Charles Komanoff post with cropped Times prose;
-    see the [Source summary](/sources/2024-new-jersey-state-police-traffic-enforcement-crashes.md) for unresolved publication identity and access limits.
+    see the [Source summary](/sources/2024-new-jersey-state-police-traffic-enforcement-crashes.md) for unresolved
+    publication identity and access limits.

@@ -65,4 +65,5 @@ The unavailable Times article is not represented as independently reviewed.
   exposure-based risk or causation.
 
 [^nj2024]: Supplied excerpt 1, PDF p. 1: top roundup bullet (27% and six of seven months); embedded Komanoff post
-    (dated December 9, 2024) and cropped Times passage (July 2023, 81% year-on-year citation decline, duration and records attribution).
+    (dated December 9, 2024) and cropped Times passage (July 2023, 81% year-on-year citation decline,
+    duration and records attribution).
