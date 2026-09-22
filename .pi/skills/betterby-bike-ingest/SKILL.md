@@ -20,16 +20,9 @@ unchanged. Do not update bookkeeping metadata or run bundle validation.
 Read index.md and relevant existing documents. Follow their document format and citation style. Search across the bundle
 for this publication, the underlying study, related findings, and relevant topics before creating anything.
 
-For a read-only duplicate check from the repository root, run:
-
-```sh
-python3 scripts/check-raw-source-inventory.py
-python3 scripts/check-raw-source-inventory.py --unmatched
-```
-
-The command reports raw PDFs referenced by Source-summary frontmatter and PDFs with no matching summary. A match is
-only a factual reference, not proof of completed review. Never skip reading or reviewing an input automatically because
-it appears in the report.
+For batch ingestion or identifying unrepresented raw PDFs, run
+`python3 scripts/check-raw-source-inventory.py --unmatched` once from the repository root. Treat the output as candidates
+for ingestion: it checks Source-summary references, not completed review or duplicate publications.
 
 Read the source's substantive content, including methods, limitations, and tables or figures supporting extracted
 results. If access is partial, state that in the Source summary and use only what you actually read. If nothing
