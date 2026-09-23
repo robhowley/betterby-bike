@@ -4,6 +4,305 @@ okf_version: "0.2"
 
 # Better by Bike
 
+[Guardian’s August 2026 e-scooter coverage](sources/2026-guardian-escooter-trauma-comparison.md) adds
+reported English/Welsh trauma injury profiles, not injury incidence per trip or evaluated design remedies.
+
+[KYW's May 2024 scooter PIP coverage](sources/2024-kyw-new-jersey-scooter-pip.md) adds an industry interview,
+not measured premium effects or a broader e-bike holding than the existing Goyco opinion.
+
+[Velo's December 2025 e-bike commentary](sources/2025-velo-ebike-emoto-injury-claims.md) adds device-classification
+concerns, but no vehicle-level evidence attributing aggregate injury growth to electric motorcycles.
+
+[BBC's September 2025 Royal London Hospital coverage](sources/2025-bbc-royal-london-ebike-injuries.md)
+adds local e-bike injury workload and pedestrian harm accounts, not comparative per-trip risk or measured regulation benefits.
+
+[SSTI's September 2025 travel coverage](sources/2025-ssti-declining-travel.md) adds national VMT and youth
+personal-mileage comparisons, not independent UCLA confirmation or demonstrated cycling substitution.
+
+[Slate's December 2024 commuting-habits review](sources/2024-slate-commuting-habits.md) adds mixed
+intervention reports and life-change timing, not quantified cycling benefits or a substitute for usable alternatives.
+
+[America Is All In's July 2025 Maryland account](sources/2025-america-is-all-in-maryland-transportation.md)
+adds coalition advocacy and conditional household savings, not enacted TCA legislation or evaluated policy benefits.
+
+[New Jersey Monitor's May 2026 driverless pilot-bill reporting](sources/2026-nj-monitor-driverless-pilot-bill.md)
+adds proposed testing safeguards and disputed access provisions, not enacted policy or measured safety gains.
+
+[Streetsblog's June 2026 AV governance commentary](sources/2026-streetsblog-av-safety-governance.md)
+adds proposed certification and compensation safeguards, not measured pedestrian or cyclist safety gains.
+
+[Guardian's March 2025 Ulez coverage](sources/2025-guardian-ulez-expansion-air-quality.md) adds reported
+exhaust-emission and deprived-community exposure estimates, not measured cycling or health benefits.
+
+[Streetsblog's June 2025 Brooklyn enforcement reporting](sources/2025-streetsblog-brooklyn-cyclist-double-summons.md)
+adds a disputed double summons and anticipated work costs, not court findings or measured cycling deterrence.
+
+[Streetsblog's July 2024 Queensboro Bridge coverage](sources/2024-streetsblog-queensboro-pedestrian-path.md)
+adds fencing installation and delayed pedestrian separation, not an opened path or measured safety benefits.
+
+[Streetsblog's October 2024 Smart Curbs coverage](sources/2024-streetsblog-upper-west-side-smart-curbs.md)
+adds parking-conversion accounting and delayed microhubs, not measured delivery, cycling or safety benefits.
+
+[NYC DOT's November 2021 Brooklyn Bridge announcement](sources/2021-nyc-dot-brooklyn-bridge-ridership.md)
+adds automated monthly bicycle counts after conversion, not net new cycling or measured safety and congestion benefits.
+
+[Strong Towns' October 2024 congestion commentary](sources/2024-strong-towns-congestion-wrong-question.md)
+adds an access-first evaluation argument, not new evidence that bike lanes eliminate driving delays.
+
+[CBC's October 2024 bike-lane congestion coverage](sources/2024-cbc-bike-lanes-congestion.md) adds reported
+Bloor West delays and competing explanations, not a universal no-delay claim or independent NYC evidence.
+
+[Streetsblog's April 2025 congestion-pricing legal coverage](sources/2025-streetsblog-congestion-pricing-legal-memo.md)
+adds reported federal litigation doubts and funding threats, not a court ruling or independent outcome evidence.
+
+[Streetsblog's January 2026 delivery-worker coverage](sources/2026-streetsblog-delivery-worker-behavior.md)
+adds observed red-light and infrastructure-associated behavior, not a crash-risk ranking or causal protected-lane effect.
+
+[Guardian's June 2026 London air-pollution coverage](sources/2026-guardian-london-air-pollution-deaths.md)
+adds revised pollution-attributable mortality estimates, not an isolated Ulez or cycling-infrastructure effect.
+
+[Smart Growth America's 2026 Dangerous by Design overview](sources/2026-smart-growth-america-dangerous-by-design.md)
+adds recent pedestrian death declines amid long-term growth, with relative-ranking and rate-comparison limits.
+
+[Transportation for America's May 2024 Dangerous by Design announcement](sources/2024-t4america-dangerous-by-design.md)
+adds reported national pedestrian death growth and metro rankings, not per-trip risk or a measured design effect.
+
+[Streetsblog's March 2026 DC bike-lane lawsuit reporting](sources/2026-streetsblog-dc-bike-lane-lawsuit.md)
+adds federal removal plans and consultation concerns, not a court ruling or measured network and safety losses.
+
+[IanVisits's November 2024 London cycling coverage](sources/2024-ianvisits-london-cycling-growth.md) adds
+reported TfL cycle-stage growth and network proximity, not unique-rider growth or a causal infrastructure effect.
+
+[Euronews's April 2024 Paris travel coverage](sources/2024-euronews-paris-travel-shares.md) adds
+central-city and suburban trip-share contrasts, not region-wide cycling dominance or causal policy effects.
+
+[Leeds' June 2026 traffic and crime coverage](sources/2026-leeds-traffic-crime-perceptions.md) adds
+reported longitudinal changes in perceived crime, not counted incidents or a quantified redesign benefit.
+
+[Next City's May 2026 robot-funding reporting](sources/2026-next-city-delivery-robot-sidewalk-funding.md)
+adds earmarked fees and sidewalk-data partnerships, not realized revenue or evaluated accessibility gains.
+
+[Transportation Today's December 2024 MUTCD reporting](sources/2024-transportation-today-mutcd-study-request.md)
+adds a congressional study request and attributed implementation concerns, not a completed evaluation or revised standard.
+
+[Streetsblog's May 2026 road-repair coverage](sources/2026-streetsblog-road-repair-priorities.md) adds
+reported condition and funding comparisons, not a complete backlog budget or evaluated repair-mandate benefits.
+
+[Streetsblog's January 2025 toll-zone reporting](sources/2025-streetsblog-congestion-zone-crash-counts.md)
+adds early crash and injury declines, not exposure-based cyclist risk or an isolated congestion-pricing effect.
+
+[Cornell's December 2025 congestion-pricing coverage](sources/2025-cornell-congestion-pricing-air-quality.md)
+adds reported NYC PM2.5 concentration reductions, not measured health gains or bicycle-lane effects.
+
+[NJTPA's Complete Streets assistance program](sources/njtpa-complete-streets-technical-assistance.md)
+adds municipal planning support and project scopes, not direct grants or evaluated street outcomes.
+
+[Smart Growth America's Complete Streets framework](sources/smart-growth-america-complete-streets-policy-framework.md)
+adds recommended policy coverage, equity priorities and implementation provisions, not measured delivery or safety benefits.
+
+[Streetsblog's July 2025 EPA commentary](sources/2025-streetsblog-endangerment-finding-commentary.md) adds
+proposed federal rollback and local multimodal advocacy, not enacted repeal or independent savings evidence.
+
+[Next City's March 2026 bus-stop reporting](sources/2026-next-city-bus-stop-data.md) adds accessibility
+inventories and maintenance accounts, not evaluated rider access or adopted universal amenity standards.
+
+[Streetsblog's July 2025 Citi Bike reporting](sources/2025-streetsblog-citi-bike-speed-cap.md) adds
+rider access concerns and a hypothetical fare increase, not measured safety or ridership effects.
+
+[Maplewood's August 2025 CHS circulation notice](sources/2025-maplewood-chs-circulation-plan.md) adds
+an announced timed school drop-off trial and map, not measured safety or active-travel benefits.
+
+[Vance's August 2022 Chicago Crash Browser account](sources/2022-vance-chicago-crash-browser.md) adds
+manual fatal-severity corrections, not a quantified fatality undercount or evaluated open-data safety benefit.
+
+[Statista's June 2024 transport carbon comparison](sources/2024-statista-passenger-transport-carbon-footprint.md)
+adds per-passenger emissions figures with missing occupancy and accounting assumptions, not local cycling benefits.
+
+[Guardian's June 2026 carspreading coverage](sources/2026-guardian-carspreading-projections.md) adds
+conditional mortality and parking projections, not observed policy effects; 400 deaths is annual, 2,600 cumulative.
+
+[Streetsblog's September 2024 driving coverage](sources/2024-streetsblog-post-pandemic-driving.md) adds
+reported post-pandemic mileage growth, not evidence that remote work caused increased driving.
+
+[Guardian's June 2022 tyre-test coverage](sources/2022-guardian-tyre-particle-tests.md) adds
+reported tyre/exhaust particle-mass comparisons, not an airborne-exposure or health-risk multiplier.
+
+[Slate's November 2023 tire-pollution coverage](sources/2023-slate-tire-pollution-6ppd.md) adds
+reported aquatic toxicity and regulatory action, not an enacted ban or measured street-redesign health benefits.
+
+[Litman's June 2025 mobility-productivity essay](sources/2025-streetsblog-mobility-productivity-commentary.md)
+adds regional economic correlations and cost illustrations, not causal effects of driving or street redesign.
+
+[Gelinas's June 2025 car-dominance essay](sources/2025-streetsblog-car-dominance-commentary.md) adds
+street-space commentary, not measured lane efficiency or independent confirmation of driving-harm attitudes.
+
+[Streetsblog's November 2024 Open Streets coverage](sources/2024-streetsblog-open-streets-vacancies.md) adds
+reported storefront vacancy comparisons, not demonstrated sales growth or causal program benefits.
+
+[Streetsblog's September 2024 windshield-bias coverage](sources/2024-streetsblog-windshield-bias.md) adds
+reported US/British driving-harm attitude contrasts, not measured behavior or support for specific street projects.
+
+[Streetsblog's April 2026 StreetVision coverage](sources/2026-streetsblog-streetvision-crash-prediction.md) adds
+reported telematics behavior changes, not validated crash prediction or demonstrated injury prevention.
+
+[Chronicle's May 2026 BART reporting](sources/2026-sf-chronicle-bart-fare-gates.md) adds faster gate trials
+and missing piggybacking data, not demonstrated evasion reductions or accessible station entry.
+
+[Streetsblog's May 2020 NYC shutdown reporting](sources/2020-streetsblog-nyc-pause-speeding.md) adds
+higher camera-ticket counts alongside lower crashes and driving, not safer cycling or evaluated camera effects.
+
+[Sixth Tone's May 2025 Shanghai reporting](sources/2025-sixth-tone-shanghai-customized-buses.md) adds
+resident-proposed bus routes and demand/fare constraints, not evaluated equitable access or mode shift.
+
+[SSTI's February 2026 bus-space coverage](sources/2026-ssti-bus-lanes-busy-roads.md) adds demand-dependent
+allocation recommendations, not universal bus-space thresholds or measured bicycle-lane benefits.
+
+[Streetsblog's September 2025 Boston barrier reporting](sources/2025-streetsblog-boston-barrier-trials.md) adds
+installed separators and proposed concrete islands, not measured safety, durability or construction-time gains.
+
+[amNewYork's December 2025 Blue Highways coverage](sources/2025-amny-blue-highways-pilot.md) adds
+an announced boat-to-bike freight pilot, not achieved parcel volumes or measured traffic and emissions benefits.
+
+[ABC12's March 2026 Michigan licensing coverage](sources/2026-abc12-michigan-older-driver-testing.md) adds
+proposed older-driver testing requirements, not enacted rules or measured safety and mobility effects.
+
+[NPR's May 2024 cycling-health coverage](sources/2024-npr-cycling-knee-health.md) adds reported knee-osteoarthritis and diabetes-mortality associations, not demonstrated prevention or street-investment health gains.
+
+[Streetsblog's 2023 McGuinness coverage](sources/2023-streetsblog-mcguinness-redesign-opposition.md) adds
+business opposition and proposed operational mechanisms, not measured diversion, emergency delays or safety benefits.
+
+[Streetsblog's 2025 Miami bike-bus coverage](sources/2025-streetsblog-bike-bus-pop-up-lane.md) adds
+reported school-event traffic changes and parent support, not sustained mode shift or permanent lane delivery.
+
+[Slate's December 2024 global SUV coverage](sources/2024-slate-global-car-bloat.md) adds reported
+sales and energy growth plus policy interviews, not independent safety evidence or measured cycling benefits.
+
+[Momentum's 2024 Garden Street coverage](sources/2024-momentum-garden-street-ridership.md) adds reported
+Cambridge neighborhood bicycle growth, not demonstrated new trips, driving reductions or an isolated lane effect.
+
+[Rutgers' 2024 crash-data access review](sources/2024-new-jersey-crash-data-access.md) adds historical
+New Jersey timeliness and geocoding gaps, distinct from reporting exclusions or measured safety effects.
+
+[Streetsblog's 2024 Gen Z driving coverage](sources/2024-streetsblog-gen-z-driving.md) adds reported
+2009–2017 declines in youth driving trips alongside greater distance, not demonstrated cycling substitution.
+
+[Streetsblog's Freedom to Move coverage](sources/2024-streetsblog-freedom-to-move-savings.md) adds
+lead-author interview context and a $6.2 trillion headline, not independent evidence of savings or access.
+
+[Smart Growth America's 2025 Complete Streets resource page](sources/2025-smart-growth-america-complete-streets-policies.md)
+adds reported policy rankings, not a ranking of street safety or evaluated cycling benefits.
+
+[SFGATE's June 2026 Berkeley parking coverage](sources/2026-sfgate-berkeley-parking-fees.md) adds proposed
+permit tiers and payment-access tradeoffs, not measured car reduction, business effects or cycling gains.
+
+[THE CITY's December 2024 battery-fire investigation](sources/2024-the-city-ebike-battery-fires.md) adds
+residential charging and escape hazards, not risk per device or proof that declining fatalities reflect fewer fires.
+
+[Grist's 2024 Barcelona subway reporting](sources/2024-grist-barcelona-metrocharge.md) adds operator-reported
+energy recovery and EV charging, not confirmed emissions savings, payback or cycling benefits.
+
+[MoneyGeek's September 2026 cost explainer](sources/2026-moneygeek-car-ownership-cost.md) adds reported
+2025 new-car ownership costs and vehicle-category differences, not observed household budgets or cycling savings.
+
+[LendingTree's September 2026 auto-loan compilation](sources/2026-lendingtree-auto-loan-statistics.md) adds
+reported payments, repayment terms and debt trends, not total ownership costs or measured cycling savings.
+
+[Ars Technica's June 2026 Waymo coverage](sources/2026-ars-waymo-empty-miles.md) adds reported California
+empty mileage, not a net congestion estimate or independent confirmation of transit-investment benefits.
+
+[NJ Bike/Ped's August 2026 delivery-robot commentary](sources/2026-nj-bikeped-delivery-robots.md) adds
+Jersey City injury reporting and sidewalk-accessibility proposals, not collision rates or evaluated robot benefits.
+
+[Streetsblog's 2024 transit ballot coverage](sources/2024-streetsblog-transit-ballot-results.md) adds
+reported funding approvals and local defeats, not nationwide opinion or demonstrated transportation access gains.
+
+[Realtor.com's January 2026 transit-housing coverage](sources/2026-realtor-transit-housing-driving.md) adds
+reported housing growth, selected price comparisons and older-adult stop access, not causal transit premiums or affordability gains.
+
+[Streetsblog's 2022 speed-camera equity analysis](sources/2022-streetsblog-speed-camera-equity.md) separates
+Chicago's reported severe-crash reduction from ticket burdens, individual racial inference and design-first recommendations.
+
+[Streetsblog's January 2026 transit expansion coverage](sources/2026-streetsblog-world-class-transit.md) adds
+conditional ownership savings and fleet benchmarks, not demonstrated investment payback or usable access gains.
+
+[Strong Towns' September 2026 sidewalk-funding commentary](sources/2026-strong-towns-sidewalk-funding.md)
+adds Wheeling destination-access accounts and Columbus reporting, not evaluated sidewalk benefits or transferable highway budgets.
+
+[Business Insider's January 2026 Amtrak reporting](sources/2026-business-insider-amtrak-boom.md) adds
+FY2025 customer-trip totals and interviews, reconciled with later coverage rather than counted as independent evidence.
+
+[Frontier Group's August 2026 Amtrak commentary](sources/2026-frontier-group-amtrak-ridership.md) adds
+reported passenger growth and investment advocacy, not demonstrated car/air substitution or bicycle access gains.
+
+[Newsweek's May 2025 car-buying coverage](sources/2025-newsweek-car-buying-interest.md) adds reported
+interest in ownership alternatives, not observed car abandonment, cycling substitution or household savings.
+
+[Streetsblog's 2024 Bicycle Friendly States coverage](sources/2024-streetsblog-bicycle-friendly-states.md) adds national counting gaps and funding-share context, not independent confirmation of the League's New Jersey card or measured policy effects.
+
+[Curbed's September 2025 Amazon cargo-bike reporting](sources/2025-curbed-amazon-cargo-bikes.md) adds
+street-space conflicts and driver preferences, not measured cargo-bike safety or wider-lane benefits.
+
+[Streetsblog’s March 2024 car-harms coverage](sources/2024-streetsblog-car-domination-harms.md) adds
+an incomplete global crash, pollution and lead mortality estimate, not cyclist risk or evaluated mode-shift benefits.
+
+[Better Blocks' May 2026 NJ-08 questionnaire](sources/2026-better-blocks-nj08-candidate-questionnaire.md)
+adds contrasting housing and transit policy positions, not evaluated access gains; the PDF omits street-safety answers.
+
+[Streetsblog's January 2026 Oregon kei-truck coverage](sources/2026-streetsblog-oregon-kei-trucks.md) adds a
+bipartisan legalization proposal, not enacted rules or measured safety and affordability benefits.
+
+[Barillas's 2022 Bay Bridge commentary](sources/2022-barillas-bay-bridge-bus-lane.md) adds a personal
+account of congestion limiting useful bus access, not evaluated bus-lane benefits or measured mode shift.
+
+[Streetsblog's 2023 German cycling research coverage](sources/2023-streetsblog-cycling-common-good.md)
+adds reported civic-participation associations and null car-use results, not evidence of superior morals or causal cycling benefits.
+
+[Fucoloro's 2025 walking-and-transit challenge account](sources/2025-streetsblog-week-without-driving-or-biking.md)
+adds personal school, shopping and recreation travel constraints when cycling is unavailable, not a completed trial or population access estimate.
+
+[Strong Towns' February 2025 crash-investigation commentary](sources/2025-strong-towns-local-crash-investigation.md)
+adds a proposed local process for learning from fatal crashes, not measured benefits of Crash Analysis Studios or quick-build treatments.
+
+[Streetsblog's July 2022 Hoboken reporting](sources/2022-streetsblog-hoboken-zero-deaths.md) adds a historical
+zero-death account and implementation interviews, not isolated daylighting effects or elimination of nonfatal injuries.
+
+[NPR's July 2026 road-damage reporting](sources/2026-npr-climate-road-damage.md) adds heat-related pavement
+failure accounts and engineering maintenance tradeoffs, not quantified costs or evaluated cycling benefits.
+
+[New Jersey Monitor's December 2024 investigation report](sources/2024-nj-monitor-enforcement-investigation.md)
+adds an enforcement-period comparison and special-counsel announcement, not independent crash evidence or proven causation.
+
+[January 2026 Build HUBS coverage](sources/2026-build-hubs-housing-near-transit.md) adds proposed
+housing finance reforms near transit and multimodal paths, not delivered homes or measured access gains.
+
+[Streetsblog's January 2026 aging coverage](sources/2026-streetsblog-aging-transportation.md) adds reported
+older-adult monthly transit use and accessible-mobility proposals, not measured unmet need or project benefits.
+
+[New Jersey's 2024 Goyco opinion](sources/2024-goyco-progressive-scooter-pip.md) adds a primary ruling denying
+pedestrian PIP benefits to an electric-scooter rider, not universal e-bike eligibility or measured care effects.
+
+[NACTO's 2025 leadership excerpt](sources/2025-nacto-eight-keys-mobility-infrastructure.md) adds bicycle-network
+funding, staffing and decision-process recommendations, not measured delivery, safety or equity benefits.
+
+[July 2024 coverage of USDOT's decarbonization strategies](sources/2024-usdot-decarbonization-strategies-news.md)
+adds distance reduction, efficient modes and vehicle/fuel changes as policy mechanisms, not measured cycling emissions savings.
+
+[A 2023 electric-micromobility commentary](sources/2023-electric-two-wheelers-oil-demand.md) adds reported
+global two-/three-wheeler oil displacement, not bicycle-only savings or measured street-project emissions benefits.
+
+[New Jersey's June 2025 Safer People draft](sources/2025-new-jersey-draft-safer-people-actions.md)
+adds crossing-design, physical-daylighting and cycling-law proposals, not adoption or measured benefits;
+its NYC daylighting research repeats existing evidence.
+
+[Safe Routes Partnership's 2024 state report-card summary](sources/2024-safe-routes-state-report-cards.md)
+adds expanded funding-equity provisions and uneven school-travel support, not measured access or safety benefits.
+
+[Bike Hoboken's 2024 injury announcement](sources/2024-bike-hoboken-traffic-injury-report-news.md) adds
+reported 2023–2024 injury growth, not exposure-based risk or an evaluation of the city's street treatments.
+
+[Madison's 20 is Plenty page](sources/madison-20-is-plenty.md) documents a residential 25-to-20-mph
+speed-limit program and stated sign rollout, not measured speed or injury changes.
+
 [AAA's 2024 driving-cost fact sheet](sources/2024-aaa-your-driving-costs.md) adds standardized new-vehicle
 ownership costs and mileage assumptions, not marginal driving costs or measured cycling savings;
 conflicting vehicle-category rankings remain unresolved.

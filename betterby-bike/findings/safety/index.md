@@ -1,5 +1,48 @@
 # Safety findings
 
+- [English/Welsh e-scooter trauma comparisons](england-wales-escooter-trauma-comparison.md): reported brain and organ
+  injury excess alongside fewer fractures, without riding exposure.
+
+- [E-bike/e-moto injury attribution limits](velo-ebike-emoto-attribution-limits.md): Velo supplies no vehicle-class
+  breakdown supporting its attribution of injury growth.
+
+- [Royal London's reported e-bike caseload](royal-london-ebike-case-count-limits.md): 150 cases in six months, without a
+  defined clinical series or exposure-based risk comparison.
+
+- [US pedestrian deaths in 2024](us-pedestrian-deaths-2024-decline-long-term-growth.md): recent declines coexist with
+  longer-term growth, without walking-exposure or causal design estimates.
+
+- [US pedestrian death growth, 2010–2022](us-pedestrian-death-growth-2010-2022.md): reported 75% increase in national
+  deaths, not walking-exposure risk or a street-design effect.
+
+- [Manhattan early toll-zone crash counts](nyc-congestion-zone-early-crash-counts.md): short-window injury and crash
+  declines, not cyclist risk or a causal pricing estimate.
+
+- [Chicago fatal-severity updates](chicago-crash-fatal-severity-updates.md): a 2022 editor account distinguishes later
+  severity corrections from complete fatality surveillance.
+
+- [European car-size mortality projection](europe-car-size-mortality-projection.md): 400 additional annual
+  vulnerable-road-user deaths by 2040 versus right-sizing, not observed harm or cyclist-specific risk.
+
+- [StreetVision behavior and prediction limits](streetvision-behavior-and-prediction-limits.md): reported Flagstaff and
+  Kenmore behavior changes do not establish crash prediction or injury prevention.
+
+- [NYC shutdown speeding and crash counts](nyc-2020-shutdown-speeding-and-crash-counts.md): reported ticket growth and
+  fewer crashes have different denominators and do not establish cyclist risk.
+
+- [New Jersey's 2024 crash-data access limits](new-jersey-2024-crash-data-access-limits.md): historical timeliness and geocoding gaps, not a cycling-injury undercount or evaluated open-data benefit.
+
+- [NYC residential battery-fire hazards](nyc-residential-battery-fire-hazards.md): selected fatal-fire accounts and declining deaths despite more reported fires, without exposure-based risk.
+
+- [Chicago's reported camera crash reduction](chicago-reported-speed-camera-crash-reduction.md): secondary 15% expected severe-crash reduction, not cyclist-specific risk or a redesign comparison.
+
+- [Reported global automobility mortality](global-automobility-reported-mortality.md): secondary 1.67-million annual death estimate, without intervention effects or harmonized methods.
+
+- [Hoboken's reported four-year zero-death record](hoboken-reported-four-year-zero-deaths.md): historical July 2022 account, distinct from later injury counts and isolated street-treatment effects.
+
+- [Hoboken's reported 2023–2024 injury increase](hoboken-2023-2024-reported-injury-increase.md):
+  police-recorded injuries rose 52%; mode-specific percentage changes lack exposure denominators.
+
 - NYC left turns: [casualty shares](nyc-left-turn-casualty-composition.md),
   [protected-lane movement counts](nyc-protected-lane-left-turn-injuries.md) and
   [mixed turn-treatment counts](nyc-left-turn-treatment-injuries.md), with combined-mode and uncontrolled-design limits.
@@ -251,7 +294,8 @@ Two articles in one 2021 series, not controlled evaluations or independent confi
 
 - [Enforcement decline and highway crash increase](new-jersey-enforcement-crash-trends.md): reported 81% year-on-year
   citation decline and 27% crash increase, without a crash baseline or causal estimate; a second commentary repeats
-  the same reporting but describes the 81% decline over eight months, an unresolved period discrepancy.
+  the same reporting but describes the 81% decline over eight months, an unresolved period discrepancy. The Monitor
+  adds a distinct more-than-60% August–March comparison and inquiry announcement, not independent crash evidence.
 
 - [New Jersey and national traffic-death trends](new-jersey-national-traffic-death-trends.md): excerpt 3 reports
   a 23% increase versus a 3% national decline, without an explicit year/baseline or causal estimate; mortality,

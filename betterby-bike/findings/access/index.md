@@ -1,5 +1,42 @@
 # Access findings
 
+- [US youth personal travel and vehicle miles](us-youth-personal-travel-vmt-reported.md): reported 2017–2022 PMT decline
+  is not an equivalent VMT decline or demonstrated active-travel substitution.
+
+- [Maryland's reported mode-shift savings](maryland-reported-mode-shift-savings.md): conditional average annual
+  vehicle-cost savings, with missing scenario and net-cost details.
+
+- [MBTA's reported stop-accessibility inventory](mbta-reported-stop-accessibility-inventory.md): 280 completely
+  inaccessible stops identified, most reportedly remedied, without exact completion counts or measured rider benefits.
+
+- [Reported US youth driving trips and distance](us-youth-driving-trips-distance-reported.md): 2009–2017 trips fell while distance rose; lower licensing does not establish active-travel substitution.
+
+- [Reported 2025 new-car ownership costs](us-new-car-ownership-cost-2025-reported.md): $11,577 annually at 15,000 miles, including depreciation; vehicle-category differences are not measured cycling savings.
+
+- [Reported Q2 2026 car payments](us-2026-reported-car-payments.md): financing commitments and credit-tier differences, not all-household affordability or measured cycling savings.
+
+- [Reported 2024 transit ballot approvals](us-2024-reported-transit-ballot-approvals.md): 46 of 53 annual initiatives passed, distinct from national opinion, available funds or delivered access.
+
+- [Reported US housing growth near transit](us-reported-transit-housing-growth.md): 2000–2019 unit counts lack spatial and starting-stock denominators.
+- [Reported older-adult stop access and nondriver use](us-older-adults-reported-stop-access.md): secondary access/use figures with missing definitions, distinct from monthly urban participation.
+
+- [Chicago speed-camera ticket geography](chicago-speed-camera-ticket-geography.md): neighborhood ticket burdens do not establish individual racial or exposure-adjusted rates.
+
+- [US transit-expansion ownership savings](us-transit-moonshot-ownership-savings.md): reported $5.4-trillion conditional scenario, not observed ownership reductions or proven net payback.
+
+- [Wheeling's reported sidewalk and transit gaps](wheeling-reported-sidewalk-transit-gaps.md): qualitative destination-access and provider transport accounts, not representative unmet need or measured costs.
+
+- [U.S. interest in car-ownership alternatives](us-2025-car-ownership-alternative-intentions.md): secondary Harris/Turo attitudes and WalletHub purchase intentions, not measured savings or mode shift.
+
+- [Older adults' reported monthly transit use](us-older-adults-reported-transit-use.md):
+  secondary one-in-ten estimate for urban US older adults, with primary methods and unmet needs unreviewed.
+
+- [Goyco scooter PIP eligibility](new-jersey-goyco-scooter-pip.md): 2024 denial of pedestrian benefits under
+  the policy and statute at issue; bicycle-like operating rules did not establish insurance coverage.
+
+- [US 2024 active-travel funding equity policies](us-2024-active-travel-funding-equity-policies.md):
+  38 states prioritizing high-need TAP applicants versus 24 in 2022, not measured award access or equity benefits.
+
 - [AAA's 2024 new-car ownership estimate](us-new-car-ownership-cost-2024.md): $12,297 annually under
   five-year assumptions; mileage-dependent total-cost averages are not savings from replacing individual trips.
 

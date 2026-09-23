@@ -1,5 +1,17 @@
 # Operations findings
 
+- [Bloor West reported travel delays](toronto-bloor-west-reported-travel-delays.md): directional increases after
+  redesign, without isolating bike lanes or pandemic recovery.
+
+- [Post-pandemic driving and remote-work limits](post-pandemic-driving-remote-work-limits.md): aggregate mileage and
+  congestion trends do not identify remote-work or redesign effects.
+
+- [SSTI bus-space recommendation limits](ssti-bus-space-recommendation-limits.md): secondary demand-dependent claims, not a universal allocation rule or observed travel-time effect.
+
+- [McGuinness proposed-redesign operational claims](mcguinness-proposed-redesign-operational-claims.md): diversion forecasts and emergency bicycle-lane access assurances, not observed traffic or response-time effects.
+
+- [California Waymo empty mileage](california-waymo-reported-empty-miles.md): reported occupied-mileage growth still leaves substantial empty travel, without estimating net congestion.
+
 - App routing: [short-run travel gains](routing-app-short-run-travel-gains.md) distinguish targeted and
   affected roads; [emissions uncertainty](routing-app-emissions-uncertainty.md) retains city ranges crossing zero.
 
