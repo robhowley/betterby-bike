@@ -1,6 +1,279 @@
 # Ingestion history
 
+## 2026-09-23
+
+Ingested replacement line 9, [SSTI's bus-space research coverage](sources/2026-ssti-bus-lanes-busy-roads.md), after reading the full extracted PDF (substantive pp. 1–2). Added a [recommendation-limits Finding](findings/operations/ssti-bus-space-recommendation-limits.md), revised the [street-redesign Topic](topics/street-redesign-outcomes.md#bus-lane-simulations-are-screening-scenarios-not-observed-redesign-effects) and updated indexes. Distinguished demand-dependent bus/bicycle allocation claims from observed outcomes and reconciled the separate Baku model and NYC bus-priority evidence. Primary research and linked safety coverage remain unreviewed; missing methods prevent transferring the reported 40%/approximately-half recommendation.
+
+Ingested replacement line 8, [Streetsblog's Boston barrier trials](sources/2025-streetsblog-boston-barrier-trials.md), after reading the full extracted article text and captions (substantive PDF pp. 1–5). Updated the [street-redesign Topic](topics/street-redesign-outcomes.md#announced-infrastructure-is-not-a-measured-safety-outcome) and indexes to separate installed Zebra separators from planned concrete islands and unevaluated durability, safety and construction-time claims. Reconciled Jersey City quick-build and Boston ridership coverage; no new Finding warranted. Linked municipal documents and embedded video remain unreviewed.
+
+Ingested replacement line 5, [amNewYork's Blue Highways launch reporting](sources/2025-amny-blue-highways-pilot.md), after reading the full captured article (substantive PDF pp. 1–5). Updated the [street-redesign Topic](topics/street-redesign-outcomes.md#comfort-support-and-correct-use-are-different-outcomes) and navigation to separate announced boat-to-bike parcel volumes and official benefits claims from observed truck displacement or evaluated outcomes. Reconciled the distinct Curbed cargo-bike interviews; no new Finding warranted by launch plans alone. Linked action plan and subsequent operation remain unreviewed.
+
+Ingested replacement line 4, [ABC12's Michigan older-driver testing proposal](sources/2026-abc12-michigan-older-driver-testing.md), after reading the full PDF (substantive pp. 1–2). Updated the [older-adult access synthesis](topics/active-commuting-and-access.md#older-adult-mobility-needs-extend-beyond-commuting) and navigation to distinguish proposed age-based licensing requirements from enacted law and evaluated safety or mobility effects. No new Finding: the article supplies policy context, not outcome evidence. Bill text and linked reporting remain unreviewed; no later legislative status is asserted.
+
+Ingested replacement line 3, [NPR's cycling-health coverage](sources/2024-npr-cycling-knee-health.md), after reading the full captured text (substantive PDF pp. 1–5). Added separate Findings for [knee osteoarthritis](findings/cycling-knee-osteoarthritis-reported.md) and [diabetes mortality](findings/diabetes-cycling-mortality-reported.md); revised the [access Topic](topics/active-commuting-and-access.md#policy-packages-do-not-establish-access-or-health-gains) and indexes to distinguish individual associations from policy effects and modeled air-quality benefits. Retained injury cautions and separated researcher explanations from measured mechanisms. Linked primary papers remain unreviewed; causal effects, absolute risks and several methods details are unresolved.
+
+Ingested replacement line 1, [Streetsblog's McGuinness redesign dispute](sources/2023-streetsblog-mcguinness-redesign-opposition.md), after reading the full captured text (substantive PDF pp. 1–10). Added an [operational-claims Finding](findings/operations/mcguinness-proposed-redesign-operational-claims.md) and revised the [street-redesign Topic](topics/street-redesign-outcomes.md#emergency-access-accounts-and-incident-records-answer-different-questions) to separate diversion forecasts and proposed bicycle-lane emergency access from observed outcomes. Preserved business and resident reporting without treating it as representative opinion; distinguished existing Ocean City evidence and updated navigation. Linked DOT presentations remain unreviewed; project effects cannot be established from this proposal-era account.
+
+Ingested candidate 50, [Streetsblog's Miami bike-bus coverage](sources/2025-streetsblog-bike-bus-pop-up-lane.md), after reading the full captured PDF text (substantive pp. 1–8). Added separate Findings for [event traffic](findings/networks/coconut-grove-bike-bus-event-traffic.md) and [parent support](findings/design/coconut-grove-pop-up-parent-support.md), and revised the [street-redesign Topic](topics/street-redesign-outcomes.md#comfort-support-and-correct-use-are-different-outcomes) to distinguish participation, attitudes and permanent implementation. Reconciled the distinct Green Lane surveys and updated navigation. Linked Miami case study remains unreviewed; comparison baselines and survey denominators are missing from the news report.
+
+Ingested candidate 49, [Slate's global vehicle-size coverage](sources/2024-slate-global-car-bloat.md), after reading all five PDF pages. Added a [sales/energy Finding](findings/global-suv-sales-oil-demand-reported.md) and revised the [injury-risk Topic](topics/cycling-injury-risk.md#growing-suv-sales-do-not-quantify-cyclist-risk-or-policy-benefits) to separate market growth and regulatory accounts from cyclist risk and policy effects. Reconciled overlapping Economist and Road to Zero safety coverage; updated navigation. Linked IEA calculations and policy documents remain unreviewed; original-page URL unavailable in the capture.
+
+Ingested candidate 48, [Momentum's Garden Street coverage](sources/2024-momentum-garden-street-ridership.md), after reading the full PDF text (substantive pp. 2–4). Added a [neighborhood bicycle-growth Finding](findings/networks/cambridge-garden-street-reported-bicycle-growth.md) and revised the [street-redesign Topic](topics/street-redesign-outcomes.md#added-counts-can-include-existing-riders-changing-routes) to distinguish reported volume/share growth from new cycling or reduced driving. Reconciled the distinct Boston Cambridge Street counts; updated navigation. Linked BCU analysis remains unreviewed, and baselines and seasonal-adjustment methods remain unresolved.
+
+Ingested candidate 47, [Rutgers' September 2024 crash-data access article](sources/2024-new-jersey-crash-data-access.md), reading the full PDF text and Figure 1. Added a [New Jersey public-data limitation Finding](findings/safety/new-jersey-2024-crash-data-access-limits.md) and revised the [injury-risk Topic](topics/cycling-injury-risk.md#new-jersey-reporting-rules-separate-coverage-from-device-classification) to separate historical access, timeliness and geocoding gaps from existing NJTR-1 coverage and classification limits. Updated navigation; no measured open-data safety benefit inferred. The forthcoming report and linked portals were not reviewed; current availability remains unverified.
+
+Ingested candidate 46, [Streetsblog's Gen Z driving republication](sources/2024-streetsblog-gen-z-driving.md), after reading substantive PDF pp. 1–4. Added a [youth trips/distance Finding](findings/access/us-youth-driving-trips-distance-reported.md) and revised the [access Topic](topics/active-commuting-and-access.md#lower-youth-licensing-need-not-mean-less-driving-distance) to distinguish lower licensing and trip frequency from driving distance or cycling substitution. Reconciled Newsweek's broader purchase-intention coverage without treating it as the same study. Linked primary research remains unreviewed; exact denominators and licensing-change units remain unresolved.
+
+Ingested candidate 45, [Streetsblog's December 2024 Freedom to Move republication](sources/2024-streetsblog-freedom-to-move-savings.md), after reading substantive PDF pp. 1–6. Reconciled repeated projections with the existing [primary-report Source](sources/2024-freedom-to-move.md); updated the [household savings Finding](findings/access/us-freedom-to-move-household-savings.md) and [access Topic](topics/active-commuting-and-access.md) to distinguish the $6.2 trillion headline and Shen interview from independent evidence, immediate cash savings or measured access. Retained the primary report's 2023 baseline rather than the article's 2035 wording. No duplicate Finding; graphics and external methods not newly reviewed.
+
+- Ingested candidate 44, [Smart Growth America's 2025 Complete Streets resource page](sources/2025-smart-growth-america-complete-streets-policies.md),
+  after reading the full three-page capture. Added a [policy-score Finding](findings/complete-streets-2025-policy-scores.md)
+  and revised the [street-redesign Topic](topics/street-redesign-outcomes.md#eligible-funding-is-not-cycling-expenditure-or-delivered-benefits)
+  to distinguish rankings from implementation and safety. Reconciled state policy inventories and Asbury Park's
+  separate speed study. The linked full report and scoring criteria were not reviewed.
+
+- Ingested candidate 43, [SFGATE's Berkeley parking-fee reporting](sources/2026-sfgate-berkeley-parking-fees.md),
+  reading the full captured text, including substantive PDF pp. 2–7. Revised the
+  [access Topic](topics/active-commuting-and-access.md#parking-prices-do-not-establish-equitable-access) to
+  distinguish permit tiers, projected revenue and prospective cashless-payment access from measured outcomes.
+  Reconciled car-cost and parking/housing coverage; no new outcome Finding warranted. The final ordinance vote
+  and subsequent implementation remain unverified.
+
+- Ingested candidate 42, [THE CITY's battery-fire investigation](sources/2024-the-city-ebike-battery-fires.md),
+  after reading substantive PDF pp. 1–10. Added a [residential fire-hazard Finding](findings/safety/nyc-residential-battery-fire-hazards.md)
+  and revised the [injury-risk Topic](topics/cycling-injury-risk.md) to distinguish resident harms and differing
+  fire/death trends from rider risk and earlier CPSC surveillance. Preserved the disputed 311 account;
+  underlying marshal reports and exposure-based equipment risks remain unreviewed/unmeasured.
+
+- Ingested candidate 41, [Grist's Barcelona MetroCHARGE reporting](sources/2024-grist-barcelona-metrocharge.md),
+  reading substantive PDF pp. 1–3. Added an [energy-recovery finding](findings/barcelona-reported-subway-energy-recovery.md)
+  and revised [climate synthesis](topics/street-redesign-outcomes.md#climate-targets-are-not-project-emissions-results)
+  to distinguish operator-reported recovery from projected CO2 savings/payback and mode-shift evidence.
+  No existing MetroCHARGE coverage found; rollout completion, energy denominators and underlying analyses remain unconfirmed.
+
+- Ingested candidate 40, [MoneyGeek's car-cost explainer](sources/2026-moneygeek-car-ownership-cost.md),
+  reading the 14-page PDF text and substantive tables. Added a [2025 ownership-cost finding](findings/access/us-new-car-ownership-cost-2025-reported.md)
+  and revised [car-cost/access synthesis](topics/active-commuting-and-access.md#car-costs-add-context-not-measured-savings-from-cycling).
+  Reconciled earlier AAA/NerdWallet coverage: the 2026 headline uses 2025 costs, estimated income ratios are not
+  observed budgets, and a 2023 trend percentage is inconsistent. Underlying 2025 data and chart-only content were not reviewed.
+
+- Ingested candidate 39, [LendingTree's 2026 auto-loan statistics](sources/2026-lendingtree-auto-loan-statistics.md),
+  reading the 17-page PDF text and tables. Added a [payment and term finding](findings/access/us-2026-reported-car-payments.md)
+  and revised [car-cost/access synthesis](topics/active-commuting-and-access.md#car-costs-add-context-not-measured-savings-from-cycling)
+  to distinguish financing commitments from ownership costs and cycling savings. Reconciled earlier NerdWallet/AAA
+  coverage; underlying datasets and graphical series were not reviewed, and the age-originations total discrepancy remains unresolved.
+
+- Ingested candidate 38, [Ars Technica's Waymo coverage](sources/2026-ars-waymo-empty-miles.md), from substantive
+  PDF pp. 1–3. Added an [empty-mileage finding](findings/operations/california-waymo-reported-empty-miles.md)
+  and revised [street-redesign synthesis](topics/street-redesign-outcomes.md#empty-vehicle-mileage-is-not-a-net-congestion-estimate):
+  rising passenger-occupied shares coexist with substantial empty travel, but do not establish net congestion.
+  Overlapping CPUC analyses and an already-covered transit scenario are not independent confirmation.
+
+- Ingested candidate 37, [NJ Bike/Ped's delivery-robot commentary](sources/2026-nj-bikeped-delivery-robots.md),
+  from substantive PDF pp. 1–3. Added a [shared-space conflict finding](findings/design/jersey-city-delivery-robot-conflict.md)
+  and revised [street-redesign synthesis](topics/street-redesign-outcomes.md): reported cyclist injury differs
+  from collision risk; sidewalk mapping, efficiency maxima and governance proposals are not demonstrated local benefits.
+
+- Ingested [Streetsblog's November 2024 transit ballot reporting](sources/2024-streetsblog-transit-ballot-results.md).
+  Added a [funding-approval finding](findings/access/us-2024-reported-transit-ballot-approvals.md) and revised
+  [access synthesis](topics/active-commuting-and-access.md#funding-votes-do-not-establish-delivered-access):
+  annual passage counts differ from November funding totals, while local defeats and a nullified San Francisco
+  measure qualify success claims. Approval is not delivered access; election inventories remain unreviewed.
+
+Ingested candidate 35, [Conte's transit-housing coverage](sources/2026-realtor-transit-housing-driving.md),
+from substantive PDF pp. 1–7. Added Findings on [housing growth near transit](findings/access/us-reported-transit-housing-growth.md),
+[selected Phoenix/Austin prices](findings/business/phoenix-austin-reported-transit-home-prices.md) and
+[older-adult stop access and nondriver use](findings/access/us-older-adults-reported-stop-access.md).
+Reconciled the distinct [earlier monthly-use estimate](findings/access/us-older-adults-reported-transit-use.md)
+and repeated AAA 2023 costs; updated [access](topics/active-commuting-and-access.md) and
+[real-estate](topics/active-transportation-real-estate.md) syntheses to distinguish housing supply, prices and
+usable transit from causal affordability gains. Primary studies remain unreviewed.
+
+Ingested candidate 32, [Wilson's speed-camera equity analysis](sources/2022-streetsblog-speed-camera-equity.md),
+from substantive PDF pp. 1–7. Added Findings on [Chicago's reported severe-crash reduction](findings/safety/chicago-reported-speed-camera-crash-reduction.md)
+and [ticket-geography limits](findings/access/chicago-speed-camera-ticket-geography.md), and updated the
+[street-redesign synthesis](topics/street-redesign-outcomes.md#camera-safety-and-ticket-burdens-are-different-outcomes)
+to distinguish safety, financial burden and unevaluated reforms. Underlying studies unreviewed; no validation or metadata refresh.
+
+Ingested candidate 31, [Streetsblog's world-class transit coverage](sources/2026-streetsblog-world-class-transit.md),
+from substantive PDF pp. 1–7. Added a [conditional ownership-savings Finding](findings/access/us-transit-moonshot-ownership-savings.md)
+and updated the [access synthesis](topics/active-commuting-and-access.md#reduced-driving-scenarios-are-not-observed-access-gains)
+to separate projected savings and fleet proxies from measured payback and usable access. Reconciled UCS/AAA
+coverage without pooling estimates. Primary analysis unreviewed; $4.6/$4.7-trillion discrepancy unresolved.
+No validation or metadata refresh performed.
+
+Ingested candidate 30, [Schmitt's sidewalk-funding commentary](sources/2026-strong-towns-sidewalk-funding.md),
+from all substantive PDF text (pp. 1–8). Added a bounded
+[Wheeling access Finding](findings/access/wheeling-reported-sidewalk-transit-gaps.md) and updated the
+[access synthesis](topics/active-commuting-and-access.md#transit-coverage-and-usable-service-differ)
+to distinguish local destination gaps from national transit participation and evaluated funding effects.
+Reconciled older-adult and highway-finance coverage; underlying reporting and exact original URL remain
+unreviewed/unrecovered. No validation or metadata refresh performed.
+
+Ingested candidate 28, [Business Insider's January 2026 Amtrak reporting](sources/2026-business-insider-amtrak-boom.md),
+after reading all substantive article text. Updated the existing
+[ridership Finding](findings/networks/amtrak-reported-ridership-growth-2025-2026.md) with 34.5 million
+FY2025 customer trips and distinguished revenue growth from ridership. Updated the
+[access synthesis](topics/active-commuting-and-access.md#rail-bicycle-service-is-not-the-same-as-a-usable-itinerary)
+to separate scenic travel preferences from practical alternatives. Reconciled overlapping operator evidence
+with Frontier Group rather than creating a duplicate Finding. No validation or metadata refresh performed.
+
+Ingested candidate 27, [Frontier Group's Amtrak ridership commentary](sources/2026-frontier-group-amtrak-ridership.md),
+from all substantive text in PDF pp. 1–4, including its correction. Added a bounded
+[reported-ridership Finding](findings/networks/amtrak-reported-ridership-growth-2025-2026.md) and reconciled
+[rail use with bicycle-access evidence](topics/active-commuting-and-access.md#rail-bicycle-service-is-not-the-same-as-a-usable-itinerary).
+Annual, year-to-date and new-service comparisons remain distinct; no demonstrated mode shift or investment
+causation. Primary operator reports were not reviewed. No validation or metadata refresh performed.
+
+Ingested candidate 26, [Newsweek's May 2025 car-buying coverage](sources/2025-newsweek-car-buying-interest.md),
+from substantive PDF pp. 1–10. Added an [ownership-alternatives Finding](findings/access/us-2025-car-ownership-alternative-intentions.md)
+and revised [commuting/access synthesis](topics/active-commuting-and-access.md#purchase-intentions-do-not-establish-usable-alternatives)
+to separate stated preferences and expected relief from observed ownership reductions, savings or cycling.
+Reconciled existing cost coverage as distinct evidence; survey methods remain unavailable and primary surveys
+unreviewed. No validation or metadata refresh performed.
+
+Ingested candidate 25, [Streetsblog's 2024 Bicycle Friendly States coverage](sources/2024-streetsblog-bicycle-friendly-states.md),
+from the full substantive PDF text. Added a [state counting-program finding](findings/networks/us-2024-state-bicycle-counting-gaps.md)
+and revised [commuting/access synthesis](topics/active-commuting-and-access.md) to distinguish reported program presence
+from comparable travel exposure. Retained declining federal funding share alongside rising dollars and discretionary-grant
+exclusions; connected the existing New Jersey card as the same League assessment, not independent confirmation.
+Underlying national survey and datasets remain unreviewed. No validation or metadata refresh performed.
+
+Ingested Clio Chang's [September 2025 Curbed cargo-bike article](sources/2025-curbed-amazon-cargo-bikes.md),
+reading complete substantive PDF pp. 1–3. Added a [driver-experience Finding](findings/design/nyc-cargo-bike-space-conflicts.md)
+and revised the [comfort synthesis](topics/street-redesign-outcomes.md#comfort-support-and-correct-use-are-different-outcomes)
+to distinguish street-space conflicts and lane-width advocacy from measured cargo-bike risk or design benefits.
+No duplicate coverage found; European efficiency claims and DOT rules remain secondary, not independently reviewed.
+
+Ingested Kea Wilson’s [March 2024 car-domination harms article](sources/2024-streetsblog-car-domination-harms.md),
+reading substantive PDF pp. 1–8 and the pp. 2–3 diagrams. Added a
+[global mortality finding](findings/safety/global-automobility-reported-mortality.md) and
+[injury-risk synthesis](topics/cycling-injury-risk.md#global-transport-harm-is-not-an-intervention-benefit)
+distinguishing incomplete crash/pollution/lead burden from intervention benefits. No duplicate publication
+coverage found; existing non-exhaust research is separate context, not confirmation of the death total.
+Underlying review and mortality calculation methods remain unreviewed.
+
+Ingested Eric Conner's [May 2026 NJ-08 candidate questionnaire](sources/2026-better-blocks-nj08-candidate-questionnaire.md),
+reading all captured text, including complete Q1–Q8 answers. Updated the
+[access synthesis](topics/active-commuting-and-access.md#housing-finance-proposals-are-not-delivered-access)
+with the candidates' differing conditions for housing near transit. No duplicate publication or new
+Finding warranted. The capture cuts off at Q9 before street-safety and parks responses; policy
+positions and predicted benefits are not evaluated outcomes.
+
+Ingested Kea Wilson's [January 2026 Oregon kei-truck reporting](sources/2026-streetsblog-oregon-kei-trucks.md),
+reading all substantive PDF text on pp. 1–5. Updated the [injury-risk synthesis](topics/cycling-injury-risk.md#kei-truck-legalization-is-not-an-evaluated-safety-intervention)
+to separate proposed smaller-vehicle access from evaluated safety benefits. No existing publication coverage
+was found and no new Finding warranted. Retained reported prices, proposed highway restriction, import barriers
+and the sponsor's non-driving-options qualification; legislation and claimed cost/safety effects remain unverified.
+
+Ingested Oscar Barillas's [June 2022 Bay Bridge bus-lane commentary](sources/2022-barillas-bay-bridge-bus-lane.md),
+reading substantive text on pp. 1–18 and checking the blank illustration pages. Added personal congestion
+and rail-access constraints to the [access synthesis](topics/active-commuting-and-access.md#transit-coverage-and-usable-service-differ).
+No existing publication coverage or new reusable Finding warranted; hypothetical bus-use changes and
+secondary Mexico City estimates are not evaluated Bay Bridge benefits. Linked studies and legislation
+remain unreviewed; captured illustrations/video are unavailable.
+
+Ingested Gersh Kuntzman's [October 2023 German cycling research coverage](sources/2023-streetsblog-cycling-common-good.md),
+reading all substantive PDF text on pp. 1–4. Added a [civic-participation Finding](findings/germany-cycling-civic-participation-reported.md)
+and revised the [access synthesis](topics/active-commuting-and-access.md#social-participation-is-a-separate-outcome).
+No existing coverage of this study was found. Retained positive cycling associations and null car-use results,
+separating proposed trust mechanisms and advocacy from measured outcomes. The linked study remains unreviewed;
+the article omits sample details, coefficients and uncertainty intervals.
+
+Ingested Tom Fucoloro's [October 2025 Week Without Driving account](sources/2025-streetsblog-week-without-driving-or-biking.md),
+reading all substantive PDF text on pp. 1–5. Revised the [access synthesis](topics/active-commuting-and-access.md#cycling-can-conceal-poor-alternatives)
+to distinguish convenient car-free cycling from usable walking/transit alternatives. School, equipment-carrying
+and shopping constraints are personal reporting, not a completed trial or representative disability sample.
+No new Finding warranted; the linked book and original Seattle Bike Blog version were not separately reviewed.
+
+Ingested Charles Marohn's [February 2025 local crash-investigation commentary](sources/2025-strong-towns-local-crash-investigation.md),
+reading the complete substantive article on PDF pp. 1–5. Revised [street-redesign synthesis](topics/street-redesign-outcomes.md#leadership-guidance-is-not-a-delivery-evaluation)
+to distinguish proposed crash-response teams and rapid street changes from measured safety effects.
+No new Finding warranted; the cited *Beyond Blame* report and individual Studio records remain unreviewed.
+
+Ingested [Streetsblog's July 2022 Hoboken reporting](sources/2022-streetsblog-hoboken-zero-deaths.md), reading
+substantive PDF pp. 1–6 and inspecting the historical graphic. Added a [bounded zero-death Finding](findings/safety/hoboken-reported-four-year-zero-deaths.md),
+linked the [later injury Finding](findings/safety/hoboken-2023-2024-reported-injury-increase.md), and revised
+[street-redesign synthesis](topics/street-redesign-outcomes.md#daylighting-design-and-comparison-method-change-the-safety-claim).
+Reconciled repeated Open Plans coverage; interviews add implementation context, not independent causal evidence.
+The graphic's inconsistent severity totals remain unresolved and were not extracted as risk estimates.
+
+Ingested [NPR's July 2026 climate and road-damage reporting](sources/2026-npr-climate-road-damage.md),
+reading all substantive reporting on PDF pages 1–5. Updated [street-redesign synthesis](topics/street-redesign-outcomes.md#design-guidance-is-not-an-outcome-evaluation)
+with pavement-maintenance and reliability tradeoffs, distinct from existing NJDOT guidance and urban-heat coverage.
+No new Finding warranted: the interviews and incident accounts supply no quantified costs, evaluated adaptation
+or cycling outcome. The capture does not identify its own original web URL.
+
+Ingested Nikita Biryukov's December 2024 [New Jersey Monitor investigation report](sources/2024-nj-monitor-enforcement-investigation.md)
+after reading the complete substantive two-page PDF. Updated the [enforcement/crash Finding](findings/safety/new-jersey-enforcement-crash-trends.md)
+and [injury-risk Topic](topics/cycling-injury-risk.md) with its more-than-60% August–March comparison and announced
+special-counsel inquiry. Preserved earlier period discrepancies and distinguished repeated Times reporting from
+independent evidence; no causal crash effect or completed investigation outcome is established.
+
+Ingested [Streetsblog's January 2026 Build HUBS coverage](sources/2026-build-hubs-housing-near-transit.md),
+reading the substantive article on PDF pages 1–5. Revised [access synthesis](topics/active-commuting-and-access.md#housing-finance-proposals-are-not-delivered-access)
+to distinguish proposed federal housing-finance reforms near transit and multimodal paths from delivered
+homes or mobility gains. Reconciled existing land-use policy coverage; no new measured Finding warranted.
+The proponents' 100,000-home estimate lacks methods and a delivery horizon; primary bill and program records
+were not reviewed.
+
+Ingested [Streetsblog's January 2026 aging and transportation article](sources/2026-streetsblog-aging-transportation.md),
+reading the complete substantive reporting on PDF pages 1–5. Added [reported older-adult monthly transit use](findings/access/us-older-adults-reported-transit-use.md)
+and revised [access synthesis](topics/active-commuting-and-access.md#older-adult-mobility-needs-extend-beyond-commuting)
+to distinguish this secondary participation measure and Sidara's proposals from unmet needs or measured project
+benefits. Linked primary study and project evaluations were not reviewed; no cycling or climate effect inferred.
+
+Ingested [Goyco v. Progressive (2024)](sources/2024-goyco-progressive-scooter-pip.md), reading the full
+23-page primary opinion and two-page syllabus. Added the bounded [scooter PIP eligibility finding](findings/access/new-jersey-goyco-scooter-pip.md)
+and revised [post-crash access synthesis](topics/active-commuting-and-access.md#post-crash-benefits-are-a-separate-access-question)
+to distinguish operating rules from insurance eligibility and this holding from separate Boone commentary.
+No universal e-bike coverage, current-law verification or measured care/premium effect is inferred.
+
+Ingested [NACTO's February 2025 eight-key leadership excerpt](sources/2025-nacto-eight-keys-mobility-infrastructure.md),
+reading the complete substantive article on PDF pages 1–3. Revised
+[street-redesign synthesis](topics/street-redesign-outcomes.md#leadership-guidance-is-not-a-delivery-evaluation)
+to separate organizational delivery recommendations and an illustrative proximity goal from measured outcomes.
+The full Urban Bikeway Design Guide was not reviewed; no new empirical Finding warranted.
+
+Ingested [Smart Cities Dive's July 2024 USDOT decarbonization coverage](sources/2024-usdot-decarbonization-strategies-news.md),
+reading the substantive article on PDF pages 1–3. Revised the
+[climate-policy synthesis](topics/street-redesign-outcomes.md#climate-targets-are-not-project-emissions-results)
+to distinguish distance reduction, efficient modes and vehicle/fuel changes from measured cycling benefits.
+Retained historical legal and target context; underlying federal report not reviewed. No new Finding warranted.
+
+Ingested [Azhar and Uzair’s 2023 electric-micromobility commentary](sources/2023-electric-two-wheelers-oil-demand.md),
+reading the complete substantive article in the five-page PDF. Added [reported global oil displacement](findings/electric-two-wheelers-reported-oil-displacement.md)
+and revised [street-redesign synthesis](topics/street-redesign-outcomes.md#climate-targets-are-not-project-emissions-results)
+to distinguish aggregate multi-category fleet estimates from bicycle-only, lifecycle and project benefits.
+Underlying studies were not reviewed; estimate-year ambiguity and cost arithmetic limits remain explicit.
+
+Ingested [New Jersey's June 2025 draft Safer People actions](sources/2025-new-jersey-draft-safer-people-actions.md),
+reading all 57 pages of substantive text and action tables. Revised
+[street-redesign synthesis](topics/street-redesign-outcomes.md) to distinguish its quick-build-to-permanent
+daylighting proposals and crossing-design approach from adoption or evaluated benefits. Retained unfinished
+status, repeated NYC evidence, uncertain Idaho Stop safety evidence, enforcement-equity concerns and
+measurement/privacy limits. No new Finding; cited studies and legal status were not independently reviewed.
+
+Ingested [Safe Routes Partnership's 2024 state report-card resource page](sources/2024-safe-routes-state-report-cards.md),
+reading the substantive text of the seven-page capture, not the full linked report or grading appendices.
+Added [funding equity policy counts](findings/access/us-2024-active-travel-funding-equity-policies.md) and revised
+[street-redesign evaluation](topics/street-redesign-outcomes.md#eligible-funding-is-not-cycling-expenditure-or-delivered-benefits)
+to distinguish prioritization and matching funds from measured access or delivered benefits. Retained uneven
+school-travel support, unspecified jurisdiction coverage and absent scoring detail.
+
 ## 2026-09-22
+
+Ingested [Bike Hoboken's 2024 injury announcement](sources/2024-bike-hoboken-traffic-injury-report-news.md),
+both captured PDF pages. Added [reported 2023–2024 injury growth](findings/safety/hoboken-2023-2024-reported-injury-increase.md)
+and revised [injury-risk interpretation](topics/cycling-injury-risk.md#local-injury-growth-is-distinct-from-a-zero-death-record)
+to distinguish nonfatal injury burden from earlier zero-death accounts, exposure-based risk and treatment effects.
+Preserved missing methods, differing geographic-share denominators and injury/fatality comparison limits;
+the full linked report was not reviewed.
+
+Ingested [Madison's 20 is Plenty municipal program page](sources/madison-20-is-plenty.md), all four PDF pages.
+Added residential-street eligibility, the stated November 2024–December 2025 sign schedule, and continued
+traffic-calming evaluation. Distinguished policy intentions and national background from measured local effects;
+completion is not verified. No new Findings or Topic revisions warranted by this unevaluated program description.
 
 Ingested [AAA's Your Driving Costs 2024](sources/2024-aaa-your-driving-costs.md), both fact-sheet pages.
 Added [2024 new-car ownership costs](findings/access/us-new-car-ownership-cost-2024.md) and revised

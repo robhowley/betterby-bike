@@ -1,5 +1,13 @@
 # Network findings
 
+- [Coconut Grove bike-bus event traffic](coconut-grove-bike-bus-event-traffic.md): reported event-day car and bicycle changes, not sustained school-mode shift or an isolated lane effect.
+
+- [Cambridge Garden Street reported bicycle growth](cambridge-garden-street-reported-bicycle-growth.md): neighborhood share up 300% and volumes over 500% in secondary coverage, with missing baselines and no demonstrated driving reduction.
+
+- [Reported Amtrak ridership growth](amtrak-reported-ridership-growth-2025-2026.md): FY2025 customer trips and year-to-date operator counts reported secondhand by Business Insider and Frontier Group, not independent studies or avoided driving.
+
+- [Reported state bicycle-counting gaps](us-2024-state-bicycle-counting-gaps.md): League program coverage reported through Streetsblog, not measured cycling exposure or a confirmed decline in counting capacity.
+
 - [US 2017 active-travel purposes](us-2017-active-travel-trip-purposes.md): work was 20% of bicycle
   person-trips and 6% of walking person-trips, not worker commute shares.
 - [US 2017 work-trip distances and durations](us-2017-active-commute-distance-duration.md): shorter observed

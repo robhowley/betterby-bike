@@ -1,5 +1,18 @@
 # Safety findings
 
+- [New Jersey's 2024 crash-data access limits](new-jersey-2024-crash-data-access-limits.md): historical timeliness and geocoding gaps, not a cycling-injury undercount or evaluated open-data benefit.
+
+- [NYC residential battery-fire hazards](nyc-residential-battery-fire-hazards.md): selected fatal-fire accounts and declining deaths despite more reported fires, without exposure-based risk.
+
+- [Chicago's reported camera crash reduction](chicago-reported-speed-camera-crash-reduction.md): secondary 15% expected severe-crash reduction, not cyclist-specific risk or a redesign comparison.
+
+- [Reported global automobility mortality](global-automobility-reported-mortality.md): secondary 1.67-million annual death estimate, without intervention effects or harmonized methods.
+
+- [Hoboken's reported four-year zero-death record](hoboken-reported-four-year-zero-deaths.md): historical July 2022 account, distinct from later injury counts and isolated street-treatment effects.
+
+- [Hoboken's reported 2023–2024 injury increase](hoboken-2023-2024-reported-injury-increase.md):
+  police-recorded injuries rose 52%; mode-specific percentage changes lack exposure denominators.
+
 - NYC left turns: [casualty shares](nyc-left-turn-casualty-composition.md),
   [protected-lane movement counts](nyc-protected-lane-left-turn-injuries.md) and
   [mixed turn-treatment counts](nyc-left-turn-treatment-injuries.md), with combined-mode and uncontrolled-design limits.
@@ -251,7 +264,8 @@ Two articles in one 2021 series, not controlled evaluations or independent confi
 
 - [Enforcement decline and highway crash increase](new-jersey-enforcement-crash-trends.md): reported 81% year-on-year
   citation decline and 27% crash increase, without a crash baseline or causal estimate; a second commentary repeats
-  the same reporting but describes the 81% decline over eight months, an unresolved period discrepancy.
+  the same reporting but describes the 81% decline over eight months, an unresolved period discrepancy. The Monitor
+  adds a distinct more-than-60% August–March comparison and inquiry announcement, not independent crash evidence.
 
 - [New Jersey and national traffic-death trends](new-jersey-national-traffic-death-trends.md): excerpt 3 reports
   a 23% increase versus a 3% national decline, without an explicit year/baseline or causal estimate; mortality,

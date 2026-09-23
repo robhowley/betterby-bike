@@ -54,6 +54,21 @@ near-path value difference and a review finding mostly small positive **or null*
 paths/trails, not necessarily protected street lanes; neither CBC's favorable framing nor its gentrification concerns
 measure causal price changes or displacement.[^cbc2019]
 
+## Transit-adjacent prices and supply need separate interpretation
+
+[Realtor.com's 2026 reporting](/sources/2026-realtor-transit-housing-driving.md) adds
+[selected Phoenix and Austin home-price comparisons](/findings/business/phoenix-austin-reported-transit-home-prices.md),
+including reported 194% and 208% growth near Phoenix light rail against 159% citywide in 2019–2025.
+Unlike a controlled proximity model, these selected, incompletely defined series cannot isolate a transit premium.
+Austin's reported growth near UT during a wider downturn is also compatible with several neighborhood differences,
+not proof that access caused appreciation.
+
+The same article's [housing-supply comparison](/findings/access/us-reported-transit-housing-growth.md) reports
+2 million units near transit versus 17.6 million away in 2000–2019, but omits spatial and starting-stock denominators.
+Faster growth near newer stations contrasts with slower growth around older station cohorts. These distinctions
+matter: neither scarce nearby housing nor selected price appreciation quantifies unmet demand, displacement or
+an affordability benefit from transit-oriented development. The underlying Urban Institute analysis was not reviewed.
+
 ## Development accounts show arrangements, not isolated returns
 
 [MoZaic](../findings/business/mozaic-trail-access-and-leasing.md) supplies a concrete example of shared financing:

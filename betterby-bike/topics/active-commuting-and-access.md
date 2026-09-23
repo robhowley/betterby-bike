@@ -15,6 +15,49 @@ Historical U.S. commuting evidence challenges the idea that walking and cycling 
 activities. It does not establish whether people have good transport choices or how the benefits of new
 infrastructure would be distributed.
 
+## Funding votes do not establish delivered access
+
+[Reported 2024 U.S. transit ballot results](../findings/access/us-2024-reported-transit-ballot-approvals.md)
+add political and funding context, not observed travel behavior: Streetsblog reports 46 of 53 annual
+initiatives passing and separately $24.9 billion approved across 18 November measures. These counts
+cover measures put to voters, not national public opinion. Packages including sidewalks and bike lanes
+also fund other purposes, so their totals are not active-travel allocations. Local defeats and a
+nullified San Francisco approval qualify the aggregate success account. Unlike evidence of destination
+access or ridership, authorization alone says nothing about delivery, usability or who benefits;
+the underlying election inventory and its treatment of the San Francisco correction remain unreviewed.
+
+## Purchase intentions do not establish usable alternatives
+
+[Newsweek's May 2025 survey coverage](../findings/access/us-2025-car-ownership-alternative-intentions.md)
+adds stated preferences to the ownership-cost evidence below: 48% of Harris/Turo respondents were open
+to alternatives to buying or leasing, and 42% of surveyed owners expected financial relief from giving
+up ownership. Car sharing and rentals can preserve driving, while weaker purchase intentions can mean
+postponement rather than relinquishing a car. These measures do not establish cycling demand, realized
+savings or access to destinations. Missing survey methods and the car-sharing sponsor's commercial
+interest further limit interpretation; the underlying surveys remain unreviewed. This is different
+evidence from AAA's standardized costs, not independent confirmation of an affordability benefit.
+
+## Lower youth licensing need not mean less driving distance
+
+[Streetsblog's account of U.S. youth travel in 2009–2017](../findings/access/us-youth-driving-trips-distance-reported.md)
+adds observed-behavior reporting rather than purchase intentions: median weekly driving trips reportedly
+fell 16% while median weekly driving distance rose nearly 12%. Lower licensing and fewer outings do
+not demonstrate substitution toward cycling or transit, and may coexist with longer remaining journeys
+or reduced participation. The article's exact trip/distance denominators and underlying study methods
+remain unreviewed. Wang's recommendation to improve nearby destinations and transit is consistent with
+the access question, but is not an evaluated effect. Neither historical licensing trends nor current
+ownership preferences establish that young people have usable alternatives.
+
+## Social participation is a separate outcome
+
+[Streetsblog's German research coverage](../findings/germany-cycling-civic-participation-reported.md) adds
+reported small positive associations between cycling frequency and social-organizational and political
+participation, plus positive helpfulness and solidarity results. Car-use frequency had no significant effect
+in the reported models, not a measured negative effect. These are social outcomes, unlike the travel-use and
+access measures below. They do not establish that cyclists have better morals, that transport access improved,
+or that building lanes causes civic engagement. Missing methods and effect sizes in the news account leave
+selection and magnitude unresolved; the underlying study has not been independently reviewed.
+
 ## Pandemic commute shares are not all-trip cycling trends
 
 The Census Bureau's [2019–2022 ACS comparison](../findings/networks/us-2019-2022-active-commute-share.md)
@@ -86,6 +129,68 @@ data methods, so it does not establish present conditions or independent confirm
 Its call to target green infrastructure toward flood-prone housing communities is a planning judgment, not measured
 flood protection or transport-access improvement. It does not locate carless households within those communities.
 
+## Transit coverage and usable service differ
+
+[Schmitt's 2026 Wheeling accounts](../findings/access/wheeling-reported-sidewalk-transit-gaps.md)
+show why destination location and sidewalk connections belong beside service availability in the access
+question: older women credited transit with independence, yet she reports outlying retail and Ohio-side
+social-service agencies beyond bus routes without sidewalk connections. Agencies reportedly arranged
+expensive transportation themselves. Unlike the national older-adult participation estimate below, these
+are qualitative local accounts without sample sizes, route inventories or cost measurements. They do not
+quantify unmet need or show that sidewalks alone would solve it. Her proposal for highway-scale sidewalk
+funding is advocacy, not an evaluated access gain or a demonstrated transfer of highway budgets.
+
+[Barillas's 2022 Transbay commute account](../sources/2022-barillas-bay-bridge-bus-lane.md)
+illustrates another gap between route availability and practical access. Direct F/NL buses served his
+East Bay homes, but he reports switching to BART when bridge congestion made later bus departures
+unattractive, despite a longer station walk. His prediction that a bus lane would raise his own bus use
+from roughly 60% to 100% is hypothetical, not measured mode shift. This complements the Seattle account
+below without establishing how common either constraint is. The bus-lane proposal supplies no evaluated
+travel-time, equity or congestion benefit, and its international examples cannot quantify Bay Bridge effects.
+
+## Cycling can conceal poor alternatives
+
+[Fucoloro's 2025 Seattle-area account](../sources/2025-streetsblog-week-without-driving-or-biking.md)
+illustrates a distinction the commute statistics cannot measure: a car-free cyclist can have convenient
+bicycle trips but poor alternatives when cycling is unavailable. He describes 30-minute waits after missed
+Tacoma buses, a cancelled public-transit school connection, a long school-bus journey home and the burden
+of carrying hockey gear or groceries on transit. He still bikes his child to school and anticipates rather
+than completes some other changes. This is one parent's experience, not a measured week-long trial or
+representative evidence about people with disabilities. His acknowledgment that planning and familiarity
+could improve transit trips also prevents reading the account as a general travel-time ranking of modes.
+Together with the older-adult coverage below, it broadens the access question beyond bicycle availability,
+without establishing how common these constraints are or which intervention resolves them.
+
+## Older-adult mobility needs extend beyond commuting
+
+[Streetsblog's January 2026 aging coverage](../sources/2026-streetsblog-aging-transportation.md) adds an
+older-adult perspective: a 2022 study reportedly found [about one in ten urban older US adults used transit
+in the preceding month](../findings/access/us-older-adults-reported-transit-use.md). This is a participation
+measure, unlike worker commute shares or NABSA's rider composition. Its primary methods, age threshold and
+observation year were not reviewed; it cannot estimate how many non-users lack usable alternatives to driving.
+
+The article discusses missing bus-stop amenities; Sidara executive Balsam Nehme proposes accessible transit,
+walkable or rollable access to destinations and intergenerational housing. This broadens the access question
+beyond getting to work or having a nearby bicycle route. Her firm's Seattle, Culver City and Chicago examples
+are not evaluations of older-adult benefits. Neither low transit use nor those proposals establishes reduced
+isolation, safer cycling or lower emissions, and the article does not independently confirm the bundle's
+commuting or shared-micromobility findings.
+
+[Realtor.com's January 2026 coverage](/sources/2026-realtor-transit-housing-driving.md) adds a different study's
+[reported stop access and nondriver participation](/findings/access/us-older-adults-reported-stop-access.md):
+nearly 58% of older adults lacked neighborhood transit stops, while more than one-quarter of older nondrivers
+used transit and nearly 17% used it frequently. Missing age, proximity and frequency definitions prevent pooling
+these figures with the earlier monthly-use estimate. Reported associations with walkability and stop density do
+not establish that building transit-adjacent housing reduces isolation.
+
+[ABC12's March 2026 Michigan reporting](../sources/2026-abc12-michigan-older-driver-testing.md) adds a
+proposed licensing restriction rather than evidence of transportation access: Senate Bill 847 would
+require in-person vision, knowledge and driving-skills tests every four years from age 75 and annually
+from age 85. It had not received a vote at publication. The reported fatal-crash motivation does not
+establish age-specific risk or testing effectiveness. Unlike the transit studies above, this article
+provides no mobility-use measures or alternative-transport assessment; neither safety benefits nor
+loss of access can be inferred from the proposal alone.
+
 ## Policy packages do not establish access or health gains
 
 Opong's [January 2026 New Jersey policy memo](../sources/2026-renovating-new-jersey-built-environment.md)
@@ -100,6 +205,51 @@ not demonstrate New Jersey health gains, equitable cycling uptake or a lane-indu
 loneliness. Its repeated 12-city safety claim is already represented through Streetsblog, not new
 independent evidence; its statewide motorist-distrust percentage lacks a usable sample denominator.
 These recommendations therefore complement, rather than strengthen, the observed barrier evidence below.
+
+[NPR's May 2024 health reporting](../sources/2024-npr-cycling-knee-health.md) adds individual-level
+associations rather than a policy evaluation. In an elevated-risk sample averaging age 64, bicycling
+history was reportedly associated with [21% less X-ray evidence plus symptoms of knee osteoarthritis](../findings/cycling-knee-osteoarthritis-reported.md).
+A separate diabetes study reportedly associated one hour of weekly cycling with [about 22% lower
+premature mortality](../findings/diabetes-cycling-mortality-reported.md). These concern different
+populations and outcomes, not two confirmations of one benefit. The knee comparison is cross-sectional;
+the mortality account omits its precise comparator and follow-up. Neither primary paper was reviewed.
+
+Together they support considering potential health benefits without treating observational associations
+as prevention effects or transferring percentages to all commuters. They do not evaluate the New Jersey
+policy package, measure additional exercise induced by routes or quantify net health gains after traffic
+and overuse injuries. Researcher explanations and one cyclist's reported joy add context, not measured
+mechanisms or mental-health effects. These outcomes also differ from UCS's modeled air-quality health
+benefits below and cannot simply be added to them.
+
+## Housing finance proposals are not delivered access
+
+[Realtor.com's reported housing-growth comparison](/findings/access/us-reported-transit-housing-growth.md)
+adds historical context: 2 million units near transit versus 17.6 million away in 2000–2019, with faster growth
+near newer stations than comparable neighborhoods but slower growth around older station cohorts. Proximity
+boundaries and starting-stock denominators are missing. These counts do not establish how many households
+have usable transit, nor whether proposed financing reforms will meet housing demand.
+
+[Streetsblog's January 2026 Build HUBS coverage](../sources/2026-build-hubs-housing-near-transit.md)
+adds a federal financing constraint to the local parking and trail-access proposals above. Supporters
+argue that procedures designed for major transport projects hinder housing development through TIFIA
+and RRIF. The reported proposal would simplify financing and explicitly include development within a
+half-mile of bus rapid transit or multimodal paths. This extends the policy discussion beyond building
+routes to locating homes near them, not evidence that proximity guarantees usable, affordable travel.
+
+The claimed potential for up to 100,000 homes comes from proponents, with no reported estimation
+method or delivery horizon. The article's account of only one prior transit-oriented building project,
+a library, was not checked against primary program records. Neither account establishes how many
+homes reform would actually add, whether existing residents could afford them, or whether cycling
+and transit use would increase. These are proposed mechanisms, not independent confirmation of
+access or emissions benefits from the bundle's other land-use recommendations.
+
+[Better Blocks' May 2026 NJ-08 candidate questionnaire](../sources/2026-better-blocks-nj08-candidate-questionnaire.md)
+shows that support for housing near transit can still differ over funding conditions: Ali endorses
+requirements tied to federal transit investment, while Menendez stresses incentives, tenant protections
+and avoiding penalties for fiscally constrained communities. Both support local bus rapid transit
+investment, but neither response evaluates access gains. The PDF ends before street-safety answers,
+so it cannot establish their cycling commitments. These positions add political context, not evidence
+that the financing proposals above deliver affordable travel.
 
 ## Reported barriers extend beyond having a nearby route
 
@@ -138,6 +288,21 @@ trip with an eligible Northeast Regional outbound, without explaining the incomp
 single test does not measure abandoned journeys, current service or unequal impacts across population groups.
 Together these findings extend the distinction between available infrastructure and usable access, without
 establishing rail-induced cycling, equity gains or mode shift.
+
+[Frontier Group's reported Amtrak growth](../findings/networks/amtrak-reported-ridership-growth-2025-2026.md)
+adds actual passenger-use counts to this service-availability discussion, but not evidence of bicycle-to-rail
+journeys. It reports 5.1% FY2024–FY2025 growth and 9% state-supported growth year to date through May
+FY2026. These secondary operator statistics do not identify unique travelers, prior modes or avoided car
+journeys. New-service comparisons also mix forecasts and potentially unequal operating periods. Thus rail
+use can grow without demonstrating improved bicycle access, equitable access or the author's proposed
+shift away from cars and planes; continued-investment advocacy is not an evaluated causal effect.
+
+[Business Insider's January 2026 reporting](../sources/2026-business-insider-amtrak-boom.md) supplies
+34.5 million FY2025 customer trips from the same operator evidence stream, not an independent study.
+Its revenue growth must not be read as passenger growth. Interviews emphasize shorter corridors, while
+the reporter's scenic long-distance journey cost nearly four times as much as flying and took about
+38 hours longer. That single experience illustrates why enjoyable rail travel and a practical, affordable
+alternative are different questions; neither the anecdote nor aggregate growth measures bicycle-to-rail access.
 
 ## Destination proximity is another incomplete access measure
 
@@ -182,6 +347,22 @@ of savings from switching to a bicycle. Fuel overlaps the report's separate ener
 alternative-mode implementation costs are not fully netted out. Neither national savings nor the assumed
 driving reductions establish maintained access or equitable distribution. Community accounts in the
 [report](../sources/2024-freedom-to-move.md) motivate those goals but do not evaluate their achievement.
+[Streetsblog's December 2024 republication](../sources/2024-streetsblog-freedom-to-move-savings.md)
+repeats this model under a $6.2 trillion headline, rather than independently confirming it. Lead author
+Kevin Shen's interview illustrates retaining some driving while shedding a second car or substituting
+e-bike trips. Those examples explain the proposed choices, not observed uptake, household cash savings
+or equitable access; the article's pocketbook language should not erase depreciation or investment costs.
+
+Streetsblog's [Transportation for America coverage](../sources/2026-streetsblog-world-class-transit.md)
+adds a different [conditional ownership-savings scenario](../findings/access/us-transit-moonshot-ownership-savings.md):
+over $5.4 trillion during 2026–2045 if roughly $4.6 trillion in transit investment reduces the ownership
+rate by one-quarter of a percent annually. This is an assumed response reported secondhand, not measured
+payback or confirmation of UCS's estimate. The different horizons and accounting do not support adding
+these totals. The article's $4.6/$4.7-trillion discrepancy and missing financial methods remain unresolved.
+Its 27 versus 133 vehicles per 100,000 residents comparison is a rough US/selected-city service proxy,
+not direct destination access: fleet definitions, land use, frequency and reliability matter, and walkable
+or bikeable neighborhoods may need fewer transit vehicles. Neither larger fleets nor projected avoided
+ownership costs establish equitable access or savings from a cycling project.
 
 ## Car costs add context, not measured savings from cycling
 
@@ -197,11 +378,40 @@ Its average costs of $1.06, $0.82 and $0.70 per mile at 10,000, 15,000 and 20,00
 full ownership averages cannot be treated as savings from each driving mile replaced. This is another annual
 AAA estimate, not independent evidence of cycling benefits or a review of the underlying 2023 study.
 
-The article's [car-cost inflation index](../findings/access/us-nerdwallet-car-cost-inflation.md) reports 38% growth
+MoneyGeek's [later AAA-based estimate](../findings/access/us-new-car-ownership-cost-2025-reported.md) reports
+$11,577 annually for **2025**, despite its 2026 headline, at 15,000 miles per year. Its $6,400 annual gap
+between half-ton pickups and small sedans shows why vehicle choice matters to cost comparisons. It does not
+measure avoidable trip costs or benefits of cycling. The [article's real-cost analysis](../sources/2026-moneygeek-car-ownership-cost.md)
+reports an 8.2% inflation-adjusted annual decline and a 13.8% ratio to estimated median household income,
+not an observed household budget share. Income estimation and an inconsistent 2023 trend percentage limit
+precision. This extends the AAA time series rather than adding independent confirmation of earlier estimates.
+
+NerdWallet's [car-cost inflation index](../findings/access/us-nerdwallet-car-cost-inflation.md) reports 38% growth
 since April 2019 in its June 2024 snapshot. Price changes, full ownership costs and costs avoidable by replacing
 individual trips are different measures. Neither this index nor the AAA estimate establishes what a household
 would save by cycling, whether it can relinquish a vehicle or whether safe routes serve its destinations. Together,
 these sources describe cost context and commuting associations, not an evaluated affordability benefit of bike lanes.
+
+LendingTree's [Q2 2026 Experian coverage](../findings/access/us-2026-reported-car-payments.md) adds financing
+commitments: $765/$542 average monthly new/used payments and 69.5/67.9-month terms. These are neither
+AAA-style total ownership costs nor averages for all households. Credit-tier differences also reflect different
+loan sizes and terms, not an isolated credit-score effect. This later-period reporting extends NerdWallet's
+payment context without independently confirming its earlier figures or demonstrating that cycling can replace
+ownership. Loan payments cannot simply be added to depreciation-based ownership estimates without accounting
+for the different treatment of vehicle purchase costs.
+
+## Parking prices do not establish equitable access
+
+[Berkeley's June 2026 parking-fee coverage](../sources/2026-sfgate-berkeley-parking-fees.md) adds a local
+policy mechanism rather than another ownership-cost estimate. SFGATE reports an initial council vote to
+replace $85-per-vehicle residential permits with $100/$125/$150 first/second/third-car tiers for 2028 permits,
+extend metered hours and introduce Sunday charges. A final ordinance vote was still pending at publication.
+Officials projected revenue and better turnover; the dissenting councilmember warned of regressive burdens
+and business losses. Neither account measures realized household or business effects, reduced car ownership
+or increased cycling. Planned cashless meters with eventual reloadable Clipper-card acceptance also separate
+payment accessibility from fee levels: the article does not establish that an alternative for people without
+credit cards or smartphones was operational. These proposals add access questions, not evidence that higher
+parking charges by themselves provide usable, affordable alternatives.
 
 ## Transit removal can suppress activities rather than merely change modes
 
@@ -280,6 +490,13 @@ whether the reported exemptions increased commuting, equitable access or safety.
 
 ## Post-crash benefits are a separate access question
 
+The primary [2024 Goyco opinion](../findings/access/new-jersey-goyco-scooter-pip.md) shows that bicycle-like
+operating rules do not necessarily confer pedestrian insurance benefits. New Jersey's Supreme Court denied
+PIP benefits under the policy and statute at issue to a low-speed electric-scooter rider: his motor-powered,
+road-designed scooter placed him outside the No-Fault Act's pedestrian definition, unlike an ordinary bicycle.
+This is a dated holding about that scooter and policy, not a ruling on every pedal-assist bicycle or proof of
+current coverage. It measures neither treatment access nor premium effects.
+
 Epstein's August 2026 commentary on [pedestrian PIP coverage in Boone](../findings/access/new-jersey-boone-pedestrian-pip.md)
 reports required medical benefits for an uninsured pedestrian struck by a Lyft driver carrying a passenger.
 Unlike e-bike operating requirements, this concerns access to benefits after a crash, not permission to travel.
@@ -332,6 +549,12 @@ bicycle patterns cannot reliably annualize pedestrian or other-region counts. Th
 these inputs, so their estimates are not independent confirmations. The report recommends improved surveys for
 statewide totals and representative, appropriately adjusted counts for finer geography, not a universal correction
 from commute share or corridor counts to total miles.
+
+[Streetsblog's 2024 League coverage](../findings/networks/us-2024-state-bicycle-counting-gaps.md) adds a
+national program-coverage gap: only 22 states reportedly operate or fund bicycle surveys/counts. Its claimed
+four-state decline since 2022 lacks explained survey comparability. Unlike the Washington methods demonstration,
+this is secondary reporting about program presence, not count accuracy or riding exposure. Neither program
+presence nor a high bicycle-friendly ranking supplies the denominator needed to interpret rising cycling deaths.
 
 TfL's [2017 London indicators](../findings/networks/london-2017-cycling-indicator-differences.md) further show that
 trip counts, distance and boundary crossings can move differently: cycle trips fell 0.3% while daily cycle-kilometres

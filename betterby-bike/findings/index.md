@@ -1,5 +1,73 @@
 # Findings
 
+- [SSTI bus-space recommendation limits](operations/ssti-bus-space-recommendation-limits.md): reported 40% and approximately-half recommendations lack methods and operating conditions for transfer.
+
+- NPR health coverage: [knee osteoarthritis](cycling-knee-osteoarthritis-reported.md) and [diabetes mortality](diabetes-cycling-mortality-reported.md), separate reported associations with incomplete methods, not causal cycling or infrastructure effects.
+
+- [McGuinness operational claims before implementation](operations/mcguinness-proposed-redesign-operational-claims.md): separates reported diversion forecasts and proposed emergency access from measured project outcomes.
+
+- [Coconut Grove bike-bus event traffic](networks/coconut-grove-bike-bus-event-traffic.md): reported drop-off cars down nearly 30% and bicycle traffic doubled, without a defined baseline or lasting-mode-shift evidence.
+- [Coconut Grove parent support](design/coconut-grove-pop-up-parent-support.md): nearly 77% supported permanence, not a measured change in opinion or demonstrated implementation.
+
+- [Reported global SUV sales and oil-demand growth](global-suv-sales-oil-demand-reported.md): 2023 market and energy estimates, not on-road fleet shares, cyclist risk or measured policy effects.
+
+- [Garden Street neighborhood bicycle growth](networks/cambridge-garden-street-reported-bicycle-growth.md): secondary before/after percentages, not established new trips or reduced driving.
+
+- [New Jersey's 2024 crash-data access limits](safety/new-jersey-2024-crash-data-access-limits.md): public downloads lagged and lacked coordinates, a separate limitation from which crashes get recorded.
+
+- [UCS household savings](access/us-freedom-to-move-household-savings.md): Streetsblog's $6.2 trillion headline repeats the model; pocketbook language does not turn depreciation into immediate cash benefits.
+
+- [Complete Streets policy scores](complete-streets-2025-policy-scores.md): top-ten rankings for 2023–2024 policies do not rank road safety or delivered cycling benefits.
+
+- [NYC residential battery-fire hazards](safety/nyc-residential-battery-fire-hazards.md): blocked exits and repair/storage accounts, not risk per device or evaluated prevention effects.
+
+- [Barcelona's reported subway energy recovery](barcelona-reported-subway-energy-recovery.md): 33% of train energy in an operator account, distinct from projected recovery, CO2 savings and payback.
+
+- [Reported 2025 new-car ownership costs](access/us-new-car-ownership-cost-2025-reported.md): $11,577 annually and a $6,400 pickup/small-sedan gap, not avoidable trip costs.
+
+- [Reported Q2 2026 car payments](access/us-2026-reported-car-payments.md): new/used averages of $765/$542 monthly and nearly six-year terms, distinct from total ownership costs.
+
+- [California Waymo empty mileage](operations/california-waymo-reported-empty-miles.md): reported 44% empty near end-2025, not a matched ride-hailing comparison or net congestion effect.
+
+- [Reported 2024 transit ballot approvals](access/us-2024-reported-transit-ballot-approvals.md): high passage counts coexist with local defeats and do not establish spending or access improvements.
+
+- Realtor.com's transit-housing coverage adds [housing growth](access/us-reported-transit-housing-growth.md), [selected home-price comparisons](business/phoenix-austin-reported-transit-home-prices.md) and [older-adult stop access](access/us-older-adults-reported-stop-access.md), not evaluated affordability or mobility gains.
+
+- Chicago speed cameras: [reported severe-crash reduction](safety/chicago-reported-speed-camera-crash-reduction.md) and [ticket-geography limits](access/chicago-speed-camera-ticket-geography.md) distinguish safety from financial burden.
+
+- [US transit-expansion ownership savings](access/us-transit-moonshot-ownership-savings.md): secondary scenario estimates depend on assumed ownership reductions, not demonstrated investment payback.
+
+- [Wheeling's reported sidewalk and bus-route gaps](access/wheeling-reported-sidewalk-transit-gaps.md): local accounts of inaccessible destinations and provider transport burdens, not measured investment effects.
+
+- [Reported Amtrak ridership growth](networks/amtrak-reported-ridership-growth-2025-2026.md): passenger counts and new-service comparisons, not demonstrated substitution away from cars and planes.
+
+- [U.S. car-ownership alternative intentions](access/us-2025-car-ownership-alternative-intentions.md): reported openness to alternatives and expected financial relief, not observed ownership reductions or cycling uptake.
+
+- [Reported state bicycle-counting gaps](networks/us-2024-state-bicycle-counting-gaps.md): 22 states reportedly support surveys/counts; unresolved historical comparability and missing riding exposure limit risk inference.
+
+- [NYC cargo-bike space conflicts](design/nyc-cargo-bike-space-conflicts.md): selected driver accounts and a cargo-specific data gap, not measured conflict prevalence or wider-lane benefits.
+
+- [Reported global automobility mortality](safety/global-automobility-reported-mortality.md): incomplete worldwide crash, pollution and lead burden, not cyclist risk or preventable project casualties.
+
+- [German cycling and civic participation](germany-cycling-civic-participation-reported.md): secondary positive cycling associations and null car-use results, without effect sizes or causal identification.
+
+- [Hoboken's reported four-year zero-death record](safety/hoboken-reported-four-year-zero-deaths.md): historical July 2022 account, not a daylighting effect or evidence of zero nonfatal injuries.
+
+- [Older US adults' reported monthly transit use](access/us-older-adults-reported-transit-use.md):
+  about one in ten urban older adults in secondary 2022-study coverage, not a measure of unmet travel needs.
+
+- [Goyco scooter PIP eligibility](access/new-jersey-goyco-scooter-pip.md): New Jersey's 2024 denial of
+  pedestrian benefits to an electric-scooter rider, not every e-bike or all possible compensation.
+
+- [Reported electric two-/three-wheeler oil displacement](electric-two-wheelers-reported-oil-displacement.md):
+  approximately one million barrels/day globally, not bicycle-only or per-vehicle savings; methods unreviewed.
+
+- [US 2024 funding equity policies](access/us-2024-active-travel-funding-equity-policies.md): expanded
+  high-need TAP prioritization, not measured successful applications or downstream benefits.
+
+- [Hoboken's reported 2023–2024 injury increase](safety/hoboken-2023-2024-reported-injury-increase.md):
+  144 to 219 injuries, not exposure-based risk or an isolated street-treatment effect.
+
 - App routing: [short-run traffic gains](operations/routing-app-short-run-travel-gains.md) and
   [emissions uncertainty](operations/routing-app-emissions-uncertainty.md), nonrandom ten-city switchbacks
   rather than cycling effects, durable congestion relief or measured annual CO2e savings.

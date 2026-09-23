@@ -6,6 +6,27 @@ description:
   attribution to individual treatments.
 tags: [street design, business, mobility, safety, measurement, emergency response]
 sources:
+  - id: duggan2023
+    resource: /sources/2023-streetsblog-mcguinness-redesign-opposition.md
+    title: Bike Lane Opponents Want McGuinness to ‘Keep Moving’ … for Killer Truckers
+  - id: gitlin2026
+    resource: /sources/2026-ars-waymo-empty-miles.md
+    title: Autonomous vehicles were supposed to cut traffic
+  - id: neuman2026
+    resource: /sources/2026-npr-climate-road-damage.md
+    title: As climate change damages streets and highways, the road ahead may be expensive
+  - id: zukowski2024
+    resource: /sources/2024-usdot-decarbonization-strategies-news.md
+    title: "3 strategies to decarbonize transportation: US DOT report"
+  - id: azhar2023
+    resource: /sources/2023-electric-two-wheelers-oil-demand.md
+    title: 280 million e-bikes are slashing oil demand far more than electric vehicles
+  - id: njsafer2025
+    resource: /sources/2025-new-jersey-draft-safer-people-actions.md
+    title: "New Jersey Target Zero: Draft Safer People Actions"
+  - id: srp2024
+    resource: /sources/2024-safe-routes-state-report-cards.md
+    title: 2024 State Report Cards (Safe Routes Partnership)
   - id: arora2026
     resource: /sources/2026-routing-app-congestion-relief.md
     title: Urban congestion relief experiments through routing-app interventions
@@ -210,6 +231,16 @@ literature overlap unresolved.
 
 ## Climate targets are not project emissions results
 
+[July 2024 reporting on USDOT's decarbonization strategy](/sources/2024-usdot-decarbonization-strategies-news.md)
+distinguishes reducing travel distances, shifting to efficient modes and changing vehicles/fuels.
+Walking and cycling support appears alongside land-use planning, transit investment and electrification,
+not as a quantified substitute for all other measures. These are proposed policy mechanisms rather than
+measured mode shift or emissions savings; the article supplies no cycling-specific effect estimate.
+Its reported court rejection of a highway CO2 target-setting rule also distinguishes implementation
+authority from policy ambition, without establishing that every listed action was blocked.[^zukowski2024]
+
+[^zukowski2024]: [Smart Cities Dive's USDOT report coverage](/sources/2024-usdot-decarbonization-strategies-news.md), PDF pp. 1–3; underlying report and legal status not independently reviewed.
+
 [New Jersey's climate-target comparison](/findings/new-jersey-climate-target-comparison-limits.md) supplies
 policy context, not another intervention estimate. Rutgers' April 2025 report puts the state's 2050 target
 at 76% below 2015 net emissions, compared with its cited U.S. net-zero goal. Applying U.S. modeled
@@ -218,6 +249,24 @@ state-specific sector contributions or cycling substitution. Land-use accounting
 assumed. Thus neither a target gap nor the London particulate scenario above establishes the climate
 benefit of a particular redesign. That requires evidence about actual travel changes and the emissions
 included in the calculation, distinct from selecting an economy-wide ambition level.
+
+Global fleet estimates answer a different question again. A [2023 commentary's reported oil displacement](/findings/electric-two-wheelers-reported-oil-displacement.md)
+is about one million barrels/day from electric two- and three-wheelers, around four times electric cars'
+aggregate displacement. The fleet includes mopeds, motorcycles and three-wheelers, not only e-bikes;
+its scale reflects uptake rather than a fourfold per-vehicle advantage. Avoided oil use is neither an
+observed fall in total demand nor a lifecycle emissions estimate. With underlying methods and exact
+reference year unconfirmed, this secondary account supports distinguishing fleet composition and scale
+from local project effects, not estimating a redesign's climate return.[^azhar2023]
+
+[^azhar2023]: [Azhar and Uzair commentary](/sources/2023-electric-two-wheelers-oil-demand.md), PDF pp. 1–4; underlying BloombergNEF analysis not reviewed.
+
+Operational efficiency is a third mechanism, separate from changing travel modes or electrifying fleets.
+[Barcelona's reported subway energy recovery](/findings/barcelona-reported-subway-energy-recovery.md)
+puts recovered braking energy at 33% of train consumption in a 2024 operator account. The planned 41%
+share, annual CO2 savings and four-to-five-year payback are projections without supporting accounting
+methods in the article. Existing regenerative braking also prevents attributing the entire recovered
+share to the new charger/inverter project. This case illustrates energy reuse within transit, not
+observed car substitution or a climate return from street redesign.
 
 ## Eligible funding is not cycling expenditure or delivered benefits
 
@@ -238,6 +287,25 @@ collections and net intergovernmental transfers also do not locate where drivers
 taxes or establish who subsidizes whom. Funding-source arguments require tax-incidence evidence;
 claims about redesign benefits still require measured outcomes.
 
+[Safe Routes Partnership's national policy snapshot](/findings/access/us-2024-active-travel-funding-equity-policies.md)
+adds another distinction: 38 states reportedly prioritized high-need communities in TAP funding in 2024,
+versus 24 in 2022, while 17 supplied matching funds. These provisions target funding barriers but do not
+measure applications, awards or benefits reaching those communities. Its reported state active-travel
+spending covers walking, biking and/or school travel together, not cycling alone. School-design support
+also remained unchanged at 11 states, qualifying any assumption of uniform policy progress. The captured
+summary does not reproduce grading methods, and neither these policy counts nor SCDOT's program amounts
+establish equitable access or evaluated redesign benefits.[^srp2024]
+
+[^srp2024]: Safe Routes Partnership, *2024 State Report Cards*, captured PDF pp. 3–5;
+    full report and scoring appendices not reviewed.
+
+[Smart Growth America's 2025 policy ranking](/findings/complete-streets-2025-policy-scores.md) adds
+policy-document scores, not implementation evidence: its resource page reports reviewing 43 policies
+adopted in 2023–2024, with San Antonio scoring 96/100 and Asbury Park and Red Bank scoring 70 and 69.
+Unlike the state inventory above, it ranks selected local and regional policies. Neither exercise
+measures safer journeys. The captured ranking omits scoring rules and outcome data; Asbury Park's
+policy score is not independent confirmation of its separate local speed study.
+
 ## Announced infrastructure is not a measured safety outcome
 
 [NYC DOT's September 2023 East New York release](/sources/2023-nycdot-bike-lanes-pedestrians.md) reports substantial
@@ -255,6 +323,28 @@ for unspecified “recent years.” Unlike proposed targets, these are presented
 crop supplies no dated baseline or safety, cost or delivery-time comparison. Its endorsement of paint, temporary
 materials and repaving opportunities is a strategy rationale, not proof that quick-build projects outperform
 conventional construction. Missing publication details and references also prevent verification of the totals.
+
+[Boston's September 2025 barrier trials](/sources/2025-streetsblog-boston-barrier-trials.md) add a material-selection
+example, not an evaluated upgrade: Arlington Street received molded-plastic Zebra separators where officials
+said concrete would be a tighter fit, while Boylston concrete islands remained planned. The streets chief's
+claim that surface-mounted, cast-in-place islands could be installed in a day describes an intended quick-build
+method, not a measured schedule or cost advantage. Unlike the Jersey City installation totals, this account
+explains selection and future monitoring; neither establishes durability, crash reduction or emergency access.
+Manufacturer impact-resistance claims and city protection goals still require outcome evidence.
+
+## Camera safety and ticket burdens are different outcomes
+
+Chicago camera coverage adds two outcomes that should not be collapsed into a verdict on whether automation
+is equitable: a [reported 15% reduction in expected fatal and serious-injury crashes](../findings/safety/chicago-reported-speed-camera-crash-reduction.md)
+during 2015–2017 and [disproportionate ticket receipt in majority-Black ZIP codes](../findings/access/chicago-speed-camera-ticket-geography.md).
+Safety gains can coexist with unequal financial burdens. ZIP-code residence does not identify individual race,
+and ticket shares relative to population are not rates per driving exposure. Neither measure evaluates camera
+removal or proves that redesign would outperform enforcement.
+
+[Wilson's reporting](../sources/2022-streetsblog-speed-camera-equity.md) adds interview recommendations to
+spend revenue on safety, avoid contractor incentives for more tickets and redesign roads with persistent
+violations. These complement design guidance but are not measured effects of revenue reform or redesign.
+The underlying Chicago methods remain unreviewed, unlike a directly assessed intervention study.
 
 ## Local counts and campaign accounts need coverage and exposure checks
 
@@ -289,6 +379,25 @@ adult accompaniment for young children. Neither school proximity nor recommended
 independent travel or equitable benefits. Its engagement examples document participation, not measured outcomes;
 its secondary camera-program speeding reductions cannot stand in for youth injury effects from bicycle lanes.
 
+## Leadership guidance is not a delivery evaluation
+
+[NACTO's 2025 guide excerpt](../sources/2025-nacto-eight-keys-mobility-infrastructure.md) complements the
+quick-build implementation accounts and PBIC's youth-engagement guidance by identifying the organizational
+support proposed for connected networks: predictable funding, staffing, interagency coordination, published
+decision processes and resourced neighborhood engagement. These are recommendations, not comparative evidence
+that a governance model improves delivery time, safety or equity. Its example of 50% of residents within a
+three-minute walk of a high-quality facility is an illustrative goal, not observed coverage or a validated
+access threshold. This distinguishes the capacity to plan and deliver projects from both facilities actually
+installed and benefits measured after installation.
+
+[Marohn's February 2025 local crash-investigation commentary](../sources/2025-strong-towns-local-crash-investigation.md)
+adds a proposed feedback process after fatal crashes: designate a safety lead, publish multidisciplinary
+crash reviews, examine contributing street conditions and make temporary changes while planning permanent
+work. This extends the governance question from delivering a network to learning from individual crashes.
+His aviation analogy and Strong Towns staff account explain the proposal, but no case inventory, comparison
+group or post-treatment injury data establish that Crash Analysis Studios or paint-and-cone responses reduce
+fatalities. Neither the cited *Beyond Blame* report nor its underlying case records was reviewed here.
+
 ## Treat the whole project as the observed intervention
 
 The cases combine lanes, refuges, signals, turn management and sometimes public-space changes. Their reported outcomes
@@ -315,6 +424,15 @@ its 2017 peak, and [Cambridge Street](/findings/networks/boston-cambridge-street
 an initial rise. These are short fall counting windows, not annual daily averages or controlled lane effects.
 The article's separate StreetLight metro trip estimate and Bluebikes totals cannot be pooled with these corridor
 counts or treated as independent confirmation that lanes caused growth.[^dolven2024]
+
+Momentum's [Garden Street neighborhood account](/findings/networks/cambridge-garden-street-reported-bicycle-growth.md)
+adds secondary reporting of a 300% bicycle-share increase and over 500% bicycle-volume growth within
+half a mile of the Cambridge project, within four months of completion. This is not the Globe's
+Cambridge Street in Boston. The broader neighborhood boundary does not itself exclude route shifts,
+and missing baselines, count windows and seasonal-adjustment methods prevent causal interpretation.
+Separated lanes accompanied a one-way motor-traffic conversion. A higher bike/car share also does
+not establish fewer car trips, qualifying the article's reduced-driving claim; selected adoption
+testimony and unquantified Bluebikes growth cannot supply that missing comparison.
 
 ### Matched operator counts strengthen comparison, not citywide trip inference
 
@@ -362,6 +480,17 @@ not the article's expected downstream benefits. Its Salt Lake City sales and Mon
 
 ## Comfort, support and correct use are different outcomes
 
+Coconut Grove's school bike-bus case illustrates why event participation, public support and permanent
+implementation must also stay separate. [Streetsblog's reported traffic changes](/findings/networks/coconut-grove-bike-bus-event-traffic.md)
+combine a pop-up lane with an organized ride: nearly 30% fewer drop-off cars on average and doubled bicycle
+traffic across three 2023–2024 events, with no defined baseline or evidence of sustained change. Parents,
+siblings and nearby private-school pupils contributed to the bicycle counts. [Nearly 77% parent support](/findings/design/coconut-grove-pop-up-parent-support.md)
+for permanence is not a measured attitude change or a neighborhood opinion estimate, and the experiment
+had not immediately prompted a public campaign for a permanent path. This secondary case report adds a
+school-event setting to the resident surveys below, not proof that temporary lanes alone create durable
+mode shift or political support. The organizer's volunteer and short-duration constraints help explain
+implementation challenges but are not tested causes of those outcomes.
+
 [Vertical buffers received higher comfort ratings](/findings/design/green-lanes-buffer-comfort.md) than paint-only
 buffers, and [most surveyed neighbors supported more lanes](/findings/design/green-lanes-resident-support.md),
 including car commuters. Neither comfort nor stated willingness to cycle measures subsequent adoption or injury risk.
@@ -382,6 +511,27 @@ but all three were experienced cyclists, not evidence of adoption among beginner
 care; another would not carry his child through a truck-sharing construction gap. These accounts illustrate why
 comfortable segments need not provide a usable whole journey. They complement survey evidence without estimating
 population preferences, safety effects or how many car trips lanes displaced.[^dolven2024]
+
+[Curbed's September 2025 cargo-bike interviews](/findings/design/nyc-cargo-bike-space-conflicts.md) add a
+commercial-delivery perspective: drivers report objections from cyclists in bike lanes and motorists in general
+traffic, while one feels safer in the bike lane. This illustrates competing space and speed needs, not the frequency
+of conflict or relative crash risk. The article explicitly lacks cargo-bike-specific safety and traffic data.
+Its wider-lane proposal and a driver's enthusiasm are not an evaluation; neither aggregate micromobility injury
+trends nor a secondary European delivery-speed comparison establishes NYC cargo-bike safety benefits.
+
+[amNewYork's December 2025 Blue Highways launch report](/sources/2025-amny-blue-highways-pilot.md)
+adds a proposed water-to-bike delivery chain: DutchX would start with 300–400 parcels daily from Red Hook
+to Midtown's Pier 79 by boat, then use pedal-assist bikes for local deliveries. This is announced initial
+volume, not observed throughput or trucks removed. Officials' congestion and emissions claims have no
+outcome measurements in the article. The pilot therefore complements Curbed's street-space accounts
+without resolving whether cargo-bike expansion reduces truck traffic, improves safety or requires wider lanes.
+
+[Jersey City's delivery-robot account](/findings/design/jersey-city-delivery-robot-conflict.md) extends the
+shared-space question beyond human-operated cargo bikes: secondary reporting describes a cyclist injured in a
+bike-lane collision and uncertain incident-response protocols. It supplies neither exposure nor a comparison
+with other delivery modes. A separate Hoboken sidewalk-mapping pilot is an intended planning input, not measured
+removal of accessibility barriers. Neither account establishes the effectiveness of proposed operating rules,
+wider lanes or automated mapping; those interventions require outcome evidence of their own.
 
 ## Sidewalk-riding changes are not pedestrian-safety estimates
 
@@ -662,6 +812,19 @@ but require distinguishing an investment's wider benefits from its effect on rem
     p. 51 (cycling); pp. 53–55 (transit evidence and disputes); pp. 60–64, Table 23 (density, modeling and
     recommendations). Primary studies not independently read; see Source for table inconsistencies and access scope.
 
+## Empty vehicle mileage is not a net congestion estimate
+
+[Waymo mileage reporting](/findings/operations/california-waymo-reported-empty-miles.md) adds a different
+operational denominator to Litman's congestion discussion: about 44% of California robotaxi mileage was
+reportedly empty toward the end of 2025, despite rising passenger-occupied shares and falling empty miles
+per trip. This qualifies expectations that automation alone eliminates inefficient vehicle travel, but does
+not measure net traffic or delay relative to the trips riders would otherwise take. The approximately 40%
+Uber/Lyft comparison is not matched, and two analyses of overlapping CPUC records are not independent
+confirmation. Transit's spatial-efficiency argument remains distinct from evaluated congestion relief;
+the repeated $4.6-trillion transit scenario adds no new benefit estimate.[^gitlin2026]
+
+[^gitlin2026]: Gitlin, Ars Technica (June 3, 2026), PDF pp. 2–3; primary studies not independently reviewed.
+
 ## Routing gains distinguish targeted roads from broader network effects
 
 Unlike Litman's secondary congestion comparisons, a [ten-city routing experiment](/sources/2026-routing-app-congestion-relief.md)
@@ -738,6 +901,14 @@ accuracy. None of these measures establishes a bicycle-lane or safety effect.[^h
 
 ## Bus-lane simulations are screening scenarios, not observed redesign effects
 
+[SSTI's February 2026 research coverage](/findings/operations/ssti-bus-space-recommendation-limits.md)
+adds demand-dependent allocation claims: bus space under high demand and bicycle space under moderate
+traffic. Its at-least-40% and approximately-half bus-space recommendations are not a tested optimum
+interval. Missing methods, demand thresholds and the definition of road space prevent transferring these
+figures to a corridor. The linked study was not reviewed, and the article's proposed speed/ridership
+feedback and managed access to general lanes are not observed project effects. This is different research
+from the Baku model below and does not independently confirm NYC's route-speed changes.
+
 The Baku-informed [two-lane bus-lane examples](/findings/operations/baku-bus-lane-modeled-time-comparisons.md)
 add a modeled trade-off to NYC's observed corridor times and Litman's congestion-measurement discussion.
 The authors report aggregate time decreasing from 58.6 to 57.909 hours under one demand scenario but increasing
@@ -770,6 +941,15 @@ The supplied file includes post-2015 revisions; current requirements and the res
 
 [^njdot]: NJDOT, supplied Roadway Design Manual, §15.3.3, printed pp. 15-13–15-15, and §15.3.4,
     pp. 15-19–15-20; see the Source for the partial-review and revision scope.
+
+[NPR's July 2026 pavement reporting](/sources/2026-npr-climate-road-damage.md) adds a separate maintenance
+question: interviewees explain how heat and moisture can exceed pavement design assumptions and propose
+changes to materials, reinforcement and joints. Their qualitative upfront-cost, maintenance and reliability
+tradeoffs do not price lifecycle costs or evaluate an adaptation. Reported I-97 and Chicago failures are
+incident accounts, not a quantified climate-attribution study. These accounts therefore cannot establish
+that a street redesign saves maintenance costs, cools streets or improves cycling safety.[^neuman2026]
+
+[^neuman2026]: Neuman, NPR, July 7, 2026, PDF pp. 1–5, incident reporting and engineering interviews.
 
 ## Curb-management strategies, observations and effects are different evidence
 
@@ -813,6 +993,15 @@ remain distinct from the measured outcomes.
 
 ## Daylighting design and comparison method change the safety claim
 
+[Streetsblog's July 2022 Hoboken reporting](/sources/2022-streetsblog-hoboken-zero-deaths.md) adds contemporaneous
+interviews to the later curb-management account: officials combined daylighting and curb extensions with larger
+changes during state-supported repaving. The [reported four-year zero-death record](/findings/safety/hoboken-reported-four-year-zero-deaths.md)
+is not an isolated daylighting effect. The proposed 25-to-20-mph limit followed that record, so it cannot explain
+the preceding years. The account supports an implementation example, not proof of permanent injury elimination;
+[later reported injury growth](/findings/safety/hoboken-2023-2024-reported-injury-increase.md) concerns a different
+period and nonfatal outcome. Officials themselves warned of regression and limits to transferring Hoboken's
+approach to cities without its existing urban fabric.
+
 NYC DOT's [daylighting evaluation](/sources/2025-nyc-daylighting-street-safety.md) adds injury comparisons
 beyond the curb-management report's unisolated Hoboken success account. At 189 intersections,
 [hardened installations had 0.14 fewer pedestrian injuries per intersection-year relative to nearby changes](/findings/safety/nyc-daylighting-before-after-injuries.md).
@@ -827,6 +1016,17 @@ association should be retained without converting it into proof that parking rem
 DOT's recommendation against universal sign-only daylighting and its risk-compensation explanation go
 beyond what the cross-sectional comparison alone establishes. Together, the results favor distinguishing
 physical treatments and study designs rather than calling all daylighting uniformly effective or harmful.
+
+New Jersey's [June 2025 Safer People draft](/sources/2025-new-jersey-draft-safer-people-actions.md)
+translates physical daylighting into a proposed implementation sequence: quick-build pilots where illegal
+corner parking persists, followed by permanent treatments, with crash severity and pedestrian stopping
+among suggested evaluation measures. Its crossing-design proposals also address convenient crossings,
+speed and historic investment inequities rather than relying only on pedestrian education. These are
+unfinished, unprioritized proposals, not adopted requirements or evaluated benefits. The draft repeats
+NYC's daylighting research rather than adding an independent safety test.[^njsafer2025]
+
+[^njsafer2025]: June 12, 2025 draft, pp. 1–2, draft status; pp. 6–8, crossing design; pp. 17–18,
+    physical daylighting proposals and research notes.
 
 ## Local traffic calming is not corridor travel delay
 
@@ -997,6 +1197,16 @@ expectations in the 2018 account, not measured project effects. These distinctio
 success narrative without negating the reported use and perception figures.
 
 ## Emergency access accounts and incident records answer different questions
+
+[McGuinness Boulevard's June 2023 proposal coverage](/findings/operations/mcguinness-proposed-redesign-operational-claims.md)
+adds an earlier evidentiary stage: DOT said ambulances and police could use proposed bicycle lanes, while opponents
+claimed emergency access would suffer. Neither statement measures response times or demonstrates passability.
+Likewise, the reported 30%–40% traffic-diversion forecast and separate 30%–50% expressway-shortcut share cannot
+establish observed neighborhood traffic reduction. Business opposition and supportive resident interviews document
+a dispute, not representative opinion or measured economic effects. These limits distinguish this pre-implementation
+account from the post-conversion accounts and incident records below.[^duggan2023]
+
+[^duggan2023]: Duggan (2023), PDF pp. 3–10, business and resident accounts, proposed design, diversion estimates and DOT emergency-access statement; underlying planning presentations not independently reviewed.
 
 FHWA's road-diet fact sheet adds a different operational question: can emergency vehicles pass ordinary traffic?
 Its [Ocean City case](/findings/operations/ocean-city-road-diet-emergency-access.md) describes easier passage using
