@@ -6,6 +6,18 @@ description:
   identify causes.
 tags: [safety, injuries, exposure]
 sources:
+  - id: guardianescooter2026
+    resource: /sources/2026-guardian-escooter-trauma-comparison.md
+    title: Guardian's e-scooter trauma comparison
+  - id: bbc2025
+    resource: /sources/2025-bbc-royal-london-ebike-injuries.md
+    title: BBC's Royal London Hospital e-bike injury reporting
+  - id: streetvision2026
+    resource: /sources/2026-streetsblog-streetvision-crash-prediction.md
+    title: Streetsblog's April 2026 StreetVision reporting
+  - id: nycpause2020
+    resource: /sources/2020-streetsblog-nyc-pause-speeding.md
+    title: Streetsblog's May 2020 NYC shutdown speeding report
   - id: cityfires2024
     resource: /sources/2024-the-city-ebike-battery-fires.md
     title: THE CITY's December 2024 fire-marshal-records investigation
@@ -162,6 +174,23 @@ cycling injury rates or converted into deaths avoided by a particular redesign. 
 recommendations for safer active travel and transit are distinct from quantified benefits of
 replacing car dependency, which the review did not estimate.
 
+## National pedestrian death growth is not per-trip risk
+
+[Transportation for America's 2024 report announcement](/findings/safety/us-pedestrian-death-growth-2010-2022.md)
+reports 7,522 US pedestrian deaths, 75% above 2010, in its discussion of 2022 data. This adds a national
+burden trend, not walking-exposure risk or a cyclist outcome. The same endpoint in
+[Madison's speed-limit program page](/sources/madison-20-is-plenty.md) uses a 2009 baseline and is overlapping
+background, not independent evidence. The announcement's metro rankings and demographic risk statements
+lack formulas and subgroup denominators; its road-design framing does not estimate a redesign effect.
+
+[The producer's 2026 overview](/findings/safety/us-pedestrian-deaths-2024-decline-long-term-growth.md)
+updates the series to 7,080 pedestrian deaths in 2024, down 3.9% from 2023 but still 72% above 2009.
+Recent declines do not contradict earlier growth measured over different years. This is updated,
+not independent, evidence; neither count trend estimates walking-exposure risk. The overview also
+shows why rank is not an outcome: a metro can improve its relative position while deaths increase.
+Its per-population metro chart supplies a denominator absent from the earlier announcement, but not
+walking exposure; the Source preserves an unresolved Memphis chart/prose discrepancy.
+
 ## National traffic statistics exclude some cycling injuries
 
 BTS's 2021 compendium adds [U.S. pedalcyclist traffic fatalities](/findings/safety/us-pedalcyclist-fatalities-2010-2020.md):
@@ -197,6 +226,39 @@ while restricted systems and public county/regional dashboards provided differen
 Downloadable data therefore need not support timely location-based nonfatal-injury analysis. Opening and
 geocoding records would not itself correct NJTR-1 exclusions, device coding or missing cycling exposure;
 the article evaluates no safety effect of improved access and does not establish current portal conditions.
+
+## Published severity can miss later fatal outcomes
+
+[Chicago's August 2022 browser-editor account](/findings/safety/chicago-crash-fatal-severity-updates.md)
+adds a record-update problem distinct from New Jersey's access and coverage limits. Vance describes
+manually marking crashes fatal when subsequent severity upgrades did not reach the city's public data.
+A fatal-crash search can therefore differ across extracts because of update handling, not different
+underlying events. The account supplies no affected count, correction audit or current-status evidence;
+news links and manual edits do not establish complete fatality surveillance or exposure-based risk.
+
+## Shutdown ticket and crash counts measure different things
+
+[NYC's spring 2020 shutdown reporting](/findings/safety/nyc-2020-shutdown-speeding-and-crash-counts.md)
+adds a different mismatch: camera-issued speeding tickets reportedly rose 83% across 22 weekdays relative to
+an earlier winter period, while the article separately reported collisions down 77%, injuries down 75% and
+vehicle miles traveled down 80–90%. A lower crash burden during sharply reduced travel does not establish less
+speeding or safer cycling. Ticket counts also lack camera-coverage and vehicle-passage denominators, so they
+are not speeding prevalence. Unmatched baseline definitions prevent using the reported travel decline to
+calculate a reliable crash rate. This is shutdown-era reporting, not a camera-effectiveness evaluation or a
+bicycle-lane comparison.[^nycpause2020]
+
+[^nycpause2020]: Streetsblog, May 4, 2020, PDF p. 2 (camera counts and chart), pp. 3–4 (travel, collisions and injuries).
+
+## Early toll-zone counts do not isolate a pricing effect
+
+[Manhattan's early congestion-pricing counts](/findings/safety/nyc-congestion-zone-early-crash-counts.md)
+add another short-window burden comparison: Streetsblog reports 90 crashes and 37 people injured during
+January 6–17, 2025, versus 199 and 76 in its stated comparable 2024 window. Unlike a matched risk study,
+this has no exposure denominator or outside-zone control; weather is unadjusted and the prose and chart
+caption do not consistently define comparator dates. DOT explicitly cautions against early conclusions.
+As with shutdown-era counts, fewer reported injuries do not by themselves establish safer cycling per trip.
+The later congestion-pricing air-quality and ambulance analyses concern different outcomes and cannot
+resolve these crash-specific attribution limits.
 
 ## London cycling recovery did not mean fewer cyclist casualties
 
@@ -273,7 +335,41 @@ protective-equipment recommendations remain proposed responses, not tested effec
 [^burford2024]: Burford et al. (2024), methods pp. 1366–1367; Tables 1–2 pp. 1368–1369, 1371;
     trend and diagnostic results p. 1369; discussion/limitations pp. 1372–1373. Online appendix unreviewed.
 
+### Local hospital reporting does not measure ebike risk per trip
+
+BBC's [Royal London Hospital account](/findings/safety/royal-london-ebike-case-count-limits.md) reports
+150 cases over six months in September 2025 coverage, including a seriously injured child pedestrian.
+It adds local workload and recovery accounts, not a case-defined clinical series. Missing rider/pedestrian
+breakdowns, prior-period totals and exposure prevent interpreting the tally as a measured rise in risk.
+Surgeons' observations of worse injuries at higher speeds lack measured speeds and a numerical severity
+comparison. Unlike the US diagnostic analysis above, this is interview-based reporting; neither establishes
+a general causal effect of electric assistance. Calls for regulation and Cycling UK's countervailing health
+claims remain attributed positions, not an evaluated policy benefit or harm.[^bbc2025]
+
+[^bbc2025]: BBC London, September 11, 2025, PDF pp. 2–5, cases and six-month tally; pp. 6–8,
+    clinician observations and policy debate. No underlying clinical dataset reviewed.
+
+### Device definitions do not establish which vehicles caused an injury trend
+
+[Velo's e-bike/e-moto commentary](/sources/2025-velo-ebike-emoto-injury-claims.md) adds a classification
+warning, not a class-specific injury estimate. Its reported 1,800% California incident increase from
+2018 to 2023 lacks baseline counts and vehicle specifications. The
+[attribution limitation](/findings/safety/velo-ebike-emoto-attribution-limits.md) matters separately from
+exposure: even a well-counted burden cannot be assigned to electric motorcycles without identifying
+the vehicles involved. Selected ambulance-trauma outcomes also cannot establish all-rider risk.
+Neither the surveillance studies above nor the article demonstrate that e-motos account for most cases;
+proposed marketing and enforcement changes have no measured safety effect in this coverage.
+
 ## Scooter injury severity is not injury risk per ride
+
+Guardian coverage of [English and Welsh trauma records](/findings/safety/england-wales-escooter-trauma-comparison.md)
+adds a different injury-profile comparison: more reported brain, blood-vessel and internal-organ injuries
+among e-scooter cases than motorbike cases, but fewer fractures than motorbike or bicycle cases.
+Unlike the DC mileage analysis below, the article supplies no riding-exposure denominator. It therefore
+cannot establish the headline's overall danger ranking per trip, or isolate design and helmet effects;
+the primary study was not reviewed.[^guardianescooter2026]
+
+[^guardianescooter2026]: [Guardian Source](/sources/2026-guardian-escooter-trauma-comparison.md), PDF pp. 1–2, registry comparisons and expert interpretations.
 
 A separate 2019 Washington, DC hospital study found
 [greater moderate-or-worse injury severity among road and weekly scooter riders](/findings/safety/dc-e-scooter-injury-severity-associations.md).
@@ -427,6 +523,16 @@ impact speed or an injury-risk denominator. Temporary cones are not vehicle-impa
 possible benefits to pedestrians and cyclists from slower speeds, but this short single-site pilot cannot establish
 a crash-reduction percentage or substitute for the Montreal and Toronto–Vancouver injury comparisons.[^younes2024]
 
+[StreetVision's reported telematics changes](/findings/safety/streetvision-behavior-and-prediction-limits.md)
+add faster behavior monitoring, not a validated crash-prevention effect: Streetsblog reports less hard braking
+and phone distraction after a Flagstaff roundabout conversion and less speeding after Kenmore school-zone
+cameras. Unlike a crash-outcome evaluation, these developer-centered accounts lack baseline denominators,
+comparison sites and injury outcomes. Voluntary insurance-linked data may help officials identify locations
+for attention, but neither a large sample nor short-term behavior changes establish representative coverage,
+accurate crash prediction or pedestrian and cyclist lives saved.[^streetvision2026]
+
+[^streetvision2026]: Streetsblog, April 13, 2026, PDF pp. 2–3 (participation), pp. 5–6 (local behavior changes), pp. 6–7 (proposed uses and limits).
+
 ## Short conflict observations and perceived safety are not injury rates
 
 [NCHRP's two protected-intersection pairs](/findings/safety/nchrp-protected-intersection-safety-limits.md)
@@ -569,6 +675,14 @@ restrictions and proposed SUV-free zones similarly do not establish fewer cyclis
 benefits per trip. McKerracher's warning that regulation becomes harder after large vehicles dominate
 is an interview interpretation about timing, not an evaluated intervention effect. This extends the
 policy context without changing the distinct crash-conditional findings below.
+
+[Guardian's 2026 European car-growth scenario](/findings/safety/europe-car-size-mortality-projection.md)
+adds a different question: how continued growth might compare with returning average sizes to 2015
+levels. Its reported difference is 400 vulnerable-road-user deaths annually by 2040, including 79
+children, not the 2,600 annual deaths mistakenly reported before correction (that figure is cumulative).
+This conditional projection uses prior Belgian and US research, not independent crash evidence;
+missing model detail and uncertainty intervals limit assessment. It does not isolate cyclist risk,
+evaluate the recommended size limits or taxes, or establish benefits of cycling infrastructure.
 
 ## Vehicle-occupant crash severity is not cyclist risk
 

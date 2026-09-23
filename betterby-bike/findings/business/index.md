@@ -1,5 +1,8 @@
 # Business findings
 
+- [Reported NYC Open Streets vacancy](nyc-open-streets-reported-vacancy.md): three DCP corridor comparisons and a
+  separate volunteer count, not sales growth or a causal program effect.
+
 - [Selected Phoenix and Austin home-price comparisons](phoenix-austin-reported-transit-home-prices.md): reported appreciation in accessible neighborhoods does not isolate a transit premium.
 
 - [Chicago transit-removal economic accounting](chicago-transit-removal-economic-accounting.md): conditional

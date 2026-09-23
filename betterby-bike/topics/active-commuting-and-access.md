@@ -15,6 +15,17 @@ Historical U.S. commuting evidence challenges the idea that walking and cycling 
 activities. It does not establish whether people have good transport choices or how the benefits of new
 infrastructure would be distributed.
 
+## Usable alternatives and changing habits are different questions
+
+[Slate's commuting-intervention review](../findings/networks/commuting-intervention-timing-reported.md)
+adds mixed behavioral evidence to the population shares below: workplace commuting tools reportedly
+failed, while free transit for recent movers or job changers and information before UCLA student arrival
+reportedly increased transit use. Different programs and populations do not establish a causal ranking
+of timing strategies, and the article supplies no effect sizes or persistence estimates. These are not
+measured cycling gains. Zipper's proposed transit/bikeshare welcome packages remain proposals; Clark's
+recommendation to combine behavioral support with good alternatives does not make safe routes or
+frequent service optional. Aggregate commute shares cannot identify these habit-change mechanisms.
+
 ## Funding votes do not establish delivered access
 
 [Reported 2024 U.S. transit ballot results](../findings/access/us-2024-reported-transit-ballot-approvals.md)
@@ -47,6 +58,14 @@ or reduced participation. The article's exact trip/distance denominators and und
 remain unreviewed. Wang's recommendation to improve nearby destinations and transit is consistent with
 the access question, but is not an evaluated effect. Neither historical licensing trends nor current
 ownership preferences establish that young people have usable alternatives.
+
+[SSTI's coverage of Fung et al.'s 2001–2022 NHTS analysis](../findings/access/us-youth-personal-travel-vmt-reported.md)
+adds a different age group and period: its chart covers ages 15–29, with reported personal mileage
+41% lower in 2022 than 2017 despite roughly unchanged youth VMT in the prose. Missing VMT denominators
+prevent reconciliation; personal mileage is not vehicle mileage. Realtor.com's housing coverage repeats
+this same UCLA study rather than confirming it independently. Together these accounts reinforce the
+need to separate trip frequency, personal distance and driving distance before inferring active-travel
+substitution, without establishing that fewer outings improved access.
 
 ## Social participation is a separate outcome
 
@@ -129,6 +148,22 @@ data methods, so it does not establish present conditions or independent confirm
 Its call to target green infrastructure toward flood-prone housing communities is a planning judgment, not measured
 flood protection or transport-access improvement. It does not locate carless households within those communities.
 
+## Assistance and pricing affect usable bikeshare access
+
+[Streetsblog's July 2025 Citi Bike interviews](../sources/2025-streetsblog-citi-bike-speed-cap.md) add
+service-quality concerns to the distinction between shared-fleet use and usable access. A rider who relied
+on electric assistance after serious illness described the 18-to-15-mph cap reduction as making riding in
+motor traffic feel less safe. Other riders also expressed discomfort, but selected accounts do not establish
+increased crash risk, widespread dissatisfaction or actual membership losses.
+
+Minute-based pricing creates a possible cost consequence distinct from safety: the article's hypothetical
+six-mile trip takes 20 versus 24 minutes if average speed equals the respective cap, increasing the time
+charge by 20%. Real journeys include stops and lower-speed segments; its quoted dollar totals also exceed
+the stated rate's simple calculation without explanation. Neither the illustration nor a researcher's
+prediction of reduced attractiveness measures actual fares, ridership change or equitable access. The
+reporting supports considering assistance, comfort and pricing together, not a conclusion about which
+cap is safest or how many users were excluded.
+
 ## Transit coverage and usable service differ
 
 [Schmitt's 2026 Wheeling accounts](../findings/access/wheeling-reported-sidewalk-transit-gaps.md)
@@ -147,6 +182,40 @@ unattractive, despite a longer station walk. His prediction that a bus lane woul
 from roughly 60% to 100% is hypothetical, not measured mode shift. This complements the Seattle account
 below without establishing how common either constraint is. The bus-lane proposal supplies no evaluated
 travel-time, equity or congestion benefit, and its international examples cannot quantify Bay Bridge effects.
+
+[Sixth Tone's May 2025 Shanghai reporting](../sources/2025-sixth-tone-shanghai-customized-buses.md)
+adds an implemented response to route gaps: residents propose customized buses, typically requiring
+15–20 passengers per trip to launch. More than 220 routes reportedly existed across all 16 districts;
+this is not a count of routes created by the platform opened the previous day. Unlike the Wheeling
+and Transbay accounts, this describes a way to aggregate requests, not just a service constraint.
+Demand thresholds and market fares without student or senior discounts mean customization alone does
+not establish equitable access. An operator's reported DZ301 daily flow of 250–260 people lacks a
+counting period and unique-rider definition, so it cannot show new transit users or reduced driving.
+Officials acknowledge uneven demand, low awareness and manual planning; neither faster approval nor
+better resource use is evaluated. No bicycle-access effect is measured.
+
+[Swan's May 2026 BART reporting](../sources/2026-sf-chronicle-bart-fare-gates.md) adds station entry as a
+separate access question. Faster-closing gates were being tested to prevent tailgating, but BART had not
+collected or shared piggybacking data. A laboratory demonstration and one unstruck scooter rider do not
+establish reduced evasion or safe passage for people with bicycles or mobility aids. Reported maintenance
+savings concerned the earlier gate installation, not the faster-closing upgrade. Route availability and
+station security claims therefore remain distinct from demonstrated accessible entry.
+
+## Stop inventories and maintenance affect usable access
+
+[Next City's March 2026 reporting](../sources/2026-next-city-bus-stop-data.md) adds a distinction between
+having nearby transit and being able to approach and wait at a stop. An
+[MBTA inventory](../findings/access/mbta-reported-stop-accessibility-inventory.md) reportedly identified
+280 completely inaccessible stops among roughly 7,000 and led to remediation of most, including attention
+to adjacent crossings and curb ramps. This adds an implementation account to the older-adult amenity
+concerns below, not independent evidence about transit participation or a measured rider-access gain.
+
+The same reporting describes NYC snow-clearance tracking and rider feedback informing Santa Monica
+cleaning and Vancouver lighting priorities. These accounts show why maintenance and divided municipal
+responsibility matter alongside service coverage. Proposed GTFS amenity fields could help share information,
+but were still early-stage at publication; LA Metro's reportedly nonpublic stop analysis illustrates that
+collecting data does not guarantee public access or operational use. Neither inventories nor a common data
+format establish equitable improvements, completed trips or substitution away from driving.
 
 ## Cycling can conceal poor alternatives
 
@@ -266,6 +335,14 @@ reports such stops among 23% of Black past-year riders and 14% of Hispanic rider
 for cycling exposure or independently establish why stops occurred. Theft and storage concerns in the
 same report further distinguish possessing a bicycle from being able to rely on it.
 
+[Streetsblog's June 2025 Brooklyn rider interview](../sources/2025-streetsblog-brooklyn-cyclist-double-summons.md)
+adds a different kind of enforcement evidence: one e-bike user's account of a criminal red-light summons
+plus a disputed $190 pedestrian-yield ticket during a work trip. She anticipated losing a workday to
+court despite relying on the bicycle for work and school transport. Unlike the New Jersey survey,
+this is a single incident with no prevalence denominator or adjudicated outcome. It illustrates a
+potential time and money burden beyond route availability, not measured cycling deterrence,
+discrimination or the safety effects of enforcement.
+
 The [reported 77% preference for a lane on one's street](../findings/access/nj-bicycle-lane-stated-preferences.md)
 coexists with practical constraints and doubts that lanes alone would change travel. It concerns unspecified
 bicycle lanes, not the protected treatment advocated in the recommendations. Unlike observed commuting,
@@ -352,6 +429,13 @@ repeats this model under a $6.2 trillion headline, rather than independently con
 Kevin Shen's interview illustrates retaining some driving while shedding a second car or substituting
 e-bike trips. Those examples explain the proposed choices, not observed uptake, household cash savings
 or equitable access; the article's pocketbook language should not erase depreciation or investment costs.
+
+Maryland's [reported RMI scenario](../findings/access/maryland-reported-mode-shift-savings.md) adds
+an annual state household estimate: over $3,000 in fuel, maintenance and depreciation savings if
+climate and mode-shift goals are achieved. Coalition coverage does not supply the scenario year,
+reference case or full alternative-travel costs. This is not observed savings from the proposed
+TCA Act or governor's executive order, and cannot be added to UCS's national cumulative total.
+Neither supportive institutional testimony nor modeled average savings establishes equitable access.
 
 Streetsblog's [Transportation for America coverage](../sources/2026-streetsblog-world-class-transit.md)
 adds a different [conditional ownership-savings scenario](../findings/access/us-transit-moonshot-ownership-savings.md):
@@ -497,12 +581,31 @@ road-designed scooter placed him outside the No-Fault Act's pedestrian definitio
 This is a dated holding about that scooter and policy, not a ruling on every pedal-assist bicycle or proof of
 current coverage. It measures neither treatment access nor premium effects.
 
+[KYW's coverage of the same ruling](../sources/2024-kyw-new-jersey-scooter-pip.md) adds an insurance-industry
+representative's prediction of premiums in the hundreds of dollars per month if eligibility expanded,
+without pricing evidence or specified policy terms. His suggested medical-insurance or at-fault-driver
+coverage alternatives are conditional, not guaranteed recovery. This interview adds a stakeholder perspective,
+not an independent legal result or evidence that broader benefits would cause those costs. The article's
+broad e-bike framing should not extend the scooter-specific holding to every pedal-assist configuration.
+
 Epstein's August 2026 commentary on [pedestrian PIP coverage in Boone](../findings/access/new-jersey-boone-pedestrian-pip.md)
 reports required medical benefits for an uninsured pedestrian struck by a Lyft driver carrying a passenger.
 Unlike e-bike operating requirements, this concerns access to benefits after a crash, not permission to travel.
 The author's argument for prompt treatment is a policy position, not a measured improvement in care, affordability
 or safety. The underlying ruling was not reviewed, and the account cannot establish coverage for cyclists or all
 rideshare activity states. Neither legal account measures whether people can reach destinations safely or affordably.
+
+## Central-city shares do not describe the whole region
+
+[Euronews's Paris survey coverage](../findings/networks/paris-reported-travel-shares.md) reports
+11.2% cycling versus 4.3% driving for central-city trips, with walking and transit still dominant.
+But cars accounted for 61% of trips within more distant suburbs, while transit led journeys between
+those suburbs and Paris. A central-city cycling headline therefore does not describe region-wide
+transport choices. These are trip shares from reported GPS/journal research, not commute-only shares
+or shares of residents who cycle. Unlike the Copenhagen denominator contrasts below, this account
+also distinguishes journeys within suburbs from journeys linking them to the core. Missing fieldwork
+dates, precise boundaries and reviewed primary methods limit comparison; concurrent investment and
+car restrictions do not establish a causal policy effect or equitable access gains.
 
 ## Count the travel relevant to the question
 

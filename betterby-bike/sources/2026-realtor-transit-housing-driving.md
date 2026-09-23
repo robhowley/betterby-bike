@@ -40,6 +40,12 @@ researcher Merrina Zhang's comments on accessible transit. It is not an evaluati
 
 ## Interpretation and coverage reconciliation
 
+[SSTI's September 2025 coverage](2025-ssti-declining-travel.md) reports the same UCLA research and
+national per-capita figures, so the two accounts are not independent evidence. SSTI's chart identifies
+ages 15–29 and personal miles traveled (PMT), while Realtor.com calls the 19% change vehicle travel.
+The [PMT/VMT Finding](/findings/access/us-youth-personal-travel-vmt-reported.md) preserves this distinction
+and the unresolved VMT denominator rather than treating personal travel declines as driving reductions.
+
 Conte attributes limited construction to land-use and zoning constraints and presents Austin zoning changes as a
 response, but supplies no completed-housing or household-affordability evaluation. Her “over $12,000” car-cost
 figure links to AAA's **2023** estimate, already represented in the

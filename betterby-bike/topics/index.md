@@ -1,5 +1,108 @@
 # Topics
 
+[Scooter trauma profiles](cycling-injury-risk.md#scooter-injury-severity-is-not-injury-risk-per-ride) distinguish
+reported English/Welsh injury comparisons from exposure-based risk.
+
+[Device classification and injury attribution](cycling-injury-risk.md#device-definitions-do-not-establish-which-vehicles-caused-an-injury-trend)
+distinguishes e-moto marketing concerns from evidence identifying vehicles in reported injury totals.
+
+[Local e-bike hospital reporting](cycling-injury-risk.md#local-hospital-reporting-does-not-measure-ebike-risk-per-trip)
+distinguishes Royal London's reported caseload and clinician observations from comparative injury risk.
+
+[Youth trips, personal mileage and driving](active-commuting-and-access.md#lower-youth-licensing-need-not-mean-less-driving-distance)
+distinguishes different travel measures and repeated UCLA reporting from demonstrated active-travel substitution.
+
+[Commuting habits and usable alternatives](active-commuting-and-access.md#usable-alternatives-and-changing-habits-are-different-questions)
+distinguishes mixed behavioral intervention reports from population commute shares and cycling benefits.
+
+[Reduced-driving scenarios and access](active-commuting-and-access.md#reduced-driving-scenarios-are-not-observed-access-gains)
+distinguishes Maryland's reported annual household savings from national cumulative estimates and observed access gains.
+
+[AV approval and street-safety governance](street-redesign-outcomes.md#leadership-guidance-is-not-a-delivery-evaluation)
+distinguishes proposed safety and compensation standards, New Jersey pilot safeguards and disputed access
+tradeoffs from measured injury reductions.
+
+[Ulez pollution comparisons](street-redesign-outcomes.md#pollution-source-shares-are-not-measured-redesign-benefits)
+distinguish exhaust emissions, deprived-community exposure and overlapping NO2 reporting from health effects.
+
+[Enforcement and usable cycling access](active-commuting-and-access.md#reported-barriers-extend-beyond-having-a-nearby-route)
+distinguishes a Brooklyn rider's anticipated court/work costs from population barriers or measured deterrence.
+
+[Smart Curbs implementation accounting](street-redesign-outcomes.md#curb-management-strategies-observations-and-effects-are-different-evidence)
+distinguishes new paid parking from reassigned paid spaces, delayed facilities and unmeasured benefits.
+
+[Reported Bloor West delays](street-redesign-outcomes.md#reported-delay-increases-need-a-counterfactual)
+retain adverse travel-time changes without attributing them solely to lanes or dismissing them as pandemic recovery;
+Strong Towns' broader access objectives do not establish that delays never increase.
+
+[NYC micromobility behavior comparisons](street-redesign-outcomes.md#sidewalk-riding-changes-are-not-pedestrian-safety-estimates)
+distinguish lower sidewalk use beside protected lanes and worker red-light compliance from causal lane effects or injury
+risk.
+
+[National pedestrian death growth](cycling-injury-risk.md#national-pedestrian-death-growth-is-not-per-trip-risk)
+distinguishes overlapping national counts, recent declines amid long-term growth and relative rankings
+from walking-exposure risk and evaluated design effects.
+
+[Retaining infrastructure after delivery](street-redesign-outcomes.md#leadership-guidance-is-not-a-delivery-evaluation)
+distinguishes DC's reported federal removal dispute from legal findings and evaluated removal effects.
+
+[London cycling stages and network expansion](street-redesign-outcomes.md#resident-panels-can-distinguish-activity-changes-from-route-counts)
+distinguishes citywide growth and network proximity from unique riders, usable access and isolated infrastructure effects.
+
+[Central-city and suburban travel shares](active-commuting-and-access.md#central-city-shares-do-not-describe-the-whole-region)
+distinguishes reported Paris trip patterns from region-wide access and causal policy effects.
+
+[Perceived crime and incident counts](street-redesign-outcomes.md#perceived-crime-is-not-a-count-of-incidents)
+distinguishes British longitudinal survey reporting from recorded crime and evaluated street-treatment effects.
+
+[Road-repair funding and condition comparisons](street-redesign-outcomes.md#design-guidance-is-not-an-outcome-evaluation)
+distinguish annual maintenance estimates and repair-first proposals from backlog budgets and evaluated redesign savings.
+
+[Early toll-zone crash counts](cycling-injury-risk.md#early-toll-zone-counts-do-not-isolate-a-pricing-effect)
+distinguish short-window injury declines from exposure-based risk and causal congestion-pricing effects.
+
+[Pollution measures and intervention evidence](street-redesign-outcomes.md#pollution-source-shares-are-not-measured-redesign-benefits)
+distinguishes reported NYC congestion-pricing concentration changes, London modeled emission mass and revised
+pollution-attributable mortality estimates from isolated policy effects.
+
+[Stop inventories and maintenance](active-commuting-and-access.md#stop-inventories-and-maintenance-affect-usable-access)
+distinguishes accessible approaches and maintained stops from nearby service and proposed data standards.
+
+[Bikeshare assistance and pricing](active-commuting-and-access.md#assistance-and-pricing-affect-usable-bikeshare-access)
+distinguishes Citi Bike rider accounts and hypothetical time charges from measured safety, fares and access losses.
+
+[School-circulation trial announcements](street-redesign-outcomes.md#announced-infrastructure-is-not-a-measured-safety-outcome)
+separates Maplewood's timed traffic plan from measured crossing safety and active travel.
+
+[Published crash-severity updates](cycling-injury-risk.md#published-severity-can-miss-later-fatal-outcomes)
+distinguishes Chicago's editor-described fatal corrections from access gaps, reporting exclusions and quantified
+undercount.
+
+[Climate policy and transport carbon comparisons](street-redesign-outcomes.md#climate-targets-are-not-project-emissions-results)
+separates proposed federal rollback, local-action advocacy and secondary emissions factors from measured project
+benefits.
+
+[Aggregate driving and remote work](street-redesign-outcomes.md#aggregate-driving-trends-do-not-identify-remote-work-effects)
+separates national and metro trends from causal worker or street-project effects.
+
+[Tire chemicals and pollution outcomes](street-redesign-outcomes.md#pollution-source-shares-are-not-measured-redesign-benefits)
+distinguishes reported aquatic toxicity and regulatory processes from PM mass estimates and measured redesign benefits.
+
+[Storefront occupancy and business effects](street-redesign-outcomes.md#storefront-occupancy-is-not-sales-growth-or-a-causal-program-effect)
+distinguishes reported vacancy comparisons from sales, profits and causal Open Streets benefits.
+
+[General attitudes and local support](street-redesign-outcomes.md#comfort-support-and-correct-use-are-different-outcomes)
+distinguishes reported driving-harm acceptance from project preferences, behavior and evaluated policy effects.
+
+[Behavior monitoring and injury outcomes](cycling-injury-risk.md#behavior-is-not-an-injury-outcome) distinguishes
+StreetVision's reported driving changes from validated crash prediction and prevention.
+
+[Station entry and usable transit](active-commuting-and-access.md#transit-coverage-and-usable-service-differ) separates
+BART's faster fare-gate trials from evaluated evasion reduction and accessible passage.
+
+[Shutdown speeding and crash counts](cycling-injury-risk.md#shutdown-ticket-and-crash-counts-measure-different-things)
+distinguishes NYC's 2020 detected violations and all-user crash burden from speeding prevalence and cyclist risk.
+
 [Bus-space allocation and demand](street-redesign-outcomes.md#bus-lane-simulations-are-screening-scenarios-not-observed-redesign-effects) separates SSTI's secondary recommendations from transferable thresholds and observed bus-priority outcomes.
 
 [Barrier trials and implementation claims](street-redesign-outcomes.md#announced-infrastructure-is-not-a-measured-safety-outcome) distinguishes Boston's installed separators and planned islands from evaluated durability, safety and delivery-time gains.
@@ -13,14 +116,20 @@
 [School-event participation and support](street-redesign-outcomes.md#comfort-support-and-correct-use-are-different-outcomes) distinguishes Miami's reported bike-bus traffic and parent attitudes from lasting mode shift and permanent infrastructure.
 
 [Vehicle sales and cycling risk](cycling-injury-risk.md#growing-suv-sales-do-not-quantify-cyclist-risk-or-policy-benefits) distinguishes global SUV sales and regulatory responses from crash risk and evaluated safety benefits.
+The same synthesis treats conditional European mortality projections as separate from observed crash risk and evaluated
+safety benefits.
 
 [Neighborhood bicycle counts](street-redesign-outcomes.md#added-counts-can-include-existing-riders-changing-routes) now distinguish Cambridge's reported Garden Street growth from net new cycling and reduced driving.
+The same comparison includes Brooklyn Bridge's monthly daily averages, which do not establish net new cycling or an
+isolated lane effect.
 
 [New Jersey crash-data interpretation](cycling-injury-risk.md#new-jersey-reporting-rules-separate-coverage-from-device-classification) separates historical public-access and geocoding gaps from reporting exclusions and device coding.
 
 [Reduced-driving scenarios](active-commuting-and-access.md#reduced-driving-scenarios-are-not-observed-access-gains) distinguishes Streetsblog's repeated UCS projections and interview examples from measured uptake, cash savings and equitable access.
 
 [Policy commitments and delivered benefits](street-redesign-outcomes.md#eligible-funding-is-not-cycling-expenditure-or-delivered-benefits) distinguishes Complete Streets policy scores from state adoption counts, implementation and measured safety.
+It also treats recommended implementation provisions and NJTPA planning assistance as distinct from direct grants,
+delivered projects and measured safety.
 
 [Parking prices and access](active-commuting-and-access.md#parking-prices-do-not-establish-equitable-access) separates Berkeley's reported fee changes and planned payment options from measured affordability or mode-shift effects.
 
@@ -33,6 +142,8 @@
 [Empty vehicle mileage and congestion](street-redesign-outcomes.md#empty-vehicle-mileage-is-not-a-net-congestion-estimate) distinguishes reported Waymo operational overhead from net traffic effects and repeated transit scenarios.
 
 [Street-redesign outcomes](street-redesign-outcomes.md) now distinguishes delivery-robot incident reporting and proposed sidewalk mapping from evaluated accessibility or safety improvements.
+It separately records mapping partnerships, reported curb-ramp coordination and projected fee revenue, none of which
+establishes delivery outcomes.
 
 [Funding votes and delivered access](active-commuting-and-access.md#funding-votes-do-not-establish-delivered-access) distinguishes reported 2024 transit ballot success from national opinion, project completion and equitable access gains.
 
@@ -41,6 +152,8 @@
 [Reduced-driving scenarios](active-commuting-and-access.md#reduced-driving-scenarios-are-not-observed-access-gains) now distinguish Transportation for America's reported transit-expansion savings from UCS modeling, observed savings and direct access measures.
 
 [Transit coverage and destination access](active-commuting-and-access.md#transit-coverage-and-usable-service-differ) now includes Wheeling's reported sidewalk and service gaps, distinct from national transit-use prevalence and evaluated funding benefits.
+It also contrasts those gaps with Shanghai's resident-proposed routes, demand thresholds and fare constraints, none of
+which establishes evaluated access gains.
 
 [Rail use and bicycle access](active-commuting-and-access.md#rail-bicycle-service-is-not-the-same-as-a-usable-itinerary) separates reported Amtrak passenger growth from bicycle carriage, usable itineraries and demonstrated mode shift.
 
@@ -191,8 +304,9 @@ net benefits, preserving non-restaurant uncertainty and population/permitted-fle
 also distinguishes DC's abstract-reported intersection share and leading crash types from risk per encounter.
 
 [Street redesign outcomes](street-redesign-outcomes.md#pollution-source-shares-are-not-measured-redesign-benefits)
-also distinguishes review-reported particulate source shares and conditional London non-exhaust mode-shift
-scenarios from measured pollution/exposure changes, cycling-project effects and net policy returns.
+also distinguishes review-reported particulate source shares, reported tyre/exhaust mass comparisons and
+conditional London non-exhaust mode-shift scenarios from measured pollution/exposure changes,
+cycling-project effects and net policy returns.
 
 [Cycling injury risk](cycling-injury-risk.md#right-turn-permission-does-not-identify-the-signal-during-a-crash)
 now distinguishes RTOR-permitted locations from confirmed red-signal crashes, and crash shares from policy effects.
@@ -252,7 +366,9 @@ now also distinguishes measured ground visibility across vehicle generations fro
   observations, not corridor delay estimates; Copenhagen's reported per-kilometre valuations are not measured
   project returns, and its spending shares and perceived safety are not incremental sales or injury effects;
   CBC adds later Bloor reporting and project jobs per dollar, not independent confirmations of repeated retail evidence;
-  Urban Institute adds construction and connectivity measures, not measured travel or safety benefits; NYC DOT's
+  Queensboro Bridge reporting adds fencing installation for a planned pedestrian roadway, not completed access
+  or evaluated separation benefits; Urban Institute adds construction and connectivity measures, not measured
+  travel or safety benefits; NYC DOT's
   East New York announcement likewise distinguishes implementation and intended beneficiaries from evaluated outcomes;
   Boston adds mixed short-window corridor counts and experienced riders' accounts, not measured beginner adoption;
   Business Insider adds mixed San Francisco business results and Los Angeles arrival-denominator distinctions,
@@ -292,7 +408,8 @@ now also distinguishes measured ground visibility across vehicle generations fro
   distinguishes mileage-dependent ownership averages from costs avoided by replacing trips; historical June 2025 New Jersey
   e-bike reporting distinguishes administrative requirements and municipal restrictions from current legal advice or
   measured access benefits; Boone commentary distinguishes reported post-crash medical-benefit eligibility from
-  verified legal coverage and measured treatment outcomes; Washington's method-dependent travel-mile estimates
+  verified legal coverage and measured treatment outcomes; KYW's Goyco interview separates industry premium
+  predictions from measured costs and the scooter-specific holding; Washington's method-dependent travel-mile estimates
   distinguish all-purpose mileage from commute shares and expose count-sampling and annualization limits; London
   adds diverging trip/distance indicators and differing survey profiles, not a uniform measure of cycling access;
   NABSA's shared-fleet recovery, user representation and mode replacement distinguish ridership from driving

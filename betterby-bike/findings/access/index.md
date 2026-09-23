@@ -1,5 +1,14 @@
 # Access findings
 
+- [US youth personal travel and vehicle miles](us-youth-personal-travel-vmt-reported.md): reported 2017–2022 PMT decline
+  is not an equivalent VMT decline or demonstrated active-travel substitution.
+
+- [Maryland's reported mode-shift savings](maryland-reported-mode-shift-savings.md): conditional average annual
+  vehicle-cost savings, with missing scenario and net-cost details.
+
+- [MBTA's reported stop-accessibility inventory](mbta-reported-stop-accessibility-inventory.md): 280 completely
+  inaccessible stops identified, most reportedly remedied, without exact completion counts or measured rider benefits.
+
 - [Reported US youth driving trips and distance](us-youth-driving-trips-distance-reported.md): 2009–2017 trips fell while distance rose; lower licensing does not establish active-travel substitution.
 
 - [Reported 2025 new-car ownership costs](us-new-car-ownership-cost-2025-reported.md): $11,577 annually at 15,000 miles, including depreciation; vehicle-category differences are not measured cycling savings.

@@ -1,5 +1,10 @@
 # Design findings
 
+- [NYC delivery-worker red-light behavior](nyc-delivery-worker-red-light-behavior.md): more reported waiting for green,
+  not measured injury risk.
+- [NYC micromobility infrastructure comparisons](nyc-micromobility-infrastructure-behavior.md): lower sidewalk use
+  beside protected lanes alongside mixed speed and compliance patterns.
+
 - [Coconut Grove parent support for a permanent lane](coconut-grove-pop-up-parent-support.md): nearly 77% in a reported post-event survey, with no baseline attitudes or representative neighborhood sample established.
 
 - [Jersey City delivery-robot conflict](jersey-city-delivery-robot-conflict.md): reported cyclist injury and proposed accessibility safeguards, not measured risk or evaluated mapping benefits.

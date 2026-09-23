@@ -1,5 +1,149 @@
 # Sources
 
+- [Guardian’s e-scooter trauma comparison (2026)](2026-guardian-escooter-trauma-comparison.md): English/Welsh registry
+  injury profiles, not per-trip danger rankings.
+
+- [KYW's New Jersey scooter PIP reporting (2024)](2024-kyw-new-jersey-scooter-pip.md): Goyco follow-up interview with
+  unsupported premium predictions, not another legal result.
+
+- [Velo's e-bike and e-moto commentary (2025)](2025-velo-ebike-emoto-injury-claims.md): classification and regulatory
+  arguments without class-specific injury attribution.
+
+- [BBC's Royal London e-bike injury reporting (2025)](2025-bbc-royal-london-ebike-injuries.md): local hospital caseload
+  and regulation debate, without comparative per-trip risk.
+
+- [SSTI's declining-travel coverage (2025)](2025-ssti-declining-travel.md): national VMT and youth personal-travel
+  changes, with unresolved PMT/VMT denominators.
+
+- [Slate's commuting-habits review (2024)](2024-slate-commuting-habits.md): mixed intervention reports and life-change
+  timing, not quantified cycling benefits.
+
+- [America Is All In's Maryland transportation account (2025)](2025-america-is-all-in-maryland-transportation.md):
+  coalition advocacy, executive-order directives and conditional household savings, not evaluated policy effects.
+
+- [New Jersey Monitor's driverless pilot-bill reporting (2026)](2026-nj-monitor-driverless-pilot-bill.md): pending
+  testing safeguards and disputed access and insurance provisions, not evaluated safety outcomes.
+
+- [Streetsblog's AV governance commentary (2026)](2026-streetsblog-av-safety-governance.md): proposed domain-specific
+  approval safeguards and victim compensation, not evaluated safety benefits.
+
+- [Guardian's Ulez expansion coverage (2025)](2025-guardian-ulez-expansion-air-quality.md): reported exhaust and
+  exposure comparisons, with unresolved NO2 baseline wording across overlapping coverage.
+
+- [Streetsblog's Brooklyn double-summons reporting (2025)](2025-streetsblog-brooklyn-cyclist-double-summons.md):
+  disputed enforcement incident and anticipated court/work costs, not adjudicated misconduct or measured deterrence.
+
+- [Streetsblog's Queensboro pedestrian-path reporting (2024)](2024-streetsblog-queensboro-pedestrian-path.md): fencing
+  installation and delayed separation, not completed access or measured safety benefits.
+
+- [Streetsblog's Upper West Side Smart Curbs reporting (2024)](2024-streetsblog-upper-west-side-smart-curbs.md):
+  proposed parking conversions, reassigned paid spaces and delayed microhubs, not evaluated curb-management benefits.
+
+- [NYC DOT's Brooklyn Bridge count announcement (2021)](2021-nyc-dot-brooklyn-bridge-ridership.md): automated monthly
+  bicycle volumes after conversion, not net new cycling or isolated lane effects.
+
+- [Strong Towns' congestion commentary (2024)](2024-strong-towns-congestion-wrong-question.md): access-first evaluation
+  arguments, secondary examples and limits on capacity and congestion claims.
+
+- [CBC's bike-lane congestion review (2024)](2024-cbc-bike-lanes-congestion.md): reported Bloor West delays and disputed
+  attribution, with repeated NYC evidence and a qualified benefits claim.
+
+- [Streetsblog's congestion-pricing legal memo reporting (2025)](2025-streetsblog-congestion-pricing-legal-memo.md):
+  federal attorneys' doubts and funding threats, not a court ruling or measured transportation effects.
+
+- [Streetsblog's delivery-worker behavior coverage (2026)](2026-streetsblog-delivery-worker-behavior.md): observed
+  worker and lane-type comparisons, not crash-risk rankings or causal infrastructure effects.
+
+- [Guardian's London air-pollution mortality coverage (2026)](2026-guardian-london-air-pollution-deaths.md): revised
+  2019–2024 attributable-death estimates, not isolated Ulez effects.
+
+- [Smart Growth America's Dangerous by Design overview (2026)](2026-smart-growth-america-dangerous-by-design.md):
+  updated pedestrian counts, disparities and ranking caveats, not independent design-effect evidence.
+
+- [Transportation for America's Dangerous by Design announcement (2024)](2024-t4america-dangerous-by-design.md):
+  national pedestrian death growth and metro rankings, not per-trip risk or a design effect.
+
+- [Streetsblog's DC bike-lane lawsuit reporting (2026)](2026-streetsblog-dc-bike-lane-lawsuit.md): federal removal plans
+  and participation concerns, not a court ruling or evaluated removal effects.
+
+- [IanVisits's London cycling growth (2024)](2024-ianvisits-london-cycling-growth.md): reported TfL stage growth and
+  network expansion, not isolated infrastructure effects.
+
+- [Euronews's Paris travel shares (2024)](2024-euronews-paris-travel-shares.md): reported central-city cycling and
+  suburban travel contrasts, not causal policy effects.
+
+- [Leeds' traffic and crime-perception coverage (2026)](2026-leeds-traffic-crime-perceptions.md): longitudinal
+  perceived-crime reporting, not counted incidents or a quantified street-treatment effect.
+
+- [Next City's delivery-robot sidewalk funding (2026)](2026-next-city-delivery-robot-sidewalk-funding.md): earmarked
+  robot fees, projected revenue and reported curb-ramp coordination, not evaluated accessibility gains.
+
+- [Transportation Today's MUTCD study request (2024)](2024-transportation-today-mutcd-study-request.md): congressional
+  concerns about engineering discretion, not a completed safety study or changed standard.
+
+- [Streetsblog's road-repair priorities coverage (2026)](2026-streetsblog-road-repair-priorities.md): reported federal
+  funding and road conditions, with accounting limits and repair-first advocacy.
+
+- [Streetsblog's early toll-zone crash counts (2025)](2025-streetsblog-congestion-zone-crash-counts.md): lower
+  short-window crashes and injuries, with unresolved comparator dates and no causal pricing estimate.
+
+- [Cornell's NYC congestion-pricing air-quality coverage (2025)](2025-cornell-congestion-pricing-air-quality.md):
+  reported monitored-data PM2.5 reductions against a modeled baseline, not measured health benefits.
+
+- [Streetsblog's EPA endangerment-finding commentary (2025)](2025-streetsblog-endangerment-finding-commentary.md):
+  proposed federal rollback and local multimodal advocacy, not an enacted repeal or measured emissions effects.
+
+- [Next City's bus-stop data reporting (2026)](2026-next-city-bus-stop-data.md): accessibility inventories, maintenance
+  tracking and proposed amenity standards, not evaluated rider outcomes.
+
+- [Streetsblog's Citi Bike speed-cap reporting (2025)](2025-streetsblog-citi-bike-speed-cap.md): rider access and
+  comfort accounts plus a hypothetical fare increase, not measured safety or ridership effects.
+
+- [Maplewood's CHS circulation plan (2025)](2025-maplewood-chs-circulation-plan.md): timed school drop-off trial and
+  map, not measured safety or active-travel effects.
+
+- [Vance's Chicago Crash Browser update (2022)](2022-vance-chicago-crash-browser.md): tool access and manual
+  fatal-severity corrections, not a completeness audit or safety evaluation.
+
+- [Statista's passenger transport carbon footprints (2024)](2024-statista-passenger-transport-carbon-footprint.md):
+  secondary per-passenger emissions comparison with unspecified occupancy and accounting boundaries.
+
+- [Guardian's carspreading projections (2026)](2026-guardian-carspreading-projections.md): conditional European
+  vehicle-growth mortality and parking estimates, with annual/cumulative correction.
+
+- [Streetsblog's post-pandemic driving coverage (2024)](2024-streetsblog-post-pandemic-driving.md): national and metro
+  mileage growth, not a causal remote-work or street-redesign effect.
+
+- [Guardian's tyre-particle tests (2022)](2022-guardian-tyre-particle-tests.md): reported tyre/exhaust mass contrast,
+  not an airborne-exposure or health-risk multiplier.
+
+- [Slate's tire-chemical reporting (2023)](2023-slate-tire-pollution-6ppd.md): aquatic toxicity and EPA petition
+  response, not an enacted ban or quantified human-health benefit.
+
+- [Litman's mobility-productivity commentary (2025)](2025-streetsblog-mobility-productivity-commentary.md): regional
+  correlations and cost illustrations, not causal road, parking or bikeway effects.
+
+- [Gelinas's car-dominance essay (2025)](2025-streetsblog-car-dominance-commentary.md): street-space and empty-lane
+  arguments, not measured throughput or independent attitude evidence.
+
+- [Streetsblog's Open Streets vacancy coverage (2024)](2024-streetsblog-open-streets-vacancies.md): selected corridor
+  occupancy comparisons and volunteer accounts, not causal business gains.
+
+- [Streetsblog's windshield-bias coverage (2024)](2024-streetsblog-windshield-bias.md): US/British driving-harm attitude
+  contrasts and researcher interpretations, not evaluated policy effects.
+
+- [Streetsblog's StreetVision reporting (2026)](2026-streetsblog-streetvision-crash-prediction.md): developer accounts
+  of telematics and behavior changes, not validated crash prediction or prevention.
+
+- [Chronicle's BART fare-gate trials (2026)](2026-sf-chronicle-bart-fare-gates.md): faster closure and missing incident
+  data, not demonstrated evasion reductions or accessible entry.
+
+- [Streetsblog's NYC shutdown speeding report (2020)](2020-streetsblog-nyc-pause-speeding.md): higher camera-ticket
+  counts alongside lower crash counts and driving, not exposure-based risk or camera effectiveness.
+
+- [Sixth Tone's Shanghai customized-bus reporting (2025)](2025-sixth-tone-shanghai-customized-buses.md): resident
+  requests, launch thresholds and pilot use, not evaluated equity or mode shift.
+
 - [SSTI's bus-space research coverage (2026)](2026-ssti-bus-lanes-busy-roads.md): demand-dependent recommendations, not transferable allocation thresholds or observed project benefits.
 
 - [Streetsblog's Boston barrier trials (2025)](2025-streetsblog-boston-barrier-trials.md): installed Zebra separators and planned concrete islands, not evaluated durability, safety or delivery-time gains.
@@ -24,6 +168,10 @@
 
 - [Streetsblog's Freedom to Move coverage (2024)](2024-streetsblog-freedom-to-move-savings.md): repeated UCS savings scenarios plus a lead-author interview, not independent confirmation or measured household cash benefits.
 
+- [NJTPA Complete Streets Technical Assistance](njtpa-complete-streets-technical-assistance.md): free municipal planning
+  support and FY 2026 project scopes, not direct grants or evaluated outcomes.
+- [Complete Streets Policy Framework](smart-growth-america-complete-streets-policy-framework.md): ten recommended policy
+  elements, not evaluated implementation or safety effects.
 - [Smart Growth America's 2025 Complete Streets resource page](2025-smart-growth-america-complete-streets-policies.md): scores for 43 policies adopted in 2023–2024, not measured safety or implementation.
 
 - [SFGATE's Berkeley parking-fee coverage (2026)](2026-sfgate-berkeley-parking-fees.md): graduated permits, meter changes and disputed access effects before a final ordinance vote.

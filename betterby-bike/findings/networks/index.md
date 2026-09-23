@@ -1,5 +1,17 @@
 # Network findings
 
+- [Reported commuting-intervention timing](commuting-intervention-timing-reported.md): null workplace tools and reported
+  transit uptake around life changes, without effect sizes or cycling estimates.
+
+- [Brooklyn Bridge 2021 bicycle counts](brooklyn-bridge-2021-bicycle-counts.md): October daily crossings rose 88% year
+  over year, without proving new cycling or a causal lane effect.
+
+- [London's reported 2024 cycling growth](london-2024-reported-cycling-growth.md): daily stage estimates and network
+  proximity, with pandemic-series gaps and causal limits.
+
+- [Paris reported travel shares](paris-reported-travel-shares.md): cycling exceeded driving in central-city trips, but
+  suburban travel differed; survey dates and precise boundaries remain unspecified.
+
 - [Coconut Grove bike-bus event traffic](coconut-grove-bike-bus-event-traffic.md): reported event-day car and bicycle changes, not sustained school-mode shift or an isolated lane effect.
 
 - [Cambridge Garden Street reported bicycle growth](cambridge-garden-street-reported-bicycle-growth.md): neighborhood share up 300% and volumes over 500% in secondary coverage, with missing baselines and no demonstrated driving reduction.
