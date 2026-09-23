@@ -1,5 +1,100 @@
 # Sources
 
+- [AAA's Your Driving Costs 2024](2024-aaa-your-driving-costs.md): standardized US new-vehicle costs and
+  mileage assumptions, not marginal driving costs or measured cycling savings; category ranking conflicts retained.
+
+- [Urban congestion relief through routing-app interventions (2026)](2026-routing-app-congestion-relief.md):
+  ten-city nonrandom switchbacks, modest aggregate travel gains and uncertain modeled city emissions.
+
+- [Transportation Energy Data Book, Edition 40 (2022, updated June)](2022-transportation-energy-data-book-40.md):
+  focused 2017 NHTS trip-purpose and commute-distance reading, not energy-savings or mode-shift estimates;
+  ACS dating inconsistency remains unresolved.
+
+- [Streets for Recovery, NYC DOT, October 2022](2022-nyc-streets-for-recovery.md): five Open Streets'
+  restaurant/bar sales, retention and net filer comparisons, with pandemic attribution limits and mixed
+  comparisons against high outdoor-dining participation.
+
+- [SIAMUS Pin Bike impact assessment, August 2025](2025-siamus-pin-bike-impact-assessment.md):
+  nine-city participant survey of reported use and continuation intentions, not causal or lasting mode shift.
+
+- [Renovating New Jersey’s Built Environment](2026-renovating-new-jersey-built-environment.md): January 2026
+  policy memo linking maintained protected lanes, trail access and parking reform, not evaluated health or equity gains.
+
+- [Don't Cut Corners, NYC DOT, August 2016](2016-nyc-left-turn-crash-study.md): left-turn casualty
+  composition and uncontrolled treatment comparisons, including adverse cyclist counts at turn bays.
+
+- [Parking Requirement Impacts on Housing Affordability](2025-vtpi-parking-housing-affordability.md): December 2025
+  synthesis of assumed household costs, secondary parking occupancy and reform recommendations, with numerical caveats.
+
+- [Connecticut NTOR report, January 2024](2024-connecticut-no-turn-on-red-report.md): pedestrian crash
+  classification, selected-intersection simulations and attributed policy recommendations.
+
+- [New Jersey NJTR-1 manual, 2023](2023-new-jersey-njtr-1-crash-report-manual.md): focused reading of crash
+  coverage and personal-conveyance coding, not an audit of actual reporting or current law.
+
+- [NCHRP 15-63 intersection safety, 2019](2019-nchrp-protected-intersection-safety.md): focused partial reading
+  of two protected-intersection comparisons, with mixed behavior and no established crash effect.
+
+- [New Jersey Black and Hispanic bicycle-access barriers](new-jersey-black-hispanic-bicycle-barriers.md):
+  2015 intercept surveys and focus groups, with conflicting totals/rankings and stated preferences distinct
+  from evaluated cycling, safety or equity benefits.
+
+- [NHTSA intersection crash factors, 2010](2010-nhtsa-intersection-crash-factors.md): national 2005–2007
+  critical-reason patterns, with driver attribution distinct from cause, fault and cyclist risk.
+
+- [Bicycle-Friendly Trains, 2026](2026-amtrak-bicycle-friendly-trains.md): partial reading of the League’s
+  46-line Amtrak benchmark, disputed capacity and dated booking test, not measured travel benefits.
+
+- [Lessons from Lime Data, September 2024](2024-lime-mobility-insights.md): DC and Bloomington lane-use,
+  reported-incident and parking analyses, with segment-count, reporting and GPS-proximity limits.
+
+- [The Late Night Threat, June 2018](2018-late-night-threat.md): advocacy review of bar-hour and ride-hailing traffic
+  evidence, including contrary and null results; California timing/spillover scenarios are not observed effects.
+
+- [How Much Faster Are We Moving?](2025-how-much-faster-are-we-moving.md): NYC bus-priority route-speed comparisons,
+  camera/TSP attribution limits and a theoretical full-BRT benchmark, not isolated causal effects.
+
+- [USDOT's 25th Conditions and Performance Report, 2024](2024-usdot-highways-bridges-transit-25th-report.md):
+  partial funding-focused reading of 2018 revenue accounts; federal report captured under a Brookings filename,
+  not evidence of taxpayer incidence or a local-to-state subsidy.
+
+- [Freedom to Move, October 2024](2024-freedom-to-move.md): US reduced-driving net-zero scenarios,
+  spending accounts and community advocacy, not measured cycling-policy returns.
+
+- [GWB bus-carpool lane, June 1988](1988-george-washington-bridge-bus-carpool-lane.md): first-year vehicle
+  observations, estimated person utilization and qualified carpool trends, not causal capacity gains.
+
+- [British SUV injury severity, 2004–2023](2025-great-britain-suv-injury-severity.md): primary casualty analysis
+  with stronger child fatality associations, null adult pedestrian KSI and separate dimension models.
+
+- [NYC daylighting and street safety, 2025](2025-nyc-daylighting-street-safety.md): hardened-treatment
+  pedestrian benefits, null sign-only findings and noncausal hydrant-zone injury associations.
+
+- [South Carolina 2040 Multimodal Transportation Plan Update](2020-south-carolina-multimodal-transportation-plan.md):
+  July 2020 plan captured under a Brookings filename; partial reading distinguishes funding eligibility,
+  allocations and embedded needs from cycling expenditure and outcomes.
+
+- [NYC congestion pricing and EMS](2026-nyc-congestion-pricing-ems.md): August 2026 working-paper revision;
+  local hospital-transport savings with uncertain incident-arrival gains, camera-density changes and model limits.
+
+- [Rutgers' New Jersey climate-target comparison](2025-new-jersey-greenhouse-gas-target-comparison.md):
+  historical targets and modeled pathways under proportional-state assumptions, not transport-project benefits.
+
+- [Commuting in the United States: 2022](2024-commuting-in-the-united-states-2022.md): Census ACS comparisons
+  show partial active-commuting recovery, with combined-mode and usual-worker measurement limits.
+
+- [ACEEE's 2025 State Energy Efficiency Scorecard](2025-aceee-state-energy-efficiency-scorecard.md): partial
+  transport-focused reading; reported e-bike incentives and VMT comparisons, not measured cycling or equity benefits.
+
+- [EIT non-exhaust emissions report](2025-eit-non-exhaust-emissions-road-transport.md): focused review of London
+  scenario methods/results and limitations; conditional PM savings, not observed cycling benefits or net policy returns.
+
+- [Chicago transit-removal model](2024-chicago-transit-removal-mobility-equity-economy.md): 2024 preprint with
+  modeled activity losses, cancellation-burden shares and illustrative economic valuation, conditional on extra cars.
+
+- [Origins of U.S. transportation policy](2013-origins-us-transportation-policy-gasoline-taxes.md): Knittel's
+  1970s gasoline-tax history and conditional public support, not measured equity or cycling effects.
+
 - [Wheels to Meals](wheels-to-meals-micromobility-restaurant-demand.md): full manuscript and May 2023 appendix;
   98-city scooter-user restaurant-spending analysis, heterogeneous estimates and conditional dollar scaling,
   distinct from NABSA's earlier-version coverage rather than independent confirmation.
@@ -7,8 +102,9 @@
 - [DC pedestrian and bicycle crash analysis](washington-dc-pedestrian-bicycle-crash-analysis.md): unidentified
   abstract reporting 2012–2014 intersection concentration and leading crash types, without full methods or tables.
 
-- [Non-exhaust particulate emissions review excerpt](traffic-related-non-exhaust-particulate-emissions-literature-review.md):
-  cropped executive summary reporting PM10 shares, without publication identity, full methods or supporting tables.
+- [2014 JRC non-exhaust emissions review](traffic-related-non-exhaust-particulate-emissions-literature-review.md):
+  full report identifies the earlier crop; historical PM10 shares, variable emission factors and mixed toxicology
+  do not estimate local redesign benefits.
 
 - [Right-turn-on-red crash analysis](right-turn-on-red-crash-analysis.md): unidentified one-page results crop;
   historical FARS signal-state limits and four-state crash share, not exposure-based RTOR risk or a policy effect.

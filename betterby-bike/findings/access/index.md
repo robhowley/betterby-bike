@@ -1,5 +1,39 @@
 # Access findings
 
+- [AAA's 2024 new-car ownership estimate](us-new-car-ownership-cost-2024.md): $12,297 annually under
+  five-year assumptions; mileage-dependent total-cost averages are not savings from replacing individual trips.
+
+- [Parking-cost scenarios](vtpi-parking-carfree-cost-scenarios.md): assumed $150–300 monthly burdens for car-free
+  households, not measured rent savings.
+- [Residential parking occupancy](vtpi-residential-parking-occupancy.md): secondary unused-space reports in selected
+  housing, with New Jersey category shortfalls retained.
+
+- [New Jersey barrier-survey limits](nj-bicycle-barrier-survey-limits.md): conflicting rankings,
+  multiple-response denominators and inconsistent sample totals prevent precise population prevalence.
+- [New Jersey perceived unfair bicycle stops](nj-bicycling-perceived-unfair-police-stops.md): self-reported
+  policing experiences and place avoidance, not exposure-adjusted or adjudicated stop rates.
+- [New Jersey stated lane preferences](nj-bicycle-lane-stated-preferences.md): broad support for unspecified
+  lanes, not a measured protected-lane uptake or safety effect.
+
+- [Amtrak bicycle-access benchmark](amtrak-bicycle-access-benchmark.md): 39 of 46 lines with service,
+  with station proxies, disputed capacity and noncausal service-type comparisons.
+- [Amtrak mixed-itinerary booking](amtrak-mixed-itinerary-bicycle-booking.md): one July 2026 test hid the
+  bicycle add-on when a round trip included an ineligible return.
+
+- [Freedom to Move household savings](us-freedom-to-move-household-savings.md): modeled cumulative
+  fuel, maintenance and depreciation savings, not measured cycling benefits or net cash savings.
+
+- [ACEEE's reported e-bike incentives](aceee-2025-reported-e-bike-incentives.md): historical Colorado and
+  Rhode Island purchase-assistance terms, without measured take-up, additional cycling or equity gains.
+
+- [Chicago transit-removal activity losses](chicago-transit-removal-activity-loss.md): modeled cancellations
+  and longer travel times despite assumed additional cars, not observed service-cut effects.
+- [Chicago cancellation-burden shares](chicago-transit-removal-equity-shares.md): city gender/income composition,
+  not within-group cancellation probabilities.
+
+- [1970s gasoline-tax polling](us-1970s-gasoline-tax-polling.md): low unconditional support and higher
+  support with promised credits and oil independence, not measured affordability or travel effects.
+
 - [Hoboken carless-household comparison](hoboken-carless-household-comparison.md): reported 15.7% versus
   13.7% in Hudson County and 12.5% in North Jersey, with unknown data year and no measured travel or access benefit.
 

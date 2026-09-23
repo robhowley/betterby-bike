@@ -1,5 +1,26 @@
 # Network findings
 
+- [US 2017 active-travel purposes](us-2017-active-travel-trip-purposes.md): work was 20% of bicycle
+  person-trips and 6% of walking person-trips, not worker commute shares.
+- [US 2017 work-trip distances and durations](us-2017-active-commute-distance-duration.md): shorter observed
+  bicycle than car journeys, not matched-route times or feasible mode-shift estimates.
+
+- [Pin Bike reported use](pin-bike-reported-use-mode-shift-limits.md): frequent service use among survey
+  respondents, not measured additional cycling or displaced driving.
+- [Pin Bike continuation intentions](pin-bike-post-incentive-intentions.md): 4.2/5 stated willingness
+  to ride without rewards, not observed post-incentive retention.
+
+- [DC Lime lane volumes](dc-lime-bike-lane-trip-volumes.md): estimated 1,804 extra summer segment trips
+  relative to matched trends, not net new citywide journeys.
+- [Bloomington Lime 7-Line volumes](bloomington-lime-7-line-volumes.md): 100% growth versus 19% and 28%
+  on comparison corridors, without the DC matching/model design.
+
+- [U.S. 2019–2022 active-commute shares](us-2019-2022-active-commute-share.md): combined walking/bicycling
+  reached 2.9% of workers in 2022, above 2021 but below 2019; not bicycle-only or all-trip shares.
+
+- [ACEEE's overlapping-period VMT limits](aceee-vmt-overlapping-period-limits.md): New Jersey's negative
+  average includes a positive latest comparison; not continuous decline, total driving or cycling substitution.
+
 - [NJTPA trip-potential score limits](njtpa-trip-potential-score-limits.md): 0–100 spatial planning scores and
   different walking/cycling buffers do not measure trips, usable routes or equitable benefits.
 
@@ -25,7 +46,8 @@
   cycling time per person from 1989–90 to 2006–09, without identifying a helmet-law effect.
 
 - [ACS active-commuting measurement limits](acs-active-commuting-measurement-limits.md): work-only and
-  greatest-distance mode reporting omit other active travel; city and metro boundaries yield different shares.
+  greatest-distance mode reporting omit other active travel; usual-day reporting misses less-frequent home working,
+  combined walking/bicycling masks mode-specific trends, and city/metro boundaries yield different shares.
 
 - [First/Second Avenue bicycle volumes](nyc-first-second-bicycle-volumes.md): up to 177% growth reported in 2012,
   without separating new cycling from route shifts.

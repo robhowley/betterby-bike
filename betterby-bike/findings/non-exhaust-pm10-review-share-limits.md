@@ -1,23 +1,23 @@
 ---
 type: Finding
 title: Review-reported non-exhaust PM10 shares are not local pollution-effect estimates
-description: A cropped review summary reports substantial wear-related PM10, but lacks study identities and methods needed to transfer its shares to a project.
+description: A 2014 JRC review reports substantial wear-related PM10, but heterogeneous historical source shares cannot estimate a local project effect.
 tags: [air pollution, particulate matter, non-exhaust emissions, measurement]
 sources:
   - id: excerpt
     resource: /sources/traffic-related-non-exhaust-particulate-emissions-literature-review.md
-    title: Traffic-related non-exhaust particulate emissions (review executive-summary excerpt)
+    title: "Grigoratos and Martini (2014), Non-exhaust traffic related emissions. Brake and tyre wear PM"
 ---
 
 # Review-reported non-exhaust PM10 shares are not local pollution-effect estimates
 
 ## In brief
 
-- An undated review excerpt estimates that exhaust and non-exhaust sources contribute almost equally to total
+- A 2014 JRC review estimates that exhaust and non-exhaust sources contribute almost equally to total
   traffic-related PM10 emissions, not to all ambient particulate matter.[^excerpt]
 - It reports brake wear as **16%–55% by mass of non-exhaust traffic-related PM10 in urban environments**, versus
-  **about 3% on freeways**. These are secondary estimates with no visible study identities or uncertainty analysis.
-- The excerpt does not establish present-day local shares, cyclist exposure, health effects or the pollution change
+  **about 3% on freeways**. These are heterogeneous secondary estimates, not confidence intervals.
+- The review does not establish present-day local shares, cyclist exposure, health effects or the pollution change
   caused by a bike lane, traffic reduction or vehicle electrification.
 
 ## What was reported
@@ -33,21 +33,25 @@ figures are not before/after measurements, and the ranges should not be added or
 
 ## Evidence limits and interpretation
 
-Only a single cropped executive-summary image was available. It describes a review of papers, reports, technical
-publications and theses, but provides no study locations, measurement years, selection methods, supporting tables
-or references. The underlying primary studies were not read, and overlap with other evidence cannot be checked.
+The full JRC report now identifies the review previously represented by a cropped executive summary. Its
+introduction and section 2.1 supply references for these ranges and explain site differences, but no systematic
+selection protocol or pooled uncertainty analysis. Varied sampling methods, fleets and operating conditions
+prevent treating the reported range as a local prediction. Underlying primary studies were not read, and the
+full report and crop are not independent confirmations.
 
 The review predicts increasing *relative* non-exhaust importance under stricter exhaust controls. A rising share
 alone does not demonstrate rising absolute emissions. This evidence supports distinguishing exhaust from wear and
-resuspension when assessing traffic pollution, not assigning these historical, undated shares to a particular
+resuspension when assessing traffic pollution, not assigning these historical shares to a particular
 fleet or calculating an unmeasured redesign benefit.
 
 ## Related
 
 - [Evaluating street redesign outcomes](/topics/street-redesign-outcomes.md): pollution source shares and measured
   intervention outcomes answer different questions.
+- [Wear emission-factor limits](jrc-2014-wear-emission-factor-limits.md): historical mass per vehicle-km also
+  requires local fleet and operating assumptions, separate from source shares.
 - [NABSA emissions-accounting limits](/findings/nabsa-2021-emissions-accounting-limits.md): modeled avoided CO2 is a
   different measure from traffic-related PM10, not corroboration of these shares.
 
-[^excerpt]: Supplied PDF p. 1, “EXECUTIVE SUMMARY,” traffic-particle definitions, near-equal contribution statement,
-    brake/tyre contribution ranges and generated-wear PM10 fractions. Full review and primary studies not accessed.
+[^excerpt]: Grigoratos and Martini (2014), full report executive summary, introduction pp. 7–8, section 2.1
+    pp. 11–12 and conclusions pp. 42–43. Replaces earlier crop-only access; primary studies not independently read.

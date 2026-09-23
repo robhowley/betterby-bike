@@ -1,5 +1,13 @@
 # Design findings
 
+- [NCHRP protected-intersection turning speeds](nchrp-protected-intersection-turning-speeds.md): slower selected
+  Salt Lake City right turns, mixed left turns and unusable Berkeley right-turn comparison.
+
+- [DC Lime corral concentration](dc-lime-parking-corral-concentration.md): 60% relative increase in GPS
+  trip-end concentration, not a physical-compliance audit or injury effect.
+- [Bloomington Lime parking density](bloomington-lime-parking-density.md): fewer blocked attempts per trip
+  at greater parking-pin density, not an experimentally established minimum.
+
 - [Jersey City quick-build installation limits](jersey-city-quick-build-installation-limits.md): reported lane miles
   and treatment counts are not dated current totals or measured safety, cost or delivery-time benefits.
 

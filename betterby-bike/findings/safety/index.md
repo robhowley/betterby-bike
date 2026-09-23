@@ -1,5 +1,46 @@
 # Safety findings
 
+- NYC left turns: [casualty shares](nyc-left-turn-casualty-composition.md),
+  [protected-lane movement counts](nyc-protected-lane-left-turn-injuries.md) and
+  [mixed turn-treatment counts](nyc-left-turn-treatment-injuries.md), with combined-mode and uncontrolled-design limits.
+
+- [Connecticut right-turn crash classification](connecticut-right-turn-crash-classification.md): pedestrian
+  counts with unknown phases and existing restrictions, not cyclist risk or ban effectiveness.
+
+- NJTR-1 reporting: [coverage exclusions](njtr-1-cycling-crash-coverage.md) and
+  [low-speed e-bike classification](njtr-1-low-speed-ebike-classification.md), separating eligible crashes
+  from device categories without claiming measured undercounts.
+
+- [NCHRP protected-intersection safety limits](nchrp-protected-intersection-safety-limits.md): mixed yielding
+  and compliance indicators, with two treated sites insufficient for a crash-effect estimate.
+
+- NHTSA intersection crashes: [reason composition](nmvccs-intersection-critical-reason-composition.md)
+  and [critical reason versus cause](nmvccs-critical-reason-not-cause.md), not risk per turn or driver fault shares.
+
+- [Lime's DC and Bloomington reported incidents](lime-dc-bloomington-reported-incidents.md): falling
+  reports per trip with partial-year 2024 data, not complete surveillance or an identified lane effect.
+
+## Late-night travel
+
+- [Bar-hour traffic comparisons](bar-hours-traffic-evidence-review.md): adverse Australian and contrary UK crash
+  accounts, with DUI enforcement measures kept separate.
+- [Mixed ride-hailing evidence](ride-hailing-alcohol-crash-review.md): setting- and outcome-specific benefits and nulls,
+  not a measured offset to later closing hours.
+
+## British vehicle severity
+
+- [SUV severity by age and mode](great-britain-suv-severity-age-mode.md): stronger child fatality associations
+  and null adult pedestrian KSI, conditional on recorded injury.
+- [Weight, height and length](great-britain-vehicle-dimensions-severity.md): separate models with mixed subgroup
+  results, not independent dimension effects or measured design-policy benefits.
+
+## NYC daylighting
+
+- [Before/after injury comparisons](nyc-daylighting-before-after-injuries.md): hardened pedestrian benefit,
+  null sign-only results and no significant all-mode benefit.
+- [Hydrant-zone injury associations](nyc-hydrant-zone-injury-associations.md): adverse cross-sectional
+  associations do not establish a parking-removal policy effect.
+
 ## DC crash composition
 
 - [DC 2012–2014 crash composition limits](dc-2012-2014-crash-composition-limits.md): abstract-only intersection

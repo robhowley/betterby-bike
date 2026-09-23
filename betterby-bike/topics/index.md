@@ -1,5 +1,93 @@
 # Topics
 
+[Street redesign outcomes](street-redesign-outcomes.md#routing-gains-distinguish-targeted-roads-from-broader-network-effects)
+adds short-run app-routing evidence, distinguishing targeted-road gains, broader traffic effects and uncertain
+modeled emissions without inferring cycling benefits.
+
+[Commuting and access](active-commuting-and-access.md#trip-purposes-and-distances-reveal-what-commute-shares-leave-out)
+adds national 2017 active-travel purposes and work-trip distances, separating within-mode trip profiles
+from worker shares and feasible car-to-bike substitution.
+
+[Street redesign outcomes](street-redesign-outcomes.md#pandemic-open-streets-separate-sales-recovery-survival-and-net-business-counts)
+adds NYC Open Streets' pandemic restaurant/bar recovery, distinguishing sales, filer retention and net counts,
+with mixed outdoor-dining comparisons and no identified citywide or bicycle-lane effect.
+
+[Commuting and access](active-commuting-and-access.md#policy-packages-do-not-establish-access-or-health-gains)
+distinguishes a January 2026 New Jersey lane/trail/parking policy package from evaluated access,
+health or equity gains, retaining distributional concerns and repeated-evidence limits.
+
+[Injury risk](cycling-injury-risk.md#left-turn-counts-separate-movement-and-mode-not-exposure-based-risk)
+and [street redesign outcomes](street-redesign-outcomes.md#left-turn-treatment-comparisons-retain-adverse-counts-and-unevaluated-designs)
+add NYC's 2016 left-turn comparisons, retaining adverse cyclist counts, overlapping projects and unevaluated pilots.
+
+[Injury-risk interpretation](cycling-injury-risk.md#new-jersey-reporting-rules-separate-coverage-from-device-classification)
+adds NJTR-1 coverage exclusions and low-speed e-bike coding, distinguishing historical instructions from
+actual reporting completeness and comparable mode categories.
+
+[Street redesign outcomes](street-redesign-outcomes.md#local-traffic-calming-is-not-corridor-travel-delay)
+and [injury risk](cycling-injury-risk.md#short-conflict-observations-and-perceived-safety-are-not-injury-rates)
+add NCHRP's mixed protected-intersection evidence, separating selected slower turns from crash benefits.
+
+[Commuting and access](active-commuting-and-access.md#reported-barriers-extend-beyond-having-a-nearby-route)
+adds New Jersey cycling barriers, perceived policing constraints and lane preferences, preserving
+survey conflicts and distinguishing reported needs from measured benefits.
+
+[Injury-risk interpretation](cycling-injury-risk.md#crash-composition-is-not-exposure-based-intersection-risk)
+adds NHTSA critical-reason shares, distinguishing immediate-event coding from cause, fault and cyclist risk.
+
+[Commuting and access](active-commuting-and-access.md#rail-bicycle-service-is-not-the-same-as-a-usable-itinerary)
+separates Amtrak line scores and a dated booking barrier from usable journeys, equity and mode shift.
+
+[Street redesign outcomes](street-redesign-outcomes.md#matched-operator-counts-strengthen-comparison-not-citywide-trip-inference)
+adds Lime matched segment counts and differing parking measures; [injury risk](cycling-injury-risk.md#operator-reporting-adds-trip-denominators-not-complete-injury-surveillance)
+distinguishes operator reports per trip from complete injury surveillance and lane-safety effects.
+
+[Interpreting cycling injury risk](cycling-injury-risk.md#late-night-traffic-policy-is-not-a-cyclist-risk-estimate)
+separates mixed secondary bar-hour and ride-hailing results from cyclist risk, guaranteed mitigation and
+illustrative California crash-timing scenarios.
+
+[Street redesign outcomes](street-redesign-outcomes.md#observed-bus-speeds-still-need-a-treatment-boundary-and-counterfactual)
+separates NYC bus-priority route trends from isolated treatment effects and theoretical full-BRT potential.
+
+[Street redesign outcomes](street-redesign-outcomes.md#eligible-funding-is-not-cycling-expenditure-or-delivered-benefits)
+distinguishes national highway revenue sources from taxpayer incidence and local-to-state subsidies,
+extending the distinction between funding inputs, cycling expenditure and measured benefits.
+
+[Street redesign outcomes](street-redesign-outcomes.md#reserved-lane-passenger-estimates-are-not-added-capacity)
+distinguishes GWB reserved-lane vehicle counts and assumed passenger loads from added capacity, causal mode
+shift and pre-existing bus-booth priority.
+
+[Interpreting cycling injury risk](cycling-injury-risk.md#british-suv-evidence-separates-severity-by-age-and-mode)
+adds British SUV age/mode and dimension evidence, distinguishing conditional severity and null subgroup results
+from per-trip risk, visibility mechanisms and hypothetical fleet-replacement benefits.
+
+[Street redesign outcomes](street-redesign-outcomes.md#daylighting-design-and-comparison-method-change-the-safety-claim)
+distinguishes NYC hardened-daylighting pedestrian benefits and null sign-only results from cross-sectional
+hydrant-zone associations, without inferring cyclist benefits or causal harm from parking removal.
+
+[Street redesign outcomes](street-redesign-outcomes.md#pricing-evidence-separates-hospital-transport-from-arrival-at-the-scene)
+adds NYC pricing evidence on ambulance hospital transport, distinguishing uncertain incident-arrival savings,
+local camera detections and model sensitivity from citywide or bike-lane benefits.
+
+[Commuting and access](active-commuting-and-access.md#pandemic-commute-shares-are-not-all-trip-cycling-trends)
+distinguishes partial 2019–2022 recovery in combined walking/bicycling commute shares from bicycle-only demand,
+all-trip travel and infrastructure effects.
+
+[Commuting and access](active-commuting-and-access.md#incentive-user-surveys-do-not-establish-lasting-mode-shift)
+distinguishes Pin Bike participant-reported use and continuation intentions from additional cycling,
+observed retention and equitable access gains.
+
+[Commuting and access](active-commuting-and-access.md#purchase-assistance-is-not-an-evaluated-access-gain)
+also distinguishes historical e-bike purchase incentives from evaluated equity gains, and averaged state
+VMT changes from cycling substitution or continuous driving decline.
+
+[Commuting and access](active-commuting-and-access.md#transit-removal-can-suppress-activities-rather-than-merely-change-modes)
+also distinguishes modeled Chicago activity losses from observed travel, cancellation shares from subgroup rates,
+and a conditional economic valuation from marginal transit returns.
+
+[Commuting and access](active-commuting-and-access.md#historical-tax-preferences-do-not-measure-equitable-access)
+also distinguishes 1970s gasoline-tax preferences and affordability concerns from measured equitable access.
+
 [Street redesign outcomes](street-redesign-outcomes.md#scooter-user-spending-is-not-a-citywide-or-bicycle-lane-effect)
 also distinguishes matched scooter-user spending estimates from all-resident gains, bicycle-lane effects and
 net benefits, preserving non-restaurant uncertainty and population/permitted-fleet scaling assumptions.
@@ -8,7 +96,8 @@ net benefits, preserving non-restaurant uncertainty and population/permitted-fle
 also distinguishes DC's abstract-reported intersection share and leading crash types from risk per encounter.
 
 [Street redesign outcomes](street-redesign-outcomes.md#pollution-source-shares-are-not-measured-redesign-benefits)
-also distinguishes review-reported particulate source shares from measured pollution or exposure changes.
+also distinguishes review-reported particulate source shares and conditional London non-exhaust mode-shift
+scenarios from measured pollution/exposure changes, cycling-project effects and net policy returns.
 
 [Cycling injury risk](cycling-injury-risk.md#right-turn-permission-does-not-identify-the-signal-during-a-crash)
 now distinguishes RTOR-permitted locations from confirmed red-signal crashes, and crash shares from policy effects.
@@ -97,13 +186,15 @@ now also distinguishes measured ground visibility across vehicle generations fro
 - [Active transportation and real estate](active-transportation-real-estate.md): property-value associations,
   development financing, employer location preferences and car-optional housing, without assuming causal premiums
   or affordability benefits; CBC's Delaware account retains null review results and its Monon distance description
-  differs from earlier coverage of the same study.
+  differs from earlier coverage of the same study; Litman's parking synthesis adds illustrative car-free household
+  burdens and secondary occupancy evidence with local shortfalls, not measured reform rent savings.
 
 - [Who walks and bikes to work?](active-commuting-and-access.md): household-income and vehicle-availability
   associations in historical U.S. commuting data and Copenhagen's work-cycling and trip-purpose shares, distinguishing
   observed use from access quality, all-purpose travel and comparable international measures; Los Angeles library
   proximity adds a destination measure, not evidence of usable routes or equitable access; U.S. new-car costs and
-  car-cost inflation add affordability context, not measured savings from cycling; historical June 2025 New Jersey
+  car-cost inflation add affordability context, not measured savings from cycling; AAA's 2024 fact sheet
+  distinguishes mileage-dependent ownership averages from costs avoided by replacing trips; historical June 2025 New Jersey
   e-bike reporting distinguishes administrative requirements and municipal restrictions from current legal advice or
   measured access benefits; Boone commentary distinguishes reported post-crash medical-benefit eligibility from
   verified legal coverage and measured treatment outcomes; Washington's method-dependent travel-mile estimates
