@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/robhowley/betterby-bike/compare/v1.1.0...v1.2.0) (2026-09-23)
+
+
+### Features
+
+* expand research evidence and remove duplicate sources ([#49](https://github.com/robhowley/betterby-bike/issues/49)) ([89ff4be](https://github.com/robhowley/betterby-bike/commit/89ff4be5bde4de5204fa5f9ac0ff4e2cb7670ce0))
+
 ## [1.1.0](https://github.com/robhowley/betterby-bike/compare/v1.0.0...v1.1.0) (2026-09-22)
 
 
