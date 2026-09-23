@@ -6,12 +6,30 @@ description:
   attribution to individual treatments.
 tags: [street design, business, mobility, safety, measurement, emergency response]
 sources:
+  - id: arora2026
+    resource: /sources/2026-routing-app-congestion-relief.md
+    title: Urban congestion relief experiments through routing-app interventions
+  - id: recovery2022
+    resource: /sources/2022-nyc-streets-for-recovery.md
+    title: "Streets for Recovery: The Economic Benefits of the NYC Open Streets Program"
+  - id: nycleft2016
+    resource: /sources/2016-nyc-left-turn-crash-study.md
+    title: "NYC DOT, Don't Cut Corners (2016)"
+  - id: ctdot2024
+    resource: /sources/2024-connecticut-no-turn-on-red-report.md
+    title: Connecticut No Turn on Red (NTOR) Report, January 2024
+  - id: hook2025
+    resource: /sources/2025-how-much-faster-are-we-moving.md
+    title: How Much Faster Are We Moving?
+  - id: chikish2026
+    resource: /sources/2026-nyc-congestion-pricing-ems.md
+    title: "Congestion Pricing and Emergency Medical Service Response: Evidence from New York City"
   - id: wheels
     resource: /sources/wheels-to-meals-micromobility-restaurant-demand.md
     title: "Wheels to Meals: Measuring the Impact of Micromobility on Restaurant Demand"
   - id: nonexhaust
     resource: /sources/traffic-related-non-exhaust-particulate-emissions-literature-review.md
-    title: Traffic-related non-exhaust particulate emissions (review executive-summary excerpt)
+    title: "Grigoratos and Martini (2014), Non-exhaust traffic related emissions. Brake and tyre wear PM"
   - id: budapesthighlights
     resource: /sources/induced-road-traffic-and-capacity-change-highlights.md
     title: Budapest bridge capacity and induced traffic (unidentified study highlights)
@@ -27,6 +45,9 @@ sources:
   - id: greenline
     resource: /sources/green-line-lrt-adjacent-road-traffic-analysis.md
     title: Green Line LRT adjacent-road traffic analysis (conclusion excerpt)
+  - id: powers1988
+    resource: /sources/1988-george-washington-bridge-bus-carpool-lane.md
+    title: "George Washington Bridge Bus-Carpool Lane: One Year Operational Report"
   - id: dashdamirov2026
     resource: /sources/2026-bus-lane-implementation-expediency-different-lane-numbers.md
     title: Evaluation of Bus Lane Implementation Expediency on Streets with Different Lane Numbers
@@ -141,22 +162,81 @@ are not independent replications. Successive NYC reports also cover overlapping 
   accompanied bicycle lanes, signals and turn changes. It shows a reported improvement alongside bicycle provision, not
   that bicycle lanes alone reduced delay.
 
+## Modeled turn restrictions are not observed net safety outcomes
+
+[Connecticut's NTOR simulations](/findings/operations/connecticut-ntor-modeled-operations.md) add a
+scenario comparison rather than an installed-treatment evaluation. At 18 selected intersections, modeled
+vehicle delay increases varied substantially: 21.1 to 51.6 seconds at Cheshire's I-691 westbound ramps,
+but 18 to 18.2 seconds at Clinton's northbound on-ramp. Some reported fuel and queue changes were zero.
+Peak-period selection, available development-study inputs and unspecified uncertainty limit extrapolation.
+
+These operational costs do not quantify pedestrian comfort, cycling uptake, secondary crashes or the net
+benefit of banning red turns. CTDOT's preference for targeted restrictions and dynamic signs is its policy
+recommendation; municipal reports of dynamic-sign safety benefits lack controlled estimates. Its separate
+[pedestrian crash counts](/findings/safety/connecticut-right-turn-crash-classification.md) contain unknown
+signal phases and no exposure denominator. Neither component alone evaluates a statewide ban.[^ctdot2024]
+
+[^ctdot2024]: CTDOT (January 2024), pp. 7–11, 14–15, 24–29 and appendix tables, pp. 32–33.
+
 ## Pollution source shares are not measured redesign benefits
 
-Traffic pollution includes wear and resuspended material, not only exhaust. A cropped review summary reports
+Traffic pollution includes wear and resuspended material, not only exhaust. A 2014 JRC review reports
 [near-equal exhaust/non-exhaust contributions to traffic-related PM10](/findings/non-exhaust-pm10-review-share-limits.md)
 and markedly different brake-wear shares in urban and freeway settings. This qualifies any assumption that exhaust
 alone describes traffic particulate emissions, but supplies no evaluated street intervention. It is secondary
-synthesis with unknown study identities, not another primary measurement.[^nonexhaust]
+synthesis, not another primary measurement. The full report identifies the earlier cropped summary as the same
+publication, not an independent confirmation.[^nonexhaust]
 
 Unlike the traffic-volume and modeled travel-time evidence below, these figures describe pollutant source shares.
 None can substitute for measured changes in emissions, concentrations or exposure after a redesign. A growing
-non-exhaust share as exhaust declines need not mean growing absolute non-exhaust emissions. The excerpt lacks the
-methods, fleet composition, dates and supporting tables needed to transfer its estimates to a local project or
-compare electric and combustion vehicles.
+non-exhaust share as exhaust declines need not mean growing absolute non-exhaust emissions. The full review's
+[emission-factor comparisons](/findings/jrc-2014-wear-emission-factor-limits.md) strengthen the reason for caution:
+brake PM10 per vehicle-km differs between urban and highway sites; tyre detection and text-table consistency are
+problematic. Historical heterogeneous factors cannot directly compare present electric and combustion fleets.
+Its mixed cell/animal toxicology also does not quantify wear-specific human health loss or a redesign's health benefit.
 
-[^nonexhaust]: Supplied non-exhaust review PDF p. 1, cropped “EXECUTIVE SUMMARY”; only the visible image was read,
-    not the full review or underlying studies.
+A later [London scenario model](/findings/london-non-exhaust-mode-shift-scenarios.md) adds an intervention
+comparison, not observed redesign outcomes: an assumed car-to-public/active-transport shift saves a cumulative
+5,548 tonnes of non-exhaust PM10 through 2050, including 2,610 tonnes PM2.5. Faster electrification also reduces
+modeled non-exhaust emissions, while its exhaust and climate benefits are outside that comparison. Achieving the
+travel shift is assumed rather than explained by a cycling project, and implementation costs are omitted. The
+report's inconsistent target baseline and shifting “five times” headline prevent using it as a general project
+multiplier or net-return ranking. This is distinct from the earlier review's source shares, with underlying
+literature overlap unresolved.
+
+[^nonexhaust]: Grigoratos and Martini (2014), executive summary, introduction, sections 2.5–2.6 and 3.5–3.6,
+    Tables 5 and 10 and conclusions. Focused reading of full report now replaces crop-only access;
+    underlying studies not independently reviewed.
+
+## Climate targets are not project emissions results
+
+[New Jersey's climate-target comparison](/findings/new-jersey-climate-target-comparison-limits.md) supplies
+policy context, not another intervention estimate. Rutgers' April 2025 report puts the state's 2050 target
+at 76% below 2015 net emissions, compared with its cited U.S. net-zero goal. Applying U.S. modeled
+percentage reductions to New Jersey, it recommends a stronger statewide target, but does not model
+state-specific sector contributions or cycling substitution. Land-use accounting comparability remains
+assumed. Thus neither a target gap nor the London particulate scenario above establishes the climate
+benefit of a particular redesign. That requires evidence about actual travel changes and the emissions
+included in the calculation, distinct from selecting an economy-wide ambition level.
+
+## Eligible funding is not cycling expenditure or delivered benefits
+
+Before evaluating a redesign, distinguish program eligibility, allocated money, actual spending and
+completed construction. [South Carolina's July 2020 plan](/findings/south-carolina-2020-active-travel-funding-limits.md)
+reports $5 million annually for pedestrian/bicycle safety alongside broader $7.4 million Transportation
+Alternatives and $138 million MPO/COG programs. The broader amounts cannot all be counted as cycling
+spending. Conversely, a funding table without a separate cycling row does not establish no funding:
+walking/cycling needs are embedded in highway-modernization and regional-program totals. Unlike the
+installation announcements below, these figures do not establish delivered facilities, much less
+safety, access or cost-effectiveness. They are historical planning statements, not current budget terms.
+
+National revenue accounts answer a different funding question. [USDOT's 2018 highway accounts](/findings/us-2018-highway-revenue-accounting.md)
+report 51% of $237.8 billion raised for highways from dedicated motor-vehicle user charges. The rest
+includes general taxes and borrowing, not only contributions from non-drivers. Unlike SCDOT's program
+allocations, these are revenue-source accounts, but neither isolates cycling expenditure. Local
+collections and net intergovernmental transfers also do not locate where drivers paid state/federal
+taxes or establish who subsidizes whom. Funding-source arguments require tax-incidence evidence;
+claims about redesign benefits still require measured outcomes.
 
 ## Announced infrastructure is not a measured safety outcome
 
@@ -235,6 +315,22 @@ its 2017 peak, and [Cambridge Street](/findings/networks/boston-cambridge-street
 an initial rise. These are short fall counting windows, not annual daily averages or controlled lane effects.
 The article's separate StreetLight metro trip estimate and Bluebikes totals cannot be pooled with these corridor
 counts or treated as independent confirmation that lanes caused growth.[^dolven2024]
+
+### Matched operator counts strengthen comparison, not citywide trip inference
+
+Lime's [DC lane analysis](/findings/networks/dc-lime-bike-lane-trip-volumes.md) adds matched comparison
+segments and year adjustment to the corridor evidence: an estimated 1,804 additional summer trips per
+treated segment (95% CI 1,134–2,474). This is stronger than an uncontrolled count trend, but combined
+painted/protected treatments, nonrandom placement and possible route shifts still prevent interpreting
+it as net new journeys or a protected-only effect. Year adjustment does not establish control of every
+local fleet or land-use change.
+
+[Bloomington's 7-Line comparison](/findings/networks/bloomington-lime-7-line-volumes.md) instead reports
+100% growth versus 19% without a lane and 28% on an existing painted lane during 2020–2024. Missing road
+attributes prevented DC-style matching there. Both cases support greater use of treated streets, but
+neither measures adoption by new riders or car-trip replacement. Their lane-use shares count segment
+use, not unique journeys wholly inside bicycle lanes. These are two cases within one operator report,
+not independent replications of a common causal model.
 
 ## Citywide trip estimates address a different scale
 
@@ -422,6 +518,26 @@ presentation repeats a 2013 economic report, does not detail matching or uncerta
 from the whole redesign. Ninth Avenue's 47% versus 43%/23% comparisons must remain distinct from the earlier “up to
 49% versus 3%” claim; these are not independent confirmations.[^nyc2014]
 
+## Left-turn treatment comparisons retain adverse counts and unevaluated designs
+
+NYC DOT's 2016 [turn-treatment evaluation](/findings/safety/nyc-left-turn-treatment-injuries.md) adds
+three-year before/after counts, not a causal ranking of designs. Restrictions included adjacent turning
+opportunities, giving a local displacement check. LPIs had 56% fewer combined left-turn pedestrian/bicyclist
+KSI, but turn bays had nearly unchanged combined total injuries and a 67% increase in cyclist injury counts.
+Those contrasting outcomes qualify a blanket claim that every treatment improved safety for each mode.
+
+The [protected-lane sample](/findings/safety/nyc-protected-lane-left-turn-injuries.md) had 15% fewer combined
+left-turn injuries and 53% fewer left-turn KSI across 149 Manhattan intersections. Projects combined bicycle
+space, refuge islands, turn geometry and signals, and overlap earlier NYC avenue evidence. No controls or
+exposure adjustment isolate the bicycle lane's effect. DOT's hardened-centerline/daylighting pilot and
+split LPIs were not evaluated here; their proposed benefits are not additional measured reductions.[^nycleft2016]
+
+This historical evaluation therefore differs from the later
+[2025 daylighting comparison](/sources/2025-nyc-daylighting-street-safety.md), which distinguishes physical
+treatments and nearby comparison trends. They should not be pooled as equivalent independent tests of daylighting.
+
+[^nycleft2016]: NYC DOT (2016), pp. 47–53, methods/treatment tables; pp. 56–58, pilot plans.
+
 ## Resident panels can distinguish activity changes from route counts
 
 TfL's [London cycling indicators](/findings/networks/london-2017-cycling-indicator-differences.md) reinforce the
@@ -546,6 +662,25 @@ but require distinguishing an investment's wider benefits from its effect on rem
     p. 51 (cycling); pp. 53–55 (transit evidence and disputes); pp. 60–64, Table 23 (density, modeling and
     recommendations). Primary studies not independently read; see Source for table inconsistencies and access scope.
 
+## Routing gains distinguish targeted roads from broader network effects
+
+Unlike Litman's secondary congestion comparisons, a [ten-city routing experiment](/sources/2026-routing-app-congestion-relief.md)
+adds primary short-run traffic evidence without changing street capacity. Its
+[travel Finding](/findings/operations/routing-app-short-run-travel-gains.md) separates roughly 2% higher
+speeds on targeted segments from 0.35% across affected routes and 0.69% shorter affected trips in a shorter
+analysis window. Including routes diverted onto as well as away from addresses displacement better than
+reporting only treated-corridor gains. It still does not show that every receiving road or road user benefited.
+Daily assignment was nonrandom, data come from app users, and long-term induced demand remains unmeasured.[^arora2026]
+
+Its [emissions estimates](/findings/operations/routing-app-emissions-uncertainty.md) also show why favorable
+aggregate results should not be turned into guaranteed local benefits: every city's annual CO2e-change
+5th–95th percentile range crosses zero. Fuel modeling and annual extrapolation are distinct from measured
+speed changes. Neither result establishes cycling, safety or access gains, and this is not evidence for a
+particular lane-removal or road-widening policy.[^arora2026]
+
+[^arora2026]: Arora et al. (2026), pp. 592–594, outcomes, Figure 2 and Table 2; pp. 595–597, demand,
+    nonrandom assignment and energy modeling. Separate Supplementary Information not reviewed.
+
 ## Adjacent-road volume is not travel delay or network-wide driving
 
 The [Green Line LRT conclusion excerpt](/findings/operations/green-line-lrt-reported-traffic-reduction.md) adds a
@@ -562,6 +697,44 @@ The two time-period estimates belong to one study, distinct from the protected-b
 
 [^greenline]: Supplied Green Line PDF p. 1, “Chapter 5: Conclusion,” methods paragraph and three visible bullets;
     full publication identity, detailed methods and supporting tables unavailable.
+
+## Reserved-lane passenger estimates are not added capacity
+
+The [GWB first-year account](/findings/operations/gwb-bus-carpool-person-utilization-limits.md) provides field
+vehicle counts unlike the Baku simulations below, but not a passenger census or causal capacity estimate.
+In 1986–1987, 430 carpools and 70 buses per morning peak were assigned about 5,000 people, roughly 21.5%
+of main/lower-plaza people, assuming up to 50 people per bus. Another estimated 2,500 people received only
+existing booth priority. Combining them would overstate use of the new approach lane.[^powers1988]
+
+This illustrates why passenger loads matter alongside vehicle counts, while qualifying claims of measured
+person-throughput gains. The lane used shoulder space at the narrowest section, rather than testing removal
+of a general lane. Its delay envelope predates opening; reported 7–8 minute maximum savings are not an
+average treatment effect. Roughly constant carpool counts, differing PIP comparison trends and simultaneous
+toll changes also prevent attributing new carpool formation to the lane. Neither bicycle-lane outcomes nor
+network-wide congestion relief follows from this historical case.[^powers1988]
+
+[^powers1988]: Powers, pp. 1–9, operation and design; pp. 9–11 and Table 1, utilization; pp. 15–18 and
+    Figure 11 on p. 29, delay basis and carpool trends.
+
+## Observed bus speeds still need a treatment boundary and counterfactual
+
+NYC's [bus-priority package comparisons](/findings/operations/nyc-bus-priority-package-speeds.md)
+add observed route-speed changes, unlike simulations: a reported weighted 7.0 to 7.5 mph overall,
+and 22.3% for the sole 14th Street busway/SBS case. Larger SBS-package gains coexist with null and
+negative route changes. Small categories, repeated routes, inconsistent dates/arithmetic and bundled
+boarding/stop changes prevent a causal ranking of lane alignments. Whole-route speed includes stops
+and untreated links; it is not the speed inside a bus lane or total person-delay. Equal opposing mph
+changes on a busway and its approach do not establish offsetting journey-time changes.[^hook2025]
+
+The [camera and TSP comparisons](/findings/operations/nyc-bus-camera-tsp-speed-limits.md) also distinguish
+no visible improvement from no causal benefit. Camera routes lack a controlled counterfactual; earlier
+TSP evaluation periods overlap SBS changes. These limitations weaken treatment attribution without
+establishing universal ineffectiveness. The [13.2 mph full-BRT benchmark](/findings/operations/nyc-full-brt-speed-benchmark.md)
+is a separate overnight-travel/fixed-dwell scenario, not an observed upgrade or a forecast with demonstrated
+accuracy. None of these measures establishes a bicycle-lane or safety effect.[^hook2025]
+
+[^hook2025]: Hook and Weinstock (2025), pp. 17–21, 28, 35–36, 41–43 and appendix pp. 48–49;
+    headline benchmark differences on pp. 6 and 47.
 
 ## Bus-lane simulations are screening scenarios, not observed redesign effects
 
@@ -623,7 +796,47 @@ result. The recommendation tables' impact ratings are judgments, not effect esti
 [^openplans]: Open Plans, printed pp. 8–9, 24, 38–43, 46–57 (including Figures 1–2), 60–61 and 68–75;
     cited primary evaluations and vendor analyses not independently read.
 
+### Corral concentration and blocked attempts measure different parking behavior
+
+Lime's [DC corral comparison](/findings/design/dc-lime-parking-corral-concentration.md) adds a direct
+GPS before/after measure to the curb-policy accounts: parking concentration increased 60%, with 93% of
+locations improving. DC required locking to infrastructure, not use of corrals. Concentration means
+trip ends within 20 meters relative to those within 50 meters, not observed correct locking or unobstructed
+sidewalks. Unlike an injury evaluation, it cannot establish a pedestrian-safety benefit.
+
+[Bloomington's density comparison](/findings/design/bloomington-lime-parking-density.md) concerns mandatory
+parking areas and blocked end-trip attempts per trip, which generally declined as locations became denser.
+This spatial association is not a before/after effect, and app/GPS rejection is not a count of obstructing
+vehicles. Together the cases support examining both parking supply and rules, without proving an optimal
+density or isolating daylighting's safety effects. Recommendations about placement and operations savings
+remain distinct from the measured outcomes.
+
+## Daylighting design and comparison method change the safety claim
+
+NYC DOT's [daylighting evaluation](/sources/2025-nyc-daylighting-street-safety.md) adds injury comparisons
+beyond the curb-management report's unisolated Hoboken success account. At 189 intersections,
+[hardened installations had 0.14 fewer pedestrian injuries per intersection-year relative to nearby changes](/findings/safety/nyc-daylighting-before-after-injuries.md).
+The 567 sign-only sites had no significant pedestrian or all-mode result; pooled hardened sites also lacked
+a significant all-mode result. Small subgroups and multiple physical designs prevent treating this as an
+isolated visibility effect, a cyclist benefit or a head-to-head ranking of treatments.
+
+A separate [hydrant/bus-stop analysis found 1.3-fold normalized injury measures](/findings/safety/nyc-hydrant-zone-injury-associations.md),
+but it compared longstanding features without before/after data. Nearby injury counts are not exposure,
+and unknown parking compliance means a nominally clear corner may not have been clear. This adverse
+association should be retained without converting it into proof that parking removal increases injuries.
+DOT's recommendation against universal sign-only daylighting and its risk-compensation explanation go
+beyond what the cross-sectional comparison alone establishes. Together, the results favor distinguishing
+physical treatments and study designs rather than calling all daylighting uniformly effective or harmful.
+
 ## Local traffic calming is not corridor travel delay
+
+[NCHRP's 2018 protected-intersection comparison](/findings/design/nchrp-protected-intersection-turning-speeds.md)
+adds slower sampled southbound right turns in Salt Lake City (12 versus 13 mph), not a before/after treatment
+effect. Berkeley lacked a usable right-turn comparator and had faster left turns at its protected site, whereas
+Salt Lake City's left turns were slower. These movement-specific radar measurements should not be treated as
+one intersection-wide calming estimate or equated with Asbury Park's within-vehicle speed measures below.
+[Mixed behavior and inadequate crash samples](/findings/safety/nchrp-protected-intersection-safety-limits.md)
+also prevent converting the favorable speed result into an established injury benefit.
 
 [Asbury Park's 2022 pilot](/findings/design/asbury-park-right-turn-speeds.md) associated temporary delineated lanes
 with about 21% lower average and 27.6% lower top right-turn speeds. This adds local vehicle-behavior evidence,
@@ -695,6 +908,25 @@ sales, profits, geographic redistribution and program costs separate.[^wheels]
 
 [^wheels]: Kim and McCarthy, supplied manuscript with May 2023 appendix, main pp. 9–27, Tables 2–6,
     Figure 4; Appendices B–E and G–J. Full extracted text reviewed; see Source for access and version scope.
+
+## Pandemic Open Streets separate sales recovery, survival and net business counts
+
+NYC's five-corridor [Open Streets sales comparison](/findings/business/nyc-open-streets-sales-recovery.md)
+adds pandemic-era restaurant/bar tax records, not another bicycle-lane evaluation. Summer 2021 sales averaged
+19% above baseline versus 29% below on nearby low-outdoor-dining controls. But Chinatown sales remained 8%
+below baseline, and two of five separate high-outdoor-dining comparisons had similar growth. The latter
+comparison weakens a claim that closing streets necessarily adds sales beyond outdoor dining alone.[^recovery2022]
+
+[Pre-pandemic filer retention](/findings/business/nyc-open-streets-filer-retention.md) was higher on studied
+Open Streets, while [net filer counts](/findings/business/nyc-open-streets-net-filer-counts.md) improved relative
+to controls even where counts fell. Neither metric is gross new openings, jobs saved or an identified causal
+survival effect. Brooklyn control retention is unresolved at 80% in prose versus 81% in the table. Selected
+corridors, undocumented uncertainty and uneven pandemic recovery prevent generalizing these comparisons to
+all retailers or ordinary non-pandemic conditions. These three measures come from one study, and local gains
+need not be net citywide gains.[^recovery2022]
+
+[^recovery2022]: NYC DOT (2022), printed pp. 8–10, methods/corridors; pp. 13–15, sales recovery;
+    p. 17, high-outdoor-dining comparison and retention discrepancy; p. 19, net filer counts.
 
 ## Six-city economic analysis adds controls but retains mixed results
 
@@ -802,6 +1034,30 @@ these accounts nor the aggregate trend isolates bike-lane effects. The article's
 be read as a controlled no-delay result, and its average seconds cannot be pooled with Cedar Rapids' minutes per
 inferred kilometre.[^cuba2019]
 
+## Pricing evidence separates hospital transport from arrival at the scene
+
+A [2026 NYC congestion-pricing working paper](/sources/2026-nyc-congestion-pricing-ems.md) adds a different
+intervention and stronger local comparison than the earlier FDNY news trend: before/after changes across the
+60th Street boundary. Its [main estimates](/findings/operations/nyc-congestion-pricing-ems-travel.md) indicate
+**63–70 seconds less combined ambulance travel (5.3%–5.9%)** within a five-kilometre bandwidth after January
+2025 pricing. Most savings concern **scene-to-hospital transport**; estimated **7–9-second assignment-to-scene
+savings are statistically uncertain**. Combined travel excludes call handling, on-scene care and handover, so
+neither the one-minute headline nor an external mortality estimate should be applied to patient-arrival time.[^chikish2026]
+
+This favors considering congestion relief as a possible emergency-service benefit, not claiming uniform or
+bicycle-lane benefits. [Sensitivity and identification limits](/findings/operations/nyc-congestion-pricing-ems-limits.md)
+include null two-kilometre/quadratic results, inferred rather than actual routes and a March 2025 nearest-hospital
+directive that complicates broader comparisons. The boundary design assumes other changes affect both sides
+smoothly. Some deeper-in-zone estimates are positive; the authors' limited nearby-displacement evidence is not
+a citywide no-harm guarantee. Unlike Cedar Rapids, this study measures travel seconds rather than alarm-to-arrival
+minutes per inferred kilometre, under a pricing intervention rather than a road conversion.[^chikish2026]
+
+[Camera estimates](/findings/operations/nyc-congestion-pricing-camera-density.md) of 20.6% fewer passenger vehicles
+and 18.1% fewer trucks per snapshot support a possible traffic mechanism. Pedestrian/bicycle increases of 13.5%/19.8%
+do not establish mode switching: detections are local, bicycle baselines extremely sparse and post-policy camera
+coverage only nine weeks, versus EMS data through 2025. Pedestrian/cyclist friction is a proposed explanation,
+not an estimated adverse cycling effect. No patient-health benefit or net welfare gain is measured.[^chikish2026]
+
 ## What remains uncertain
 
 NYC's 2012 report illustrates selected favorable cases without detailed periods, baselines, uncertainty or controlled
@@ -819,6 +1075,10 @@ curb-management examples.
 
 [Active transportation and real estate](/topics/active-transportation-real-estate.md) separates property appreciation,
 developer accounts and affordability from street-level sales and mobility outcomes.
+
+[^chikish2026]: Chikish et al. (August 2026 revision), printed pp. 9–20, methods and Table 3; Table 5 p. 24;
+    pp. 27–36, identification, spatial interpretation and Tables 9–10; Tables A1–A2 pp. 42–43.
+    Non-peer-reviewed working paper; text/tables read, plots not visually reviewed or data replicated.
 
 [^kruse]: Kruse, supplied PDF pp. 1–4 (review, survey and differently scoped traffic percentages);
     pp. 4–5 (economic accounts, network conditions and possible lack of measurable reduction). Primary review not read.

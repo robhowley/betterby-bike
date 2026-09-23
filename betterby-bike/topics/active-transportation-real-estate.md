@@ -10,6 +10,9 @@ sources:
   - id: business
     resource: /sources/protected-bike-lanes-mean-business.md
     title: Protected Bike Lanes Mean Business
+  - id: parking2025
+    resource: /sources/2025-vtpi-parking-housing-affordability.md
+    title: Parking Requirement Impacts on Housing Affordability
   - id: uli2016
     resource: /sources/2016-active-transportation-real-estate.md
     title: "Active Transportation and Real Estate: The Next Frontier"
@@ -80,6 +83,26 @@ Higher property values may benefit owners without making housing cheaper for ren
 rent burdens, displacement or who captures increased land value. Its car-optional housing example therefore should
 not be used to infer that trail-led appreciation improves affordability for existing residents.[^uli2016]
 
+## Parking costs add an affordability mechanism, not a guaranteed rent cut
+
+[Litman's 2025 parking synthesis](/sources/2025-vtpi-parking-housing-affordability.md) adds a different question
+from trail-related appreciation: who pays for parking bundled into housing? Its
+[car-free household scenarios](/findings/access/vtpi-parking-carfree-cost-scenarios.md) allocate $150–300 monthly
+for unused mandated spaces, about 13–21% of assumed rents. Unlike Silver Moon Lodge's occupancy account, these
+are hypothetical costs, not observed tenant savings. The report's broader 10–20% potential housing-cost reduction
+is not a measured average reform effect or guaranteed rent pass-through.[^parking2025]
+
+[Secondary occupancy evidence](/findings/access/vtpi-residential-parking-occupancy.md) reports unused parking in
+selected Boston, Denver and Seattle housing, supporting concern about excess supply without establishing a
+universal surplus. New Jersey's two-bedroom high-rise category instead shows slight underprovision. Different
+housing types, ownership estimates and peak-occupancy measures should not be pooled.[^parking2025]
+
+Litman recommends unbundling, shared parking and better walking, cycling and transit access alongside reform.
+He also recognizes motorists' convenience, potential spillover, direct charges and longer walks. These trade-offs
+make local demand and usable alternatives important; neither reduced parking nor bike amenities alone prove
+affordable access. The review has internal arithmetic and citation discrepancies, and its primary studies were
+not independently reviewed.[^parking2025]
+
 ## Keep wider economic benefits distinct
 
 ULI's Copenhagen network return and London's 30-year health/environmental benefit are forecasts, not developer profits
@@ -93,6 +116,9 @@ returns, rather than more selected success stories.
 - [Evaluating street redesign outcomes](street-redesign-outcomes.md): sales, user responses and corridor counts require
   different interpretations.
 - [Source summary](../sources/2016-active-transportation-real-estate.md): publication scope, forecasts and limitations.
+
+[^parking2025]: Litman (2025), pp. 5–8, 14, 16–24; Tables 5–6 and secondary occupancy accounts. See
+    [Source limitations](/sources/2025-vtpi-parking-housing-affordability.md#trade-offs-and-limits).
 
 [^cbc2019]: Dunne (2019), PDF pp. 4–5, section 3; underlying property studies not separately reviewed.
 

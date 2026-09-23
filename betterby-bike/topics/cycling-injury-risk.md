@@ -6,6 +6,21 @@ description:
   identify causes.
 tags: [safety, injuries, exposure]
 sources:
+  - id: nycleft2016
+    resource: /sources/2016-nyc-left-turn-crash-study.md
+    title: "NYC DOT, Don't Cut Corners (2016)"
+  - id: ctdot2024
+    resource: /sources/2024-connecticut-no-turn-on-red-report.md
+    title: Connecticut No Turn on Red (NTOR) Report, January 2024
+  - id: choi2010
+    resource: /sources/2010-nhtsa-intersection-crash-factors.md
+    title: "Crash Factors in Intersection-Related Crashes: An On-Scene Perspective"
+  - id: latenight2018
+    resource: /sources/2018-late-night-threat.md
+    title: The Late Night Threat (2018)
+  - id: goodman2025
+    resource: /sources/2025-great-britain-suv-injury-severity.md
+    title: Goodman et al. (2025), SUV injury severity in Great Britain
   - id: dcabstract
     resource: /sources/washington-dc-pedestrian-bicycle-crash-analysis.md
     title: Washington, DC pedestrian and bicycle crash analysis (unidentified abstract)
@@ -148,6 +163,20 @@ straddles the GES-to-CRSS sampling redesign and is explicitly noncomparable. The
 and are not directly comparable to hospital-based injury severity or all-cycling injury surveillance. The injury
 sampling break should not be mistaken for a break in the separate fatality counts.[^nts2021]
 
+## New Jersey reporting rules separate coverage from device classification
+
+The [2023 NJTR-1 coverage rules](/findings/safety/njtr-1-cycling-crash-coverage.md) make an explicit state-level
+version of the motor-vehicle involvement limit: pedalcyclist and personal-conveyance crashes without a motor
+vehicle in transport are excluded. Unlike a public-road-only measure, qualifying crashes on private property
+are included. Injury, death or more than $500 damage to any one person's property defines reportability;
+non-reportable reports are not sent to NJDOT for processing. These are instructions, not a quantified undercount.
+
+[Device classification](/findings/safety/njtr-1-low-speed-ebike-classification.md) creates another mismatch:
+this edition codes low-speed e-bike and scooter operators as pedestrians on personal conveyances, not
+pedalcyclists. Code 17 also includes other devices, so neither pedalcyclist counts nor the broad personal-conveyance
+code alone supplies all e-bike injuries. These historical rules do not establish actual coding compliance,
+current practice or comparable categories across traffic and hospital datasets.
+
 ## London cycling recovery did not mean fewer cyclist casualties
 
 TfL's [2021 London casualty counts](/findings/safety/london-2021-cyclist-casualty-counts.md) show 999 cyclists
@@ -255,6 +284,20 @@ must not be counted as a second independent confirmation.[^dccomparison2021]
 [^dccomparison2021]: Cicchino et al. (2021), *Traffic Injury Prevention*, Tables 1–5 pp. 403–405,
     limitations p. 405; supplement methods A1–A3, Tables A1–A5 and Figures A1–A3.
 
+## Operator reporting adds trip denominators, not complete injury surveillance
+
+Lime's [DC and Bloomington incident trends](/findings/safety/lime-dc-bloomington-reported-incidents.md)
+add reports per trip, unlike severity conditional on hospital presentation. DC's reported rate fell 39%
+in 2021–2024 alongside 38% growth in lane use; Bloomington was relatively stable through 2023 before a
+reported 71% decline in 2024 to date. These are partial-year 2024 comparisons with an unspecified cutoff,
+not complete annual trends. Trips without a report cannot be assumed injury-free.
+
+The report does not establish reporting completeness or provide a facility-specific risk comparison.
+Similar percentage changes in lane use and incidents therefore cannot identify an infrastructure safety
+effect. This is distinct from both Lime's segment-volume regression and the earlier DC hospital studies:
+case definitions, periods and exposure units differ. Neither operator nor hospital evidence independently
+confirms the other's rate, and neither should be substituted for a bicycle-only injury estimate.
+
 ## Route comparisons need matched measures
 
 [Montreal's cycle tracks had lower pooled injury risk](/findings/safety/montreal-cycle-track-relative-injury-risk.md)
@@ -354,6 +397,14 @@ a crash-reduction percentage or substitute for the Montreal and Toronto–Vancou
 
 ## Short conflict observations and perceived safety are not injury rates
 
+[NCHRP's two protected-intersection pairs](/findings/safety/nchrp-protected-intersection-safety-limits.md)
+add mixed 2018 behavior observations: selected right turns were slower in Salt Lake City, but motorist yielding
+varied by movement and denominator, and the authors reported worse signal compliance at protected sites.
+Sparse crash histories could neither establish benefit nor harm. This qualifies any inference from
+[lower turning speeds](/findings/design/nchrp-protected-intersection-turning-speeds.md) to an overall safety
+effect, without contradicting injury studies of different facilities. Near-miss coding and observation windows
+also differ from the Green Lane evaluation below, so raw event totals should not be pooled.
+
 The [2014 Green Lane evaluation](/findings/safety/green-lanes-conflicts-and-risk-limits.md) found no collisions or
 near collisions in 144 hours of 2013 intersection video covering nearly 12,900 bicycles. Low-level conflicts did occur,
 and riders separately reported collisions outside that window. This does not conflict with Montreal's nonzero injury
@@ -425,6 +476,22 @@ or an isolated installation effect. The citywide measure covers killed/severely 
 crashes and divides by a six-location cycling index; it cannot substitute for the corridor injury measure. Overlapping
 NYC locations also mean successive reports are not independent replications.[^nyc2014]
 
+## Left-turn counts separate movement and mode, not exposure-based risk
+
+NYC DOT's 2016 study adds [left-turn casualty shares](/findings/safety/nyc-left-turn-casualty-composition.md):
+19% of 2010–2014 pedestrian/bicyclist KSI involved left turns versus 6% right turns, without turning-volume
+denominators. Most left-turn KSI were pedestrians (86%); the shares are not cyclist risk per turn.
+
+Its [149 protected-lane intersection comparison](/findings/safety/nyc-protected-lane-left-turn-injuries.md)
+reports 53% fewer combined left-turn KSI but only 20% fewer total combined KSI, with through-movement KSI
+up 16%. Those movement-specific counts do not replace the earlier corridor cyclist-risk proxy or constitute
+independent replication across overlapping Manhattan projects. Other
+[turn-treatment tables](/findings/safety/nyc-left-turn-treatment-injuries.md) show why combined modes matter:
+turn bays had fewer left-turn pedestrian injuries but more cyclist injuries, with nearly flat combined total
+injuries. None of these simple before/after comparisons adjusts for exposure or untreated-site trends.[^nycleft2016]
+
+[^nycleft2016]: NYC DOT (2016), pp. 13–17, citywide shares; pp. 47–52, treatment methods and tables.
+
 ## Citywide network trends add exposure, not causal identification
 
 [Seville's motor-vehicle collision rate](/findings/safety/seville-motor-vehicle-collision-risk.md) fell from 15.71 to
@@ -483,6 +550,23 @@ The abstract's construction-zone and bicycle-only severity associations do not e
 and its listed countermeasures were not evaluated. Only the abstract was available, so classification,
 police-form limitations and model reliability cannot be checked against full methods or tables.[^dcabstract]
 
+NHTSA's [2005–2007 national crash analysis](/findings/safety/nmvccs-intersection-critical-reason-composition.md)
+adds another conditional measure: inadequate surveillance was assigned in 44.1% of intersection crashes
+with driver-attributed critical reasons, versus 7.3% of the corresponding non-intersection group. Its
+335-fold obstructed-view ratio compares reason shares among crashes, not risk per turn. The sample requires
+a towed light passenger vehicle and excludes midnight–6 a.m.; it is not a bicycle-specific risk estimate.
+Obstructed views typically involved intervening in-transport vehicles, not specifically parked cars;
+these counts cannot quantify daylighting benefits.[^choi2010]
+
+The [96.1% driver-attribution share](/findings/safety/nmvccs-critical-reason-not-cause.md) also does not
+allocate causal responsibility. Generally one immediate critical reason was recorded per crash; NHTSA
+explicitly distinguishes this subjective classification from cause and fault. Driver attribution cannot
+exclude infrastructure contributions or estimate preventable fractions. Atmospheric conditions had no
+significant initial association with reason categories, but broad weather grouping may conceal differences;
+that null concerns assigned reasons among crashes, not whether weather affects crash incidence.[^choi2010]
+
+[^choi2010]: Choi (2010), pp. 1–8, 18 and 22; Tables A1, A6–A7 and Appendix B, pp. 24–27.
+
 ## Right-turn permission does not identify the signal during a crash
 
 The [historical RTOR excerpt](/findings/safety/right-turn-on-red-classification-limits.md) adds a classification
@@ -492,6 +576,40 @@ pedestrian/bicyclist involvement shares should not be treated as confirmed on-re
 reported 0.05% RTOR share of all crashes in four unnamed states is a burden measure, not risk per turn. Unlike a
 comparison of policies, neither result estimates what an RTOR ban would prevent. Only a cropped results page was
 available, without methods, supporting tables or a verified publication identity.[^rtor]
+
+The [Connecticut analysis](/findings/safety/connecticut-right-turn-crash-classification.md) provides more
+specific phase information without resolving exposure or policy effects. Of 14 serious/fatal pedestrian
+right-turn crashes at signals in January 2015–August 2023, four were on red, five on green and five unknown;
+two red-phase cases involved existing prohibitions. Restrictions are concentrated at conflict-prone sites,
+so crashes there do not establish that restrictions fail. These pedestrian records do not estimate cyclist
+risk, and CTDOT's recommendation against a blanket ban is a policy judgment rather than a measured
+comparison of bans and permission. Operational simulations likewise cannot settle net safety benefits.[^ctdot2024]
+
+[^ctdot2024]: CTDOT (January 2024), pp. 7–11, Tables 1–2, and pp. 24–29.
+
+## British SUV evidence separates severity by age and mode
+
+Unlike vehicle-occupant comparisons, [Goodman et al.'s British study](/sources/2025-great-britain-suv-injury-severity.md)
+directly analyzes pedestrian and cyclist casualties. Its [age/mode results](/findings/safety/great-britain-suv-severity-age-mode.md)
+associate SUVs with 14% higher adult fatality odds, 77% higher odds at ages 0–18 and about threefold odds at
+ages 0–9, relative to passenger cars in selected police-recorded casualties from 2004–2023. Child groups
+overlap. Adult cyclist KSI odds were 11% higher, but adult pedestrian KSI odds were not clearly different.
+A broad statement that SUVs increase every severity measure equally would lose this null result.[^goodman2025]
+
+[Separate dimension models](/findings/safety/great-britain-vehicle-dimensions-severity.md) generally favor weight
+and height over length as severity correlates, but include null and nonmonotonic results. They do not isolate
+independent weight/height effects or identify visibility as the mechanism. This adds primary British evidence
+to Road to Zero's earlier secondary US accounts, not another reading of those same studies. Differences in
+populations, classifications and adjustment prevent directly transferring magnitudes between countries.
+
+The denominator remains recorded casualties, not trips or all vehicle encounters. SUVs' rising share of striking
+cars does not demonstrate a rising per-vehicle collision rate. The authors' hypothetical 3–35% attributable
+fractions assume replacing SUVs with passenger cars and causal interpretation of adjusted odds ratios;
+they are not observed policy benefits. Reporting, complete-case selection, dimension matching and unmeasured
+impact speed remain limitations. No street-design or fleet-fee intervention was tested.[^goodman2025]
+
+[^goodman2025]: Goodman et al. (2025), methods pp. 1–5, Table 2 p. 6, results p. 7 and Table 3 p. 8;
+    full supplied article text reviewed, external supplement and underlying records not reviewed.
 
 ## Vehicle geometry, visibility and compatibility measure different hazards
 
@@ -556,6 +674,23 @@ deaths through August 18, but its 648-death annual figure includes 298 projected
 counts above, that latest chart total is partly a forecast with no stated method or uncertainty. It cannot establish
 a completed annual change, cyclist exposure-based risk or an enforcement effect. Its explicit 2025 date also does
 not resolve the missing year and baseline in the separate Times-derived comparison.[^njmidyear]
+
+## Late-night traffic policy is not a cyclist-risk estimate
+
+Like the enforcement accounts above, a [2018 bar-hours review](/findings/safety/bar-hours-traffic-evidence-review.md)
+requires separating police activity from crashes. It reports adverse Australian crash comparisons and U.S. DUI
+arrest/stop associations, but also a contrary England/Wales crash reduction. These secondary accounts do not
+establish a universal effect per additional hour, cyclist risk per trip or a street-design effect. Its shifted
+California fatality-time chart is a scenario, unlike an observed post-policy time series.[^latenight2018]
+
+The same report's [mixed ride-hailing evidence](/findings/safety/ride-hailing-alcohol-crash-review.md) separates
+fatalities, nonfatal alcohol-related crashes and all injury crashes. Some reported benefits and some null results
+support neither guaranteed protection nor universal ineffectiveness. There is no evaluated ride-hailing offset to
+later closing hours in these summaries. The advocacy report's recommendation to retain earlier last calls is
+not a tested cycling-safety intervention.[^latenight2018]
+
+[^latenight2018]: *The Late Night Threat*, printed pp. 4–7, crash studies and timing scenario;
+    p. 14, research limitations; p. 16, ride-hailing review. Primary studies not independently reviewed.
 
 ## What remains unresolved
 

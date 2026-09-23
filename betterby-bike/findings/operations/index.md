@@ -1,5 +1,27 @@
 # Operations findings
 
+- App routing: [short-run travel gains](routing-app-short-run-travel-gains.md) distinguish targeted and
+  affected roads; [emissions uncertainty](routing-app-emissions-uncertainty.md) retains city ranges crossing zero.
+
+- [Connecticut NTOR simulations](connecticut-ntor-modeled-operations.md): heterogeneous peak-period delay,
+  fuel and summed-queue changes at 18 selected intersections, not observed statewide effects.
+
+- [NYC bus-priority package speeds](nyc-bus-priority-package-speeds.md): modest average gains, heterogeneous routes and
+  bundled-treatment limits.
+- [NYC camera/TSP speed limits](nyc-bus-camera-tsp-speed-limits.md): no visible gains and overlapping interventions do
+  not prove zero effects.
+- [NYC full-BRT speed benchmark](nyc-full-brt-speed-benchmark.md): theoretical 13.2 mph, not an evaluated upgrade.
+
+- [GWB bus-carpool person utilization](gwb-bus-carpool-person-utilization-limits.md): first-year vehicle counts
+  and estimated passenger loads, not measured added capacity or new carpool formation.
+
+- [NYC pricing and ambulance travel](nyc-congestion-pricing-ems-travel.md): 63–70 seconds less combined travel
+  in the main boundary models, mainly hospital transport; incident-arrival savings statistically uncertain.
+- [NYC pricing and camera density](nyc-congestion-pricing-camera-density.md): fewer vehicles and more active-mode
+  detections near the boundary, with sparse bicycle counts, not measured trip substitution.
+- [NYC pricing EMS limits](nyc-congestion-pricing-ems-limits.md): concurrent hospital-routing policy, inferred
+  exposure and null sensitivity results constrain the local pricing estimates.
+
 - [Louisville tolled-bridge traffic](louisville-tolled-bridge-reported-traffic.md): secondary crossing-count decline,
   with possible diversion, not measured regional traffic disappearance.
 - [Toll-road forecast limits](carmageddon-toll-road-forecast-limits.md): M6 counts and attributed forecasting

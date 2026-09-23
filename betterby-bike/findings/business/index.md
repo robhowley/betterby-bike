@@ -1,5 +1,17 @@
 # Business findings
 
+- [Chicago transit-removal economic accounting](chicago-transit-removal-economic-accounting.md): conditional
+  $35.4 billion annual valuation and 13:1 funding comparison, not marginal investment returns or measured GDP.
+
+## NYC Open Streets pandemic recovery
+
+- [Restaurant/bar sales recovery](nyc-open-streets-sales-recovery.md): +19% versus −29% on main controls,
+  but Chinatown declined and two high-outdoor-dining comparisons had similar growth.
+- [Pre-pandemic filer retention](nyc-open-streets-filer-retention.md): higher continued filing on selected
+  Open Streets, with conflicting Brooklyn control values and no causal closure estimate.
+- [Net filer counts](nyc-open-streets-net-filer-counts.md): stronger relative changes, including Chinatown's
+  contraction, not gross new openings or net citywide creation.
+
 ## Scooter entry and restaurant spending
 
 - [Rider restaurant-spending estimate](scooter-entry-rider-restaurant-spending.md): about 5.2% in a matched

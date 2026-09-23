@@ -15,6 +15,34 @@ Historical U.S. commuting evidence challenges the idea that walking and cycling 
 activities. It does not establish whether people have good transport choices or how the benefits of new
 infrastructure would be distributed.
 
+## Pandemic commute shares are not all-trip cycling trends
+
+The Census Bureau's [2019–2022 ACS comparison](../findings/networks/us-2019-2022-active-commute-share.md)
+puts combined walking/bicycling at 2.9% of U.S. workers in 2022, above 2021's 2.6% but below 2019's 3.2%.
+Unlike the older income and vehicle-availability comparisons below, this is a directly reviewed national
+publication, not another account of the 2014 report. It does not update those demographic associations.
+
+Transit and solo-driving shares also rose between 2021 and 2022 while home-based work fell. All-worker
+shares therefore cannot be read as direct substitution between cycling and driving. The combined category
+cannot show bicycle-only recovery, and [usual-mode reporting](../findings/networks/acs-active-commuting-measurement-limits.md)
+omits other travel and less-frequent home working. These results describe partial commuting recovery, not
+all-purpose cycling demand, improved access or an infrastructure effect.
+
+## Trip purposes and distances reveal what commute shares leave out
+
+ORNL's [2017 NHTS tabulations](../sources/2022-transportation-energy-data-book-40.md) give a separate
+national measure: work accounts for [20% of bicycle person-trips and 6% of walking person-trips](../findings/networks/us-2017-active-travel-trip-purposes.md).
+These percentages describe purposes within each mode, not the share of workers using it. Shopping and
+social/recreational trips make work-only indicators incomplete measures of active travel. They do not
+establish unmet demand or independently confirm the older NHTS inputs used in Washington's estimation study.
+
+[Work-trip averages](../findings/networks/us-2017-active-commute-distance-duration.md) also differ sharply:
+2.72 miles by bicycle versus 12.21 by car, with mean durations of 21.79 and 25.47 minutes. These are
+different journeys, not evidence that switching a given car commute to cycling costs only a few minutes.
+Without route, distance-distribution and access information, they cannot estimate feasible mode shift.
+The survey's changed distance-mapping method further limits comparisons over time. The data book's
+inconsistent ACS year/source labels are not used to extend the commute-share trend above.
+
 ## Observed use differs from access quality
 
 In the 2008–2012 Census comparisons reported by Streetsblog, workers in the
@@ -58,6 +86,59 @@ data methods, so it does not establish present conditions or independent confirm
 Its call to target green infrastructure toward flood-prone housing communities is a planning judgment, not measured
 flood protection or transport-access improvement. It does not locate carless households within those communities.
 
+## Policy packages do not establish access or health gains
+
+Opong's [January 2026 New Jersey policy memo](../sources/2026-renovating-new-jersey-built-environment.md)
+connects protected-lane maintenance, neighborhood-to-trail access and parking reform near transit.
+It adds a proposed response to access barriers, not an evaluation: destinations, affordable housing,
+maintenance and eligibility for employer benefits can determine whether nearby routes are usable.
+The memo explicitly raises unequal benefit access, displacement concerns and possible road-diet bus
+and congestion trade-offs, but does not quantify them or show that its package resolves them.
+
+Its physical and mental health rationale draws on secondary associations across settings. It does
+not demonstrate New Jersey health gains, equitable cycling uptake or a lane-induced reduction in
+loneliness. Its repeated 12-city safety claim is already represented through Streetsblog, not new
+independent evidence; its statewide motorist-distrust percentage lacks a usable sample denominator.
+These recommendations therefore complement, rather than strengthen, the observed barrier evidence below.
+
+## Reported barriers extend beyond having a nearby route
+
+Rutgers' [2015 New Jersey intercept surveys](../sources/new-jersey-black-hispanic-bicycle-barriers.md)
+add direct accounts of cycling constraints in communities selected for large Black and Hispanic populations,
+not another representative commute-rate estimate. Collision fear is prominent, but the
+[barrier table conflicts with the narrative](../findings/access/nj-bicycle-barrier-survey-limits.md):
+police profiling, not pavement, ranks second in Table 5. Multiple-response questions and inconsistent
+sample totals prevent turning these reported distributions into precise population prevalence.
+
+[Perceived unfair stops](../findings/access/nj-bicycling-perceived-unfair-police-stops.md) and focus-group
+accounts of avoiding particular towns add an access dimension that proximity measures miss. Figure 40
+reports such stops among 23% of Black past-year riders and 14% of Hispanic riders, but does not adjust
+for cycling exposure or independently establish why stops occurred. Theft and storage concerns in the
+same report further distinguish possessing a bicycle from being able to rely on it.
+
+The [reported 77% preference for a lane on one's street](../findings/access/nj-bicycle-lane-stated-preferences.md)
+coexists with practical constraints and doubts that lanes alone would change travel. It concerns unspecified
+bicycle lanes, not the protected treatment advocated in the recommendations. Unlike observed commuting,
+these are stated preferences; unlike an intervention evaluation, they cannot establish additional riding,
+safety or equity gains. This supports considering routes, security and feasible destinations together,
+without proving the effectiveness of any proposed package.
+
+## Rail bicycle service is not the same as a usable itinerary
+
+The League's [2026 Amtrak benchmark](../findings/access/amtrak-bicycle-access-benchmark.md) adds a
+service-availability measure, not another commute-share estimate. It identifies 39 of 46 lines with carry-on
+or trainside checked bicycle service, but station staffing only approximates where passengers can actually
+board with bikes. Dual-service corridors score higher partly through a built-in bonus and broader state
+investment, not an isolated effect of offering two carriage types. Disputed Capitol Corridor capacity could
+change its score from 46 to 83 without any physical change, illustrating sensitivity to the input data.
+
+A [mixed-itinerary booking test](../findings/access/amtrak-mixed-itinerary-bicycle-booking.md) shows why
+line-level availability is insufficient: an ineligible Acela return suppressed the bike option for a round
+trip with an eligible Northeast Regional outbound, without explaining the incompatible leg. This dated
+single test does not measure abandoned journeys, current service or unequal impacts across population groups.
+Together these findings extend the distinction between available infrastructure and usable access, without
+establishing rail-induced cycling, equity gains or mode shift.
+
 ## Destination proximity is another incomplete access measure
 
 Urban Institute reports that [fewer than one-fifth of Los Angeles libraries were within a quarter mile of protected
@@ -85,6 +166,23 @@ As with library proximity, nearby destinations do not establish usable routes. N
 screening and environmental-justice data separately when developing a conceptual network. Low modeled potential
 does not rule out unmet needs, and high potential does not demonstrate delivered benefits.
 
+## Reduced-driving scenarios are not observed access gains
+
+UCS's [Freedom to Move scenarios](../findings/us-freedom-to-move-energy-health-scenarios.md) add a
+prospective comparison to historical travel measures: all pathways reach net zero in 2050, while two
+assume less light-duty driving. Table 1 estimates $110/$201 billion in energy capital savings and
+$32–64/$63–128 billion in air-quality health benefits for low/high reductions over 2025–2050.
+These results illustrate conditional resource savings, not measured responses to cycling investment;
+internal narrative/table differences and limited supplementary methods constrain precision.
+
+Its [household savings estimate](../findings/access/us-freedom-to-move-household-savings.md), above
+$5.9 trillion cumulatively through 2050 in the high-reduction scenario, includes fuel, maintenance and
+preserved vehicle value. It differs from observed car costs below and is not an independent confirmation
+of savings from switching to a bicycle. Fuel overlaps the report's separate energy-account savings, and
+alternative-mode implementation costs are not fully netted out. Neither national savings nor the assumed
+driving reductions establish maintained access or equitable distribution. Community accounts in the
+[report](../sources/2024-freedom-to-move.md) motivate those goals but do not evaluate their achievement.
+
 ## Car costs add context, not measured savings from cycling
 
 NerdWallet's [reported AAA new-car estimate](../findings/access/us-new-car-ownership-cost-2023.md) of $12,182 in
@@ -93,11 +191,79 @@ a new vehicle driven 15,000 miles annually, with a five-year ownership assumptio
 the historical Census workers. It includes depreciation and must not be equated with the article's differently
 defined, internally inconsistent monthly expense calculator.
 
+AAA's own [2024 fact sheet](../findings/access/us-new-car-ownership-cost-2024.md) adds a later standardized
+estimate of $12,297 annually under five-year, 75,000-mile assumptions, including $4,680 annual depreciation.
+Its average costs of $1.06, $0.82 and $0.70 per mile at 10,000, 15,000 and 20,000 annual miles illustrate why
+full ownership averages cannot be treated as savings from each driving mile replaced. This is another annual
+AAA estimate, not independent evidence of cycling benefits or a review of the underlying 2023 study.
+
 The article's [car-cost inflation index](../findings/access/us-nerdwallet-car-cost-inflation.md) reports 38% growth
 since April 2019 in its June 2024 snapshot. Price changes, full ownership costs and costs avoidable by replacing
 individual trips are different measures. Neither this index nor the AAA estimate establishes what a household
 would save by cycling, whether it can relinquish a vehicle or whether safe routes serve its destinations. Together,
 these sources describe cost context and commuting associations, not an evaluated affordability benefit of bike lanes.
+
+## Transit removal can suppress activities rather than merely change modes
+
+A [Chicago regional simulation](../findings/access/chicago-transit-removal-activity-loss.md) adds a counterfactual,
+not another observed commuting pattern. Removing all transit while assuming 1.9 million extra cars reduces
+modeled daily activities 8.6% regionally and 19.9% in the city, with larger non-work than work/school losses.
+Travel times still rise. Unlike mode shares among completed trips, cancelled activities expose potential lost
+access; reduced traffic from abandoned journeys need not indicate better mobility.
+
+The model's [gender and income shares of cancellations](../findings/access/chicago-transit-removal-equity-shares.md)
+are not within-group cancellation rates. Women account for 53.0% of city cancellations and the bottom two
+household-income quintiles for 48.0%, but population and household shares do not supply baseline activity
+exposure. As with cyclist profiles, composition must not be mistaken for individual likelihood or a measured
+benefit distribution from new infrastructure.
+
+Its [approximately 13:1 economic comparison](../findings/business/chicago-transit-removal-economic-accounting.md)
+likewise differs from observed household savings: $20.4 billion of the $35.4 billion annual valuation comes
+from assumed extra cars, with spending and valued time making up the rest. This extreme joint scenario does
+not establish marginal funding returns, the effects of smaller cuts, or cycling benefits. It adds a reason to
+track unfulfilled activities alongside completed trips, not a transferable numerical forecast.
+
+## Historical tax preferences do not measure equitable access
+
+[Knittel's review of 1970s U.S. gasoline-tax polling](../findings/access/us-1970s-gasoline-tax-polling.md)
+adds stated policy preferences, not another household-cost or commuting measure. A reported 1974 survey found
+13% support for an unqualified ten-cent increase, rising to 51% when the question combined a tax credit with
+ending Middle East oil dependence. The promised outcome was hypothetical, not an evaluated tax design.
+
+Historical opponents cited low incomes and car-dependent commutes. These concerns complement the distinction
+between observed travel and genuinely available alternatives, but do not demonstrate actual tax incidence or
+show that rationing was fairer. Separate polls favored vehicle taxes or rationing; support varied with time,
+prices and wording. Neither opposition nor conditional support establishes current attitudes, affordable
+alternatives or a cycling benefit. Revenue use and access to alternatives require evidence beyond opinion polls.
+
+## Purchase assistance is not an evaluated access gain
+
+[ACEEE's March 2025 e-bike incentive descriptions](../findings/access/aceee-2025-reported-e-bike-incentives.md)
+add reported policy designs: Colorado's $450 point-of-sale credit and Rhode Island's higher income-qualified
+rebate cap. Unlike the household-cost estimates, these describe assistance toward a bicycle purchase;
+unlike user surveys, they do not measure participation. Program availability, eligibility, take-up and
+additional purchases are separate questions.
+
+The report provides no evaluation of car replacement or benefit distribution. Its affordability rationale
+therefore does not show that income-based assistance closed access gaps, just as NABSA's discount-program
+presence does not explain its user composition. These historical terms also leave current funding and
+eligibility unresolved. Neither a subsidy nor legal permission guarantees safe routes to destinations.
+
+## Incentive-user surveys do not establish lasting mode shift
+
+Purchase assistance describes a policy offer; SIAMUS's [Pin Bike participant survey](../findings/networks/pin-bike-reported-use-mode-shift-limits.md)
+adds reported experience with riding incentives and gamification. Among 517 respondents across nine Italian
+cities, Chart 10 reports 29% using Pin Bike daily and 45% four or more days weekly. Yet 43% already
+cycled before participation, and 25% reporting prior car use does not measure displaced car trips.
+Reported commute-time distributions were almost unchanged. Frequent service use and changed motivations
+therefore do not establish additional cycling, faster journeys or a population-wide mode shift.
+
+[Willingness to continue without incentives](../findings/networks/pin-bike-post-incentive-intentions.md)
+averaged 4.2/5, but this is a hypothetical intention, not observed post-payment retention. Projects still
+running and already ended were pooled; roughly 7.4% of invited users responded. Selection, recall and
+missing item-level denominators limit both results. Unlike household commute surveys, these describe
+selected program participants; unlike a controlled evaluation, they cannot separate incentives,
+gamification and infrastructure. Favorable intentions do not demonstrate lasting or equitable access gains.
 
 ## Legal eligibility is distinct from usable access
 
@@ -197,6 +363,13 @@ prevalence, trip purpose and hypothetical alternatives are different measures, n
 The [modeled emissions benefit](../findings/nabsa-2021-emissions-accounting-limits.md) depends on auto replacement
 and excludes operations and lifecycle effects. Neither total ridership nor the estimated 54 million pounds of
 avoided CO2 demonstrates net lifecycle savings or an environmental benefit from every trip.
+
+[ACEEE's state VMT comparison](../findings/networks/aceee-vmt-overlapping-period-limits.md) adds aggregate
+motor-vehicle distance per person, not another micromobility replacement survey. New Jersey's reported
+−2.7% average combines three overlapping long-period changes, including +1.5% for 2014–2023. The
+negative average cannot establish continuous decline, reduced total driving or a cycling substitution
+effect. Credited targets coexist with positive average changes in Colorado and Massachusetts; policy
+adoption is distinct from outcomes, without that contrast identifying policy success or failure.
 
 The evidence supports historical travel descriptions, not a standardized international ranking. Current patterns,
 unmet travel needs and route safety remain unresolved.
