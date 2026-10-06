@@ -67,6 +67,10 @@ Historical policy descriptions are not verified current requirements.[^freedom20
 
 ## Related
 
+- [Streetsblog's December 2024 republication](2024-streetsblog-freedom-to-move-savings.md) repeats the
+  scenario results and adds a Kevin Shen interview, not independent confirmation. Its 2035 baseline
+  wording and pocketbook framing differ from the scenario/accounting definitions retained here.
+
 - [Commuting and access](/topics/active-commuting-and-access.md): assumed driving reductions and modeled
   savings differ from measured modal substitution and equitable access.
 

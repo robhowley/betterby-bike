@@ -7,6 +7,9 @@ sources:
   - id: freedom2024
     resource: /sources/2024-freedom-to-move.md
     title: Freedom to Move
+  - id: news
+    resource: /sources/2024-streetsblog-freedom-to-move-savings.md
+    title: Streetsblog coverage of Freedom to Move
 ---
 
 # Modeled household savings from less driving
@@ -34,6 +37,17 @@ and their baselines were not independently examined. The main report supplies no
 income-specific savings or complete net accounting of the investments/services needed to replace driving.
 Its proposal to redirect savings into transit and active travel is an interpretation, not a measured
 budget transfer or evaluated equity improvement.[^freedom2024]
+
+## News coverage is not independent confirmation
+
+Streetsblog's December 2024 republication presents a $6.2 trillion headline and describes most savings
+as money returned to residents' pockets. It repeats the same $5.9 trillion estimate, not a new study.
+Its interview with Kevin Shen gives examples of shedding a second car or replacing selected trips
+with an e-bike; these illustrate his proposed choices, not measured household behavior or an evaluated
+distribution of benefits. The pocketbook framing does not remove the depreciation and implementation-
+cost qualifications above.[^news]
+
+[^news]: Wilson, December 30, 2024, PDF pp. 2–3; see the [news Source](/sources/2024-streetsblog-freedom-to-move-savings.md).
 
 ## Related
 
