@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/robhowley/betterby-bike/compare/v1.2.0...v1.3.0) (2026-10-06)
+
+
+### Features
+
+* ingest 100 news and research sources ([#51](https://github.com/robhowley/betterby-bike/issues/51)) ([1694edc](https://github.com/robhowley/betterby-bike/commit/1694edc7b4ed1ec873892c16a28226d634cb23ad))
+
 ## [1.2.0](https://github.com/robhowley/betterby-bike/compare/v1.1.0...v1.2.0) (2026-09-23)
 
 
