@@ -51,7 +51,8 @@ is not a completed finding of intentional slowdown or its safety consequences.[^
 
 ## Limits
 
-Two single-page image excerpts and the full two-page Monitor article were reviewed, not the full Times article or underlying records. The 27% is supplied
+Two single-page image excerpts and the full two-page Monitor article were reviewed, not the full Times article or
+underlying records. The 27% is supplied
 by the surrounding unidentified news item, not the visible Times passage. Neither provides crash totals, exposure,
 severity, untreated comparators or adjustment for other changes in the material available here. Counts are not
 per-trip or per-mile risk, and no cyclist-specific result is shown. Komanoff's accompanying suggestion that dozens

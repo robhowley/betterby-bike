@@ -30,15 +30,20 @@
 - [NYC shutdown speeding and crash counts](nyc-2020-shutdown-speeding-and-crash-counts.md): reported ticket growth and
   fewer crashes have different denominators and do not establish cyclist risk.
 
-- [New Jersey's 2024 crash-data access limits](new-jersey-2024-crash-data-access-limits.md): historical timeliness and geocoding gaps, not a cycling-injury undercount or evaluated open-data benefit.
+- [New Jersey's 2024 crash-data access limits](new-jersey-2024-crash-data-access-limits.md): historical timeliness and
+  geocoding gaps, not a cycling-injury undercount or evaluated open-data benefit.
 
-- [NYC residential battery-fire hazards](nyc-residential-battery-fire-hazards.md): selected fatal-fire accounts and declining deaths despite more reported fires, without exposure-based risk.
+- [NYC residential battery-fire hazards](nyc-residential-battery-fire-hazards.md): selected fatal-fire accounts and
+  declining deaths despite more reported fires, without exposure-based risk.
 
-- [Chicago's reported camera crash reduction](chicago-reported-speed-camera-crash-reduction.md): secondary 15% expected severe-crash reduction, not cyclist-specific risk or a redesign comparison.
+- [Chicago's reported camera crash reduction](chicago-reported-speed-camera-crash-reduction.md): secondary 15% expected
+  severe-crash reduction, not cyclist-specific risk or a redesign comparison.
 
-- [Reported global automobility mortality](global-automobility-reported-mortality.md): secondary 1.67-million annual death estimate, without intervention effects or harmonized methods.
+- [Reported global automobility mortality](global-automobility-reported-mortality.md): secondary 1.67-million annual
+  death estimate, without intervention effects or harmonized methods.
 
-- [Hoboken's reported four-year zero-death record](hoboken-reported-four-year-zero-deaths.md): historical July 2022 account, distinct from later injury counts and isolated street-treatment effects.
+- [Hoboken's reported four-year zero-death record](hoboken-reported-four-year-zero-deaths.md): historical July 2022
+  account, distinct from later injury counts and isolated street-treatment effects.
 
 - [Hoboken's reported 2023–2024 injury increase](hoboken-2023-2024-reported-injury-increase.md):
   police-recorded injuries rose 52%; mode-specific percentage changes lack exposure denominators.

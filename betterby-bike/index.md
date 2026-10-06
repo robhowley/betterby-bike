@@ -166,7 +166,8 @@ an announced boat-to-bike freight pilot, not achieved parcel volumes or measured
 [ABC12's March 2026 Michigan licensing coverage](sources/2026-abc12-michigan-older-driver-testing.md) adds
 proposed older-driver testing requirements, not enacted rules or measured safety and mobility effects.
 
-[NPR's May 2024 cycling-health coverage](sources/2024-npr-cycling-knee-health.md) adds reported knee-osteoarthritis and diabetes-mortality associations, not demonstrated prevention or street-investment health gains.
+[NPR's May 2024 cycling-health coverage](sources/2024-npr-cycling-knee-health.md) adds reported knee-osteoarthritis and
+diabetes-mortality associations, not demonstrated prevention or street-investment health gains.
 
 [Streetsblog's 2023 McGuinness coverage](sources/2023-streetsblog-mcguinness-redesign-opposition.md) adds
 business opposition and proposed operational mechanisms, not measured diversion, emergency delays or safety benefits.
@@ -217,7 +218,8 @@ Jersey City injury reporting and sidewalk-accessibility proposals, not collision
 reported funding approvals and local defeats, not nationwide opinion or demonstrated transportation access gains.
 
 [Realtor.com's January 2026 transit-housing coverage](sources/2026-realtor-transit-housing-driving.md) adds
-reported housing growth, selected price comparisons and older-adult stop access, not causal transit premiums or affordability gains.
+reported housing growth, selected price comparisons and older-adult stop access, not causal transit premiums or
+affordability gains.
 
 [Streetsblog's 2022 speed-camera equity analysis](sources/2022-streetsblog-speed-camera-equity.md) separates
 Chicago's reported severe-crash reduction from ticket burdens, individual racial inference and design-first recommendations.
@@ -226,7 +228,8 @@ Chicago's reported severe-crash reduction from ticket burdens, individual racial
 conditional ownership savings and fleet benchmarks, not demonstrated investment payback or usable access gains.
 
 [Strong Towns' September 2026 sidewalk-funding commentary](sources/2026-strong-towns-sidewalk-funding.md)
-adds Wheeling destination-access accounts and Columbus reporting, not evaluated sidewalk benefits or transferable highway budgets.
+adds Wheeling destination-access accounts and Columbus reporting, not evaluated sidewalk benefits or transferable
+highway budgets.
 
 [Business Insider's January 2026 Amtrak reporting](sources/2026-business-insider-amtrak-boom.md) adds
 FY2025 customer-trip totals and interviews, reconciled with later coverage rather than counted as independent evidence.
@@ -237,7 +240,9 @@ reported passenger growth and investment advocacy, not demonstrated car/air subs
 [Newsweek's May 2025 car-buying coverage](sources/2025-newsweek-car-buying-interest.md) adds reported
 interest in ownership alternatives, not observed car abandonment, cycling substitution or household savings.
 
-[Streetsblog's 2024 Bicycle Friendly States coverage](sources/2024-streetsblog-bicycle-friendly-states.md) adds national counting gaps and funding-share context, not independent confirmation of the League's New Jersey card or measured policy effects.
+[Streetsblog's 2024 Bicycle Friendly States coverage](sources/2024-streetsblog-bicycle-friendly-states.md) adds national
+counting gaps and funding-share context, not independent confirmation of the League's New Jersey card or measured policy
+effects.
 
 [Curbed's September 2025 Amazon cargo-bike reporting](sources/2025-curbed-amazon-cargo-bikes.md) adds
 street-space conflicts and driver preferences, not measured cargo-bike safety or wider-lane benefits.
@@ -255,13 +260,16 @@ bipartisan legalization proposal, not enacted rules or measured safety and affor
 account of congestion limiting useful bus access, not evaluated bus-lane benefits or measured mode shift.
 
 [Streetsblog's 2023 German cycling research coverage](sources/2023-streetsblog-cycling-common-good.md)
-adds reported civic-participation associations and null car-use results, not evidence of superior morals or causal cycling benefits.
+adds reported civic-participation associations and null car-use results, not evidence of superior morals or causal
+cycling benefits.
 
 [Fucoloro's 2025 walking-and-transit challenge account](sources/2025-streetsblog-week-without-driving-or-biking.md)
-adds personal school, shopping and recreation travel constraints when cycling is unavailable, not a completed trial or population access estimate.
+adds personal school, shopping and recreation travel constraints when cycling is unavailable, not a completed trial or
+population access estimate.
 
 [Strong Towns' February 2025 crash-investigation commentary](sources/2025-strong-towns-local-crash-investigation.md)
-adds a proposed local process for learning from fatal crashes, not measured benefits of Crash Analysis Studios or quick-build treatments.
+adds a proposed local process for learning from fatal crashes, not measured benefits of Crash Analysis Studios or
+quick-build treatments.
 
 [Streetsblog's July 2022 Hoboken reporting](sources/2022-streetsblog-hoboken-zero-deaths.md) adds a historical
 zero-death account and implementation interviews, not isolated daylighting effects or elimination of nonfatal injuries.
